@@ -1,0 +1,59 @@
+/* ============================================================
+   Second Brain — Space Graph Theme
+   ============================================================ */
+
+/* Zwarte achtergrond */
+.graph-view-content {
+  background-color: #000011 !important;
+}
+
+.graph-view-content canvas {
+  background-color: #000011 !important;
+}
+
+/* Alle nodes — helder wit */
+.graph-view.color-fill {
+  color: #ffffff;
+}
+
+.graph-view.color-fill-unresolved {
+  color: #1e1e3a;
+}
+
+.graph-view.color-circle {
+  color: #ffffff;
+}
+
+/* Verbindingslijnen — lichtblauw-wit, dun */
+.graph-view.color-line {
+  color: #4a4a7a;
+}
+
+/* Nodetekst */
+.graph-view.color-text {
+  color: #8888bb;
+}
+
+/* Hover: highlight node en lijnen */
+.graph-view.color-fill-highlight {
+  color: #ff5555;
+}
+
+.graph-view.color-line-highlight {
+  color: #aaaaff;
+}
+
+/* Geselecteerde node */
+.graph-view.color-fill-focused {
+  color: #ffcc44;
+}
+
+/* Tags (indien zichtbaar) */
+.graph-view.color-fill-tag {
+  color: #44aaff;
+}
+
+/* Bijlagen (indien zichtbaar) */
+.graph-view.color-fill-attachment {
+  color: #888888;
+}

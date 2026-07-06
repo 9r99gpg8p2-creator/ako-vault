@@ -1,0 +1,15 @@
+# Persoonlijke data — nooit pushen
+Artificial Knowledge Organism AKO/01 Raw/
+
+# Obsidian lokale staat
+.obsidian/workspace.json
+.obsidian/plugins/
+.obsidian/themes/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# iCloud tijdelijke bestanden
+*.icloud
