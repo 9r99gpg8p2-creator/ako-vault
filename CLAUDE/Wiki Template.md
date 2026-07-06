@@ -18,6 +18,7 @@ type: systeem
 ```markdown
 ---
 id: [uniek-id: discipline-concept, bijv. psych-prospect-theory]
+tags: [discipline, concept]
 discipline: [psychologie | filosofie | geschiedenis | beleggen]
 type: [concept | theorie | gebeurtenis | model | persoon]
 status: [concept | uitgewerkt | definitief]
