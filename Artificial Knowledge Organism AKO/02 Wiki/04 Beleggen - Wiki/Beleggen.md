@@ -1,9 +1,25 @@
 ---
+tags: [beleggen, hub]
 type: hub
-tags: [hub, beleggen]
 domain: beleggen
 ---
 
 # Beleggen
 
-Centrale hub voor het domein Beleggen.
+Centrale hub voor het domein Beleggen binnen [[AKO]].
+
+Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheorie.
+
+---
+
+## Concepten
+
+- [[Prospect Theory]]
+
+---
+
+## Cross-domein
+
+- [[Psychologie]] — behavioral finance, verliesaversie, cognitieve bias
+- [[Filosofie]] — rationaliteit, beslissingsethiek
+- [[Geschiedenis]] — economische geschiedenis, marktcrises, tulpenmanie

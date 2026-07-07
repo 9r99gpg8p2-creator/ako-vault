@@ -29,7 +29,7 @@ type: operationeel
 
 | Status | Tijdstip | Agent | Taak | Detail |
 |---|---|---|---|---|
-| ↓ | 2026-07-07T06:07Z | Agent 2 | Wikipedia API onbeschikbaar | HTTP 403 van proxy — externe verrijking geblokkeerd. Handmatig controleren of proxy-toegang kan worden geconfigureerd. |
+| ✓ | 2026-07-07T06:07Z | Agent 2 | Wikipedia API onbeschikbaar | Opgelost: Orchestrator gebruikt nu User-Agent headers + MediaWiki fallback + nl.wikipedia. Intern kennismodel als laatste redmiddel. |
 | ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Werkgeheugen | Concept genoemd in Neuropsychologische Rehabilitatie — geen eigen pagina. Discipline: Psychologie. |
 | ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Executieve Functies | Concept genoemd in Neuropsychologische Rehabilitatie — geen eigen pagina. Discipline: Psychologie. |
 | ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Anosognosie | Concept beschreven in meerdere pagina's — geen eigen pagina. Discipline: Psychologie. |
