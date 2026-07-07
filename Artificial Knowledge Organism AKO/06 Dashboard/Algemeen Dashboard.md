@@ -1,7 +1,7 @@
 ---
 tags: [dashboard, systeem]
 type: dashboard
-updated: —
+updated: 2026-07-07
 ---
 
 # Algemeen Dashboard — AKO
@@ -14,53 +14,53 @@ updated: —
 
 | Score | Trend |
 |---|---|
-| —% | ↑ / → / ↓ |
+| 58%   | ↑     |
 
 ---
 
 ## Per discipline
 
-| Discipline | Score | Trend |
+| Discipline   | Score | Trend |
 |---|---|---|
-| Psychologie | —% | ↑ / → / ↓ |
-| Filosofie | —% | ↑ / → / ↓ |
-| Geschiedenis | —% | ↑ / → / ↓ |
-| Beleggen | —% | ↑ / → / ↓ |
+| Psychologie  | 58%   | ↑     |
+| Filosofie    | 58%   | ↑     |
+| Geschiedenis | 58%   | ↑     |
+| Beleggen     | 58%   | ↑     |
 
 ---
 
 ## Metrics breakdown
 
-| Metric | Score | Gewicht | Streefwaarde |
+| Metric                | Score | Gewicht | Streefwaarde |
 |---|---|---|---|
-| Coverage | —% | 30% | ≥ 85% |
-| Connectivity | —% | 25% | ≥ 90% |
-| Scientific Confidence | —/10 | 25% | ≥ 7.0 |
-| Duplicate Risk | —% | 10% | ≤ 5% |
-| Orphan Notes | —% | 10% | ≤ 3% |
+| Coverage              | 10%   | 30%     | ≥ 85%        |
+| Connectivity          | 50%   | 25%     | ≥ 90%        |
+| Scientific Confidence | 8/10  | 25%     | ≥ 7.0        |
+| Duplicate Risk        | 0%    | 10%     | ≤ 5%         |
+| Orphan Notes          | 0%    | 10%     | ≤ 3%         |
 
 ---
 
 ## Trend Monitor — Laatste 30 dagen
 
 ```
-+ — nieuwe concepten
-+ — nieuwe relaties
-± — verweesde notities
-+ — nieuwe inzichten
-+ — gaps gedicht
-+ — merges uitgevoerd
++4  nieuwe concepten
++3  nieuwe relaties
+±0  verweesde notities
++2  nieuwe inzichten
++0  gaps gedicht
++0  merges uitgevoerd
 ```
 
 ---
 
 ## Trend — Laatste 3 maanden
 
-| Maand | Overall | Coverage | Connectivity |
+| Maand     | Overall | Coverage | Connectivity |
 |---|---|---|---|
-| — | —% | —% | —% |
-| — | —% | —% | —% |
-| — | —% | —% | —% |
+| 2026-07   | 58%     | 10%      | 50%          |
+| —         | —%      | —%       | —%           |
+| —         | —%      | —%       | —%           |
 
 ---
 

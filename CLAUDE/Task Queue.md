@@ -29,7 +29,14 @@ type: operationeel
 
 | Status | Tijdstip | Agent | Taak | Detail |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| ↓ | 2026-07-07T06:07Z | Agent 2 | Wikipedia API onbeschikbaar | HTTP 403 van proxy — externe verrijking geblokkeerd. Handmatig controleren of proxy-toegang kan worden geconfigureerd. |
+| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Werkgeheugen | Concept genoemd in Neuropsychologische Rehabilitatie — geen eigen pagina. Discipline: Psychologie. |
+| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Executieve Functies | Concept genoemd in Neuropsychologische Rehabilitatie — geen eigen pagina. Discipline: Psychologie. |
+| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Anosognosie | Concept beschreven in meerdere pagina's — geen eigen pagina. Discipline: Psychologie. |
+| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Verliesaversie | Concept in related-veld Prospect Theory — geen eigen pagina. Discipline: Beleggen. |
+| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Gedragseconomie | Concept in related-veld Prospect Theory — geen eigen pagina. Discipline: Beleggen. |
+| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Paradigmawisseling | Concept in related-veld Wetenschappelijke Revolutie — geen eigen pagina. Discipline: Geschiedenis. |
+| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Bewustzijn | Concept in related-veld Filosofie van de Geest — geen eigen pagina. Discipline: Filosofie. |
 
 ---
 
