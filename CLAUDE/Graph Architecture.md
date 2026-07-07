@@ -9,7 +9,7 @@ type: architectuur
 > Wordt gelezen door de Orchestrator in STAP 1 en gehandhaafd in STAP 8.
 > Nooit afwijken van deze structuur.
 
-**Systeemkoppelingen:** [[AKO v1.6]] · [[Wiki Template]] · [[Link Protocol]]
+**Systeemkoppelingen:** [[AKO]] · [[AKO v1.6]] · [[Wiki Template]] · [[Link Protocol]]
 
 ---
 

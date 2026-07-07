@@ -48,32 +48,18 @@
         "a": 1,
         "rgb": 14922561
       }
-    },
-    {
-      "query": "path:\"03 conceptual graph\"",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:\"04 Daily summeries\"",
-      "color": {
-        "a": 1,
-        "rgb": 8947848
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.5,
+  "nodeSizeMultiplier": 3.19580859653289,
   "lineSizeMultiplier": 0.35,
   "collapse-forces": false,
-  "centerStrength": 0.08,
-  "repelStrength": 20,
+  "centerStrength": 0.38,
+  "repelStrength": 25,
   "linkStrength": 0.8,
-  "linkDistance": 50,
-  "scale": 0.10619767690940639,
+  "linkDistance": 60,
+  "scale": 0.09931183342747288,
   "close": true
 }

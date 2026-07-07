@@ -8,7 +8,7 @@ type: systeem
 > Harde regels voor het aanmaken en beheren van verbindingen.
 > Agent 4 volgt dit protocol exact.
 
-**Systeemkoppelingen:** [[AKO v1.0]] · [[AKO v1.1]] · [[AKO v1.2]] · [[AKO v1.3]] · [[AKO v1.4]] · [[AKO v1.5]] · [[AKO v1.6]] · [[Wiki Template]] · [[Naming Convention]] · [[Shared Memory]]
+**Systeemkoppelingen:** [[AKO]] · [[AKO v1.0]] · [[AKO v1.1]] · [[AKO v1.2]] · [[AKO v1.3]] · [[AKO v1.4]] · [[AKO v1.5]] · [[AKO v1.6]] · [[Wiki Template]] · [[Naming Convention]] · [[Shared Memory]]
 
 ---
 
