@@ -9,7 +9,7 @@ type: operationeel
 > Alleen de Orchestrator schrijft naar dit bestand (Wet 10).
 > Agents signaleren taken aan de Orchestrator — nooit rechtstreeks hier.
 
-**Systeemkoppelingen:** [[AKO]] · [[AKO v1.3]] · [[AKO v1.6]] · [[System Log]] · [[Shared Memory]]
+**Systeemkoppelingen:** [[AKO]]
 
 ---
 

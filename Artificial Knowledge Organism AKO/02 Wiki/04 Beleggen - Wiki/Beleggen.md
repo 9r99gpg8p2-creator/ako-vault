@@ -15,11 +15,3 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 ## Concepten
 
 - [[Prospect Theory]]
-
----
-
-## Cross-domein
-
-- [[Psychologie]] — behavioral finance, verliesaversie, cognitieve bias
-- [[Filosofie]] — rationaliteit, beslissingsethiek
-- [[Geschiedenis]] — economische geschiedenis, marktcrises, tulpenmanie

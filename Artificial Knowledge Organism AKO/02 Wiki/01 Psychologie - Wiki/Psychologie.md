@@ -15,11 +15,3 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 ## Concepten
 
 - [[Neuropsychologische Rehabilitatie]]
-
----
-
-## Cross-domein
-
-- [[Filosofie]] — filosofie van de geest, bewustzijn, vrije wil
-- [[Geschiedenis]] — wetenschapsgeschiedenis, biografie van pioniers
-- [[Beleggen]] — behavioral finance, verliesaversie, cognitieve bias

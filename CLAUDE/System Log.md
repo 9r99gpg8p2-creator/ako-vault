@@ -9,7 +9,7 @@ type: operationeel
 > Wordt bijgewerkt door de Orchestrator na elke actie.
 > Nooit handmatig aanpassen. Nooit verwijderen.
 
-**Systeemkoppelingen:** [[AKO]] · [[AKO v1.3]] · [[AKO v1.6]] · [[Task Queue]] · [[Shared Memory]]
+**Systeemkoppelingen:** [[AKO]]
 
 ---
 

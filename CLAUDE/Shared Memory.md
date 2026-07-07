@@ -8,7 +8,7 @@ type: systeem
 > Protocol voor gedeelde sessiecontext. Alle agents lezen dit als richtlijn.
 > Shared Memory is geen databestand — het is de actieve werkcontext die Claude Code opbouwt en bijhoudt gedurende een sessie.
 
-**Systeemkoppelingen:** [[AKO]] · [[AKO v1.6]] · [[AKO v1.5]] · [[AKO v1.4]] · [[AKO v1.3]] · [[AKO v1.2]] · [[AKO v1.1]] · [[AKO v1.0]] · [[Wiki Template]] · [[Naming Convention]] · [[Link Protocol]] · [[Task Queue]] · [[System Log]]
+**Systeemkoppelingen:** [[AKO]]
 
 ---
 

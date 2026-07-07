@@ -15,11 +15,3 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 ## Concepten
 
 - [[Filosofie van de Geest]]
-
----
-
-## Cross-domein
-
-- [[Psychologie]] — bewustzijn, dualisme, cognitie
-- [[Geschiedenis]] — wetenschappelijke revolutie, verlichting
-- [[Beleggen]] — beslissingsethiek, rationaliteit
