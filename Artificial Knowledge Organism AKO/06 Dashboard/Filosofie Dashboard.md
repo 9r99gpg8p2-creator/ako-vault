@@ -2,7 +2,7 @@
 tags: [dashboard, filosofie]
 type: dashboard
 discipline: filosofie
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 # Filosofie Dashboard
@@ -15,36 +15,44 @@ updated: 2026-07-07
 
 | Score | Trend |
 |---|---|
-| 58%   | ↑     |
+| 64%   | ↑     |
 
 ---
 
 ## Metrics
 
-| Metric                | Score | Streefwaarde |
+| Metric                | Score  | Streefwaarde |
 |---|---|---|
-| Coverage              | 10%   | ≥ 85%        |
-| Connectivity          | 50%   | ≥ 90%        |
-| Scientific Confidence | 8/10  | ≥ 7.0        |
-| Duplicate Risk        | 0%    | ≤ 5%         |
-| Orphan Notes          | 0%    | ≤ 3%         |
+| Coverage              | 15%    | ≥ 85%        |
+| Connectivity          | 75%    | ≥ 90%        |
+| Scientific Confidence | 7.5/10 | ≥ 7.0        |
+| Duplicate Risk        | 0%     | ≤ 5%         |
+| Orphan Notes          | 0%     | ≤ 3%         |
+
+---
+
+## Wiki-pagina's (2)
+
+| Pagina | Confidence | Verbindingen |
+|---|---|---|
+| [[Filosofie van de Geest]] | 8 | 3 |
+| [[Bewustzijn]] | 7 | 3 |
 
 ---
 
 ## Subcategorieën
 
-| Subcategorie            | Pagina's | Coverage |
+| Subcategorie           | Pagina's | Status |
 |---|---|---|
-| Filosofie van de Geest  | 1        | 5%       |
+| Filosofie van de Geest | 2 (Filosofie v.d. Geest + Bewustzijn) | Actief |
 
 ---
 
-## Ontbrekende kernconcepten (referentielijst Agent 2)
+## Ontbrekende kernconcepten (gaps)
 
-- Bewustzijn
-- Functionalisme
+- Vrije Wil
 - Epistemologie
-- Ethiek
+- Functionalisme
 - Fenomenologie
 
 ---
@@ -52,9 +60,9 @@ updated: 2026-07-07
 ## Trend — Laatste 30 dagen
 
 ```
-+4 nieuwe concepten
-+3 nieuwe relaties
-+0 gaps gedicht
++2 nieuwe concepten (2026-07-08: Bewustzijn; 2026-07-07: Filosofie van de Geest)
++2 nieuwe relaties
++1 gap gedicht (2026-07-08)
 ```
 
 ---

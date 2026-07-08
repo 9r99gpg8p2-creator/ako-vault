@@ -15,3 +15,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 ## Concepten
 
 - [[Filosofie van de Geest]]
+- [[Bewustzijn]]

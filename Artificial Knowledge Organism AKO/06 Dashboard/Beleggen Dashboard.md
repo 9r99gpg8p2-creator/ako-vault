@@ -2,7 +2,7 @@
 tags: [dashboard, beleggen]
 type: dashboard
 discipline: beleggen
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 # Beleggen Dashboard
@@ -15,46 +15,56 @@ updated: 2026-07-07
 
 | Score | Trend |
 |---|---|
-| 58%   | ↑     |
+| 68%   | ↑     |
 
 ---
 
 ## Metrics
 
-| Metric                | Score | Streefwaarde |
+| Metric                | Score  | Streefwaarde |
 |---|---|---|
-| Coverage              | 10%   | ≥ 85%        |
-| Connectivity          | 50%   | ≥ 90%        |
-| Scientific Confidence | 9/10  | ≥ 7.0        |
-| Duplicate Risk        | 0%    | ≤ 5%         |
-| Orphan Notes          | 0%    | ≤ 3%         |
+| Coverage              | 22%    | ≥ 85%        |
+| Connectivity          | 80%    | ≥ 90%        |
+| Scientific Confidence | 9/10   | ≥ 7.0        |
+| Duplicate Risk        | 0%     | ≤ 5%         |
+| Orphan Notes          | 0%     | ≤ 3%         |
+
+---
+
+## Wiki-pagina's (3)
+
+| Pagina | Confidence | Verbindingen |
+|---|---|---|
+| [[Prospect Theory]] | 9 | 3 |
+| [[Verliesaversie]] | 9 | 3 |
+| [[Gedragseconomie]] | 9 | 4 |
 
 ---
 
 ## Subcategorieën
 
-| Subcategorie       | Pagina's | Coverage |
+| Subcategorie   | Pagina's | Status |
 |---|---|---|
-| Gedragseconomie    | 1        | 5%       |
+| Gedragseconomie | 3 (Prospect Theory + Verliesaversie + Gedragseconomie) | Actief |
 
 ---
 
-## Ontbrekende kernconcepten (referentielijst Agent 2)
+## Ontbrekende kernconcepten (gaps)
 
-- Verliesaversie
-- Gedragseconomie
 - Efficiënte Markthypothese
 - Diversificatie
 - Risicopremie
+- Ankering (als standalone concept)
+- Cognitieve biases — overzicht
 
 ---
 
 ## Trend — Laatste 30 dagen
 
 ```
-+4 nieuwe concepten
++3 nieuwe concepten (2026-07-08: Verliesaversie + Gedragseconomie; 2026-07-07: Prospect Theory)
 +3 nieuwe relaties
-+0 gaps gedicht
++2 gaps gedicht (2026-07-08)
 ```
 
 ---

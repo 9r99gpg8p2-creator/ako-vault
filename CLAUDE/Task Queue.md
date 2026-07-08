@@ -30,13 +30,16 @@ type: operationeel
 | Status | Tijdstip | Agent | Taak | Detail |
 |---|---|---|---|---|
 | ✓ | 2026-07-07T06:07Z | Agent 2 | Wikipedia API onbeschikbaar | Opgelost: Orchestrator gebruikt nu User-Agent headers + MediaWiki fallback + nl.wikipedia. Intern kennismodel als laatste redmiddel. |
-| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Werkgeheugen | Concept genoemd in Neuropsychologische Rehabilitatie — geen eigen pagina. Discipline: Psychologie. |
-| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Executieve Functies | Concept genoemd in Neuropsychologische Rehabilitatie — geen eigen pagina. Discipline: Psychologie. |
-| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Anosognosie | Concept beschreven in meerdere pagina's — geen eigen pagina. Discipline: Psychologie. |
-| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Verliesaversie | Concept in related-veld Prospect Theory — geen eigen pagina. Discipline: Beleggen. |
-| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Gedragseconomie | Concept in related-veld Prospect Theory — geen eigen pagina. Discipline: Beleggen. |
-| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Paradigmawisseling | Concept in related-veld Wetenschappelijke Revolutie — geen eigen pagina. Discipline: Geschiedenis. |
-| ↓ | 2026-07-07T06:07Z | Agent 3 | Gap: Bewustzijn | Concept in related-veld Filosofie van de Geest — geen eigen pagina. Discipline: Filosofie. |
+| ✓ | 2026-07-08T00:00Z | Agent 3 | Gap: Werkgeheugen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Werkgeheugen.md — confidence 9 |
+| ✓ | 2026-07-08T00:00Z | Agent 3 | Gap: Executieve Functies | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Executieve Functies.md — confidence 9 |
+| ✓ | 2026-07-08T00:00Z | Agent 3 | Gap: Anosognosie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Anosognosie.md — confidence 8 |
+| ✓ | 2026-07-08T00:00Z | Agent 3 | Gap: Verliesaversie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Verliesaversie.md — confidence 9 |
+| ✓ | 2026-07-08T00:00Z | Agent 3 | Gap: Gedragseconomie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Gedragseconomie.md — confidence 9 |
+| ✓ | 2026-07-08T00:00Z | Agent 3 | Gap: Paradigmawisseling | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Paradigmawisseling.md — confidence 9 |
+| ✓ | 2026-07-08T00:00Z | Agent 3 | Gap: Bewustzijn | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Bewustzijn.md — confidence 7 |
+| ↓ | 2026-07-08T00:00Z | Agent 3 | Gap: Geheugenconsolidatie | Concept gesignaleerd in Werkgeheugen — geen eigen pagina. Discipline: Psychologie. |
+| ↓ | 2026-07-08T00:00Z | Agent 3 | Gap: Vrije Wil | Concept naburig aan Bewustzijn — geen eigen pagina. Discipline: Filosofie. |
+| ↓ | 2026-07-08T00:00Z | Agent 3 | Gap: Cognitieve Biases (overzicht) | Concept gesignaleerd in Gedragseconomie — geen eigen overzichtspagina. Discipline: Beleggen. |
 
 ---
 

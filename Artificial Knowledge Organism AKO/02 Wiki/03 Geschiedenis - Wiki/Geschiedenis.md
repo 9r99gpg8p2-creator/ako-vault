@@ -15,3 +15,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 ## Concepten
 
 - [[Wetenschappelijke Revolutie]]
+- [[Paradigmawisseling]]

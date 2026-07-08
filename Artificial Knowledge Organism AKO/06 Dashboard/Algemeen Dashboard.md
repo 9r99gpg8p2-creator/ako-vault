@@ -1,7 +1,7 @@
 ---
 tags: [dashboard, systeem]
 type: dashboard
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 # Algemeen Dashboard — AKO
@@ -14,7 +14,7 @@ updated: 2026-07-07
 
 | Score | Trend |
 |---|---|
-| 58%   | ↑     |
+| 66%   | ↑     |
 
 ---
 
@@ -22,10 +22,10 @@ updated: 2026-07-07
 
 | Discipline   | Score | Trend |
 |---|---|---|
-| Psychologie  | 58%   | ↑     |
-| Filosofie    | 58%   | ↑     |
-| Geschiedenis | 58%   | ↑     |
-| Beleggen     | 58%   | ↑     |
+| Psychologie  | 68%   | ↑     |
+| Filosofie    | 64%   | ↑     |
+| Geschiedenis | 64%   | ↑     |
+| Beleggen     | 68%   | ↑     |
 
 ---
 
@@ -33,9 +33,9 @@ updated: 2026-07-07
 
 | Metric                | Score | Gewicht | Streefwaarde |
 |---|---|---|---|
-| Coverage              | 10%   | 30%     | ≥ 85%        |
-| Connectivity          | 50%   | 25%     | ≥ 90%        |
-| Scientific Confidence | 8/10  | 25%     | ≥ 7.0        |
+| Coverage              | 20%   | 30%     | ≥ 85%        |
+| Connectivity          | 75%   | 25%     | ≥ 90%        |
+| Scientific Confidence | 8.5/10 | 25%   | ≥ 7.0        |
 | Duplicate Risk        | 0%    | 10%     | ≤ 5%         |
 | Orphan Notes          | 0%    | 10%     | ≤ 3%         |
 
@@ -44,23 +44,23 @@ updated: 2026-07-07
 ## Trend Monitor — Laatste 30 dagen
 
 ```
-+4  nieuwe concepten
-+3  nieuwe relaties
-±0  verweesde notities
-+2  nieuwe inzichten
-+0  gaps gedicht
-+0  merges uitgevoerd
++11  wiki-pagina's totaal (was +4)
++5   relatiepagina's totaal (was +3)
++4   inzichtpagina's totaal (was +2)
++7   gaps gedicht (2026-07-08)
++0   merges uitgevoerd
+±0   verweesde notities
 ```
 
 ---
 
 ## Trend — Laatste 3 maanden
 
-| Maand     | Overall | Coverage | Connectivity |
+| Datum      | Overall | Coverage | Connectivity |
 |---|---|---|---|
-| 2026-07   | 58%     | 10%      | 50%          |
-| —         | —%      | —%       | —%           |
-| —         | —%      | —%       | —%           |
+| 2026-07-08 | 66%     | 20%      | 75%          |
+| 2026-07-07 | 58%     | 10%      | 50%          |
+| —          | —%      | —%       | —%           |
 
 ---
 

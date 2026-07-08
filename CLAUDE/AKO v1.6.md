@@ -472,6 +472,26 @@ Ongewijzigd voor overige taken. Zie [[AKO v1.5]].
 
 ---
 
+## Agent 8 — Graph Architect
+
+**Kernrol:** Bewaakt en handhaaft de wiel-topologie van de Obsidian graph na elke pipeline-run.
+
+**Taken na elke run:**
+
+1. Hub-pagina's bijwerken — voeg alle nieuw aangemaakte conceptpagina's toe aan hun respectieve hub (`Psychologie.md`, `Filosofie.md`, `Geschiedenis.md`, `Beleggen.md`)
+2. Controleer radiale verbindingsregels — geen hub-to-hub links, geen directe concept-to-AKO links
+3. Controleer cross-domein ratio — minimaal 1 cross-domein brug per 5 Wiki-pagina's
+4. Signaleer graph-anomalieën aan de Orchestrator (geïsoleerde nodes, kapotte links, hub-disconnecties)
+
+**Verbinding:** Zie [[Graph Architecture]] voor alle architectuurregels.
+
+**Regels:**
+- Agent 8 overschrijft nooit inhoud van conceptpagina's — hij past alleen de hub-indices aan.
+- Agent 8 logt elke hub-wijziging in System Log.
+- Agent 8 draait altijd als laatste stap vóór de Orchestrator-afsluiting.
+
+---
+
 # EXECUTIEPIPELINE
 
 ```
@@ -490,6 +510,8 @@ Agent 5 (Insight Generator + Insight Feed)
 Agent 6 (Mentor: Daily Briefing + Research Agenda + Quiz + Reflection indien week)
 ↓
 Agent 7 (System Auditor + Knowledge Health + Dashboard)
+↓
+Agent 8 (Graph Architect: hub-pagina's bijwerken + graph-validatie)
 ↓
 Orchestrator (Queue · Log · Shared Memory · niet-urgente voorstellen verwerken)
 ```
