@@ -54,6 +54,7 @@ Alexander Luria legde in de jaren 1960–1970 de neurologische basis voor het be
 
 **Cross-domein:**
 - [[Paradigmawisseling]] — analogie: cognitieve flexibiliteit (shifting) op individueel niveau weerspiegelt hoe wetenschappelijke gemeenschappen paradigma's kunnen loslaten
+- [[Vrije Wil]] ★9 — executieve functies vormen de neurowetenschappelijke basis voor intentioneel, deliberatief handelen dat filosofen 'vrije wil' noemen
 
 ## Bronnen
 

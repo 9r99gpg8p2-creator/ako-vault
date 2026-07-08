@@ -15,29 +15,28 @@ updated: 2026-07-08
 
 | Score | Trend |
 |---|---|
-| 68%   | ↑     |
+| 76%   | ↑     |
 
 ---
 
 ## Metrics
 
-| Metric                | Score  | Streefwaarde |
+| Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage              | 22%    | ≥ 85%        |
-| Connectivity          | 80%    | ≥ 90%        |
-| Scientific Confidence | 9/10   | ≥ 7.0        |
-| Duplicate Risk        | 0%     | ≤ 5%         |
-| Orphan Notes          | 0%     | ≤ 3%         |
+| Coverage     | 20%   | ≥ 85%        |
+| Connectivity | 100%  | ≥ 90%        |
+| Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (3)
+## Wiki-pagina's (4)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
 | [[Prospect Theory]] | 9 | 3 |
-| [[Verliesaversie]] | 9 | 3 |
-| [[Gedragseconomie]] | 9 | 4 |
+| [[Verliesaversie]] | 9 | 4 |
+| [[Gedragseconomie]] | 9 | 5 |
+| [[Cognitieve Biases]] | 5 | 4 |
 
 ---
 
@@ -45,26 +44,27 @@ updated: 2026-07-08
 
 | Subcategorie   | Pagina's | Status |
 |---|---|---|
-| Gedragseconomie | 3 (Prospect Theory + Verliesaversie + Gedragseconomie) | Actief |
+| Gedragseconomie | 4 (Prospect Theory + Verliesaversie + Gedragseconomie + Cognitieve Biases) | Actief |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
+- Herding / Kuddegedrag ↓ (nieuw gesignaleerd)
 - Efficiënte Markthypothese
 - Diversificatie
 - Risicopremie
 - Ankering (als standalone concept)
-- Cognitieve biases — overzicht
 
 ---
 
 ## Trend — Laatste 30 dagen
 
 ```
-+3 nieuwe concepten (2026-07-08: Verliesaversie + Gedragseconomie; 2026-07-07: Prospect Theory)
-+3 nieuwe relaties
-+2 gaps gedicht (2026-07-08)
++4 concept-pagina's totaal
++1 nieuwe concept deze run (Cognitieve Biases)
++1 gap gedicht (Cognitieve biases — overzicht)
++1 nieuw gap (Herding)
 ```
 
 ---

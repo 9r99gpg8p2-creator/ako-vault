@@ -53,6 +53,7 @@ Baddeley en Hitch introduceerden in 1974 het multicomponentenmodel als vervanger
 
 **Cross-domein:**
 - [[Gedragseconomie]] — cognitieve belasting vergroot susceptibiliteit voor heuristieken en biases; beperkt werkgeheugen → meer systematische beslissingsfouten
+- [[Cognitieve Biases]] ★8 — beperkte werkgeheugencapaciteit is de cognitieve verklaring voor de effectiviteit van anker- en beschikbaarheidsheuristieken
 
 ## Bronnen
 

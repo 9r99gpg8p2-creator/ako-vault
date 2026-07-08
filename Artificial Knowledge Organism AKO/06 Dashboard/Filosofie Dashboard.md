@@ -15,28 +15,27 @@ updated: 2026-07-08
 
 | Score | Trend |
 |---|---|
-| 64%   | ↑     |
+| 75%   | ↑     |
 
 ---
 
 ## Metrics
 
-| Metric                | Score  | Streefwaarde |
+| Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage              | 15%    | ≥ 85%        |
-| Connectivity          | 75%    | ≥ 90%        |
-| Scientific Confidence | 7.5/10 | ≥ 7.0        |
-| Duplicate Risk        | 0%     | ≤ 5%         |
-| Orphan Notes          | 0%     | ≤ 3%         |
+| Coverage     | 15%   | ≥ 85%        |
+| Connectivity | 100%  | ≥ 90%        |
+| Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (2)
+## Wiki-pagina's (3)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
 | [[Filosofie van de Geest]] | 8 | 3 |
 | [[Bewustzijn]] | 7 | 3 |
+| [[Vrije Wil]] | 5 | 4 |
 
 ---
 
@@ -44,13 +43,13 @@ updated: 2026-07-08
 
 | Subcategorie           | Pagina's | Status |
 |---|---|---|
-| Filosofie van de Geest | 2 (Filosofie v.d. Geest + Bewustzijn) | Actief |
+| Filosofie van de Geest | 3 (Filosofie v.d. Geest + Bewustzijn + Vrije Wil) | Actief |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- Vrije Wil
+- Morele Verantwoordelijkheid ↓ (nieuw gesignaleerd)
 - Epistemologie
 - Functionalisme
 - Fenomenologie
@@ -60,9 +59,10 @@ updated: 2026-07-08
 ## Trend — Laatste 30 dagen
 
 ```
-+2 nieuwe concepten (2026-07-08: Bewustzijn; 2026-07-07: Filosofie van de Geest)
-+2 nieuwe relaties
-+1 gap gedicht (2026-07-08)
++3 concept-pagina's totaal
++1 nieuwe concept deze run (Vrije Wil)
++1 gap gedicht (Vrije Wil)
++1 nieuw gap (Morele Verantwoordelijkheid)
 ```
 
 ---

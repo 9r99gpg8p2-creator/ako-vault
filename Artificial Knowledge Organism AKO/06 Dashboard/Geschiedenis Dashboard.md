@@ -15,28 +15,27 @@ updated: 2026-07-08
 
 | Score | Trend |
 |---|---|
-| 64%   | ↑     |
+| 75%   | ↑     |
 
 ---
 
 ## Metrics
 
-| Metric                | Score  | Streefwaarde |
+| Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage              | 15%    | ≥ 85%        |
-| Connectivity          | 75%    | ≥ 90%        |
-| Scientific Confidence | 9/10   | ≥ 7.0        |
-| Duplicate Risk        | 0%     | ≤ 5%         |
-| Orphan Notes          | 0%     | ≤ 3%         |
+| Coverage     | 15%   | ≥ 85%        |
+| Connectivity | 100%  | ≥ 90%        |
+| Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (2)
+## Wiki-pagina's (3)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
 | [[Wetenschappelijke Revolutie]] | 9 | 3 |
 | [[Paradigmawisseling]] | 9 | 4 |
+| [[Industriële Revolutie]] | 5 | 3 |
 
 ---
 
@@ -45,15 +44,14 @@ updated: 2026-07-08
 | Subcategorie          | Pagina's | Status |
 |---|---|---|
 | Wetenschapsgeschiedenis | 2 (Wetenschappelijke Revolutie + Paradigmawisseling) | Actief |
+| Economische geschiedenis | 1 (Industriële Revolutie) | Groeiend |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
 - Verlichting
-- Industriële Revolutie
-- Galileo Galilei
-- Isaac Newton
+- Galileo Galilei / Isaac Newton
 - Cognitieve Revolutie (psychologiegeschiedenis)
 
 ---
@@ -61,9 +59,9 @@ updated: 2026-07-08
 ## Trend — Laatste 30 dagen
 
 ```
-+2 nieuwe concepten (2026-07-08: Paradigmawisseling; 2026-07-07: Wetenschappelijke Revolutie)
-+2 nieuwe relaties
-+1 gap gedicht (2026-07-08)
++3 concept-pagina's totaal
++1 nieuwe concept deze run (Industriële Revolutie)
++1 gap gedicht (Industriële Revolutie was gap in dashboard)
 ```
 
 ---

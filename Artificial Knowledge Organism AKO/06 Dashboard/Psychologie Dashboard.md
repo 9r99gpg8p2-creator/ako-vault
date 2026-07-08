@@ -15,30 +15,29 @@ updated: 2026-07-08
 
 | Score | Trend |
 |---|---|
-| 68%   | ↑     |
+| 78%   | ↑     |
 
 ---
 
 ## Metrics
 
-| Metric                | Score  | Streefwaarde |
+| Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage              | 22%    | ≥ 85%        |
-| Connectivity          | 80%    | ≥ 90%        |
-| Scientific Confidence | 8.5/10 | ≥ 7.0        |
-| Duplicate Risk        | 0%     | ≤ 5%         |
-| Orphan Notes          | 0%     | ≤ 3%         |
+| Coverage     | 25%   | ≥ 85%        |
+| Connectivity | 100%  | ≥ 90%        |
+| Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (4)
+## Wiki-pagina's (5)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
 | [[Neuropsychologische Rehabilitatie]] | 8 | 4 |
-| [[Werkgeheugen]] | 9 | 3 |
-| [[Executieve Functies]] | 9 | 4 |
+| [[Werkgeheugen]] | 9 | 4 |
+| [[Executieve Functies]] | 9 | 5 |
 | [[Anosognosie]] | 8 | 3 |
+| [[Geheugenconsolidatie]] | 5 | 3 |
 
 ---
 
@@ -47,13 +46,13 @@ updated: 2026-07-08
 | Subcategorie              | Pagina's | Status |
 |---|---|---|
 | Neuropsychologische revalidatie | 3 (Rehab + Anosognosie + Executief) | Actief |
-| Cognitieve psychologie    | 2 (Werkgeheugen + Executieve Functies) | Actief |
+| Cognitieve psychologie    | 3 (Werkgeheugen + Executieve Functies + Geheugenconsolidatie) | Actief |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- Geheugenconsolidatie
+- Reconsolidatie ↓ (nieuw gesignaleerd)
 - Aandacht
 - Neuropsychologische diagnostiek
 - Cognitieve belasting (Sweller)
@@ -63,9 +62,10 @@ updated: 2026-07-08
 ## Trend — Laatste 30 dagen
 
 ```
-+4 nieuwe concepten (2026-07-08: Werkgeheugen, Executieve Functies, Anosognosie; 2026-07-07: Neuropsychologische Rehabilitatie)
-+3 nieuwe relaties
-+3 gaps gedicht (2026-07-08)
++5 concept-pagina's totaal
++1 nieuwe concept deze run (Geheugenconsolidatie)
++1 gap gedicht (Geheugenconsolidatie)
++1 nieuw gap (Reconsolidatie)
 ```
 
 ---

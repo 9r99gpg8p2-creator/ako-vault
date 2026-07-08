@@ -17,3 +17,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Prospect Theory]]
 - [[Verliesaversie]]
 - [[Gedragseconomie]]
+- [[Cognitieve Biases]]

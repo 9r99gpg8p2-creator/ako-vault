@@ -14,7 +14,7 @@ updated: 2026-07-08
 
 | Score | Trend |
 |---|---|
-| 66%   | ↑     |
+| 76%   | ↑     |
 
 ---
 
@@ -22,32 +22,32 @@ updated: 2026-07-08
 
 | Discipline   | Score | Trend |
 |---|---|---|
-| Psychologie  | 68%   | ↑     |
-| Filosofie    | 64%   | ↑     |
-| Geschiedenis | 64%   | ↑     |
-| Beleggen     | 68%   | ↑     |
+| Psychologie  | 78%   | ↑     |
+| Filosofie    | 75%   | ↑     |
+| Geschiedenis | 75%   | ↑     |
+| Beleggen     | 76%   | ↑     |
 
 ---
 
 ## Metrics breakdown
 
-| Metric                | Score | Gewicht | Streefwaarde |
+| Metric                | Score  | Gewicht | Streefwaarde |
 |---|---|---|---|
-| Coverage              | 20%   | 30%     | ≥ 85%        |
-| Connectivity          | 75%   | 25%     | ≥ 90%        |
-| Scientific Confidence | 8.5/10 | 25%   | ≥ 7.0        |
-| Duplicate Risk        | 0%    | 10%     | ≤ 5%         |
-| Orphan Notes          | 0%    | 10%     | ≤ 3%         |
+| Coverage              | 19%    | 30%     | ≥ 85%        |
+| Connectivity          | 100%   | 30%     | ≥ 90%        |
+| Orphan Notes          | 0%     | 40%     | ≤ 3%         |
+
+*Formule: Coverage×0.3 + Connectivity×0.3 + (1−Orphan%)×0.4*
 
 ---
 
 ## Trend Monitor — Laatste 30 dagen
 
 ```
-+11  wiki-pagina's totaal (was +4)
-+5   relatiepagina's totaal (was +3)
-+4   inzichtpagina's totaal (was +2)
-+7   gaps gedicht (2026-07-08)
++15  wiki-pagina's totaal (concept-pagina's, excl. hubs)
++9   relatiepagina's totaal
++7   inzichtpagina's totaal
++10  gaps gedicht
 +0   merges uitgevoerd
 ±0   verweesde notities
 ```
@@ -58,9 +58,9 @@ updated: 2026-07-08
 
 | Datum      | Overall | Coverage | Connectivity |
 |---|---|---|---|
+| 2026-07-08 | 76%     | 19%      | 100%         |
 | 2026-07-08 | 66%     | 20%      | 75%          |
 | 2026-07-07 | 58%     | 10%      | 50%          |
-| —          | —%      | —%       | —%           |
 
 ---
 

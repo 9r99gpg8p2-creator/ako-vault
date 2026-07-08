@@ -53,6 +53,7 @@ Verliesaversie is het centrale mechanisme achter Prospect Theory, gepubliceerd i
 
 **Cross-domein:**
 - [[Neuropsychologische Rehabilitatie]] — patiënten met hersenletsel vermijden revalidatieopdrachten die falen impliciteren; framing als herstel i.p.v. verliescompensatie verbetert motivatie
+- [[Geheugenconsolidatie]] ★8 — verliesaversie wordt deels verklaard door selectieve consolidatie van emotioneel negatieve herinneringen
 
 ## Bronnen
 

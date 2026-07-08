@@ -37,9 +37,12 @@ type: operationeel
 | ✓ | 2026-07-08T00:00Z | Agent 3 | Gap: Gedragseconomie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Gedragseconomie.md — confidence 9 |
 | ✓ | 2026-07-08T00:00Z | Agent 3 | Gap: Paradigmawisseling | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Paradigmawisseling.md — confidence 9 |
 | ✓ | 2026-07-08T00:00Z | Agent 3 | Gap: Bewustzijn | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Bewustzijn.md — confidence 7 |
-| ↓ | 2026-07-08T00:00Z | Agent 3 | Gap: Geheugenconsolidatie | Concept gesignaleerd in Werkgeheugen — geen eigen pagina. Discipline: Psychologie. |
-| ↓ | 2026-07-08T00:00Z | Agent 3 | Gap: Vrije Wil | Concept naburig aan Bewustzijn — geen eigen pagina. Discipline: Filosofie. |
-| ↓ | 2026-07-08T00:00Z | Agent 3 | Gap: Cognitieve Biases (overzicht) | Concept gesignaleerd in Gedragseconomie — geen eigen overzichtspagina. Discipline: Beleggen. |
+| ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Geheugenconsolidatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Geheugenconsolidatie.md — confidence 5 |
+| ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Vrije Wil | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Vrije Wil.md — confidence 5 |
+| ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Cognitieve Biases (overzicht) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Cognitieve Biases.md — confidence 5 |
+| ↓ | 2026-07-08T06:01Z | Agent 3 | Gap: Reconsolidatie | Concept gesignaleerd in Geheugenconsolidatie — geen eigen pagina. Discipline: Psychologie. |
+| ↓ | 2026-07-08T06:01Z | Agent 3 | Gap: Morele Verantwoordelijkheid | Concept gesignaleerd in Vrije Wil — geen eigen pagina. Discipline: Filosofie. |
+| ↓ | 2026-07-08T06:01Z | Agent 3 | Gap: Herding | Concept gesignaleerd in Cognitieve Biases — geen eigen pagina. Discipline: Beleggen. |
 
 ---
 
