@@ -15,7 +15,7 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 79%   | →     |
+| 81%   | ↑     |
 
 ---
 
@@ -23,48 +23,51 @@ updated: 2026-07-09
 
 | Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage     | 30%   | ≥ 85%        |
+| Coverage     | 35%   | ≥ 85%        |
 | Connectivity | 100%  | ≥ 90%        |
 | Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (6)
+## Wiki-pagina's (7)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
-| [[Prospect Theory]] | 9 | 4 |
+| [[Prospect Theory]] | 9 | 5 |
 | [[Verliesaversie]] | 9 | 4 |
-| [[Gedragseconomie]] | 9 | 7 |
+| [[Gedragseconomie]] | 9 | 5 |
 | [[Cognitieve Biases]] | 5 | 4 |
-| [[Herding]] | 5 | 6 |
-| [[Efficiënte Markthypothese]] | 5 | 6 |
+| [[Herding]] | 5 | 4 |
+| [[Efficiënte Markthypothese]] | 5 | 4 |
+| [[Risicoperceptie]] | 5 | 6 |
 
 ---
 
 ## Subcategorieën
 
-| Subcategorie   | Pagina's | Status |
+| Subcategorie | Pagina's | Status |
 |---|---|---|
-| Gedragseconomie | 5 (Prospect Theory + Verliesaversie + Gedragseconomie + Cognitieve Biases + Herding) | Actief |
-| Markttheorie | 1 (Efficiënte Markthypothese) | Groeiend |
+| Gedragseconomie | 4 (Prospect Theory + Verliesaversie + Gedragseconomie + Cognitieve Biases) | Actief |
+| Marktdynamiek | 2 (Herding + Efficiënte Markthypothese) | Actief |
+| Risico & besluitvorming | 1 (Risicoperceptie) | Nieuw |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- Diversificatie
-- Risicopremie
-- Ankering (als standalone concept)
+- Portefeuilletheorie (Markowitz)
+- Value Investing
+- Market Cycles
 
 ---
 
 ## Trend — Laatste 30 dagen
 
 ```
-+6 concept-pagina's totaal
-+0 nieuwe concepten deze run
-+1 verdichting: Gedragseconomie — Prospect Theory relatiepagina toegevoegd
++7  concept-pagina's totaal
++1  nieuwe concepten deze run (Risicoperceptie)
++0  gaps gedicht
++2  relatiepagina's bijgedragen aan (Risicoperceptie — Executieve Functies, De Vroegste Onzekerheid — inzicht)
 ```
 
 ---

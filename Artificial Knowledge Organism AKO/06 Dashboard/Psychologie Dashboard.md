@@ -15,7 +15,7 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 84%   | ↑     |
+| 85%   | ↑     |
 
 ---
 
@@ -23,25 +23,26 @@ updated: 2026-07-09
 
 | Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage     | 45%   | ≥ 85%        |
+| Coverage     | 50%   | ≥ 85%        |
 | Connectivity | 100%  | ≥ 90%        |
 | Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (9)
+## Wiki-pagina's (10)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
 | [[Neuropsychologische Rehabilitatie]] | 8 | 4 |
 | [[Werkgeheugen]] | 9 | 5 |
-| [[Executieve Functies]] | 9 | 6 |
+| [[Executieve Functies]] | 9 | 7 |
 | [[Anosognosie]] | 8 | 3 |
 | [[Geheugenconsolidatie]] | 5 | 3 |
 | [[Reconsolidatie]] | 5 | 6 |
 | [[PTSD]] | 5 | 6 |
 | [[Embodied Cognition]] | 5 | 5 |
 | [[EMDR]] | 5 | 5 |
+| [[Hechtingstheorie]] | 5 | 6 |
 
 ---
 
@@ -51,14 +52,14 @@ updated: 2026-07-09
 |---|---|---|
 | Neuropsychologische revalidatie | 3 (Rehab + Anosognosie + Executief) | Actief |
 | Geheugen & consolidatie | 4 (Werkgeheugen + Geheugenconsolidatie + Reconsolidatie + PTSD) | Actief |
-| Trauma & behandeling | 2 (PTSD + EMDR) | Groeiend |
+| Trauma & behandeling | 3 (PTSD + EMDR + Hechtingstheorie) | Groeiend |
 | Belichaamd denken | 1 (Embodied Cognition) | Nieuw |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- Aandacht
+- Slaap en Geheugenconsolidatie
 - Neuropsychologische diagnostiek
 - Geheugenmodellen (episodisch / semantisch)
 
@@ -67,10 +68,10 @@ updated: 2026-07-09
 ## Trend — Laatste 30 dagen
 
 ```
-+9 concept-pagina's totaal
-+2 nieuwe concepten deze run (Embodied Cognition, EMDR)
-+2 gaps gedicht (Embodied Cognition, EMDR)
-+3 relatiepagina's bijgedragen aan
++10 concept-pagina's totaal
++1  nieuwe concepten deze run (Hechtingstheorie)
++0  gaps gedicht
++1  relatiepagina bijgedragen aan (Risicoperceptie — Executieve Functies)
 ```
 
 ---

@@ -52,6 +52,7 @@ Filosofisch is de psychoanalyse relevant voor drie kerndebaten: (1) de vraag naa
 
 **Cross-domein:**
 - [[Geschiedenis van de Psychiatrie]] — historische context: de psychoanalyse is een van de meest invloedrijke stromingen in de psychiatriegeschiedenis
+- [[Hechtingstheorie]] ★8 — herformulering: hechtingstheorie is Bowlby's empirisch gefundeerde herformulering van psychoanalytische objectrelatietheorie; beide delen de aandacht voor vroege relaties als fundament van de psyche
 
 ## Bronnen
 

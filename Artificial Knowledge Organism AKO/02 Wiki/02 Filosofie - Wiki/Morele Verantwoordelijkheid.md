@@ -58,6 +58,7 @@ Het debat over morele verantwoordelijkheid begon met Aristoteles, die in de *Nic
 **Cross-domein:**
 - [[Anosognosie]] — verbinding: bij gebrek aan ziektebesef ontbreekt de cognitieve voorwaarde voor morele zelfverantwoordelijkheid
 - [[Neuropsychologische Rehabilitatie]] — toepassing: herstelgericht werken veronderstelt een mate van agency en verantwoordelijkheid
+- [[Totalitarisme]] ★9 — toepassing: totalitaire systemen diffuseren bewust individuele morele verantwoordelijkheid via bureaucratie en ideologie (Arendt: banaliteit van het kwaad)
 
 ## Bronnen
 

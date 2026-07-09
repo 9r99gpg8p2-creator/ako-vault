@@ -20,3 +20,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Morele Verantwoordelijkheid]]
 - [[Fenomenologie]]
 - [[Psychoanalyse]]
+- [[Epistemologie]]

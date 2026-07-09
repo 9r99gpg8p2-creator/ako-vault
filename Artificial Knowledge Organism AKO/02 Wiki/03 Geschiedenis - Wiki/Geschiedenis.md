@@ -19,3 +19,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Industriële Revolutie]]
 - [[De Verlichting]]
 - [[Geschiedenis van de Psychiatrie]]
+- [[Totalitarisme]]

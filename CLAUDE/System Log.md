@@ -160,3 +160,27 @@ type: operationeel
 | 2026-07-09 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Embodied Cognition, EMDR) · Filosofie: +1 (Psychoanalyse) · Geschiedenis: +0 · Beleggen: +0 |
 | 2026-07-09 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 5:26 (≥ 1:5 ✓) |
 | 2026-07-09 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps · Health: 80% |
+| 2026-07-09 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-09 | expansie | Agent 1 | Inbox scan | ✓ | Geen bestanden met status: nieuw — STAP 1.5 overgeslagen |
+| 2026-07-09 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-09 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Totalitarisme (Gesch — minste coverage), Epistemologie (Fil), Hechtingstheorie (Psych — klinisch), Risicoperceptie (Beleg — cross-domein) |
+| 2026-07-09 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Totalitarisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-09 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Epistemologie.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-09 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Hechtingstheorie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-09 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Risicoperceptie.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-09 | expansie | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Slaap en Geheugenconsolidatie (Psych), Ethiek (Fil), Eerste Wereldoorlog (Gesch) |
+| 2026-07-09 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Epistemologie — Paradigmawisseling.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-09 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Totalitarisme — Morele Verantwoordelijkheid.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-09 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Risicoperceptie — Executieve Functies.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-09 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Hechtingstheorie — Psychoanalyse.md — sterkte ★8 — Psychologie × Filosofie |
+| 2026-07-09 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Kennis Bepaalt Haar Eigen Grenzen.md — Filosofie → Geschiedenis — sterkte ★9 |
+| 2026-07-09 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Vroegste Onzekerheid Kleurt het Risico.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-09 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Systeem dat de Geweten Uitschakelt.md — Geschiedenis → Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-09 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-09 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-09 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-09 Quiz.md — 3 vragen toegevoegd (Totalitarisme, Hechtingstheorie + Risicoperceptie, Epistemologie + Paradigmawisseling) |
+| 2026-07-09 | expansie | Agent 6 | Weekreflectie | ↓ | Week 28 reflectie bestaat reeds (2026-28 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-09 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 82% — Coverage 37.5%, Connectivity 100%, Orphan 0% — Psych 85%, Fil 81%, Gesch 79%, Beleg 81% |
+| 2026-07-09 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (82%), Psychologie (85%), Filosofie (81%), Geschiedenis (79%), Beleggen (81%) |
+| 2026-07-09 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Hechtingstheorie) · Filosofie: +1 (Epistemologie) · Geschiedenis: +1 (Totalitarisme) · Beleggen: +1 (Risicoperceptie) |
+| 2026-07-09 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:30 (≥ 1:5 ✓) |
+| 2026-07-09 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · Health: 82%

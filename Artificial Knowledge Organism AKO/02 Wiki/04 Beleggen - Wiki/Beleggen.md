@@ -20,3 +20,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Cognitieve Biases]]
 - [[Herding]]
 - [[Efficiënte Markthypothese]]
+- [[Risicoperceptie]]

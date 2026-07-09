@@ -51,6 +51,12 @@ type: operationeel
 
 ---
 
+| ↓ | 2026-07-09T expansie | Agent 3 | Gap: Slaap en Geheugenconsolidatie | Psychologie — neurobiologie van slaap als consolidatieproces; direct relevant MSc CNP |
+| ↓ | 2026-07-09T expansie | Agent 3 | Gap: Ethiek | Filosofie — normatieve ethiek (deontologie, consequentialisme, deugdethiek); fundament klinische dilemma's |
+| ↓ | 2026-07-09T expansie | Agent 3 | Gap: Eerste Wereldoorlog | Geschiedenis — voedingsbodem voor totalitarisme en fascisme; ontbrekende twintigste-eeuwse context |
+
+---
+
 ## Prioriteitsvolgorde
 
 1. Gebruikersverzoek (hoogste prioriteit)

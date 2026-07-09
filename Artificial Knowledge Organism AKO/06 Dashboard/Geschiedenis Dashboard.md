@@ -15,7 +15,7 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 78%   | →     |
+| 79%   | ↑     |
 
 ---
 
@@ -23,48 +23,50 @@ updated: 2026-07-09
 
 | Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage     | 25%   | ≥ 85%        |
+| Coverage     | 30%   | ≥ 85%        |
 | Connectivity | 100%  | ≥ 90%        |
 | Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (5)
+## Wiki-pagina's (6)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
-| [[Wetenschappelijke Revolutie]] | 9 | 3 |
+| [[Wetenschappelijke Revolutie]] | 9 | 4 |
 | [[Paradigmawisseling]] | 9 | 7 |
 | [[Industriële Revolutie]] | 5 | 3 |
-| [[De Verlichting]] | 5 | 5 |
-| [[Geschiedenis van de Psychiatrie]] | 5 | 7 |
+| [[De Verlichting]] | 5 | 4 |
+| [[Geschiedenis van de Psychiatrie]] | 5 | 4 |
+| [[Totalitarisme]] | 5 | 5 |
 
 ---
 
 ## Subcategorieën
 
-| Subcategorie          | Pagina's | Status |
+| Subcategorie | Pagina's | Status |
 |---|---|---|
-| Wetenschapsgeschiedenis | 3 (Wetenschappelijke Revolutie + Paradigmawisseling + De Verlichting) | Actief |
-| Economische geschiedenis | 1 (Industriële Revolutie) | Groeiend |
-| Medische geschiedenis | 1 (Geschiedenis van de Psychiatrie) | Actief |
+| Wetenschapsgeschiedenis | 2 (Wetenschappelijke Revolutie + Paradigmawisseling) | Actief |
+| Moderne geschiedenis | 3 (Industriële Revolutie + De Verlichting + Totalitarisme) | Actief |
+| Psychiatriegeschiedenis | 1 (Geschiedenis van de Psychiatrie) | Groeiend |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- Cognitieve Revolutie (psychologiegeschiedenis)
-- Franse Revolutie
-- Industrialisatie & psyche
+- Eerste Wereldoorlog
+- Koude Oorlog
+- Kolonialisme
 
 ---
 
 ## Trend — Laatste 30 dagen
 
 ```
-+5 concept-pagina's totaal
-+0 nieuwe concepten deze run
-+1 nieuwe relatiepagina (Psychoanalyse — Geschiedenis van de Psychiatrie)
++6  concept-pagina's totaal
++1  nieuwe concepten deze run (Totalitarisme)
++0  gaps gedicht
++2  relatiepagina's bijgedragen aan (Totalitarisme — Morele Verantwoordelijkheid, Epistemologie — Paradigmawisseling)
 ```
 
 ---

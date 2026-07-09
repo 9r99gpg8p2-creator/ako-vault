@@ -58,6 +58,7 @@ Thomas Kuhn publiceerde *The Structure of Scientific Revolutions* in 1962 als bi
 - [[Gedragseconomie]] — gedragseconomie is een schoolvoorbeeld van een Kuhniaanse revolutie in de sociale wetenschappen
 - [[Herding]] ★7 — analogie: marktkuddegedrag produceert dezelfde opbouw-van-anomalieën-en-abrupte-omslag als Kuhniaanse paradigmacrises
 - [[Efficiënte Markthypothese]] ★8 — geval: de val van de EMH ten gunste van behavioral finance is een paradigmawisseling in de financiële economie
+- [[Epistemologie]] ★9 — fundering: epistemologie biedt het theoretisch kader waarom paradigmawisselingen onvermijdelijk zijn — de criteria voor wat als kennis telt veranderen mee met het paradigma
 
 ## Bronnen
 
