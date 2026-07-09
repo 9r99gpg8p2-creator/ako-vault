@@ -43,8 +43,11 @@ type: operationeel
 | ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Reconsolidatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Reconsolidatie.md — confidence 5 |
 | ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Morele Verantwoordelijkheid | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Morele Verantwoordelijkheid.md — confidence 5 |
 | ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Herding | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Herding.md — confidence 5 |
-| ↓ | 2026-07-09T00:03Z | Agent 3 | Gap: PTSD | Concept gesignaleerd in Reconsolidatie — geen eigen pagina. Discipline: Psychologie. |
-| ↓ | 2026-07-09T00:03Z | Agent 3 | Gap: Efficiënte Markthypothese | Concept gesignaleerd in Herding — geen eigen pagina. Discipline: Beleggen. |
+| ✓ | 2026-07-09T00:03Z | Agent 3 | Gap: PTSD | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/PTSD.md — confidence 5 |
+| ✓ | 2026-07-09T00:03Z | Agent 3 | Gap: Efficiënte Markthypothese | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Efficiënte Markthypothese.md — confidence 5 |
+| ↓ | 2026-07-09T pipeline | Agent 3 | Gap: Embodied Cognition | Concept gesignaleerd in Fenomenologie — geen eigen pagina. Discipline: Psychologie. |
+| ↓ | 2026-07-09T pipeline | Agent 3 | Gap: Psychoanalyse | Concept gesignaleerd in Geschiedenis van de Psychiatrie — geen eigen pagina. Discipline: Filosofie. |
+| ↓ | 2026-07-09T pipeline | Agent 3 | Gap: EMDR | Concept gesignaleerd in PTSD — geen eigen pagina. Discipline: Psychologie. |
 
 ---
 

@@ -14,7 +14,7 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 77%   | ↑     |
+| 79%   | ↑     |
 
 ---
 
@@ -22,10 +22,10 @@ updated: 2026-07-09
 
 | Discipline   | Score | Trend |
 |---|---|---|
-| Psychologie  | 79%   | ↑     |
-| Filosofie    | 76%   | ↑     |
-| Geschiedenis | 76%   | ↑     |
-| Beleggen     | 78%   | ↑     |
+| Psychologie  | 81%   | ↑     |
+| Filosofie    | 78%   | ↑     |
+| Geschiedenis | 78%   | ↑     |
+| Beleggen     | 79%   | ↑     |
 
 ---
 
@@ -33,7 +33,7 @@ updated: 2026-07-09
 
 | Metric                | Score  | Gewicht | Streefwaarde |
 |---|---|---|---|
-| Coverage              | 24%    | 30%     | ≥ 85%        |
+| Coverage              | 29%    | 30%     | ≥ 85%        |
 | Connectivity          | 100%   | 30%     | ≥ 90%        |
 | Orphan Notes          | 0%     | 40%     | ≤ 3%         |
 
@@ -44,10 +44,10 @@ updated: 2026-07-09
 ## Trend Monitor — Laatste 30 dagen
 
 ```
-+19  wiki-pagina's totaal (concept-pagina's, excl. hubs)
-+13  relatiepagina's totaal
-+10  inzichtpagina's totaal
-+13  gaps gedicht
++23  wiki-pagina's totaal (concept-pagina's, excl. hubs)
++17  relatiepagina's totaal
++13  inzichtpagina's totaal
++18  gaps gedicht
 +0   merges uitgevoerd
 ±0   verweesde notities
 ```
@@ -58,6 +58,7 @@ updated: 2026-07-09
 
 | Datum      | Overall | Coverage | Connectivity |
 |---|---|---|---|
+| 2026-07-09 | 79%     | 29%      | 100%         |
 | 2026-07-09 | 77%     | 24%      | 100%         |
 | 2026-07-08 | 76%     | 19%      | 100%         |
 | 2026-07-08 | 66%     | 20%      | 75%          |

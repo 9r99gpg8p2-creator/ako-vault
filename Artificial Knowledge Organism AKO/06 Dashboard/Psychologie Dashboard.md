@@ -15,7 +15,7 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 79%   | ↑     |
+| 81%   | ↑     |
 
 ---
 
@@ -23,13 +23,13 @@ updated: 2026-07-09
 
 | Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage     | 30%   | ≥ 85%        |
+| Coverage     | 35%   | ≥ 85%        |
 | Connectivity | 100%  | ≥ 90%        |
 | Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (6)
+## Wiki-pagina's (7)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
@@ -38,7 +38,8 @@ updated: 2026-07-09
 | [[Executieve Functies]] | 9 | 5 |
 | [[Anosognosie]] | 8 | 3 |
 | [[Geheugenconsolidatie]] | 5 | 3 |
-| [[Reconsolidatie]] | 5 | 4 |
+| [[Reconsolidatie]] | 5 | 5 |
+| [[PTSD]] | 5 | 5 |
 
 ---
 
@@ -47,26 +48,26 @@ updated: 2026-07-09
 | Subcategorie              | Pagina's | Status |
 |---|---|---|
 | Neuropsychologische revalidatie | 3 (Rehab + Anosognosie + Executief) | Actief |
-| Geheugen & consolidatie | 3 (Werkgeheugen + Geheugenconsolidatie + Reconsolidatie) | Actief |
+| Geheugen & consolidatie | 4 (Werkgeheugen + Geheugenconsolidatie + Reconsolidatie + PTSD) | Actief |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- PTSD ↓ (nieuw gesignaleerd)
+- Embodied Cognition ↓ (nieuw gesignaleerd)
+- EMDR ↓ (nieuw gesignaleerd)
 - Aandacht
 - Neuropsychologische diagnostiek
-- Cognitieve belasting (Sweller)
 
 ---
 
 ## Trend — Laatste 30 dagen
 
 ```
-+6 concept-pagina's totaal
-+1 nieuwe concept deze run (Reconsolidatie)
-+1 gap gedicht (Reconsolidatie)
-+1 nieuw gap (PTSD)
++7 concept-pagina's totaal
++1 nieuwe concept deze run (PTSD)
++1 gap gedicht (PTSD)
++2 nieuw gaps (Embodied Cognition, EMDR)
 ```
 
 ---

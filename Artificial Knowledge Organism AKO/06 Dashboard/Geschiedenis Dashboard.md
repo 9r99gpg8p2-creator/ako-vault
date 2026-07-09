@@ -15,7 +15,7 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 76%   | ↑     |
+| 78%   | ↑     |
 
 ---
 
@@ -23,20 +23,21 @@ updated: 2026-07-09
 
 | Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage     | 20%   | ≥ 85%        |
+| Coverage     | 25%   | ≥ 85%        |
 | Connectivity | 100%  | ≥ 90%        |
 | Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (4)
+## Wiki-pagina's (5)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
 | [[Wetenschappelijke Revolutie]] | 9 | 3 |
-| [[Paradigmawisseling]] | 9 | 5 |
+| [[Paradigmawisseling]] | 9 | 6 |
 | [[Industriële Revolutie]] | 5 | 3 |
 | [[De Verlichting]] | 5 | 5 |
+| [[Geschiedenis van de Psychiatrie]] | 5 | 6 |
 
 ---
 
@@ -46,23 +47,23 @@ updated: 2026-07-09
 |---|---|---|
 | Wetenschapsgeschiedenis | 3 (Wetenschappelijke Revolutie + Paradigmawisseling + De Verlichting) | Actief |
 | Economische geschiedenis | 1 (Industriële Revolutie) | Groeiend |
+| Medische geschiedenis | 1 (Geschiedenis van de Psychiatrie) | Nieuw |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
 - Cognitieve Revolutie (psychologiegeschiedenis)
-- Galileo Galilei / Isaac Newton
 - Franse Revolutie
+- Galileo Galilei / Isaac Newton
 
 ---
 
 ## Trend — Laatste 30 dagen
 
 ```
-+4 concept-pagina's totaal
-+1 nieuwe concept deze run (De Verlichting)
-+1 gap gedicht (Verlichting)
++5 concept-pagina's totaal
++1 nieuwe concept deze run (Geschiedenis van de Psychiatrie)
 ```
 
 ---

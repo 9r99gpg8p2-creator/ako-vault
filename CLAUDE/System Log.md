@@ -118,3 +118,24 @@ type: operationeel
 | 2026-07-09 | 00:07Z | Agent 7 | Knowledge Health berekend | ✓ | Overall: 77% — Coverage 24%, Connectivity 100%, Orphan 0% — alle 4 disciplines |
 | 2026-07-09 | 00:07Z | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (77%), Psychologie (79%), Filosofie (76%), Geschiedenis (76%), Beleggen (78%) |
 | 2026-07-09 | 00:08Z | Orchestrator | Pipeline voltooid | ✓ | 4 pagina's · 4 verbindingen · 3 inzichten · Health: 77% |
+| 2026-07-09 | pipeline | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-09 | pipeline | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-09 | pipeline | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: PTSD (Psych gap ↓), Efficiënte Markthypothese (Beleg gap ↓), Fenomenologie (Fil — minste pagina's), Geschiedenis van de Psychiatrie (Gesch — minste pagina's) |
+| 2026-07-09 | pipeline | Agent 3 | Wiki aangemaakt | ✓ | PTSD.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-09 | pipeline | Agent 3 | Wiki aangemaakt | ✓ | Efficiënte Markthypothese.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-09 | pipeline | Agent 3 | Wiki aangemaakt | ✓ | Fenomenologie.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-09 | pipeline | Agent 3 | Wiki aangemaakt | ✓ | Geschiedenis van de Psychiatrie.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-09 | pipeline | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps: Embodied Cognition (Psych), Psychoanalyse (Fil), EMDR (Psych) |
+| 2026-07-09 | pipeline | Agent 4 | Relatiepagina aangemaakt | ✓ | Fenomenologie — PTSD.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-09 | pipeline | Agent 4 | Relatiepagina aangemaakt | ✓ | Efficiënte Markthypothese — Paradigmawisseling.md — sterkte ★8 — Beleggen × Geschiedenis |
+| 2026-07-09 | pipeline | Agent 4 | Relatiepagina aangemaakt | ✓ | Geschiedenis van de Psychiatrie — Fenomenologie.md — sterkte ★7 — Geschiedenis × Filosofie |
+| 2026-07-09 | pipeline | Agent 4 | Relatiepagina aangemaakt | ✓ | PTSD — Reconsolidatie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-09 | pipeline | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Verleden als Open Bestand.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-09 | pipeline | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Markt die Zichzelf Weerlegde.md — Beleggen → Geschiedenis — sterkte ★8 |
+| 2026-07-09 | pipeline | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Patiënt die Eerst Begrepen Moet Worden.md — Geschiedenis → Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-09 | pipeline | Agent 6 | Dagrapport bijgewerkt | ✓ | 2026-07-09 Dagrapport.md — geüpdatet met pipeline-run resultaten |
+| 2026-07-09 | pipeline | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-09 Quiz.md — 3 vragen toegevoegd over PTSD, EMH en Fenomenologie |
+| 2026-07-09 | pipeline | Agent 6 | Weekreflectie | ↓ | Week 28 reflectie bestaat reeds (2026-28 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-09 | pipeline | Agent 7 | Knowledge Health berekend | ✓ | Overall: 79% — Coverage 29%, Connectivity 100%, Orphan 0% — Psych 81%, Fil 78%, Gesch 78%, Beleg 79% |
+| 2026-07-09 | pipeline | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (79%), Psychologie (81%), Filosofie (78%), Geschiedenis (78%), Beleggen (79%) |
+| 2026-07-09 | pipeline | Orchestrator | Pipeline voltooid | ✓ | 4 pagina's · 4 verbindingen · 3 inzichten · Health: 79% |

@@ -15,7 +15,7 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 78%   | ↑     |
+| 79%   | ↑     |
 
 ---
 
@@ -23,13 +23,13 @@ updated: 2026-07-09
 
 | Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage     | 25%   | ≥ 85%        |
+| Coverage     | 30%   | ≥ 85%        |
 | Connectivity | 100%  | ≥ 90%        |
 | Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (5)
+## Wiki-pagina's (6)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
@@ -38,6 +38,7 @@ updated: 2026-07-09
 | [[Gedragseconomie]] | 9 | 6 |
 | [[Cognitieve Biases]] | 5 | 4 |
 | [[Herding]] | 5 | 6 |
+| [[Efficiënte Markthypothese]] | 5 | 6 |
 
 ---
 
@@ -46,12 +47,12 @@ updated: 2026-07-09
 | Subcategorie   | Pagina's | Status |
 |---|---|---|
 | Gedragseconomie | 5 (Prospect Theory + Verliesaversie + Gedragseconomie + Cognitieve Biases + Herding) | Actief |
+| Markttheorie | 1 (Efficiënte Markthypothese) | Nieuw |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- Efficiënte Markthypothese ↓ (nieuw gesignaleerd)
 - Diversificatie
 - Risicopremie
 - Ankering (als standalone concept)
@@ -61,10 +62,9 @@ updated: 2026-07-09
 ## Trend — Laatste 30 dagen
 
 ```
-+5 concept-pagina's totaal
-+1 nieuwe concept deze run (Herding)
-+1 gap gedicht (Herding)
-+1 nieuw gap (Efficiënte Markthypothese)
++6 concept-pagina's totaal
++1 nieuwe concept deze run (Efficiënte Markthypothese)
++1 gap gedicht (Efficiënte Markthypothese)
 ```
 
 ---

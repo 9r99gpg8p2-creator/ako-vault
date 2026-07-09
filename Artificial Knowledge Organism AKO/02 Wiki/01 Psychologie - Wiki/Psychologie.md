@@ -20,3 +20,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Anosognosie]]
 - [[Geheugenconsolidatie]]
 - [[Reconsolidatie]]
+- [[PTSD]]
