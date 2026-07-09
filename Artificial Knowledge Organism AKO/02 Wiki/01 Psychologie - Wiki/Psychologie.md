@@ -19,3 +19,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Executieve Functies]]
 - [[Anosognosie]]
 - [[Geheugenconsolidatie]]
+- [[Reconsolidatie]]

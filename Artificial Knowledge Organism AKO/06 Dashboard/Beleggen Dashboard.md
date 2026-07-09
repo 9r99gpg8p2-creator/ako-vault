@@ -2,7 +2,7 @@
 tags: [dashboard, beleggen]
 type: dashboard
 discipline: beleggen
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
 # Beleggen Dashboard
@@ -15,7 +15,7 @@ updated: 2026-07-08
 
 | Score | Trend |
 |---|---|
-| 76%   | ↑     |
+| 78%   | ↑     |
 
 ---
 
@@ -23,20 +23,21 @@ updated: 2026-07-08
 
 | Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage     | 20%   | ≥ 85%        |
+| Coverage     | 25%   | ≥ 85%        |
 | Connectivity | 100%  | ≥ 90%        |
 | Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (4)
+## Wiki-pagina's (5)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
 | [[Prospect Theory]] | 9 | 3 |
 | [[Verliesaversie]] | 9 | 4 |
-| [[Gedragseconomie]] | 9 | 5 |
+| [[Gedragseconomie]] | 9 | 6 |
 | [[Cognitieve Biases]] | 5 | 4 |
+| [[Herding]] | 5 | 6 |
 
 ---
 
@@ -44,14 +45,13 @@ updated: 2026-07-08
 
 | Subcategorie   | Pagina's | Status |
 |---|---|---|
-| Gedragseconomie | 4 (Prospect Theory + Verliesaversie + Gedragseconomie + Cognitieve Biases) | Actief |
+| Gedragseconomie | 5 (Prospect Theory + Verliesaversie + Gedragseconomie + Cognitieve Biases + Herding) | Actief |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- Herding / Kuddegedrag ↓ (nieuw gesignaleerd)
-- Efficiënte Markthypothese
+- Efficiënte Markthypothese ↓ (nieuw gesignaleerd)
 - Diversificatie
 - Risicopremie
 - Ankering (als standalone concept)
@@ -61,10 +61,10 @@ updated: 2026-07-08
 ## Trend — Laatste 30 dagen
 
 ```
-+4 concept-pagina's totaal
-+1 nieuwe concept deze run (Cognitieve Biases)
-+1 gap gedicht (Cognitieve biases — overzicht)
-+1 nieuw gap (Herding)
++5 concept-pagina's totaal
++1 nieuwe concept deze run (Herding)
++1 gap gedicht (Herding)
++1 nieuw gap (Efficiënte Markthypothese)
 ```
 
 ---

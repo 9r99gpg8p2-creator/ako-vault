@@ -55,6 +55,8 @@ Descartes onderscheidde lichaam (mechanisch, deterministisch) en geest (vrij), w
 **Cross-domein:**
 - [[Executieve Functies]] — verbinding: de neurowetenschappelijke basis van zelfcontrole en intentioneel handelen raakt direct aan de vraag naar vrije wil
 - [[Gedragseconomie]] — verbinding: als keuzes voorspelbaar irrationeel zijn, hoe vrij zijn ze dan werkelijk?
+- [[De Verlichting]] ★8 — historische context: de Verlichting vestigde het ideaal van de autonome rationele mens waarop het moderne vrije-wildebat is gebaseerd
+- [[Morele Verantwoordelijkheid]] ★9 — aanvulling: vrije wil is de directe filosofische voorwaarde voor morele verantwoordelijkheid
 
 ## Bronnen
 

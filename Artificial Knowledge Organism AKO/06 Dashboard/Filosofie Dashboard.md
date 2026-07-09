@@ -2,7 +2,7 @@
 tags: [dashboard, filosofie]
 type: dashboard
 discipline: filosofie
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
 # Filosofie Dashboard
@@ -15,7 +15,7 @@ updated: 2026-07-08
 
 | Score | Trend |
 |---|---|
-| 75%   | ↑     |
+| 76%   | ↑     |
 
 ---
 
@@ -23,19 +23,20 @@ updated: 2026-07-08
 
 | Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage     | 15%   | ≥ 85%        |
+| Coverage     | 20%   | ≥ 85%        |
 | Connectivity | 100%  | ≥ 90%        |
 | Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (3)
+## Wiki-pagina's (4)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
 | [[Filosofie van de Geest]] | 8 | 3 |
 | [[Bewustzijn]] | 7 | 3 |
-| [[Vrije Wil]] | 5 | 4 |
+| [[Vrije Wil]] | 5 | 6 |
+| [[Morele Verantwoordelijkheid]] | 5 | 6 |
 
 ---
 
@@ -43,13 +44,13 @@ updated: 2026-07-08
 
 | Subcategorie           | Pagina's | Status |
 |---|---|---|
-| Filosofie van de Geest | 3 (Filosofie v.d. Geest + Bewustzijn + Vrije Wil) | Actief |
+| Filosofie van de Geest | 2 (Filosofie v.d. Geest + Bewustzijn) | Actief |
+| Ethiek & handelen | 2 (Vrije Wil + Morele Verantwoordelijkheid) | Actief |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- Morele Verantwoordelijkheid ↓ (nieuw gesignaleerd)
 - Epistemologie
 - Functionalisme
 - Fenomenologie
@@ -59,10 +60,9 @@ updated: 2026-07-08
 ## Trend — Laatste 30 dagen
 
 ```
-+3 concept-pagina's totaal
-+1 nieuwe concept deze run (Vrije Wil)
-+1 gap gedicht (Vrije Wil)
-+1 nieuw gap (Morele Verantwoordelijkheid)
++4 concept-pagina's totaal
++1 nieuwe concept deze run (Morele Verantwoordelijkheid)
++1 gap gedicht (Morele Verantwoordelijkheid)
 ```
 
 ---

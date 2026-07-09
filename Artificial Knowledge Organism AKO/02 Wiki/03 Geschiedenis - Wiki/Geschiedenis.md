@@ -17,3 +17,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Wetenschappelijke Revolutie]]
 - [[Paradigmawisseling]]
 - [[Industriële Revolutie]]
+- [[De Verlichting]]

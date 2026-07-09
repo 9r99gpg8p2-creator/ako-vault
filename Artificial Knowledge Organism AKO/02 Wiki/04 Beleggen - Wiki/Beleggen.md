@@ -18,3 +18,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Verliesaversie]]
 - [[Gedragseconomie]]
 - [[Cognitieve Biases]]
+- [[Herding]]

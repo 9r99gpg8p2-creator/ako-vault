@@ -56,6 +56,7 @@ De klassieke economie baseerde zich op het axioma van de rationele beslisser die
 - [[Werkgeheugen]] — cognitieve basis: begrensde werkgeheugencapaciteit IS de cognitieve grondslag van bounded rationality; minder werkgeheugencapaciteit → meer heuristieken
 - [[Paradigmawisseling]] — gedragseconomie is een schoolvoorbeeld van een Kuhniaanse revolutie in de sociale wetenschappen
 - [[Industriële Revolutie]] ★7 — industrialisatie creëerde de marktomgevingen waarin gedragseconomische patronen historisch het meest manifest werden
+- [[De Verlichting]] ★9 — de gedragseconomie is de systematische weerlegging van het Verlichtingsideaal van de homo economicus
 
 ## Bronnen
 

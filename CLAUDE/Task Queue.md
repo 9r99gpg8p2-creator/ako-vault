@@ -40,9 +40,11 @@ type: operationeel
 | ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Geheugenconsolidatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Geheugenconsolidatie.md — confidence 5 |
 | ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Vrije Wil | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Vrije Wil.md — confidence 5 |
 | ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Cognitieve Biases (overzicht) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Cognitieve Biases.md — confidence 5 |
-| ↓ | 2026-07-08T06:01Z | Agent 3 | Gap: Reconsolidatie | Concept gesignaleerd in Geheugenconsolidatie — geen eigen pagina. Discipline: Psychologie. |
-| ↓ | 2026-07-08T06:01Z | Agent 3 | Gap: Morele Verantwoordelijkheid | Concept gesignaleerd in Vrije Wil — geen eigen pagina. Discipline: Filosofie. |
-| ↓ | 2026-07-08T06:01Z | Agent 3 | Gap: Herding | Concept gesignaleerd in Cognitieve Biases — geen eigen pagina. Discipline: Beleggen. |
+| ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Reconsolidatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Reconsolidatie.md — confidence 5 |
+| ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Morele Verantwoordelijkheid | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Morele Verantwoordelijkheid.md — confidence 5 |
+| ✓ | 2026-07-08T06:01Z | Agent 3 | Gap: Herding | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Herding.md — confidence 5 |
+| ↓ | 2026-07-09T00:03Z | Agent 3 | Gap: PTSD | Concept gesignaleerd in Reconsolidatie — geen eigen pagina. Discipline: Psychologie. |
+| ↓ | 2026-07-09T00:03Z | Agent 3 | Gap: Efficiënte Markthypothese | Concept gesignaleerd in Herding — geen eigen pagina. Discipline: Beleggen. |
 
 ---
 

@@ -2,7 +2,7 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
 # Psychologie Dashboard
@@ -15,7 +15,7 @@ updated: 2026-07-08
 
 | Score | Trend |
 |---|---|
-| 78%   | ↑     |
+| 79%   | ↑     |
 
 ---
 
@@ -23,13 +23,13 @@ updated: 2026-07-08
 
 | Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage     | 25%   | ≥ 85%        |
+| Coverage     | 30%   | ≥ 85%        |
 | Connectivity | 100%  | ≥ 90%        |
 | Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (5)
+## Wiki-pagina's (6)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
@@ -38,6 +38,7 @@ updated: 2026-07-08
 | [[Executieve Functies]] | 9 | 5 |
 | [[Anosognosie]] | 8 | 3 |
 | [[Geheugenconsolidatie]] | 5 | 3 |
+| [[Reconsolidatie]] | 5 | 4 |
 
 ---
 
@@ -46,13 +47,13 @@ updated: 2026-07-08
 | Subcategorie              | Pagina's | Status |
 |---|---|---|
 | Neuropsychologische revalidatie | 3 (Rehab + Anosognosie + Executief) | Actief |
-| Cognitieve psychologie    | 3 (Werkgeheugen + Executieve Functies + Geheugenconsolidatie) | Actief |
+| Geheugen & consolidatie | 3 (Werkgeheugen + Geheugenconsolidatie + Reconsolidatie) | Actief |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- Reconsolidatie ↓ (nieuw gesignaleerd)
+- PTSD ↓ (nieuw gesignaleerd)
 - Aandacht
 - Neuropsychologische diagnostiek
 - Cognitieve belasting (Sweller)
@@ -62,10 +63,10 @@ updated: 2026-07-08
 ## Trend — Laatste 30 dagen
 
 ```
-+5 concept-pagina's totaal
-+1 nieuwe concept deze run (Geheugenconsolidatie)
-+1 gap gedicht (Geheugenconsolidatie)
-+1 nieuw gap (Reconsolidatie)
++6 concept-pagina's totaal
++1 nieuwe concept deze run (Reconsolidatie)
++1 gap gedicht (Reconsolidatie)
++1 nieuw gap (PTSD)
 ```
 
 ---

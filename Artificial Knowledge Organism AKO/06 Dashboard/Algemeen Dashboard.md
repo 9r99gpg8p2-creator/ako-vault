@@ -1,7 +1,7 @@
 ---
 tags: [dashboard, systeem]
 type: dashboard
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
 # Algemeen Dashboard — AKO
@@ -14,7 +14,7 @@ updated: 2026-07-08
 
 | Score | Trend |
 |---|---|
-| 76%   | ↑     |
+| 77%   | ↑     |
 
 ---
 
@@ -22,10 +22,10 @@ updated: 2026-07-08
 
 | Discipline   | Score | Trend |
 |---|---|---|
-| Psychologie  | 78%   | ↑     |
-| Filosofie    | 75%   | ↑     |
-| Geschiedenis | 75%   | ↑     |
-| Beleggen     | 76%   | ↑     |
+| Psychologie  | 79%   | ↑     |
+| Filosofie    | 76%   | ↑     |
+| Geschiedenis | 76%   | ↑     |
+| Beleggen     | 78%   | ↑     |
 
 ---
 
@@ -33,7 +33,7 @@ updated: 2026-07-08
 
 | Metric                | Score  | Gewicht | Streefwaarde |
 |---|---|---|---|
-| Coverage              | 19%    | 30%     | ≥ 85%        |
+| Coverage              | 24%    | 30%     | ≥ 85%        |
 | Connectivity          | 100%   | 30%     | ≥ 90%        |
 | Orphan Notes          | 0%     | 40%     | ≤ 3%         |
 
@@ -44,10 +44,10 @@ updated: 2026-07-08
 ## Trend Monitor — Laatste 30 dagen
 
 ```
-+15  wiki-pagina's totaal (concept-pagina's, excl. hubs)
-+9   relatiepagina's totaal
-+7   inzichtpagina's totaal
-+10  gaps gedicht
++19  wiki-pagina's totaal (concept-pagina's, excl. hubs)
++13  relatiepagina's totaal
++10  inzichtpagina's totaal
++13  gaps gedicht
 +0   merges uitgevoerd
 ±0   verweesde notities
 ```
@@ -58,6 +58,7 @@ updated: 2026-07-08
 
 | Datum      | Overall | Coverage | Connectivity |
 |---|---|---|---|
+| 2026-07-09 | 77%     | 24%      | 100%         |
 | 2026-07-08 | 76%     | 19%      | 100%         |
 | 2026-07-08 | 66%     | 20%      | 75%          |
 | 2026-07-07 | 58%     | 10%      | 50%          |

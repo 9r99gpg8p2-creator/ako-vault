@@ -56,6 +56,7 @@ Thomas Kuhn publiceerde *The Structure of Scientific Revolutions* in 1962 als bi
 **Cross-domein:**
 - [[Executieve Functies]] — analogie op individueel niveau: cognitieve flexibiliteit (shifting) is het individuele equivalent van het vermogen een paradigma los te laten
 - [[Gedragseconomie]] — gedragseconomie is een schoolvoorbeeld van een Kuhniaanse revolutie in de sociale wetenschappen
+- [[Herding]] ★7 — analogie: marktkuddegedrag produceert dezelfde opbouw-van-anomalieën-en-abrupte-omslag als Kuhniaanse paradigmacrises
 
 ## Bronnen
 
