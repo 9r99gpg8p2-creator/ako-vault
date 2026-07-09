@@ -15,7 +15,7 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 79%   | ↑     |
+| 79%   | →     |
 
 ---
 
@@ -33,9 +33,9 @@ updated: 2026-07-09
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
-| [[Prospect Theory]] | 9 | 3 |
+| [[Prospect Theory]] | 9 | 4 |
 | [[Verliesaversie]] | 9 | 4 |
-| [[Gedragseconomie]] | 9 | 6 |
+| [[Gedragseconomie]] | 9 | 7 |
 | [[Cognitieve Biases]] | 5 | 4 |
 | [[Herding]] | 5 | 6 |
 | [[Efficiënte Markthypothese]] | 5 | 6 |
@@ -47,7 +47,7 @@ updated: 2026-07-09
 | Subcategorie   | Pagina's | Status |
 |---|---|---|
 | Gedragseconomie | 5 (Prospect Theory + Verliesaversie + Gedragseconomie + Cognitieve Biases + Herding) | Actief |
-| Markttheorie | 1 (Efficiënte Markthypothese) | Nieuw |
+| Markttheorie | 1 (Efficiënte Markthypothese) | Groeiend |
 
 ---
 
@@ -63,8 +63,8 @@ updated: 2026-07-09
 
 ```
 +6 concept-pagina's totaal
-+1 nieuwe concept deze run (Efficiënte Markthypothese)
-+1 gap gedicht (Efficiënte Markthypothese)
++0 nieuwe concepten deze run
++1 verdichting: Gedragseconomie — Prospect Theory relatiepagina toegevoegd
 ```
 
 ---

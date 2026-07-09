@@ -2,38 +2,56 @@
 type: dagrapport
 date: 2026-07-09
 tags: [dagrapport]
+modus: consolidatie
 ---
 
 # Dagrapport — 9 juli 2026
 
 ## Daily Briefing
 
-Goedemorgen.
-
-Nieuwe kennis: 8 concepten toegevoegd (2 runs) · Verbindingen: 8 relaties gelegd · Inzichten: 6 · Gaps gedicht: 5 · Leestijd: ~12 min
-
-**Run 1 (00:00Z):** Reconsolidatie · Morele Verantwoordelijkheid · Herding · De Verlichting
-**Run 2 (pipeline):** PTSD · Efficiënte Markthypothese · Fenomenologie · Geschiedenis van de Psychiatrie
+Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 5 · Queue resterend: 0
 
 ---
 
 ## Research Agenda
 
-1. **Embodied Cognition** (Psychologie) — gesignaleerd in Fenomenologie; essentieel voor MSc Klinische Neuropsychologie en de verbinding tussen brein, lichaam en omgeving
-2. **Psychoanalyse** (Filosofie) — gesignaleerd in Geschiedenis van de Psychiatrie; historisch en theoretisch fundament van de westerse psychiatrie; brugpotentieel met Filosofie van de Geest
-3. **EMDR** (Psychologie) — gesignaleerd in PTSD; de meest gebruikte traumabehandeling verdient een eigen pagina met mechanistische onderbouwing via reconsolidatie
+Prioriteit 1: Neuropsychologische Rehabilitatie — verdiepen via Embodied Cognition-perspectief (nieuw inzicht: Het Lichaam als Therapeut)
+Prioriteit 2: Psychoanalyse — klinische toepassingen verkennen (psychodynamische therapie bij persoonlijkheidsstoornissen)
+Prioriteit 3: Executieve Functies — verdiepen link met EMDR (frontale inhibitiecontrole bij traumaverwerking)
+
+---
+
+## Gaps Gedicht
+
+1. Embodied Cognition — Psychologie
+2. Psychoanalyse — Filosofie
+3. EMDR — Psychologie
+
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+*(Geen Inbox-bestanden met status: nieuw aangetroffen.)*
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Embodied Cognition]] ↔ [[Fenomenologie]] · ★9
+2. [[EMDR]] ↔ [[PTSD]] · ★10
+3. [[Psychoanalyse]] ↔ [[Geschiedenis van de Psychiatrie]] · ★9
+4. [[Executieve Functies]] ↔ [[Werkgeheugen]] · ★9 *(verdichting)*
+5. [[Gedragseconomie]] ↔ [[Prospect Theory]] · ★10 *(verdichting)*
 
 ---
 
 ## Insight Feed
 
-— "Als traumatische herinneringen via reconsolidatietherapie kunnen worden herschreven, is het verleden geen vaststaand gegeven maar een voortdurend geconstrueerd narratief — en raakt de neuropsychologie rechtstreeks aan de filosofische vraag over vrije wil." [Psychologie → Filosofie · ★9]
+— "Wie het brein wil herstellen, moet het lichaam inschakelen — want cognitie is niet iets wat het brein alleen doet, maar iets wat het lichaam met de wereld doet." [Embodied Cognition → Neuropsychologische Rehabilitatie · ★8]
 
-— "De val van de Efficiënte Markthypothese ten gunste van behavioral finance illustreert Kuhns paradigmacrisis in de meest precieze zin: anomalieën stapelen zich op totdat een nieuw verklaringskader onvermijdelijk wordt." [Beleggen → Geschiedenis · ★8]
+— "Als onbewuste krachten ons handelen sturen zonder dat we er weet van hebben, dan is morele verantwoordelijkheid niet een gegeven maar een vraag die elke keer opnieuw gesteld moet worden." [Psychoanalyse → Morele Verantwoordelijkheid → Vrije Wil · ★9]
 
-— "De psychiatriegeschiedenis toont dat elke terugkeer naar de fenomenologische blik — de vraag hoe de wereld voor deze patiënt verschijnt — klinisch de meest vruchtbare beweging is." [Geschiedenis → Filosofie → Psychologie · ★8]
-
-— "Als herinneringen bij elke terugroeping onmerkbaar herschreven kunnen worden via reconsolidatie, dan is morele verantwoordelijkheid niet alleen een filosofisch ideaal maar ook een neurowetenschappelijk vraagstuk." [Psychologie → Filosofie · ★8]
+— "Herinneringen zijn geen opnames maar bewerkbare bestanden — en EMDR exploiteert precies dat: elke keer dat een traumatische herinnering wordt opgeroepen, wordt ze kwetsbaar voor herschrijving." [Reconsolidatie → EMDR → PTSD · ★9]
 
 ---
 
@@ -41,11 +59,11 @@ Nieuwe kennis: 8 concepten toegevoegd (2 runs) · Verbindingen: 8 relaties geleg
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 81% | ↑ |
-| Filosofie | 78% | ↑ |
-| Geschiedenis | 78% | ↑ |
-| Beleggen | 79% | ↑ |
-| **Overall** | **79%** | **↑** |
+| Psychologie | 84% | ↑ |
+| Filosofie | 79% | ↑ |
+| Geschiedenis | 78% | → |
+| Beleggen | 79% | → |
+| **Overall** | **80%** | **↑** |
 
 ---
 
@@ -53,15 +71,16 @@ Nieuwe kennis: 8 concepten toegevoegd (2 runs) · Verbindingen: 8 relaties geleg
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 8 (dag totaal) |
-| Nieuwe verbindingen | 8 |
-| Nieuwe inzichten | 6 |
-| Gaps gedicht | 5 |
-| Nieuwe gaps gesignaleerd | 5 |
+| Nieuwe Wiki-pagina's | 3 |
+| Nieuwe relatiepagina's | 5 |
+| Nieuwe inzichtpagina's | 3 |
+| Gaps gedicht | 3 |
+| Queue resterend | 0 |
+| Quiz vragen toegevoegd | 3 |
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Wikipedia API nog steeds geblokkeerd (E-003) — pagina's van run 2 op confidence 5; update zodra API beschikbaar
-- [ ] 3 nieuwe gaps in queue: Embodied Cognition (Psych), Psychoanalyse (Fil), EMDR (Psych)
+- [ ] Wikipedia API nog steeds geblokkeerd (E-003) — nieuwe pagina's op confidence 5; update zodra API beschikbaar
+- [ ] Queue is leeg na deze run — volgende sessie zal nieuwe gaps moeten signaleren

@@ -15,7 +15,7 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 78%   | ↑     |
+| 78%   | →     |
 
 ---
 
@@ -34,10 +34,10 @@ updated: 2026-07-09
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
 | [[Wetenschappelijke Revolutie]] | 9 | 3 |
-| [[Paradigmawisseling]] | 9 | 6 |
+| [[Paradigmawisseling]] | 9 | 7 |
 | [[Industriële Revolutie]] | 5 | 3 |
 | [[De Verlichting]] | 5 | 5 |
-| [[Geschiedenis van de Psychiatrie]] | 5 | 6 |
+| [[Geschiedenis van de Psychiatrie]] | 5 | 7 |
 
 ---
 
@@ -47,7 +47,7 @@ updated: 2026-07-09
 |---|---|---|
 | Wetenschapsgeschiedenis | 3 (Wetenschappelijke Revolutie + Paradigmawisseling + De Verlichting) | Actief |
 | Economische geschiedenis | 1 (Industriële Revolutie) | Groeiend |
-| Medische geschiedenis | 1 (Geschiedenis van de Psychiatrie) | Nieuw |
+| Medische geschiedenis | 1 (Geschiedenis van de Psychiatrie) | Actief |
 
 ---
 
@@ -55,7 +55,7 @@ updated: 2026-07-09
 
 - Cognitieve Revolutie (psychologiegeschiedenis)
 - Franse Revolutie
-- Galileo Galilei / Isaac Newton
+- Industrialisatie & psyche
 
 ---
 
@@ -63,7 +63,8 @@ updated: 2026-07-09
 
 ```
 +5 concept-pagina's totaal
-+1 nieuwe concept deze run (Geschiedenis van de Psychiatrie)
++0 nieuwe concepten deze run
++1 nieuwe relatiepagina (Psychoanalyse — Geschiedenis van de Psychiatrie)
 ```
 
 ---

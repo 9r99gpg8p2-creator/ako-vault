@@ -21,3 +21,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Geheugenconsolidatie]]
 - [[Reconsolidatie]]
 - [[PTSD]]
+- [[Embodied Cognition]]
+- [[EMDR]]

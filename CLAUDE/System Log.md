@@ -139,3 +139,24 @@ type: operationeel
 | 2026-07-09 | pipeline | Agent 7 | Knowledge Health berekend | ✓ | Overall: 79% — Coverage 29%, Connectivity 100%, Orphan 0% — Psych 81%, Fil 78%, Gesch 78%, Beleg 79% |
 | 2026-07-09 | pipeline | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (79%), Psychologie (81%), Filosofie (78%), Geschiedenis (78%), Beleggen (79%) |
 | 2026-07-09 | pipeline | Orchestrator | Pipeline voltooid | ✓ | 4 pagina's · 4 verbindingen · 3 inzichten · Health: 79% |
+| 2026-07-09 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-09 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen bestanden met status: nieuw — STAP 1.5 overgeslagen |
+| 2026-07-09 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle APIs onbereikbaar. Interne kennis gebruikt, confidence 5. |
+| 2026-07-09 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Embodied Cognition.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-09 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Psychoanalyse.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-09 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | EMDR.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-09 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Embodied Cognition — Fenomenologie.md — sterkte ★9 — Psychologie × Filosofie |
+| 2026-07-09 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | EMDR — PTSD.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-09 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Psychoanalyse — Geschiedenis van de Psychiatrie.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-09 | consolidatie | Agent 4 | Verdichting relatiepagina | ✓ | Executieve Functies — Werkgeheugen.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-09 | consolidatie | Agent 4 | Verdichting relatiepagina | ✓ | Gedragseconomie — Prospect Theory.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-09 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Lichaam als Therapeut.md — Embodied Cognition → Neuropsychologische Rehabilitatie — sterkte ★8 |
+| 2026-07-09 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Onbewuste als Vrijheidsbeperker.md — Psychoanalyse → Morele Verantwoordelijkheid → Vrije Wil — sterkte ★9 |
+| 2026-07-09 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Trauma Herschreven.md — Reconsolidatie → EMDR → PTSD — sterkte ★9 |
+| 2026-07-09 | consolidatie | Agent 6 | Dagrapport bijgewerkt | ✓ | 2026-07-09 Dagrapport.md — consolidatiemodus — 3 gaps, 5 verbindingen, 3 inzichten |
+| 2026-07-09 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-09 Quiz.md — 3 vragen toegevoegd (Embodied Cognition, Psychoanalyse, Fenomenologie vergelijking) |
+| 2026-07-09 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 80% — Coverage 32.5%, Connectivity 100%, Orphan 0% — Psych 84%, Fil 79%, Gesch 78%, Beleg 79% |
+| 2026-07-09 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (80%), Psychologie (84%), Filosofie (79%), Geschiedenis (78%), Beleggen (79%) |
+| 2026-07-09 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Embodied Cognition, EMDR) · Filosofie: +1 (Psychoanalyse) · Geschiedenis: +0 · Beleggen: +0 |
+| 2026-07-09 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 5:26 (≥ 1:5 ✓) |
+| 2026-07-09 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps · Health: 80% |

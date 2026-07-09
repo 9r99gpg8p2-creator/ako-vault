@@ -15,7 +15,7 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 78%   | ↑     |
+| 79%   | ↑     |
 
 ---
 
@@ -23,13 +23,13 @@ updated: 2026-07-09
 
 | Metric       | Score | Streefwaarde |
 |---|---|---|
-| Coverage     | 25%   | ≥ 85%        |
+| Coverage     | 30%   | ≥ 85%        |
 | Connectivity | 100%  | ≥ 90%        |
 | Orphan Notes | 0%    | ≤ 3%         |
 
 ---
 
-## Wiki-pagina's (5)
+## Wiki-pagina's (6)
 
 | Pagina | Confidence | Verbindingen |
 |---|---|---|
@@ -38,6 +38,7 @@ updated: 2026-07-09
 | [[Vrije Wil]] | 5 | 6 |
 | [[Morele Verantwoordelijkheid]] | 5 | 6 |
 | [[Fenomenologie]] | 5 | 6 |
+| [[Psychoanalyse]] | 5 | 5 |
 
 ---
 
@@ -47,24 +48,24 @@ updated: 2026-07-09
 |---|---|---|
 | Filosofie van de Geest | 3 (Filosofie v.d. Geest + Bewustzijn + Fenomenologie) | Actief |
 | Ethiek & handelen | 2 (Vrije Wil + Morele Verantwoordelijkheid) | Actief |
+| Psychodynamisch | 1 (Psychoanalyse) | Nieuw |
 
 ---
 
 ## Ontbrekende kernconcepten (gaps)
 
-- Psychoanalyse ↓ (nieuw gesignaleerd)
 - Epistemologie
 - Functionalisme
+- Fenomenologische psychologie (Husserl)
 
 ---
 
 ## Trend — Laatste 30 dagen
 
 ```
-+5 concept-pagina's totaal
-+1 nieuwe concept deze run (Fenomenologie)
-+1 gap gedicht (Fenomenologie)
-+1 nieuw gap (Psychoanalyse)
++6 concept-pagina's totaal
++1 nieuwe concept deze run (Psychoanalyse)
++1 gap gedicht (Psychoanalyse)
 ```
 
 ---
