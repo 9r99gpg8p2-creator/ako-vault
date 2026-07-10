@@ -1,67 +1,49 @@
 ---
-discipline: psychologie
-type: template
 status: template
 ---
 
 # Inbox — Psychologie
 
-Plaats jouw aantekeningen in deze map. De pipeline verwerkt ze automatisch bij de volgende run.
+Drop hier elk `.md` bestand met psychologie-inhoud. **Geen frontmatter vereist.**
+
+Het systeem detecteert automatisch de discipline, extraheert wiki-kandidaten en verwerkt ze.
 
 ---
 
-## Formaat: Collegeaantekening
+## Minimaal voorbeeld (werkt direct)
+
+```markdown
+# Hoorcollege Cognitieve Neuropsychologie — 9 juli 2026
+
+Werkgeheugen is het systeem dat informatie tijdelijk actief houdt.
+Baddeley (1974) onderscheidt: fonologische lus, visuospatieel kladblok,
+centrale executieve en episodische buffer.
+
+Reconsolidatie: herinneringen worden bij ophaling labil en kunnen worden
+overschreven. Window: ~6 uur. Relevant voor EMDR bij PTSD.
+
+Cognitieve belasting: de hoeveelheid werkgeheugen die een taak vereist.
+Hoge belasting verstoort leren. Sweller (1988).
+```
+
+Agent 1 haalt hieruit automatisch: Werkgeheugen, Reconsolidatie, EMDR, PTSD, Cognitieve belasting.
+
+---
+
+## Optioneel: frontmatter voor meer controle
 
 ```markdown
 ---
 discipline: psychologie
-type: collegeaantekening
-bron: Hoorcollege [Vaknaam] — Universiteit Utrecht
+type: collegeaantekening | boek-samenvatting | artikel-resumé | opdracht
+bron: Titel — Auteur (jaar)
 datum: 2026-07-09
-status: nieuw
 ---
-
-# [Titel college]
-
-[Jouw aantekeningen in eigen woorden]
-
-## Concepten
-- Concept A — [korte omschrijving]
-- Concept B — [korte omschrijving]
-
-## Bronnen die de docent noemde
-- Auteur (jaar). Titel.
 ```
 
----
-
-## Formaat: Artikel / Paper
-
-```markdown
----
-discipline: psychologie
-type: artikel-resumé
-bron: Auteur, A. (jaar). Titel artikel. Journal, vol(nr), pp–pp.
-datum: 2026-07-09
-status: nieuw
----
-
-# Resumé: [Artikeltitel]
-
-[Eigen samenvatting]
-
-## Kernbevindingen
-1. ...
-2. ...
-
-## Verband met wat ik al weet
-- Lijkt op [[Werkgeheugen]] omdat...
-- Contrasteert met [[Reconsolidatie]] omdat...
-```
+Zonder frontmatter werkt het ook. Met frontmatter heb je meer controle over de bron-attributie.
 
 ---
 
-> **Regels:**
-> - Zet `status: nieuw` om verwerking te activeren
-> - Bestanden met `status: verwerkt` worden niet opnieuw verwerkt
-> - Dit templatebestand (status: template) wordt nooit aangeraakt door de pipeline
+> Bestanden met `status: verwerkt` worden niet opnieuw verwerkt.
+> Bestanden die beginnen met `_` worden altijd overgeslagen (dit bestand dus ook).

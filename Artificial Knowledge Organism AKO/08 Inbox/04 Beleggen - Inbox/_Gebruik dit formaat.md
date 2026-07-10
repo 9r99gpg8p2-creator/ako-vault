@@ -1,67 +1,29 @@
 ---
-discipline: beleggen
-type: template
 status: template
 ---
 
 # Inbox — Beleggen
 
-Plaats jouw aantekeningen in deze map. De pipeline verwerkt ze automatisch bij de volgende run.
+Drop hier elk `.md` bestand met beleggen/economie-inhoud. **Geen frontmatter vereist.**
 
 ---
 
-## Formaat: Collegeaantekening
+## Minimaal voorbeeld (werkt direct)
 
 ```markdown
----
-discipline: beleggen
-type: collegeaantekening
-bron: Hoorcollege [Vaknaam] — Universiteit Utrecht
-datum: 2026-07-09
-status: nieuw
----
+# Aantekeningen: Gedragseconomie
 
-# [Titel college]
+Prospect Theory (Kahneman & Tversky, 1979): mensen evalueren uitkomsten
+als winsten of verliezen ten opzichte van een referentiepunt.
+Verliesaversie: verliezen wegen ~2x zwaarder dan equivalente winsten.
 
-[Jouw aantekeningen in eigen woorden]
+Efficiënte Markthypothese (Fama, 1970): alle beschikbare informatie is
+al verwerkt in de prijs. Zwakke, semi-sterke en sterke variant.
 
-## Concepten
-- Concept A — [korte omschrijving]
-- Concept B — [korte omschrijving]
-
-## Bronnen die de docent noemde
-- Auteur (jaar). Titel.
+Ankereffect: eerste aangeboden getal beïnvloedt oordelen disproportioneel.
 ```
 
 ---
 
-## Formaat: Artikel / Paper
-
-```markdown
----
-discipline: beleggen
-type: artikel-resumé
-bron: Auteur, A. (jaar). Titel artikel. Journal, vol(nr), pp–pp.
-datum: 2026-07-09
-status: nieuw
----
-
-# Resumé: [Artikeltitel]
-
-[Eigen samenvatting]
-
-## Kernbevindingen
-1. ...
-2. ...
-
-## Verband met wat ik al weet
-- Lijkt op [[Verliesaversie]] omdat...
-- Contrasteert met [[Efficiënte Markthypothese]] omdat...
-```
-
----
-
-> **Regels:**
-> - Zet `status: nieuw` om verwerking te activeren
-> - Bestanden met `status: verwerkt` worden niet opnieuw verwerkt
-> - Dit templatebestand (status: template) wordt nooit aangeraakt door de pipeline
+> Bestanden met `status: verwerkt` worden overgeslagen.
+> Bestanden die beginnen met `_` ook.

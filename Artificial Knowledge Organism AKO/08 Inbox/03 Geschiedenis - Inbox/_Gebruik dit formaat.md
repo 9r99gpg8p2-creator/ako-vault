@@ -1,66 +1,27 @@
 ---
-discipline: geschiedenis
-type: template
 status: template
 ---
 
 # Inbox — Geschiedenis
 
-Plaats jouw aantekeningen in deze map. De pipeline verwerkt ze automatisch bij de volgende run.
+Drop hier elk `.md` bestand met geschiedenis-inhoud. **Geen frontmatter vereist.**
 
 ---
 
-## Formaat: Collegeaantekening
+## Minimaal voorbeeld (werkt direct)
 
 ```markdown
----
-discipline: geschiedenis
-type: collegeaantekening
-bron: Hoorcollege [Vaknaam] — Universiteit Utrecht
-datum: 2026-07-09
-status: nieuw
----
+# Aantekeningen: Wetenschapsgeschiedenis
 
-# [Titel college]
+De Wetenschappelijke Revolutie (16e–17e eeuw) markeerde de overgang
+van aristotelisch wereldbeeld naar empirisch-mechanistisch denken.
+Copernicus, Galilei, Newton als sleutelfiguren.
 
-[Jouw aantekeningen in eigen woorden]
-
-## Concepten
-- Concept A — [korte omschrijving]
-- Concept B — [korte omschrijving]
-
-## Bronnen die de docent noemde
-- Auteur (jaar). Titel.
+Kuhn (1962): wetenschap werkt niet cumulatief maar via paradigmawisselingen.
+Normale wetenschap → anomalieën → crisis → revolutie → nieuw paradigma.
 ```
 
 ---
 
-## Formaat: Artikel / Paper
-
-```markdown
----
-discipline: geschiedenis
-type: artikel-resumé
-bron: Auteur, A. (jaar). Titel artikel. Journal, vol(nr), pp–pp.
-datum: 2026-07-09
-status: nieuw
----
-
-# Resumé: [Artikeltitel]
-
-[Eigen samenvatting]
-
-## Kernbevindingen
-1. ...
-2. ...
-
-## Verband met wat ik al weet
-- Lijkt op [[Paradigmawisseling]] omdat...
-```
-
----
-
-> **Regels:**
-> - Zet `status: nieuw` om verwerking te activeren
-> - Bestanden met `status: verwerkt` worden niet opnieuw verwerkt
-> - Dit templatebestand (status: template) wordt nooit aangeraakt door de pipeline
+> Bestanden met `status: verwerkt` worden overgeslagen.
+> Bestanden die beginnen met `_` ook.

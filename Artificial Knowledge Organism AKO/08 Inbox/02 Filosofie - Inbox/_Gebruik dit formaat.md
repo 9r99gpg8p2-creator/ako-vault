@@ -1,67 +1,32 @@
 ---
-discipline: filosofie
-type: template
 status: template
 ---
 
 # Inbox — Filosofie
 
-Plaats jouw aantekeningen in deze map. De pipeline verwerkt ze automatisch bij de volgende run.
+Drop hier elk `.md` bestand met filosofie-inhoud. **Geen frontmatter vereist.**
+
+Het systeem detecteert automatisch de discipline, extraheert wiki-kandidaten en verwerkt ze.
 
 ---
 
-## Formaat: Collegeaantekening
+## Minimaal voorbeeld (werkt direct)
 
 ```markdown
----
-discipline: filosofie
-type: collegeaantekening
-bron: Hoorcollege [Vaknaam] — Universiteit Utrecht
-datum: 2026-07-09
-status: nieuw
----
+# Aantekeningen: Filosofie van de Geest
 
-# [Titel college]
+Fenomenologie (Husserl, Heidegger): studie van bewuste ervaring vanuit
+het eerste-persoonsperspectief. Qualia zijn de subjectieve, kwalitatieve
+aspecten van bewuste ervaring.
 
-[Jouw aantekeningen in eigen woorden]
+Het Hard Problem of Consciousness (Chalmers, 1995): waarom en hoe
+produceren fysieke processen subjectieve ervaringen?
 
-## Concepten
-- Concept A — [korte omschrijving]
-- Concept B — [korte omschrijving]
-
-## Bronnen die de docent noemde
-- Auteur (jaar). Titel.
+Functionalisme: mentale toestanden worden gedefinieerd door hun
+functionele rol, niet door hun fysieke implementatie. Putnam (1960).
 ```
 
 ---
 
-## Formaat: Artikel / Paper
-
-```markdown
----
-discipline: filosofie
-type: artikel-resumé
-bron: Auteur, A. (jaar). Titel artikel. Journal, vol(nr), pp–pp.
-datum: 2026-07-09
-status: nieuw
----
-
-# Resumé: [Artikeltitel]
-
-[Eigen samenvatting]
-
-## Kernbevindingen
-1. ...
-2. ...
-
-## Verband met wat ik al weet
-- Lijkt op [[Bewustzijn]] omdat...
-- Contrasteert met [[Vrije Wil]] omdat...
-```
-
----
-
-> **Regels:**
-> - Zet `status: nieuw` om verwerking te activeren
-> - Bestanden met `status: verwerkt` worden niet opnieuw verwerkt
-> - Dit templatebestand (status: template) wordt nooit aangeraakt door de pipeline
+> Bestanden met `status: verwerkt` worden niet opnieuw verwerkt.
+> Bestanden die beginnen met `_` worden altijd overgeslagen.
