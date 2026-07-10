@@ -1,6 +1,11 @@
 # Persoonlijke data — nooit pushen
 Artificial Knowledge Organism AKO/01 Raw/
 
+# Inbox originelen — alleen .md conversies worden getrackt (PDF/Word blijft lokaal)
+Artificial Knowledge Organism AKO/08 Inbox/**/*.pdf
+Artificial Knowledge Organism AKO/08 Inbox/**/*.docx
+Artificial Knowledge Organism AKO/08 Inbox/**/*.doc
+
 # Obsidian lokale staat
 .obsidian/workspace.json
 .obsidian/plugins/
