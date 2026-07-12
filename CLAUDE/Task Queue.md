@@ -51,9 +51,16 @@ type: operationeel
 
 ---
 
-| ↓ | 2026-07-09T expansie | Agent 3 | Gap: Slaap en Geheugenconsolidatie | Psychologie — neurobiologie van slaap als consolidatieproces; direct relevant MSc CNP |
-| ↓ | 2026-07-09T expansie | Agent 3 | Gap: Ethiek | Filosofie — normatieve ethiek (deontologie, consequentialisme, deugdethiek); fundament klinische dilemma's |
-| ↓ | 2026-07-09T expansie | Agent 3 | Gap: Eerste Wereldoorlog | Geschiedenis — voedingsbodem voor totalitarisme en fascisme; ontbrekende twintigste-eeuwse context |
+| ✓ | 2026-07-09T expansie | Agent 3 | Gap: Slaap en Geheugenconsolidatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Slaap en Geheugenconsolidatie.md — confidence 5 |
+| ✓ | 2026-07-09T expansie | Agent 3 | Gap: Ethiek | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Ethiek.md — confidence 5 |
+| ✓ | 2026-07-09T expansie | Agent 3 | Gap: Eerste Wereldoorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Eerste Wereldoorlog.md — confidence 5 |
+
+---
+
+| ↓ | 2026-07-12T consolidatie | Agent 3 | Gap: Piaget | Psychologie — constructivisme, cognitieve stadia, schema's; kernfiguur in Packer (2021); fundament ontwikkelingspsychologie |
+| ↓ | 2026-07-12T consolidatie | Agent 3 | Gap: Vygotsky | Psychologie — culturele psychologie, Zone van Naaste Ontwikkeling; direct relevant MSc KNP (cognitieve revalidatie) |
+| ↓ | 2026-07-12T consolidatie | Agent 3 | Gap: Klassieke Conditionering | Psychologie — Pavlov, Watson; leertheorie als basis voor gedragstherapie en phobiebehandeling |
+| ↓ | 2026-07-12T consolidatie | Agent 3 | Gap: Sociale Leertheorie | Psychologie — Bandura; observationeel leren, self-efficacy; brug tussen behaviorisme en cognitieve psychologie |
 
 ---
 

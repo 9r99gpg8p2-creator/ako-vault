@@ -184,3 +184,26 @@ type: operationeel
 | 2026-07-09 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Hechtingstheorie) · Filosofie: +1 (Epistemologie) · Geschiedenis: +1 (Totalitarisme) · Beleggen: +1 (Risicoperceptie) |
 | 2026-07-09 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:30 (≥ 1:5 ✓) |
 | 2026-07-09 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · Health: 82%
+| 2026-07-12 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-12 | consolidatie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel01.md | discipline: psychologie | 5 wiki-kandidaten (Hechtingstheorie UPDATE; Piaget, Vygotsky, Klassieke Conditionering, Sociale Leertheorie nieuw) |
+| 2026-07-12 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence 5. |
+| 2026-07-12 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | Slaap en Geheugenconsolidatie (queue ↓), Ethiek (queue ↓), Eerste Wereldoorlog (queue ↓) + Hechtingstheorie (Inbox UPDATE) |
+| 2026-07-12 | consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Hechtingstheorie.md — culturele dimensie toegevoegd (Packer 2021) — confidence verhoogd van 5 naar 8 |
+| 2026-07-12 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Slaap en Geheugenconsolidatie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-12 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Ethiek.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-12 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Eerste Wereldoorlog.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-12 | consolidatie | Agent 3 | Gap Engine | ✓ | 4 nieuwe gaps via Packer (2021): Piaget, Vygotsky, Klassieke Conditionering, Sociale Leertheorie |
+| 2026-07-12 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Slaap en Geheugenconsolidatie — PTSD.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-12 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Eerste Wereldoorlog — Totalitarisme.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-12 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Ethiek — Morele Verantwoordelijkheid.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-12 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Eerste Wereldoorlog — PTSD.md — sterkte ★8 — Geschiedenis × Psychologie |
+| 2026-07-12 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Slaap die Wonden Sluit.md — Psychologie (intra) — sterkte ★9 |
+| 2026-07-12 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Loopgraaf als Geboorteplaats van de Klinische Psychologie.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-12 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Plicht Zonder Vrijheid is Waan.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-12 | consolidatie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-12 Dagrapport.md — 3 concepten, 1 update, 4 verbindingen, 3 inzichten, 4 nieuwe gaps |
+| 2026-07-12 | consolidatie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-12 Quiz.md — 6 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-12 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 83% — Coverage 41.25%, Connectivity 100%, Orphan 0% — Psych 87%, Fil 82%, Gesch 81%, Beleg 81% |
+| 2026-07-12 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (83%), Psychologie (87%), Filosofie (82%), Geschiedenis (81%), Beleggen (81%) |
+| 2026-07-12 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Slaap en Geheugenconsolidatie) · Filosofie: +1 (Ethiek) · Geschiedenis: +1 (Eerste Wereldoorlog) · Beleggen: +0 |
+| 2026-07-12 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:37 (≥ 1:5 ✓) |
+| 2026-07-12 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 1 Inbox verwerkt · Health: 83% |

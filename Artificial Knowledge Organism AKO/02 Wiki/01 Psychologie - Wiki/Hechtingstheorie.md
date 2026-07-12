@@ -4,11 +4,12 @@ tags: [psychologie, concept]
 discipline: psychologie
 type: theorie
 status: concept
-confidence: 5
+confidence: 8
 sources:
   - "Bowlby, J. (1969). Attachment and Loss, Vol. 1: Attachment. Basic Books."
   - "Ainsworth, M.D.S., Blehar, M., Waters, E., & Wall, S. (1978). Patterns of Attachment. Erlbaum."
   - "Main, M. & Solomon, J. (1986). Discovery of an Insecure-Disorganized/Disoriented Attachment Pattern. Ablex."
+  - "Packer, M.J. (2021). Child Development: Understanding a Cultural Perspective (2nd ed.). SAGE. [gebruikersbron]"
 hub: "[[Psychologie]]"
 related:
   - "[[PTSD]]"
@@ -16,7 +17,7 @@ related:
   - "[[Executieve Functies]]"
   - "[[Reconsolidatie]]"
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-07-12
 ---
 
 # Hechtingstheorie
@@ -42,12 +43,22 @@ John Bowlby (1907–1990), Brits psychiater en psychoanalyticus, ontwikkelde de 
 
 De theorie heeft een enorme invloed gehad op de klinische psychologie, de ontwikkelingspsychologie en de neurobiologie. Neurowetenschappers als Allan Schore toonden aan dat vroege hechtingservaringen letterlijk de architectuur van de prefrontale cortex vormen via regulatie van stresshormonen in de eerste levensjaren.
 
+## Culturele Dimensie
+
+Packer (2021) benadrukt dat de klassieke hechtingstheorie een westers, WEIRD-vertekend (Western, Educated, Industrialized, Rich, Democratic) perspectief heeft. In de westerse traditie wordt autonomie en zelfstandigheid als het doel van hechting gezien. Echter, in traditionele gemeenschappen (bijv. de Nso-boeren in Kameroen) is het doel van de ouder-kindrelatie juist **interdependentie en conformiteit**, wat leidt tot een ander type zelf:
+
+- **Proximale stijl** (nabijheidsgerichte verzorging): lichamelijk contact, vaste draaggewoonten, responsiviteit op lichamelijke signalen → heteronome-gerelateerde zelfontwikkeling; geassocieerd met collectivistische culturen
+- **Distale stijl** (afstandsgerichte verzorging): oogcontact, face-to-face spel, verbale stimulering → autonome-gescheiden zelfontwikkeling; geassocieerd met westerse, individualistische culturen
+
+Dit betekent dat "veilige hechting" een cultureel gedefinieerd concept is: wat als veilig geldt in de ene cultuur kan als afstandelijk gelden in een andere. De aanname dat veilige hechting universeel leidt tot autonomie is dan ook bekritiseerd (Keller, 2018; Rothbaum et al., 2000).
+
 ## Toepassingen
 
 - **Klinische neuropsychologie**: hechtingsstijl beïnvloedt hoe patiënten reageren op diagnostisch onderzoek, op de therapeutische relatie, en op revalidatieprocessen na hersenletsel.
 - **Behandeling van trauma**: gedesorganiseerde hechting is een risicofactor voor de ontwikkeling van PTSD; veilige hechting is een beschermende factor.
 - **Gezinstherapie en ouderschapsondersteuning**: interventieprogramma's zoals Circle of Security en Video-feedback Intervention to Promote Positive Parenting (VIPP) zijn gebaseerd op hechtingstheorie.
 - **Attachment-Based Therapy (ABT)**: therapiemodaliteit gericht op het creëren van een veilige therapeutische basis en het herstructureren van interne werkmodellen.
+- **Ontwikkelingspsychologisch onderzoek**: de culturele variatie in hechtingspatronen vraagt om cross-cultureel onderzoek buiten WEIRD-steekproeven.
 
 ## Verbindingen
 
@@ -69,3 +80,4 @@ De theorie heeft een enorme invloed gehad op de klinische psychologie, de ontwik
 - Ainsworth, M.D.S., Blehar, M., Waters, E., & Wall, S. (1978). *Patterns of Attachment*. Erlbaum.
 - Main, M. & Solomon, J. (1986). Discovery of an Insecure-Disorganized/Disoriented Attachment Pattern. In T. Brazelton & M. Yogman (Eds.), *Affective Development in Infancy* (pp. 95–124). Ablex.
 - Schore, A.N. (2003). *Affect Dysregulation and Disorders of the Self*. Norton.
+- Packer, M.J. (2021). *Child Development: Understanding a Cultural Perspective* (2nd ed.). SAGE. — bron: gebruikersbron — Child Development. Second Edition - Martin J. Packer_deel01.md

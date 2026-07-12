@@ -2,7 +2,7 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-07-09
+updated: 2026-07-12
 ---
 
 # Psychologie Dashboard
@@ -15,67 +15,32 @@ updated: 2026-07-09
 
 | Score | Trend |
 |---|---|
-| 85%   | ↑     |
+| 87%   | ↑     |
 
 ---
 
 ## Metrics
 
-| Metric       | Score | Streefwaarde |
+| Metric       | Waarde | Streef |
 |---|---|---|
-| Coverage     | 50%   | ≥ 85%        |
-| Connectivity | 100%  | ≥ 90%        |
-| Orphan Notes | 0%    | ≤ 3%         |
+| Coverage     | 55%    | ≥ 85%  |
+| Connectivity | 100%   | ≥ 90%  |
+| Orphan       | 0%     | ≤ 3%   |
 
 ---
 
-## Wiki-pagina's (10)
+## Wiki-pagina's (11 concept-pagina's)
 
-| Pagina | Confidence | Verbindingen |
-|---|---|---|
-| [[Neuropsychologische Rehabilitatie]] | 8 | 4 |
-| [[Werkgeheugen]] | 9 | 5 |
-| [[Executieve Functies]] | 9 | 7 |
-| [[Anosognosie]] | 8 | 3 |
-| [[Geheugenconsolidatie]] | 5 | 3 |
-| [[Reconsolidatie]] | 5 | 6 |
-| [[PTSD]] | 5 | 6 |
-| [[Embodied Cognition]] | 5 | 5 |
-| [[EMDR]] | 5 | 5 |
-| [[Hechtingstheorie]] | 5 | 6 |
+- [[Anosognosie]] · [[EMDR]] · [[Embodied Cognition]]
+- [[Executieve Functies]] · [[Geheugenconsolidatie]] · [[Hechtingstheorie]]
+- [[Neuropsychologische Rehabilitatie]] · [[PTSD]] · [[Reconsolidatie]]
+- [[Slaap en Geheugenconsolidatie]] · [[Werkgeheugen]]
 
 ---
 
-## Subcategorieën
+## Gesignaleerde gaps
 
-| Subcategorie              | Pagina's | Status |
-|---|---|---|
-| Neuropsychologische revalidatie | 3 (Rehab + Anosognosie + Executief) | Actief |
-| Geheugen & consolidatie | 4 (Werkgeheugen + Geheugenconsolidatie + Reconsolidatie + PTSD) | Actief |
-| Trauma & behandeling | 3 (PTSD + EMDR + Hechtingstheorie) | Groeiend |
-| Belichaamd denken | 1 (Embodied Cognition) | Nieuw |
-
----
-
-## Ontbrekende kernconcepten (gaps)
-
-- Slaap en Geheugenconsolidatie
-- Neuropsychologische diagnostiek
-- Geheugenmodellen (episodisch / semantisch)
-
----
-
-## Trend — Laatste 30 dagen
-
-```
-+10 concept-pagina's totaal
-+1  nieuwe concepten deze run (Hechtingstheorie)
-+0  gaps gedicht
-+1  relatiepagina bijgedragen aan (Risicoperceptie — Executieve Functies)
-```
-
----
-
-## Dashboard verbindingen
-
-[[Algemeen Dashboard]] · [[Filosofie Dashboard]] · [[Geschiedenis Dashboard]] · [[Beleggen Dashboard]]
+- Piaget (via Packer 2021 — volgende run)
+- Vygotsky (via Packer 2021 — volgende run)
+- Klassieke Conditionering (via Packer 2021)
+- Sociale Leertheorie / Bandura (via Packer 2021)

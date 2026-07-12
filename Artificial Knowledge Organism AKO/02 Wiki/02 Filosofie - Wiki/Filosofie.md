@@ -21,3 +21,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Fenomenologie]]
 - [[Psychoanalyse]]
 - [[Epistemologie]]
+- [[Ethiek]]

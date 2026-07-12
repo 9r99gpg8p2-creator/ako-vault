@@ -24,3 +24,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Embodied Cognition]]
 - [[EMDR]]
 - [[Hechtingstheorie]]
+- [[Slaap en Geheugenconsolidatie]]
