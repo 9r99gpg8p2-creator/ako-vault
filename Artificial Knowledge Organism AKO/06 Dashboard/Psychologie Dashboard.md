@@ -15,12 +15,12 @@ updated: 2026-07-13
 
 | Metric | Waarde |
 |---|---|
-| Concept-pagina's | 24 |
-| Coverage (24/20) | 100%+ |
-| Connectivity | ~100% |
-| Orphan-rate | ~0% |
-| **Score** | **99%** |
-| Trend | ↑ (van 97% naar 99%) |
+| Concept-pagina's | 28 |
+| Coverage (28/20) | 100%+ |
+| Connectivity | 100% |
+| Orphan-rate | 0% |
+| **Score** | **100%** |
+| Trend | ↑ (van 99% naar 100%) |
 
 ---
 
@@ -52,10 +52,15 @@ updated: 2026-07-13
 | [[Interactieve Specialisatie]] | 8 | concept |
 | [[Precursor Emoties]] | 8 | concept |
 | [[Geleid Participeren]] | 8 | concept |
+| [[Semiotische Functie]] | 8 | uitgewerkt |
+| [[Sapir-Whorf Hypothese]] | 8 | uitgewerkt |
+| [[Zelf-evaluatieve Emoties]] | 8 | uitgewerkt |
+| [[Affordances]] | 7 | uitgewerkt |
 
 ---
 
 ## Gaps
 
-- Affordances (↓ queue — Gibson, 1966; perceptie-actie)
 - Intern Werkmodel (↓ queue — Bowlby; hechtingsrepresentaties)
+- Collectieve Intentionaliteit (↓ nieuw — Tomasello; groepsnormen bij 3-jarigen)
+- Spiegelzelfherkenning (↓ nieuw — rouge-test, zelfbesef, ASD-marker)

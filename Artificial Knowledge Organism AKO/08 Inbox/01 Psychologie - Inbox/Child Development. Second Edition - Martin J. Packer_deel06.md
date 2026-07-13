@@ -1,3 +1,9 @@
+---
+discipline: psychologie
+status: verwerkt
+verwerkt_op: 2026-07-13
+---
+
 As she hears words repeated across utterances, in situations with similarities, the
 toddler becomes familiar with the semantic roles they convey. This is not just a matter
 of forming associations between words and objects, as “mapping” theories assume,

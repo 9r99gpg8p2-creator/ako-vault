@@ -61,6 +61,7 @@ In de twintigste eeuw verschoof de epistemologie richting taalfilosofie (Wittgen
 - [[Werkgeheugen]] — cognitieve psychologie toont aan dat kennisverwerving beperkt wordt door biologische capaciteiten van het brein
 - [[Culturele Psychologie]] ★8 — culturele psychologie stelt dat het kennende subject zelf cultureel geconstitueerd is; een uitdaging voor klassieke epistemologische modellen
 - [[Culturele Ontwikkelingspaden]] ★9 — Keller's onderzoek daagt epistemologische universaliteitsaanspraken van westerse ontwikkelingspsychologie fundamenteel uit
+- [[Sapir-Whorf Hypothese]] ★9 — de these dat taal kennis en waarneming vormt is een empirisch-psychologische uitwerking van centrale epistemologische vragen over taal, denken en werkelijkheid
 
 ## Bronnen
 

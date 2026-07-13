@@ -305,3 +305,28 @@ type: operationeel
 | 2026-07-13 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:51 (≥ 1:5 ✓) |
 | 2026-07-13 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
 | 2026-07-13 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 1 Inbox verwerkt · Health: 87% |
+| 2026-07-13 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-13 | expansie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel06.md | discipline: psychologie | 5 wiki-kandidaten: Semiotische Functie (NIEUW), Sapir-Whorf Hypothese (NIEUW), Zelf-evaluatieve Emoties (NIEUW), Collectieve Intentionaliteit (NIEUW→↓), Spiegelzelfherkenning (NIEUW→↓) |
+| 2026-07-13 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor Inbox-concepten, 5 voor overige. |
+| 2026-07-13 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Affordances (queue↓ PRIORITEIT), Semiotische Functie (Inbox NIEUW), Sapir-Whorf Hypothese (Inbox NIEUW), Zelf-evaluatieve Emoties (Inbox NIEUW) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Affordances.md — 01 Psychologie - Wiki — confidence 7 (Gibson 1979 + Packer 2021) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Semiotische Functie.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021 + Piaget 1951 + Vygotsky 1967 + DeLoache 2004) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Sapir-Whorf Hypothese.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021 + Sapir 1929 + Regier & Kay 2009 + Boroditsky 2011) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Zelf-evaluatieve Emoties.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021 + Lewis 1995 + Holodynski 2009 + Erikson 1950) |
+| 2026-07-13 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Collectieve Intentionaliteit (Psych — Tomasello), Spiegelzelfherkenning (Psych — rouge-test) |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Sapir-Whorf Hypothese — Epistemologie.md — sterkte ★9 — Psychologie × Filosofie |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Zelf-evaluatieve Emoties — Morele Verantwoordelijkheid.md — sterkte ★9 — Psychologie × Filosofie |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Semiotische Functie — Filosofie van de Geest.md — sterkte ★8 — Psychologie × Filosofie |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Affordances — Embodied Cognition.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-13 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Taal als Architect van de Werkelijkheid.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-13 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Schaamte die Ons Maakt.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-13 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Kind dat Ziet Als.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-13 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-13 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-13 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-13 Quiz.md — 3 vragen toegevoegd (Sapir-Whorf, Semiotische Functie ASD, Zelf-evaluatieve Emoties CGT) |
+| 2026-07-13 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 88% — Coverage 60%, Connectivity 100%, Orphan 0% — Psych 100%, Fil 83%, Gesch 84%, Beleg 82% |
+| 2026-07-13 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 2 dashboards overschreven: Algemeen (88%), Psychologie (100%) |
+| 2026-07-13 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +4 (Semiotische Functie, Sapir-Whorf Hypothese, Zelf-evaluatieve Emoties, Affordances) |
+| 2026-07-13 | expansie | Agent 8 | Reverse links toegevoegd | ✓ | Epistemologie ← Sapir-Whorf ★9 · Morele Verantwoordelijkheid ← Zelf-evaluatieve Emoties ★9 · Filosofie van de Geest ← Semiotische Functie ★8 · Embodied Cognition ← Affordances ★10 |
+| 2026-07-13 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:55 (≥ 1:5 ✓) |
+| 2026-07-13 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Affordances gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ (Collectieve Intentionaliteit, Spiegelzelfherkenning) |
+| 2026-07-13 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 88% |

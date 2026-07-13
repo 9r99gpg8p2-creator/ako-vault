@@ -38,3 +38,7 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Interactieve Specialisatie]]
 - [[Precursor Emoties]]
 - [[Geleid Participeren]]
+- [[Semiotische Functie]]
+- [[Sapir-Whorf Hypothese]]
+- [[Zelf-evaluatieve Emoties]]
+- [[Affordances]]
