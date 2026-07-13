@@ -7,40 +7,49 @@ updated: 2026-07-13
 
 # Psychologie Dashboard
 
-> Gegenereerd door Agent 7. Wordt elke sessie overschreven.
+**Hub:** [[Psychologie]]
 
 ---
 
-## Score
+## Knowledge Health
 
-| Score | Trend |
+| Metric | Waarde |
 |---|---|
-| 91%   | ↑     |
+| Concept-pagina's | 18 |
+| Coverage (18/20) | 90% |
+| Connectivity | 100% |
+| Orphan-rate | 0% |
+| **Score** | **97%** |
+| Trend | ↑ (was 91%) |
 
 ---
 
-## Metrics
+## Concepten
 
-| Metric       | Waarde | Streef |
+| Concept | Confidence | Status |
 |---|---|---|
-| Coverage     | 70%    | ≥ 85%  |
-| Connectivity | 100%   | ≥ 90%  |
-| Orphan       | 0%     | ≤ 3%   |
+| [[Neuropsychologische Rehabilitatie]] | 8 | uitgewerkt |
+| [[Werkgeheugen]] | 9 | definitief |
+| [[Executieve Functies]] | 9 | definitief |
+| [[Anosognosie]] | 8 | uitgewerkt |
+| [[Geheugenconsolidatie]] | 5 | concept |
+| [[Reconsolidatie]] | 5 | concept |
+| [[PTSD]] | 5 | concept |
+| [[Embodied Cognition]] | 5 | concept |
+| [[EMDR]] | 5 | concept |
+| [[Hechtingstheorie]] | 8 | uitgewerkt |
+| [[Slaap en Geheugenconsolidatie]] | 5 | concept |
+| [[Piaget]] | 8 | uitgewerkt |
+| [[Vygotsky]] | 8 | uitgewerkt |
+| [[Culturele Psychologie]] | 8 | uitgewerkt |
+| [[Klassieke Conditionering]] | 9 | uitgewerkt |
+| [[Sociale Leertheorie]] | 9 | uitgewerkt |
+| [[Niche Constructie]] | 8 | uitgewerkt |
+| [[Behaviorisme]] | 9 | uitgewerkt |
 
 ---
 
-## Wiki-pagina's (14 concept-pagina's)
+## Gaps
 
-- [[Anosognosie]] · [[Culturele Psychologie]] · [[EMDR]] · [[Embodied Cognition]]
-- [[Executieve Functies]] · [[Geheugenconsolidatie]] · [[Hechtingstheorie]]
-- [[Neuropsychologische Rehabilitatie]] · [[Piaget]] · [[PTSD]] · [[Reconsolidatie]]
-- [[Slaap en Geheugenconsolidatie]] · [[Vygotsky]] · [[Werkgeheugen]]
-
----
-
-## Gesignaleerde gaps
-
-- Niche Constructie (via Packer 2021, deel02 — volgende run)
-- Behaviorisme (via Packer 2021, deel02 — volgende run)
-- Klassieke Conditionering (queue ↓)
-- Sociale Leertheorie / Bandura (queue ↓)
+Nog 2 pagina's tot coverage 100%:
+- Suggestie: Cognitieve Gedragstherapie, Neuroplasticiteit

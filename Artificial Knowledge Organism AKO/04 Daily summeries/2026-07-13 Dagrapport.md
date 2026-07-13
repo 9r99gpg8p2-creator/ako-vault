@@ -2,31 +2,60 @@
 type: dagrapport
 date: 2026-07-13
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 1 · Verbindingen: 4 · Inzichten: 3 · Gaps: 2 · Leestijd: 8 min
+Goedemorgen.
+
+Nieuwe kennis:          4 concepten toegevoegd · 1 pagina bijgewerkt
+Nieuwe artikelen:       0 (Wikipedia API geblokkeerd — interne kennis gebruikt)
+Nieuwe verbindingen:    5 relaties gelegd
+Nieuwe inzichten:       3 cross-domein inzichten gegenereerd
+Kennishiaten:           1 resterend gap (Koude Oorlog)
+Aanbevolen leestijd:    ~12 minuten
 
 ---
 
 ## Research Agenda
 
-1. **Niche Constructie** — inbox-gap uit Packer (2021), deel02: organisme-omgeving co-evolutie; fundament voor culturele psychologie en ontwikkelingspsychologie
-2. **Behaviorisme** — inbox-gap uit Packer (2021): Watson, Skinner, conditionering; grondslag voor gedragstherapie en klinische praktijk
-3. **Klassieke Conditionering** — queue ↓: directe klinische relevantie voor angststoornissen en exposure-therapie
-4. **Koude Oorlog** — Geschiedenis: logisch vervolg op Tweede Wereldoorlog; verbindt Totalitarisme, Paradigmawisseling en Morele Verantwoordelijkheid
+Prioriteit 1: **Behaviorisme** — kern van leerpsychologie; direct relevant voor gedragstherapie in klinische neuropsychologie
+Prioriteit 2: **Klassieke Conditionering** — empirische basis voor angststoornissen en PTSD-behandeling
+Prioriteit 3: **Sociale Leertheorie** — self-efficacy als predictor van revalidatie-uitkomst
+
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+1. [[Piaget]] — sensorimotor substadia en A-niet-B fout toegevoegd (bron: Packer 2021, deel03)
+
+## Nieuwe Pagina's
+
+1. [[Klassieke Conditionering]] — confidence 9 · Psychologie
+2. [[Sociale Leertheorie]] — confidence 9 · Psychologie
+3. [[Niche Constructie]] — confidence 8 · Psychologie (gebruikersbron Packer 2021)
+4. [[Behaviorisme]] — confidence 9 · Psychologie
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Klassieke Conditionering]] ↔ [[Behaviorisme]] · ★10
+2. [[Sociale Leertheorie]] ↔ [[Behaviorisme]] · ★9
+3. [[Klassieke Conditionering]] → [[PTSD]] · ★9
+4. [[Niche Constructie]] → [[Culturele Psychologie]] · ★9
+5. [[Behaviorisme]] ↔ [[Piaget]] · ★8
 
 ---
 
 ## Insight Feed
 
-— "Vygotsky's wet dat kennis eerst buiten bestaat voordat ze binnen bestaat, keert de klassieke epistemologie om: het solitaire denkende subject is niet het beginpunt van kennis, maar haar eindproduct." [Psychologie → Filosofie · ★9]
+— "Het gedrag dat een organisme vertoont transformeert de omgeving waarbinnen het vervolgens gedrag vertoont — een dubbele gevangenis en een dubbele vrijheid." [Klassieke Conditionering → Niche Constructie → Embodied Cognition · ★9]
 
-— "Iedere grote oorlog van de twintigste eeuw leverde de klinische psychologie een nieuw begrip op: shell shock werd PTSD, kampervaringen onthulden complexe PTSD. De psychiatrie is voor een deel gebouwd op de pijn van oorlogsslachtoffers." [Geschiedenis → Psychologie · ★8]
+— "Financiële markten zijn een enorme operante conditioneringskamer met variabele bekrachtigingsschema's — precies het patroon dat het meest resistent is voor extinctie." [Behaviorisme → Gedragseconomie · ★8]
 
-— "Piaget's formeel-operationele stadium — het vermogen tot abstract, hypothetisch denken — toont waarom beleggers onder druk terugvallen op concreter, emotioneel gestuurd denken. Nudges en defaults zijn scaffolding voor de formeel-operationele geest." [Psychologie → Beleggen · ★7]
+— "De epistemologische vraag 'wat kunnen wij weten?' kan niet worden beantwoord zonder de psychologische vraag: 'via welke aangeleerde filters zien wij?'" [Sociale Leertheorie → Epistemologie · ★9]
 
 ---
 
@@ -34,13 +63,10 @@ Nieuwe kennis: 4 · Inbox verwerkt: 1 · Verbindingen: 4 · Inzichten: 3 · Gaps
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 89% | ↑ |
+| Psychologie | 93% | ↑ |
 | Filosofie | 82% | → |
-| Geschiedenis | 83% | ↑ |
-| Beleggen | 81% | → |
-
-**Algemeen: 85%** ↑ (van 83%)
-Coverage: ~46% · Connectivity: 100% · Orphan: 0%
+| Geschiedenis | 82% | → |
+| Beleggen | 82% | ↑ |
 
 ---
 
@@ -48,17 +74,17 @@ Coverage: ~46% · Connectivity: 100% · Orphan: 0%
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 1 |
+| Inbox verwerkt | 1 (deel03) |
+| Wiki bijgewerkt | 1 (Piaget) |
 | Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 3 |
-| Nieuwe verbindingen | 4 |
-| Gaps gedicht | 2 (Piaget, Vygotsky — queue ↓) |
-| Nieuwe gaps | 2 (Niche Constructie, Behaviorisme) |
+| Nieuwe verbindingen | 5 |
+| Nieuwe inzichten | 3 |
+| Gaps gedicht | 4 (Klassieke Conditionering, Sociale Leertheorie, Niche Constructie, Behaviorisme) |
+| Queue resterend | 1 (Koude Oorlog) |
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Niche Constructie: gap gesignaleerd via Packer (2021) — prioriteit volgende run
-- [ ] Behaviorisme: gap gesignaleerd via Packer (2021) — relevant voor therapiebegrip
-- [ ] Tweede Wereldoorlog → Koude Oorlog: logisch vervolg nog afwezig in Geschiedenis
+- [ ] Koude Oorlog (queue ↓) — nog niet verwerkt, voor volgende run
+- [ ] Inbox-bestanden deel04 t/m deel14 staan klaar voor verwerking (volgende runs)

@@ -232,3 +232,28 @@ type: operationeel
 | 2026-07-13 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:41 (≥ 1:5 ✓) |
 | 2026-07-13 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Piaget+Vygotsky gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
 | 2026-07-13 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 84%
+| 2026-07-13 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-13 | consolidatie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel03.md | discipline: psychologie | 5 wiki-kandidaten: Piaget (UPDATE), Perceptie-Actie Cyclus, Habituatie, Prolepsis, Niche Constructie (NIEUW) |
+| 2026-07-13 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Inbox-bron gebruikt. Confidence 8 voor Inbox-concepten, 5 voor overige. |
+| 2026-07-13 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Klassieke Conditionering (queue↓), Sociale Leertheorie (queue↓), Niche Constructie (queue↓+Inbox), Behaviorisme (queue↓) + Piaget UPDATE |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Piaget.md — sensorimotor substadia + A-niet-B fout toegevoegd (Packer 2021, deel03) — confidence behouden 8 |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Klassieke Conditionering.md — 01 Psychologie - Wiki — confidence 9 |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Sociale Leertheorie.md — 01 Psychologie - Wiki — confidence 9 |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Niche Constructie.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021) |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Behaviorisme.md — 01 Psychologie - Wiki — confidence 9 |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Klassieke Conditionering — Behaviorisme.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Sociale Leertheorie — Behaviorisme.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Klassieke Conditionering — PTSD.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Niche Constructie — Culturele Psychologie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Behaviorisme — Piaget.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Brein dat Zijn Eigen Kooi Bouwt.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-13 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Markt als Skinner-Box.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-13 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Wat We Waarnemen Hebben We Aangeleerd.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-13 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-13 Dagrapport.md — consolidatiemodus — 4 concepten, 1 update, 5 verbindingen, 3 inzichten |
+| 2026-07-13 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-13 Quiz.md — 3 vragen toegevoegd (Klassieke Conditionering, Sociale Leertheorie, Niche Constructie) |
+| 2026-07-13 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 86% — Coverage 51%, Connectivity 100%, Orphan 0% — Psych 97%, Fil 82%, Gesch 82%, Beleg 81% |
+| 2026-07-13 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 2 dashboards overschreven: Algemeen (86%), Psychologie (97%) |
+| 2026-07-13 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +4 (Klassieke Conditionering, Sociale Leertheorie, Niche Constructie, Behaviorisme) |
+| 2026-07-13 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:46 (≥ 1:5 ✓) |
+| 2026-07-13 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 1 gap resterend (Koude Oorlog) |
+| 2026-07-13 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 1 Inbox verwerkt · Health: 86% |

@@ -59,10 +59,10 @@ type: operationeel
 
 | ✓ | 2026-07-13T expansie | Agent 3 | Gap: Piaget | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Piaget.md — confidence 8 (Packer 2021) |
 | ✓ | 2026-07-13T expansie | Agent 3 | Gap: Vygotsky | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Vygotsky.md — confidence 8 (Packer 2021) |
-| ↓ | 2026-07-12T consolidatie | Agent 3 | Gap: Klassieke Conditionering | Psychologie — Pavlov, Watson; leertheorie als basis voor gedragstherapie en phobiebehandeling |
-| ↓ | 2026-07-12T consolidatie | Agent 3 | Gap: Sociale Leertheorie | Psychologie — Bandura; observationeel leren, self-efficacy; brug tussen behaviorisme en cognitieve psychologie |
-| ↓ | 2026-07-13T expansie | Agent 3 | Gap: Niche Constructie | Psychologie/Biologie — organisme-omgeving co-evolutie; fundament voor culturele psychologie (Packer 2021, deel02) |
-| ↓ | 2026-07-13T expansie | Agent 3 | Gap: Behaviorisme | Psychologie — Watson, Skinner, conditionering; grondslag voor gedragstherapie; Packer (2021) beschrijft als tweede theoretisch perspectief |
+| ✓ | 2026-07-12T consolidatie | Agent 3 | Gap: Klassieke Conditionering | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Klassieke Conditionering.md — confidence 9 |
+| ✓ | 2026-07-12T consolidatie | Agent 3 | Gap: Sociale Leertheorie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Sociale Leertheorie.md — confidence 9 |
+| ✓ | 2026-07-13T expansie | Agent 3 | Gap: Niche Constructie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Niche Constructie.md — confidence 8 (Packer 2021) |
+| ✓ | 2026-07-13T expansie | Agent 3 | Gap: Behaviorisme | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Behaviorisme.md — confidence 9 |
 | ↓ | 2026-07-13T expansie | Agent 3 | Gap: Koude Oorlog | Geschiedenis — logisch vervolg op Tweede Wereldoorlog + Totalitarisme; ideologische tegenstelling VS–USSR |
 
 ---

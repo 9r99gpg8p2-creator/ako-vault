@@ -28,3 +28,7 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Piaget]]
 - [[Vygotsky]]
 - [[Culturele Psychologie]]
+- [[Klassieke Conditionering]]
+- [[Sociale Leertheorie]]
+- [[Niche Constructie]]
+- [[Behaviorisme]]
