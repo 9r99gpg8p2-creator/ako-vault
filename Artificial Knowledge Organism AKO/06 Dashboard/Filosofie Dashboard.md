@@ -2,7 +2,7 @@
 tags: [dashboard, filosofie]
 type: dashboard
 discipline: filosofie
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
 # Filosofie Dashboard

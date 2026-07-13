@@ -207,3 +207,28 @@ type: operationeel
 | 2026-07-12 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Slaap en Geheugenconsolidatie) · Filosofie: +1 (Ethiek) · Geschiedenis: +1 (Eerste Wereldoorlog) · Beleggen: +0 |
 | 2026-07-12 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:37 (≥ 1:5 ✓) |
 | 2026-07-12 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 1 Inbox verwerkt · Health: 83% |
+| 2026-07-13 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-13 | expansie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel02.md | discipline: psychologie | 5 wiki-kandidaten: Piaget (NIEUW↓), Vygotsky (NIEUW↓), Culturele Psychologie (NIEUW), Niche Constructie (NIEUW), Behaviorisme (NIEUW) |
+| 2026-07-13 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Inbox-bron gebruikt. Confidence 8 voor Inbox-concepten, 5 voor overige. |
+| 2026-07-13 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Piaget (queue↓+Inbox), Vygotsky (queue↓+Inbox), Culturele Psychologie (Inbox NIEUW), Tweede Wereldoorlog (Geschiedenis expansie) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Piaget.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Vygotsky.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Culturele Psychologie.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Tweede Wereldoorlog.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-13 | expansie | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Niche Constructie (Psych), Behaviorisme (Psych), Koude Oorlog (Gesch) |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Piaget — Vygotsky.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Culturele Psychologie — Epistemologie.md — sterkte ★8 — Psychologie × Filosofie |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Tweede Wereldoorlog — PTSD.md — sterkte ★9 — Geschiedenis × Psychologie |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Vygotsky — Executieve Functies.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-13 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Kennis die Eerst Buiten Bestaat.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-13 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Oorlog als Laboratorium voor Trauma.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-13 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Kind dat de Markt Bouwt.md — Psychologie → Beleggen — sterkte ★7 |
+| 2026-07-13 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-13 Dagrapport.md — 4 concepten, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-13 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-13 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-13 | expansie | Agent 6 | Weekreflectie aangemaakt | ✓ | 2026-29 Reflectie.md — week 29 van 2026 |
+| 2026-07-13 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 84% — Coverage 46.25%, Connectivity 100%, Orphan 0% — Psych 91%, Fil 82%, Gesch 82%, Beleg 81% |
+| 2026-07-13 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (84%), Psychologie (91%), Filosofie (82%), Geschiedenis (82%), Beleggen (81%) |
+| 2026-07-13 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +3 (Piaget, Vygotsky, Culturele Psychologie) · Geschiedenis: +1 (Tweede Wereldoorlog) · Filosofie: +0 · Beleggen: +0 |
+| 2026-07-13 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:41 (≥ 1:5 ✓) |
+| 2026-07-13 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Piaget+Vygotsky gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
+| 2026-07-13 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 84%

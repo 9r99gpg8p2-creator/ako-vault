@@ -2,7 +2,7 @@
 tags: [dashboard, beleggen]
 type: dashboard
 discipline: beleggen
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
 # Beleggen Dashboard

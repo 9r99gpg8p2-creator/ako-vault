@@ -21,3 +21,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Geschiedenis van de Psychiatrie]]
 - [[Totalitarisme]]
 - [[Eerste Wereldoorlog]]
+- [[Tweede Wereldoorlog]]

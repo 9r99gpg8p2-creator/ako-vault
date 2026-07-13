@@ -2,7 +2,7 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
 # Psychologie Dashboard
@@ -15,7 +15,7 @@ updated: 2026-07-12
 
 | Score | Trend |
 |---|---|
-| 87%   | ↑     |
+| 91%   | ↑     |
 
 ---
 
@@ -23,24 +23,24 @@ updated: 2026-07-12
 
 | Metric       | Waarde | Streef |
 |---|---|---|
-| Coverage     | 55%    | ≥ 85%  |
+| Coverage     | 70%    | ≥ 85%  |
 | Connectivity | 100%   | ≥ 90%  |
 | Orphan       | 0%     | ≤ 3%   |
 
 ---
 
-## Wiki-pagina's (11 concept-pagina's)
+## Wiki-pagina's (14 concept-pagina's)
 
-- [[Anosognosie]] · [[EMDR]] · [[Embodied Cognition]]
+- [[Anosognosie]] · [[Culturele Psychologie]] · [[EMDR]] · [[Embodied Cognition]]
 - [[Executieve Functies]] · [[Geheugenconsolidatie]] · [[Hechtingstheorie]]
-- [[Neuropsychologische Rehabilitatie]] · [[PTSD]] · [[Reconsolidatie]]
-- [[Slaap en Geheugenconsolidatie]] · [[Werkgeheugen]]
+- [[Neuropsychologische Rehabilitatie]] · [[Piaget]] · [[PTSD]] · [[Reconsolidatie]]
+- [[Slaap en Geheugenconsolidatie]] · [[Vygotsky]] · [[Werkgeheugen]]
 
 ---
 
 ## Gesignaleerde gaps
 
-- Piaget (via Packer 2021 — volgende run)
-- Vygotsky (via Packer 2021 — volgende run)
-- Klassieke Conditionering (via Packer 2021)
-- Sociale Leertheorie / Bandura (via Packer 2021)
+- Niche Constructie (via Packer 2021, deel02 — volgende run)
+- Behaviorisme (via Packer 2021, deel02 — volgende run)
+- Klassieke Conditionering (queue ↓)
+- Sociale Leertheorie / Bandura (queue ↓)

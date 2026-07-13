@@ -2,7 +2,7 @@
 tags: [dashboard, geschiedenis]
 type: dashboard
 discipline: geschiedenis
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
 # Geschiedenis Dashboard
@@ -15,7 +15,7 @@ updated: 2026-07-12
 
 | Score | Trend |
 |---|---|
-| 81%   | ↑     |
+| 82%   | ↑     |
 
 ---
 
@@ -23,14 +23,20 @@ updated: 2026-07-12
 
 | Metric       | Waarde | Streef |
 |---|---|---|
-| Coverage     | 35%    | ≥ 85%  |
+| Coverage     | 40%    | ≥ 85%  |
 | Connectivity | 100%   | ≥ 90%  |
 | Orphan       | 0%     | ≤ 3%   |
 
 ---
 
-## Wiki-pagina's (7 concept-pagina's)
+## Wiki-pagina's (8 concept-pagina's)
 
 - [[De Verlichting]] · [[Eerste Wereldoorlog]]
 - [[Geschiedenis van de Psychiatrie]] · [[Industriële Revolutie]]
-- [[Paradigmawisseling]] · [[Totalitarisme]] · [[Wetenschappelijke Revolutie]]
+- [[Paradigmawisseling]] · [[Totalitarisme]] · [[Tweede Wereldoorlog]] · [[Wetenschappelijke Revolutie]]
+
+---
+
+## Gesignaleerde gaps
+
+- Koude Oorlog (logisch vervolg op Tweede Wereldoorlog + Totalitarisme — volgende run)

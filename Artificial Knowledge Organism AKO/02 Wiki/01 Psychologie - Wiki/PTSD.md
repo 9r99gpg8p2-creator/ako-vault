@@ -56,6 +56,7 @@ PTSD werd als officiële diagnose erkend in de DSM-III (1980), mede door de teru
 **Cross-domein:**
 - [[Morele Verantwoordelijkheid]] — PTSD roept vragen op over schuld, verantwoordelijkheid en het recht van de mens om van zijn verleden los te komen
 - [[Fenomenologie]] ★8 — verbinding: fenomenologie beschrijft hoe herbelevingen bij PTSD de normale tijdsbeleving en zelfervaring verstoren
+- [[Tweede Wereldoorlog]] ★9 — historisch: de Tweede Wereldoorlog was de katalysator voor de klinische erkenning van PTSD als diagnose
 
 ## Bronnen
 
