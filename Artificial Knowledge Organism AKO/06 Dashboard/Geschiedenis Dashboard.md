@@ -15,7 +15,7 @@ updated: 2026-07-13
 
 | Score | Trend |
 |---|---|
-| 82%   | ↑     |
+| 84%   | ↑     |
 
 ---
 
@@ -23,20 +23,22 @@ updated: 2026-07-13
 
 | Metric       | Waarde | Streef |
 |---|---|---|
-| Coverage     | 40%    | ≥ 85%  |
+| Coverage     | 45%    | ≥ 85%  |
 | Connectivity | 100%   | ≥ 90%  |
 | Orphan       | 0%     | ≤ 3%   |
 
 ---
 
-## Wiki-pagina's (8 concept-pagina's)
+## Wiki-pagina's (9 concept-pagina's)
 
 - [[De Verlichting]] · [[Eerste Wereldoorlog]]
 - [[Geschiedenis van de Psychiatrie]] · [[Industriële Revolutie]]
-- [[Paradigmawisseling]] · [[Totalitarisme]] · [[Tweede Wereldoorlog]] · [[Wetenschappelijke Revolutie]]
+- [[Koude Oorlog]] · [[Paradigmawisseling]] · [[Totalitarisme]]
+- [[Tweede Wereldoorlog]] · [[Wetenschappelijke Revolutie]]
 
 ---
 
 ## Gesignaleerde gaps
 
-- Koude Oorlog (logisch vervolg op Tweede Wereldoorlog + Totalitarisme — volgende run)
+- Russische Revolutie (logisch vervolg op Totalitarisme + Eerste Wereldoorlog)
+- Dekolonisatie (historische tegenhanger van Koloniale Geschiedenis)

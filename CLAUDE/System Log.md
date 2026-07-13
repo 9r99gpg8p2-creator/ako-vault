@@ -257,3 +257,26 @@ type: operationeel
 | 2026-07-13 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:46 (≥ 1:5 ✓) |
 | 2026-07-13 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 1 gap resterend (Koude Oorlog) |
 | 2026-07-13 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 1 Inbox verwerkt · Health: 86% |
+| 2026-07-13 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-13 | expansie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel04.md | discipline: psychologie | 5 wiki-kandidaten: Emotieregulatie (NIEUW), Synaptogenese (NIEUW), Culturele Ontwikkelingspaden (NIEUW), Interactieve Specialisatie (NIEUW), Precursor Emoties (NIEUW) |
+| 2026-07-13 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor Inbox-concepten, 5 voor overige. |
+| 2026-07-13 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Emotieregulatie (Inbox NIEUW), Synaptogenese (Inbox NIEUW), Culturele Ontwikkelingspaden (Inbox NIEUW), Koude Oorlog (queue ↓) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Emotieregulatie.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Synaptogenese.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Culturele Ontwikkelingspaden.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021) |
+| 2026-07-13 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Koude Oorlog.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-13 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Interactieve Specialisatie (Psych), Precursor Emoties (Psych) |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Emotieregulatie — Prospect Theory.md — sterkte ★8 — Psychologie × Beleggen |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Culturele Ontwikkelingspaden — Epistemologie.md — sterkte ★9 — Psychologie × Filosofie |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Koude Oorlog — Totalitarisme.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-13 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Synaptogenese — Executieve Functies.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-13 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Wat We Voelen Bepaalt Wat We Durven.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-13 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Ontwikkeling is Politiek.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-13 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Ijzeren Gordijn van het Denken.md — Geschiedenis → Psychologie — sterkte ★7 |
+| 2026-07-13 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-13 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-13 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-13 Quiz.md — 3 vragen toegevoegd (Synaptogenese, Culturele Ontwikkelingspaden, Emotieregulatie) |
+| 2026-07-13 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 86% — Coverage 55%, Connectivity ~95%, Orphan ~5% — Psych 97%, Fil 82%, Gesch 84%, Beleg 81% |
+| 2026-07-13 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (86%), Psychologie (97%), Geschiedenis (84%) |
+| 2026-07-13 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +3 (Emotieregulatie, Synaptogenese, Culturele Ontwikkelingspaden) · Geschiedenis: +1 (Koude Oorlog) |
+| 2026-07-13 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:45 (≥ 1:5 ✓) |
+| 2026-07-13 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Koude Oorlog gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |

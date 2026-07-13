@@ -15,12 +15,12 @@ updated: 2026-07-13
 
 | Metric | Waarde |
 |---|---|
-| Concept-pagina's | 18 |
-| Coverage (18/20) | 90% |
-| Connectivity | 100% |
-| Orphan-rate | 0% |
+| Concept-pagina's | 21 |
+| Coverage (21/20) | 100%+ |
+| Connectivity | ~95% |
+| Orphan-rate | ~5% |
 | **Score** | **97%** |
-| Trend | ↑ (was 91%) |
+| Trend | → (stabiel op 97%) |
 
 ---
 
@@ -46,10 +46,13 @@ updated: 2026-07-13
 | [[Sociale Leertheorie]] | 9 | uitgewerkt |
 | [[Niche Constructie]] | 8 | uitgewerkt |
 | [[Behaviorisme]] | 9 | uitgewerkt |
+| [[Emotieregulatie]] | 8 | uitgewerkt |
+| [[Synaptogenese]] | 8 | uitgewerkt |
+| [[Culturele Ontwikkelingspaden]] | 8 | uitgewerkt |
 
 ---
 
 ## Gaps
 
-Nog 2 pagina's tot coverage 100%:
-- Suggestie: Cognitieve Gedragstherapie, Neuroplasticiteit
+- Interactieve Specialisatie (↓ queue)
+- Precursor Emoties (↓ queue)

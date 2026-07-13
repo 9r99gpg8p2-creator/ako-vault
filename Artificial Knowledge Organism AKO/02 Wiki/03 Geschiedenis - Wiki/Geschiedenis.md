@@ -22,3 +22,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Totalitarisme]]
 - [[Eerste Wereldoorlog]]
 - [[Tweede Wereldoorlog]]
+- [[Koude Oorlog]]

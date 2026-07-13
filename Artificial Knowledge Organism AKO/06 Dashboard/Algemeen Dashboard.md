@@ -14,11 +14,11 @@ updated: 2026-07-13
 
 | Discipline | Concept-pag's | Coverage | Score | Trend |
 |---|---|---|---|---|
-| Psychologie | 18 | 90% | 97% | ↑ |
+| Psychologie | 21 | 100% | 97% | → |
 | Filosofie | 8 | 40% | 82% | → |
-| Geschiedenis | 8 | 40% | 82% | → |
+| Geschiedenis | 9 | 45% | 84% | ↑ |
 | Beleggen | 7 | 35% | 81% | → |
-| **Totaal** | **41** | **51%** | **86%** | **↑** |
+| **Totaal** | **45** | **55%** | **86%** | **→** |
 
 ---
 
@@ -26,12 +26,12 @@ updated: 2026-07-13
 
 | Metric | Waarde |
 |---|---|
-| Totaal Wiki-pagina's | 41 |
-| Totaal relatiepagina's | 30+ |
-| Totaal inzichtpagina's | 15+ |
-| Inbox verwerkt (cumulatief) | 3 delen (deel01, deel02, deel03) |
-| Inbox wachtend | deel04–deel14 |
-| Queue resterend | 1 (Koude Oorlog) |
+| Totaal Wiki-pagina's | 45 |
+| Totaal relatiepagina's | 34+ |
+| Totaal inzichtpagina's | 18+ |
+| Inbox verwerkt (cumulatief) | 4 delen (deel01–deel04) |
+| Inbox wachtend | deel05–deel14 |
+| Queue resterend | 2 (Interactieve Specialisatie, Precursor Emoties) |
 
 ---
 
@@ -44,4 +44,5 @@ updated: 2026-07-13
 | 2026-07-09 | Expansie/Consolidatie | 11 | 82% |
 | 2026-07-12 | Consolidatie | 3+1upd | 83% |
 | 2026-07-13 | Expansie | 4+1upd | 84% |
-| 2026-07-13 | Consolidatie | 4+1upd | **86%** |
+| 2026-07-13 | Consolidatie | 4+1upd | 86% |
+| 2026-07-13 | Expansie | 4 nieuw | **86%** |

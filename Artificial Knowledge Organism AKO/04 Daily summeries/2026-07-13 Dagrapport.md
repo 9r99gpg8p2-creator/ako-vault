@@ -2,60 +2,38 @@
 type: dagrapport
 date: 2026-07-13
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
 Goedemorgen.
 
-Nieuwe kennis:          4 concepten toegevoegd · 1 pagina bijgewerkt
-Nieuwe artikelen:       0 (Wikipedia API geblokkeerd — interne kennis gebruikt)
-Nieuwe verbindingen:    5 relaties gelegd
+Nieuwe kennis:          4 concepten toegevoegd (Emotieregulatie, Synaptogenese, Culturele Ontwikkelingspaden, Koude Oorlog)
+Nieuwe artikelen:       0 (Wikipedia API geblokkeerd — interne kennis + Packer 2021 gebruikt)
+Inbox verwerkt:         1 (Packer deel04 — hoofdstukken 4–5: culturele zorg, hersenontwikkeling, emotie)
+Nieuwe verbindingen:    4 relaties gelegd
 Nieuwe inzichten:       3 cross-domein inzichten gegenereerd
-Kennishiaten:           1 resterend gap (Koude Oorlog)
-Aanbevolen leestijd:    ~12 minuten
+Kennishiaten:           2 nieuwe gaps (Interactieve Specialisatie, Precursor Emoties)
+Aanbevolen leestijd:    ~10 minuten
 
 ---
 
 ## Research Agenda
 
-Prioriteit 1: **Behaviorisme** — kern van leerpsychologie; direct relevant voor gedragstherapie in klinische neuropsychologie
-Prioriteit 2: **Klassieke Conditionering** — empirische basis voor angststoornissen en PTSD-behandeling
-Prioriteit 3: **Sociale Leertheorie** — self-efficacy als predictor van revalidatie-uitkomst
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-1. [[Piaget]] — sensorimotor substadia en A-niet-B fout toegevoegd (bron: Packer 2021, deel03)
-
-## Nieuwe Pagina's
-
-1. [[Klassieke Conditionering]] — confidence 9 · Psychologie
-2. [[Sociale Leertheorie]] — confidence 9 · Psychologie
-3. [[Niche Constructie]] — confidence 8 · Psychologie (gebruikersbron Packer 2021)
-4. [[Behaviorisme]] — confidence 9 · Psychologie
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[Klassieke Conditionering]] ↔ [[Behaviorisme]] · ★10
-2. [[Sociale Leertheorie]] ↔ [[Behaviorisme]] · ★9
-3. [[Klassieke Conditionering]] → [[PTSD]] · ★9
-4. [[Niche Constructie]] → [[Culturele Psychologie]] · ★9
-5. [[Behaviorisme]] ↔ [[Piaget]] · ★8
+1. **Interactieve Specialisatie** — neurobiologisch principe van Johnson (2001) over hoe hersenregio's via omgevingsstimulatie gespecialiseerd raken; cruciaal voor klinische neuroplasticiteit
+2. **Precursor Emoties** — vroege emotiedifferentiatie in infancy (Izard, Camras); direct fundament voor emotieregulatie bij oudere kinderen
+3. **Hechting en Emotieregulatie** — brug tussen Hechtingstheorie en Emotieregulatie; relevant voor behandeling van vroegkinderlijk trauma in klinische praktijk
 
 ---
 
 ## Insight Feed
 
-— "Het gedrag dat een organisme vertoont transformeert de omgeving waarbinnen het vervolgens gedrag vertoont — een dubbele gevangenis en een dubbele vrijheid." [Klassieke Conditionering → Niche Constructie → Embodied Cognition · ★9]
+— "De kwaliteit van emotieregulatie bepaalt of verliesaversie irrationele besluiten produceert — financieel risico nemen is in wezen een neuropsychologisch vraagstuk." [Psychologie → Beleggen · ★8]
 
-— "Financiële markten zijn een enorme operante conditioneringskamer met variabele bekrachtigingsschema's — precies het patroon dat het meest resistent is voor extinctie." [Behaviorisme → Gedragseconomie · ★8]
+— "Als verschillende culturen wezenlijk verschillende psychologische uitkomsten produceren, zijn westerse ontwikkelingstheorieën epistemologisch provinciaal." [Psychologie → Filosofie · ★9]
 
-— "De epistemologische vraag 'wat kunnen wij weten?' kan niet worden beantwoord zonder de psychologische vraag: 'via welke aangeleerde filters zien wij?'" [Sociale Leertheorie → Epistemologie · ★9]
+— "Zoals synaptisch snoeien alternatieve verbindingen elimineert, elimineerde de Koude Oorlog alternatieve politieke ideeën — ideologisch snoeien dat samenlevingen hun flexibiliteit kostte." [Psychologie → Geschiedenis · ★7]
 
 ---
 
@@ -63,10 +41,12 @@ Prioriteit 3: **Sociale Leertheorie** — self-efficacy als predictor van revali
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 93% | ↑ |
+| Psychologie | 97% | → |
 | Filosofie | 82% | → |
-| Geschiedenis | 82% | → |
-| Beleggen | 82% | ↑ |
+| Geschiedenis | 83% | ↑ |
+| Beleggen | 81% | → |
+
+*Geschatte overall health: 87% (Coverage 47.5%, Connectivity 100%, Orphan 0%)*
 
 ---
 
@@ -74,17 +54,10 @@ Prioriteit 3: **Sociale Leertheorie** — self-efficacy als predictor van revali
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 1 (deel03) |
-| Wiki bijgewerkt | 1 (Piaget) |
+| Inbox verwerkt | 1 |
 | Nieuwe Wiki-pagina's | 4 |
-| Nieuwe verbindingen | 5 |
+| Updates bestaande pagina's | 2 (Prospect Theory, Epistemologie, Totalitarisme, Executieve Functies — back-links) |
+| Nieuwe verbindingen | 4 |
+| Gaps gedicht | 1 (Koude Oorlog) |
 | Nieuwe inzichten | 3 |
-| Gaps gedicht | 4 (Klassieke Conditionering, Sociale Leertheorie, Niche Constructie, Behaviorisme) |
-| Queue resterend | 1 (Koude Oorlog) |
-
----
-
-## Aandacht vereist
-
-- [ ] Koude Oorlog (queue ↓) — nog niet verwerkt, voor volgende run
-- [ ] Inbox-bestanden deel04 t/m deel14 staan klaar voor verwerking (volgende runs)
+| Nieuwe gaps gesignaleerd | 2 |

@@ -60,6 +60,7 @@ In de twintigste eeuw verschoof de epistemologie richting taalfilosofie (Wittgen
 - [[Paradigmawisseling]] — Kuhn's concept is een epistemologische claim: wetenschappelijke kennis wordt niet cumulatief, maar door revoluties gestructureerd
 - [[Werkgeheugen]] — cognitieve psychologie toont aan dat kennisverwerving beperkt wordt door biologische capaciteiten van het brein
 - [[Culturele Psychologie]] ★8 — culturele psychologie stelt dat het kennende subject zelf cultureel geconstitueerd is; een uitdaging voor klassieke epistemologische modellen
+- [[Culturele Ontwikkelingspaden]] ★9 — Keller's onderzoek daagt epistemologische universaliteitsaanspraken van westerse ontwikkelingspsychologie fundamenteel uit
 
 ## Bronnen
 

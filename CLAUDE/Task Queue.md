@@ -63,7 +63,10 @@ type: operationeel
 | ✓ | 2026-07-12T consolidatie | Agent 3 | Gap: Sociale Leertheorie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Sociale Leertheorie.md — confidence 9 |
 | ✓ | 2026-07-13T expansie | Agent 3 | Gap: Niche Constructie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Niche Constructie.md — confidence 8 (Packer 2021) |
 | ✓ | 2026-07-13T expansie | Agent 3 | Gap: Behaviorisme | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Behaviorisme.md — confidence 9 |
-| ↓ | 2026-07-13T expansie | Agent 3 | Gap: Koude Oorlog | Geschiedenis — logisch vervolg op Tweede Wereldoorlog + Totalitarisme; ideologische tegenstelling VS–USSR |
+| ✓ | 2026-07-13T expansie | Agent 3 | Gap: Koude Oorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Koude Oorlog.md — confidence 5 |
+| ✓ | 2026-07-13T expansie | Agent 1 | Inbox verwerkt | deel04 verwerkt — 5 kandidaten gedetecteerd; 3 wiki-pagina's aangemaakt (Emotieregulatie, Synaptogenese, Culturele Ontwikkelingspaden) |
+| ↓ | 2026-07-13T expansie | Agent 3 | Gap: Interactieve Specialisatie | Psych — Johnson (2001): hersengebieden worden gespecialiseerd via stimulatie-gestuurde verbindingsvorming |
+| ↓ | 2026-07-13T expansie | Agent 3 | Gap: Precursor Emoties | Psych — vroege emotiedifferentiatie in infancy (Izard, Camras 1992); fundament voor emotieregulatie |
 
 ---
 

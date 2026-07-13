@@ -62,6 +62,7 @@ De wetenschappelijke impact weerspiegelt een bredere Wetenschappelijke Revolutie
 
 **Cross-domein:**
 - [[Neuropsychologische Rehabilitatie]] — psychologisch mechanisme: verliesaversie als neuropsychologisch mechanisme dat behandeluitkomsten beïnvloedt
+- [[Emotieregulatie]] ★8 — emotionele toestand versterkt verliesaversie; slechte regulatie maakt irrationele keuzes onder druk waarschijnlijker
 
 ## Bronnen
 

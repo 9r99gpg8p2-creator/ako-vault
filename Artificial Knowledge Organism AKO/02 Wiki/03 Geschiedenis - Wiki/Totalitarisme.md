@@ -49,6 +49,7 @@ Historisch gezien zijn de meest bestudeerde vormen het nazisme (1933–1945), he
 **Hub:** [[Geschiedenis]]
 
 **Gerelateerd:**
+- [[Koude Oorlog]] ★10 — de Koude Oorlog was de rechtstreekse strijd tussen totalitaire en liberale staatssystemen
 - [[De Verlichting]] — tegenstelling: de Verlichting propageerde individuele autonomie en rede; totalitarisme vernietigt beide systematisch
 - [[Paradigmawisseling]] — totalitaire regimes forceren paradigmawisselingen door geweld in plaats van wetenschappelijke overtuiging
 - [[Industriële Revolutie]] — de industrialisatie schiep de massamaatschappij en de technologische middelen die totalitaire controle mogelijk maakten

@@ -32,3 +32,6 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Sociale Leertheorie]]
 - [[Niche Constructie]]
 - [[Behaviorisme]]
+- [[Emotieregulatie]]
+- [[Synaptogenese]]
+- [[Culturele Ontwikkelingspaden]]
