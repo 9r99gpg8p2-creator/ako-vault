@@ -1,3 +1,9 @@
+---
+discipline: psychologie
+status: verwerkt
+verwerkt_op: 2026-07-13
+---
+
 8.1.6 Play as Making Culture
 Johan Huizinga, the author of a book titled Homo Ludens—man the player—
 (2014[1938]), defined play in these words:

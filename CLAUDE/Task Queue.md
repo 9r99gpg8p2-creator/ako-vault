@@ -69,9 +69,11 @@ type: operationeel
 | ✓ | 2026-07-13T consolidatie | Agent 3 | Gap: Precursor Emoties | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Precursor Emoties.md — confidence 8 (Izard/Camras 1992 + Packer 2021) |
 | ✓ | 2026-07-13T consolidatie | Agent 1 | Inbox verwerkt | deel05 verwerkt — Hechtingstheorie UPDATE (4 hypothesen) + 3 wiki-pagina's (Interactieve Specialisatie, Precursor Emoties, Geleid Participeren) |
 | ✓ | 2026-07-13T expansie | Agent 3 | Gap: Affordances | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Affordances.md — confidence 7 (Gibson 1966 + Packer 2021) |
-| ↓ | 2026-07-13T consolidatie | Agent 3 | Gap: Intern Werkmodel | Psych — Bowlby: mentale representaties van de hechtingsfiguur die als template dienen voor latere relaties |
+| ✓ | 2026-07-13T consolidatie | Agent 3 | Gap: Intern Werkmodel | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Intern Werkmodel.md — confidence 8 (Bowlby 1973, 1980) |
 | ↓ | 2026-07-13T expansie | Agent 3 | Gap: Collectieve Intentionaliteit | Psych — Tomasello: vermogen van 3-jarige om groepsnormen te internaliseren; overgang van JI naar CI (Packer deel06) |
 | ↓ | 2026-07-13T expansie | Agent 3 | Gap: Spiegelzelfherkenning | Psych — rouge-test, zelfbesef bij 3-jarigen, ASD-marker; Tomasello (2019) + Packer deel06 |
+| ↓ | 2026-07-13T consolidatie | Agent 3 | Gap: Familimodellen | Psych — Kağıtçıbaşı (2005): vier gezinsmodellen (interdependent, independent, autonoom-relatie, hiërarchisch-verwaarlozing); cross-cultureel opvoedingsmodel (Packer deel07) |
+| ↓ | 2026-07-13T consolidatie | Agent 3 | Gap: Preoperationeel Denken | Psych — Piaget: vroegkinderlijk denken 2-7 jaar; centration, conservatietaken, Bruner-scherm-experiment; aparte pagina los van Piaget-persoonspagina (Packer deel07) |
 
 ---
 

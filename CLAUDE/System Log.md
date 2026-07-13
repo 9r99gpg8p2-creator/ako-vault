@@ -330,3 +330,27 @@ type: operationeel
 | 2026-07-13 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:55 (≥ 1:5 ✓) |
 | 2026-07-13 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Affordances gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ (Collectieve Intentionaliteit, Spiegelzelfherkenning) |
 | 2026-07-13 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 88% |
+| 2026-07-13 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-13 | consolidatie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel07.md | discipline: psychologie | 5 wiki-kandidaten: Piaget (UPDATE), Ouderschapsstijlen (NIEUW), Sociodramatisch Spel (NIEUW), Familimodellen (NIEUW→↓), Preoperationeel Denken (NIEUW→↓) |
+| 2026-07-13 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor Inbox-concepten, 5 voor overige. |
+| 2026-07-13 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Piaget UPDATE (Inbox), Intern Werkmodel (queue↓ PRIORITEIT), Ouderschapsstijlen (Inbox NIEUW), Sociodramatisch Spel (Inbox NIEUW) |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Piaget.md — preoperationeel stadium + centration + conservatietaken + Bruner (1964) toegevoegd — confidence 8 behouden |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Ouderschapsstijlen.md — 01 Psychologie - Wiki — confidence 8 (Baumrind 1966 + Maccoby & Martin 1983 + Packer 2021) |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Sociodramatisch Spel.md — 01 Psychologie - Wiki — confidence 8 (Huizinga 1938 + Corsaro 1979 + Packer 2021) |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Intern Werkmodel.md — 01 Psychologie - Wiki — confidence 8 (Bowlby 1973, 1980 + Packer 2021) |
+| 2026-07-13 | consolidatie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Familimodellen (Psych), Preoperationeel Denken (Psych) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Ouderschapsstijlen — Hechtingstheorie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Sociodramatisch Spel — Vygotsky.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Intern Werkmodel — Hechtingstheorie.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Ouderschapsstijlen — Emotieregulatie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Opvoeder als Eerste Therapeut.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-13 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Spel is de Vroegste Filosofie.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-13 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Geheugen van de Vroege Relatie Kleurt de Markt.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-13 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-13 Dagrapport.md — consolidatiemodus — 3 pagina's, 1 update, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-13 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-13 Quiz.md — 3 vragen toegevoegd (Ouderschapsstijlen, Sociodramatisch Spel, Intern Werkmodel) |
+| 2026-07-13 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 88% — Coverage 68.75%, Connectivity 100%, Orphan 0% — Psych 100%, Fil 83%, Gesch 85%, Beleg 82% |
+| 2026-07-13 | consolidatie | Agent 7 | Dashboards | ↓ | Geen dashboardwijziging nodig — scores onveranderd t.o.v. vorige run |
+| 2026-07-13 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +3 (Ouderschapsstijlen, Sociodramatisch Spel, Intern Werkmodel) |
+| 2026-07-13 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:59 (≥ 1:5 ✓) |
+| 2026-07-13 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | Intern Werkmodel gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
+| 2026-07-13 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 1 Inbox verwerkt · Health: 88% |

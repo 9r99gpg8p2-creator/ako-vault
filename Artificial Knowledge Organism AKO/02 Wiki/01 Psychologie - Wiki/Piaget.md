@@ -18,7 +18,7 @@ related:
   - "[[Sociale Leertheorie]]"
 created: 2026-07-13
 updated: 2026-07-13
-bron_update: gebruikersbron — Child Development. Second Edition - Martin J. Packer_deel03.md
+bron_update: gebruikersbron — Child Development. Second Edition - Martin J. Packer_deel07.md
 ---
 
 # Piaget
@@ -62,6 +62,19 @@ Piaget beschreef vier vroege substadia binnen het sensomotorisch stadium (0–2 
 | 4. Coördinatie van schema's | 8–12 maanden | Combineren van schema's om doelen te bereiken; object permanentie ontwikkelt |
 
 **De A-niet-B fout:** een karakteristieke vergissing waarbij zuigelingen van 8–12 maanden een object blijven zoeken op de plek waar het eerder verborgen was (A), ook nadat zij zagen dat het naar een nieuwe plek (B) werd verplaatst. Piaget interpreteerde dit als bewijs dat object permanentie nog niet volledig is ontwikkeld.
+
+## Preoperationeel Stadium (2–7 jaar)
+
+Het preoperationele stadium is de tweede fase in Piagets model. Het kind kan nu symbolisch denken (één ding staat voor een ander), maar de mentale representaties zijn nog beperkt. Kenmerkende beperkingen volgens Piaget (Packer, 2021, hfst. 8):
+
+- **Centration** — het kind richt zich op één kenmerk van een situatie en negeert de rest (bijv. hoogte van vloeistof, niet de breedte)
+- **Gebrek aan reversibiliteit** — het kind kan de transformatie niet mentaal terugdraaien
+- **Egocentrisme** — moeite met het innemen van een ander perspectief
+- **Preoperationele kenmerken:** realisme, animisme, artificialisme, syncretisme
+
+**Conservatietaken:** Piaget toonde kinderen twee even grote containers met vloeistof, goot de inhoud over in een dunnere, hogere container en vroeg of de hoeveelheid veranderd was. Kinderen tot ±7 jaar zeggen dat er meer is (ze focussen op hoogte). Dit geldt ook voor plasticine en muntjes.
+
+**Kernbevinding van Bruner (1964):** Als de transformatie achter een scherm verborgen werd, steeg het percentage correcte antwoorden dramatisch — van 0% naar 50% bij 4-jarigen. Dit suggereert dat de moeilijkheid niet zit in beperkte mentale representaties, maar in de overweldigende invloed van het visuele. Taal speelt een cruciale rol: verbale formulering maakt het mogelijk de visuele aantrekkingskracht te weerstaan.
 
 ## Toepassingen
 

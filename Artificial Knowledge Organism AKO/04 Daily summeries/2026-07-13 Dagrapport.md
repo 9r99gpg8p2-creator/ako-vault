@@ -2,32 +2,50 @@
 type: dagrapport
 date: 2026-07-13
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
 Goedemorgen.
 
-Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 1 (deel06 Packer) · Verbindingen: 4 · Inzichten: 3 · Gaps: 2 nieuw gesignaleerd · Leestijd: ~6 min
+Inbox verwerkt: 1 · Gaps gedicht: 1 · Pagina's bijgewerkt: 1 · Verbindingen verdicht: 4 · Queue resterend: 4
 
 ---
 
 ## Research Agenda
 
-1. **Intern Werkmodel** (Bowlby) — queue ↓ — mentale representaties van de hechtingsfiguur die als template dienen voor latere relaties; direct relevant voor MSc Klinische Neuropsychologie en gehechtheidspathologie
-2. **Collectieve Intentionaliteit** (Tomasello) — nieuw gesignaleerde gap — het vermogen van het 3-jarige kind om groepsnormen te internaliseren; grondslag voor sociaal gedrag, sociale angst en prosociale ontwikkeling
-3. **Spiegelzelfherkenning** — nieuw gesignaleerde gap — de rouge-test als diagnostisch instrument; afwezig bij ASD, aanwezig bij grote primaten; verbonden aan bewustzijn en zelfbesef
+1. **Preoperationeel Denken** — gap gesignaleerd (Packer deel07 / Piaget conservatietaken)
+2. **Collectieve Intentionaliteit** — queue ↓ (Tomasello: groepsnormen 3-jarigen)
+3. **Spiegelzelfherkenning** — queue ↓ (rouge-test, zelfbesef bij 3-jarigen, ASD-marker)
+
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+1. [[Piaget]] — preoperationeel stadium + centration + conservatietaken + Bruner (1964) — Packer deel07
+2. [[Ouderschapsstijlen]] — nieuw — Baumrind (1966) + Maccoby & Martin (1983) — confidence 8
+3. [[Sociodramatisch Spel]] — nieuw — Huizinga (1938) + Corsaro (1979) — confidence 8
+4. [[Intern Werkmodel]] — nieuw — Bowlby (1973, 1980) — gap ↓ gedicht — confidence 8
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Ouderschapsstijlen]] ↔ [[Hechtingstheorie]] · ★9
+2. [[Sociodramatisch Spel]] ↔ [[Vygotsky]] · ★10
+3. [[Intern Werkmodel]] ↔ [[Hechtingstheorie]] · ★10
+4. [[Ouderschapsstijlen]] → [[Emotieregulatie]] · ★9
 
 ---
 
 ## Insight Feed
 
-— "De taal die een kind leert bouwt de werkelijkheid waarbinnen het leeft: wat niet wordt benoemd, wordt niet gezien." [Sapir-Whorf Hypothese → Epistemologie · ★9]
+— "De opvoeder vormt niet alleen het gedrag van het kind, maar schrijft zijn morele karakter in — Baumrind's optimale stijl is de vroegste ethische interventie." [Ouderschapsstijlen → Zelf-evaluatieve Emoties → Morele Verantwoordelijkheid · ★9]
 
-— "Schaamte en schuldgevoel zijn geen stoornissen, maar de architectuur van het morele subject: zonder hen is morele agency psychologisch onmogelijk." [Zelf-evaluatieve Emoties → Morele Verantwoordelijkheid · ★9]
+— "Wanneer een kleuter in spel een stok een paard noemt, voert het de fundamentele filosofische handeling uit die Plato's denkers nastreefden." [Sociodramatisch Spel → Semiotische Functie → Filosofie van de Geest · ★8]
 
-— "Het moment waarop een kind een stok als paard ziet, is het moment waarop verbeelding de wereld betreedt — en een filosofisch debat over representatie begint." [Semiotische Functie → Filosofie van de Geest · ★8]
+— "Een onveilig intern werkmodel, gebouwd op onvoorspelbare vroege hechting, is mede-architect van later verliesaversie op de financiële markt." [Intern Werkmodel → Hechtingstheorie → Verliesaversie · ★8]
 
 ---
 
@@ -35,12 +53,12 @@ Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 1 (deel06 Packer) · Ve
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 100% | ↑ |
-| Filosofie | 84% | ↑ |
-| Geschiedenis | 84% | → |
+| Psychologie | 100% | → |
+| Filosofie | 83% | → |
+| Geschiedenis | 85% | → |
 | Beleggen | 82% | → |
 
-**Overall: 88%**
+**Overall: 88%** (Coverage 68.75%, Connectivity 100%, Orphan 0%)
 
 ---
 
@@ -48,19 +66,19 @@ Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 1 (deel06 Packer) · Ve
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 1 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 0 |
+| Inbox verwerkt | 1 (deel07) |
+| Nieuwe Wiki-pagina's | 3 |
+| Updates bestaande pagina's | 1 (Piaget) |
 | Nieuwe verbindingen | 4 |
-| Gaps gedicht | 1 (Affordances) |
-| Nieuwe gaps gesignaleerd | 2 (Collectieve Intentionaliteit, Spiegelzelfherkenning) |
+| Gaps gedicht | 1 (Intern Werkmodel) |
+| Nieuwe gaps gesignaleerd | 2 (Familimodellen, Preoperationeel Denken) |
 | Nieuwe inzichten | 3 |
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Queue ↓: Intern Werkmodel (Bowlby) — al langer wachtend, hoge klinische relevantie
-- [ ] Queue ↓: Collectieve Intentionaliteit (Tomasello) — nieuw gesignaleerd uit deel06
-- [ ] Queue ↓: Spiegelzelfherkenning — nieuw gesignaleerd uit deel06
-- [ ] Delen 07–14 van Packer staan nog in Inbox — verdere processing volgende runs
+- [ ] Queue ↓: Collectieve Intentionaliteit (Tomasello)
+- [ ] Queue ↓: Spiegelzelfherkenning (rouge-test, ASD)
+- [ ] Queue ↓: Familimodellen (Kağıtçıbaşı) — nieuw gesignaleerd uit deel07
+- [ ] Queue ↓: Preoperationeel Denken — aparte pagina nog te maken
