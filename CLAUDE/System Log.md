@@ -280,3 +280,4 @@ type: operationeel
 | 2026-07-13 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +3 (Emotieregulatie, Synaptogenese, Culturele Ontwikkelingspaden) · Geschiedenis: +1 (Koude Oorlog) |
 | 2026-07-13 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:45 (≥ 1:5 ✓) |
 | 2026-07-13 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Koude Oorlog gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
+| 2026-07-13 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 86% · Gepusht naar origin/main |
