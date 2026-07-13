@@ -2,62 +2,77 @@
 type: dagrapport
 date: 2026-07-13
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
 Goedemorgen.
 
-Nieuwe kennis:          4 concepten toegevoegd (Emotieregulatie, Synaptogenese, Culturele Ontwikkelingspaden, Koude Oorlog)
-Nieuwe artikelen:       0 (Wikipedia API geblokkeerd — interne kennis + Packer 2021 gebruikt)
-Inbox verwerkt:         1 (Packer deel04 — hoofdstukken 4–5: culturele zorg, hersenontwikkeling, emotie)
+Nieuwe kennis:          3 concepten toegevoegd · 1 pagina bijgewerkt
+Nieuwe artikelen:       0 (Wikipedia API geblokkeerd — interne kennis + Packer 2021)
 Nieuwe verbindingen:    4 relaties gelegd
 Nieuwe inzichten:       3 cross-domein inzichten gegenereerd
-Kennishiaten:           2 nieuwe gaps (Interactieve Specialisatie, Precursor Emoties)
-Aanbevolen leestijd:    ~10 minuten
+Kennishiaten:           2 nieuwe gaps gesignaleerd (Affordances, Intern Werkmodel)
+Aanbevolen leestijd:    12 minuten
 
 ---
 
 ## Research Agenda
 
-1. **Interactieve Specialisatie** — neurobiologisch principe van Johnson (2001) over hoe hersenregio's via omgevingsstimulatie gespecialiseerd raken; cruciaal voor klinische neuroplasticiteit
-2. **Precursor Emoties** — vroege emotiedifferentiatie in infancy (Izard, Camras); direct fundament voor emotieregulatie bij oudere kinderen
-3. **Hechting en Emotieregulatie** — brug tussen Hechtingstheorie en Emotieregulatie; relevant voor behandeling van vroegkinderlijk trauma in klinische praktijk
+Prioriteit 1: Affordances (Gibson, 1966) — reden: kernbegrip in deel05, verklaart perceptie-actie koppeling in peuterontwikkeling
+Prioriteit 2: Intern Werkmodel — reden: Bowlby's concept dat hechtingservaringen als template voor relaties dient; ontbreekt als zelfstandige pagina
+Prioriteit 3: Vreemde Situatie — reden: Ainsworth's methodologie veelvuldig besproken in deel05; uitbreiding van Hechtingstheorie
 
 ---
 
+## Pagina's Bijgewerkt via Inbox
+1. [[Hechtingstheorie]] — bron: Child Development - Packer_deel05 — vier centrale hypothesen toegevoegd; culturele variatiedata (Duits, Japans, Israëlisch kibbutz-onderzoek) aangevuld
+
+## Pagina's Aangemaakt
+1. [[Interactieve Specialisatie]] — confidence 8 (Packer 2021 + Johnson 2001)
+2. [[Precursor Emoties]] — confidence 8 (Packer 2021 + Izard/Camras 1992)
+3. [[Geleid Participeren]] — confidence 8 (Packer 2021 + Rogoff 1990)
+
+## Verbindingen Toegevoegd
+1. [[Synaptogenese]] → [[Interactieve Specialisatie]] · ★9
+2. [[Precursor Emoties]] → [[Emotieregulatie]] · ★10
+3. [[Vygotsky]] → [[Geleid Participeren]] · ★9
+4. [[Hechtingstheorie]] ↔ [[Geleid Participeren]] · ★8
+
 ## Insight Feed
-
-— "De kwaliteit van emotieregulatie bepaalt of verliesaversie irrationele besluiten produceert — financieel risico nemen is in wezen een neuropsychologisch vraagstuk." [Psychologie → Beleggen · ★8]
-
-— "Als verschillende culturen wezenlijk verschillende psychologische uitkomsten produceren, zijn westerse ontwikkelingstheorieën epistemologisch provinciaal." [Psychologie → Filosofie · ★9]
-
-— "Zoals synaptisch snoeien alternatieve verbindingen elimineert, elimineerde de Koude Oorlog alternatieve politieke ideeën — ideologisch snoeien dat samenlevingen hun flexibiliteit kostte." [Psychologie → Geschiedenis · ★7]
+— "Terwijl klassieke filosofie kennis ziet als solitaire verwerving, toont geleid participeren dat de verzorger de eerste epistemoloog van het kind is." [Psychologie → Filosofie · ★9]
+— "Verliesaversie heeft mogelijk wortels in precursor-emoties: de vroegste affectieve valentie van de zuigeling is het prototype van risicogevoeligheid." [Psychologie → Beleggen · ★8]
+— "Interactieve specialisatie biedt een neurobiologisch argument voor empirisme: het brein schrijft zijn eigen specialisatie via ervaringsselectie." [Psychologie → Filosofie · ★8]
 
 ---
 
 ## Knowledge Health
-
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 97% | → |
-| Filosofie | 82% | → |
-| Geschiedenis | 83% | ↑ |
-| Beleggen | 81% | → |
-
-*Geschatte overall health: 87% (Coverage 47.5%, Connectivity 100%, Orphan 0%)*
+| Algemeen | 88% | ↑ |
+| Psychologie | 99% | ↑ |
+| Filosofie | 83% | ↑ |
+| Geschiedenis | 84% | → |
+| Beleggen | 82% | ↑ |
 
 ---
 
 ## Activiteit
-
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 1 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 2 (Prospect Theory, Epistemologie, Totalitarisme, Executieve Functies — back-links) |
+| Inbox verwerkt | 1 (deel05) |
+| Nieuwe Wiki-pagina's | 3 |
+| Bijgewerkte Wiki-pagina's | 1 |
 | Nieuwe verbindingen | 4 |
-| Gaps gedicht | 1 (Koude Oorlog) |
-| Nieuwe inzichten | 3 |
-| Nieuwe gaps gesignaleerd | 2 |
+| Gaps gedicht | 2 (Interactieve Specialisatie, Precursor Emoties) |
+| Nieuwe gaps gesignaleerd | 2 (Affordances, Intern Werkmodel) |
+| Quiz vragen toegevoegd | 3 |
+
+---
+
+## Aandacht vereist
+
+- [ ] Affordances (Gibson) — nog geen wiki-pagina; kernbegrip voor perceptie-actie in de ontwikkelingspsychologie
+- [ ] Intern Werkmodel — Bowlby's concept ontbreekt als zelfstandige pagina; hoog relevant voor klinische neuropsychologie
+- [ ] Queue resterend: 2 nieuwe gaps (Affordances, Intern Werkmodel) — toegevoegd aan Task Queue

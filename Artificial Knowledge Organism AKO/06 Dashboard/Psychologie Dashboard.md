@@ -15,12 +15,12 @@ updated: 2026-07-13
 
 | Metric | Waarde |
 |---|---|
-| Concept-pagina's | 21 |
-| Coverage (21/20) | 100%+ |
-| Connectivity | ~95% |
-| Orphan-rate | ~5% |
-| **Score** | **97%** |
-| Trend | → (stabiel op 97%) |
+| Concept-pagina's | 24 |
+| Coverage (24/20) | 100%+ |
+| Connectivity | ~100% |
+| Orphan-rate | ~0% |
+| **Score** | **99%** |
+| Trend | ↑ (van 97% naar 99%) |
 
 ---
 
@@ -49,10 +49,13 @@ updated: 2026-07-13
 | [[Emotieregulatie]] | 8 | uitgewerkt |
 | [[Synaptogenese]] | 8 | uitgewerkt |
 | [[Culturele Ontwikkelingspaden]] | 8 | uitgewerkt |
+| [[Interactieve Specialisatie]] | 8 | concept |
+| [[Precursor Emoties]] | 8 | concept |
+| [[Geleid Participeren]] | 8 | concept |
 
 ---
 
 ## Gaps
 
-- Interactieve Specialisatie (↓ queue)
-- Precursor Emoties (↓ queue)
+- Affordances (↓ queue — Gibson, 1966; perceptie-actie)
+- Intern Werkmodel (↓ queue — Bowlby; hechtingsrepresentaties)

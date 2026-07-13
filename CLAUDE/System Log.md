@@ -281,3 +281,27 @@ type: operationeel
 | 2026-07-13 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:45 (≥ 1:5 ✓) |
 | 2026-07-13 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Koude Oorlog gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
 | 2026-07-13 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 86% · Gepusht naar origin/main |
+| 2026-07-13 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-13 | consolidatie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel05.md | discipline: psychologie | 5 wiki-kandidaten: Hechtingstheorie (UPDATE), Affordances, Geleid Participeren, Intern Werkmodel, Vreemde Situatie |
+| 2026-07-13 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor Inbox-concepten, 5 voor overige. |
+| 2026-07-13 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Hechtingstheorie (Inbox UPDATE), Interactieve Specialisatie (queue↓), Precursor Emoties (queue↓), Geleid Participeren (Inbox NIEUW) |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Hechtingstheorie.md — vier centrale hypothesen toegevoegd (Veilige Basis, Gevoeligheid, Normativiteit, Competentie) + culturele variatiedata — confidence 8 behouden |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Interactieve Specialisatie.md — 01 Psychologie - Wiki — confidence 8 (Johnson 2001 + Packer 2021) |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Precursor Emoties.md — 01 Psychologie - Wiki — confidence 8 (Izard/Camras 1992 + Packer 2021) |
+| 2026-07-13 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Geleid Participeren.md — 01 Psychologie - Wiki — confidence 8 (Rogoff 1990 + Packer 2021) |
+| 2026-07-13 | consolidatie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Affordances (Gibson 1966), Intern Werkmodel (Bowlby) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Interactieve Specialisatie — Synaptogenese.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Precursor Emoties — Emotieregulatie.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Geleid Participeren — Vygotsky.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Hechtingstheorie — Geleid Participeren.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-13 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Verzorger als Eerste Epistemoloog.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-13 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Fundament van Verliesaversie Ligt in de Wieg.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-13 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Specialisatie is Niet Gegeven Maar Gemaakt.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-13 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-13 Dagrapport.md — consolidatiemodus — 3 concepten, 1 update, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-13 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-13 Quiz.md — 3 vragen toegevoegd (Hechtingstheorie hypothesen, Interactieve Specialisatie, Geleid Participeren) |
+| 2026-07-13 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 87% — Coverage 55%, Connectivity 100%, Orphan 0% — Psych 99%, Fil 83%, Gesch 84%, Beleg 82% |
+| 2026-07-13 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 2 dashboards overschreven: Algemeen (87%), Psychologie (99%) |
+| 2026-07-13 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +3 (Interactieve Specialisatie, Precursor Emoties, Geleid Participeren) |
+| 2026-07-13 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:51 (≥ 1:5 ✓) |
+| 2026-07-13 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
+| 2026-07-13 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 1 Inbox verwerkt · Health: 87% |

@@ -65,8 +65,11 @@ type: operationeel
 | ✓ | 2026-07-13T expansie | Agent 3 | Gap: Behaviorisme | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Behaviorisme.md — confidence 9 |
 | ✓ | 2026-07-13T expansie | Agent 3 | Gap: Koude Oorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Koude Oorlog.md — confidence 5 |
 | ✓ | 2026-07-13T expansie | Agent 1 | Inbox verwerkt | deel04 verwerkt — 5 kandidaten gedetecteerd; 3 wiki-pagina's aangemaakt (Emotieregulatie, Synaptogenese, Culturele Ontwikkelingspaden) |
-| ↓ | 2026-07-13T expansie | Agent 3 | Gap: Interactieve Specialisatie | Psych — Johnson (2001): hersengebieden worden gespecialiseerd via stimulatie-gestuurde verbindingsvorming |
-| ↓ | 2026-07-13T expansie | Agent 3 | Gap: Precursor Emoties | Psych — vroege emotiedifferentiatie in infancy (Izard, Camras 1992); fundament voor emotieregulatie |
+| ✓ | 2026-07-13T consolidatie | Agent 3 | Gap: Interactieve Specialisatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Interactieve Specialisatie.md — confidence 8 (Johnson 2001 + Packer 2021) |
+| ✓ | 2026-07-13T consolidatie | Agent 3 | Gap: Precursor Emoties | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Precursor Emoties.md — confidence 8 (Izard/Camras 1992 + Packer 2021) |
+| ✓ | 2026-07-13T consolidatie | Agent 1 | Inbox verwerkt | deel05 verwerkt — Hechtingstheorie UPDATE (4 hypothesen) + 3 wiki-pagina's (Interactieve Specialisatie, Precursor Emoties, Geleid Participeren) |
+| ↓ | 2026-07-13T consolidatie | Agent 3 | Gap: Affordances | Psych — Gibson (1966): action possibilities between organism and environment; kernbegrip in peuterontwikkeling (Packer deel05) |
+| ↓ | 2026-07-13T consolidatie | Agent 3 | Gap: Intern Werkmodel | Psych — Bowlby: mentale representaties van de hechtingsfiguur die als template dienen voor latere relaties |
 
 ---
 

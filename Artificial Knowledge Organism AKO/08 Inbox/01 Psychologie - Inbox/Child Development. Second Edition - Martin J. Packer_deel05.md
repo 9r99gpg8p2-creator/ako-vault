@@ -1,3 +1,9 @@
+---
+discipline: psychologie
+status: verwerkt
+verwerkt_op: 2026-07-13
+---
+
 Responses to separation from attachment figure
 
 

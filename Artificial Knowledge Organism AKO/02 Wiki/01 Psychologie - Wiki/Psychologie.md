@@ -35,3 +35,6 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Emotieregulatie]]
 - [[Synaptogenese]]
 - [[Culturele Ontwikkelingspaden]]
+- [[Interactieve Specialisatie]]
+- [[Precursor Emoties]]
+- [[Geleid Participeren]]

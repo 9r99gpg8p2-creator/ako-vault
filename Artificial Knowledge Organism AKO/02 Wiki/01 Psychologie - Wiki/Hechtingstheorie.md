@@ -17,7 +17,7 @@ related:
   - "[[Executieve Functies]]"
   - "[[Reconsolidatie]]"
 created: 2026-07-09
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
 # Hechtingstheorie
@@ -31,11 +31,20 @@ De hechtingstheorie is een psychologische en evolutionair-biologische theorie di
 - **Veilige basis**: de hechtingsfiguur functioneert als een veilige basis van waaruit het kind de wereld kan verkennen. Wanneer gevaar dreigt, zoekt het kind de nabijheid van de hechtingsfiguur op.
 - **Interne werkmodellen**: mentale representaties van de hechtingsfiguur en van het zelf die zich in de vroege kindertijd vormen en een template worden voor latere relaties.
 - **Hechtingsstijlen** (Ainsworth's 'Strange Situation' procedure):
-  - *Veilig gehecht*: het kind verkent de omgeving en zoekt troost bij terugkeer van de verzorger.
-  - *Angstig-ambivalent*: het kind is overmatig bezorgd bij afwezigheid en moeilijk te troosten bij terugkeer.
-  - *Vermijdend*: het kind onderdruk hechtingsgedrag en lijkt onbewogen door afwezigheid of terugkeer.
-  - *Gedesorganiseerd* (Main & Solomon, 1986): geen coherente strategie; geassocieerd met mishandeling of ernstig verlies bij de verzorger.
-- **Continuïteit**: hechtingsstijlen zijn relatief stabiel van de kindertijd tot de volwassenheid, maar kunnen veranderen door significante levenservaringen of therapie.
+  - *Veilig gehecht* (Type B): het kind verkent de omgeving en zoekt troost bij terugkeer van de verzorger.
+  - *Angstig-ambivalent* (Type C): het kind is overmatig bezorgd bij afwezigheid en moeilijk te troosten bij terugkeer.
+  - *Vermijdend* (Type A): het kind onderdrukt hechtingsgedrag en lijkt onbewogen door afwezigheid of terugkeer.
+  - *Gedesorganiseerd* (Type D, Main & Solomon, 1986): geen coherente strategie; geassocieerd met mishandeling of ernstig verlies bij de verzorger.
+- **Continuïteit**: hechtingsstijlen zijn relatief stabiel van de kindertijd tot de volwassenheid; 72% ontvangt zelfde classificatie als volwassene als als kind (Waters et al., 2000).
+
+## Vier Centrale Hypothesen (Packer, 2021)
+
+Packer onderscheidt vier empirisch toetsbare hypothesen over hechting in de peutertijd:
+
+1. **Veilige-basis hypothese** (universaliteitshypothese): elk kind vormt een hechting met een specifieke figuur die als veilige basis dient. Kritiek: oorspronkelijke formulering was sterk moeder-gecentraliseerd; cross-cultureel onderzoek toont dat meervoudige hechtingsfiguren in veel samenlevingen de norm zijn (Jäger-gemeenschappen, Efe, !Kung).
+2. **Gevoeligheidshypothese**: veilige hechting ontstaat wanneer de verzorger "sensitief" reageert op signalen van het kind. Meta-analyse (de Wolff & van IJzendoorn, 1997) vond slechts een "matig sterke" associatie; ook wederkerigheid, synchronie en positief affect spelen een rol. Wat als "sensitief" geldt is cultureel bepaald.
+3. **Normativiteitshypothese**: veilige hechting is de norm (≈65% Type B in veel steekproeven). Duits onderzoek vond echter 49% Type A in Noord-Duitsland; Japans onderzoek vond hoge frequentie Type C maar geen Type A — toegeschreven aan culturele normen, niet aan pathologie.
+4. **Competentiehypothese**: veilige hechting leidt tot betere sociale en cognitieve uitkomsten. Echter: in Japan leidt sensitieve verzorging tot coöperatie (niet exploratie); de Hausa beperken fysieke verkenning uit veiligheidsoverwegingen. Competentie moet per cultuur worden gedefinieerd.
 
 ## Context
 
