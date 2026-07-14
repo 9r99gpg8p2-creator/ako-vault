@@ -56,6 +56,7 @@ Etnische identiteit is een bijzonder relevante dimensie: voor adolescenten uit m
 - [[Intern Werkmodel]] — mentale representatie van zelf en ander als grondvorm waarop identiteit wordt gebouwd
 - [[Emotieregulatie]] — moratorium vereist regulatie van de angst en ambiguïteit die gepaard gaan met identiteitsverkenning
 - [[Vygotsky]] — Vygotsky's "ik voor zichzelf" in de adolescentie sluit aan op Eriksons identiteitsbegrip
+- [[Erikson]] ★10 — Marcia's Identity Status Model is de directe operationalisering van Eriksons psychosociale theorie
 
 **Cross-domein:**
 - [[Ethiek]] — postconventioneel moreel redeneren en identiteitsverwerving ontwikkelen zich gelijktijdig

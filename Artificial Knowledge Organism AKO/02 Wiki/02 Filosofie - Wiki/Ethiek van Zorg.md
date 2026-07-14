@@ -61,6 +61,7 @@ In de klinische neuropsychologie is de ethiek van zorg relevant voor begrijpen v
 - [[Hechtingstheorie]] — empirische basis: veilige hechting als voorwaarde voor het ontwikkelen van zorgcapaciteit
 - [[Emotieregulatie]] — zorgrelaties vereisen en bevorderen emotionele regulatie
 - [[Epistemologisch Relativisme]] — vergelijkbaar met de erkenning dat morele oordelen contextgebonden zijn; aanvullende perspectieven op kennisrelativisme
+- [[Kohlberg]] ★10 — ethiek van zorg is een directe kritiek op Kohlbergs androcentrisme en zijn hiërarchie van morele stadia
 
 **Cross-domein:**
 - [[Theory of Mind]] — begrip van de behoeften en gevoelens van anderen is de cognitieve voorwaarde voor de ethiek van zorg (Psychologie × Filosofie)

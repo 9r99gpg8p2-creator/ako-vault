@@ -59,3 +59,7 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Adolescentie]]
 - [[Meta-emotie]]
 - [[Intent Participatie]]
+- [[Kohlberg]]
+- [[Dual Process Theorie]]
+- [[Erikson]]
+- [[Fuzzy Trace Theory]]

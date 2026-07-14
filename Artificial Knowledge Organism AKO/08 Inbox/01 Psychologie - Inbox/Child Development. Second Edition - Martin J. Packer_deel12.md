@@ -1,3 +1,9 @@
+---
+discipline: psychologie
+status: verwerkt
+verwerkt_op: 2026-07-14
+---
+
 Cowen, E. L., Pederson, A., Babigian, H., Izzo, L. D., & Trost, M. A.
  (1973). Long-term follow-up of early detected vulnerable children.
  Journal of Consulting and Clinical Psychology, 41, 438–446.

@@ -2,76 +2,41 @@
 type: dagrapport
 date: 2026-07-14
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Goedemorgen.
-
-Nieuwe kennis: 2 · Inbox verwerkt: 1 (deel11) · Pagina's bijgewerkt: 1 · Verbindingen verdicht: 3 · Inzichten: 2 · Gaps gedicht: 2 · Queue resterend: 0 · Leestijd: ~4 min
-
----
+Nieuwe kennis: 4 · Inbox verwerkt: 1 · Verbindingen: 4 · Inzichten: 3 · Gaps gedicht: 2 · Leestijd: ~12 min
 
 ## Research Agenda
 
-1. **Deel12-14 Inbox** — de resterende Packer-bestanden bevatten bibliografie, referentielijst en index; bij volgende run verwerken (lage prioriteit inhoud, hoge prioriteit afronden)
-2. **Concrete Operationeel Denken** — nog niet als volwaardige pagina aanwezig; sluit de Piagetse stadia-reeks af
-3. **Kohlberg (morele ontwikkeling)** — Ethiek van Zorg verwijst naar zijn model; een eigen Kohlberg-pagina versterkt dat cross-domein netwerk
-
----
+1. **Kohlberg** — morele stadia vereist voor begrip van ethisch redeneren in klinische en forensische contexten; directe relatie met Ethiek van Zorg en Vrije Wil
+2. **Dual Process Theorie** — cognitieve architectuur achter irrationeel beleggersgedrag én adolescent risicoredeneren; verbindt Psychologie en Beleggen
+3. **Situated Learning / Communities of Practice** (Lave & Wenger) — nog geen wiki-pagina; relevant voor leertheorie en onderwijspsychologie (Psych gap)
+4. **Adolescent Peergroepen** — sociaal-ontwikkelingsdomein dat in de vault ontbreekt; relevant voor MSc Klinische Neuropsychologie (sociale cognition bij adolescenten)
 
 ## Insight Feed
 
-— "Om werkelijk voor iemand te kunnen zorgen moet je hun geest kunnen kennen — de ethiek van zorg en Theory of Mind zijn twee kanten van hetzelfde vermogen." [Psychologie → Filosofie · ★9]
-
-— "De intellectuele twijfel die epistemologisch relativisme kenmerkt is dezelfde ruimte waarbinnen identiteit kan rijpen — twijfel is geen vijand van de adolescent maar zijn groeimittel." [Filosofie → Psychologie · ★8]
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-1. [[Theory of Mind]] — deel11 (glossary): teleologische/intentionele/mentalistische stance + representationele theorie van de geest toegevoegd
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[Epistemologisch Relativisme]] ↔ [[Formeel Operationeel Denken]] · ★9
-2. [[Ethiek van Zorg]] ↔ [[Theory of Mind]] · ★9
-3. [[Epistemologisch Relativisme]] ↔ [[Ethiek van Zorg]] · ★8
-
----
+— "Kohlberg's empirische data onthullen dat morele autonomie — het Kantiaanse ideaal — een ontwikkelingsachievement is dat de meeste mensen nooit bereiken." [Psychologie → Filosofie · ★9]
+— "Beursbubbels en crashes zijn System 1-fenomenen: rationele correctie (System 2) arriveert altijd te laat." [Psychologie → Beleggen · ★9]
+— "Identiteit heeft geen stabiele kern — het is een voortdurende onderhandeling met context, net als kennis geen absoluut fundament heeft." [Psychologie → Filosofie · ★8]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 100% | → |
-| Filosofie | ~87% | ↑ |
+| Psychologie | ~100% | → |
+| Filosofie | 87% | → |
 | Geschiedenis | 85% | → |
-| Beleggen | 83% | → |
-
-Overall: **~89%** — Coverage ↑ (Filosofie: +2 pagina's), Connectivity 100%, Orphan 0%
-
----
+| Beleggen | 84% | → |
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 1 (deel11 — glossary) |
-| Nieuwe Wiki-pagina's | 2 (Epistemologisch Relativisme, Ethiek van Zorg) |
-| Updates bestaande pagina's | 1 (Theory of Mind) |
-| Nieuwe relatiepagina's | 3 |
-| Nieuwe inzichten | 2 |
+| Inbox verwerkt | 1 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 3 |
+| Nieuwe verbindingen | 4 |
 | Gaps gedicht | 2 |
-| Quiz vragen toegevoegd | 3 (vr12-14) |
-
----
-
-## Aandacht vereist
-
-- [ ] Inbox: deel12, 13, 14 nog te verwerken (bibliografie + index — lagere informatiedichtheid verwacht)
-- [ ] Nieuwe gap gesignaleerd: Kohlberg (morele ontwikkeling) — ondersteunt Ethiek van Zorg pagina
-- [ ] Filosofie en Beleggen verdienen expansie in volgende run

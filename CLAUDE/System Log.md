@@ -452,3 +452,28 @@ type: operationeel
 | 2026-07-14 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:76 (≥ 1:5 ✓) |
 | 2026-07-14 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Epistemologisch Relativisme, Ethiek van Zorg) · 2 nieuwe gaps ↓ (Kohlberg, Fuzzy Trace Theory) |
 | 2026-07-14 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 1 Inbox verwerkt · 2 pagina's · 1 update · Health: 89% |
+| 2026-07-14 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-14 | expansie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel12.md | discipline: psychologie | 5 wiki-kandidaten: Kohlberg (NIEUW↓queue), Dual Process Theorie (NIEUW), Erikson (NIEUW), Situated Learning (NIEUW), Adolescent Peergroepen (NIEUW) |
+| 2026-07-14 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor Inbox-concepten, 5 voor overige. |
+| 2026-07-14 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Kohlberg (queue↓+Inbox PRIORITEIT), Dual Process Theorie (Inbox NIEUW), Erikson (Inbox NIEUW), Fuzzy Trace Theory (queue↓) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Kohlberg.md — 01 Psychologie - Wiki — confidence 8 (Kohlberg 1963/2008, Kohlberg & Hersh 1977, Packer 2021) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Dual Process Theorie.md — 01 Psychologie - Wiki — confidence 8 (Evans 2008, De Neys 2006, Kahneman 2011) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Erikson.md — 01 Psychologie - Wiki — confidence 8 (Erikson 1950, 1994a, 1994b, Packer 2021) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Fuzzy Trace Theory.md — 01 Psychologie - Wiki — confidence 8 (Reyna & Brainerd 1995, Packer 2021) |
+| 2026-07-14 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps: Situated Learning (Lave & Wenger), Adolescent Peergroepen |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Kohlberg — Ethiek van Zorg.md — sterkte ★10 — Psychologie × Filosofie |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Dual Process Theorie — Prospect Theory.md — sterkte ★9 — Psychologie × Beleggen |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Erikson — Identiteitsstatussen.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Fuzzy Trace Theory — Dual Process Theorie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-14 | expansie | Agent 4 | Reverse links bijgewerkt | ✓ | Ethiek van Zorg.md +[[Kohlberg]] · Prospect Theory.md +[[Dual Process Theorie]] · Identiteitsstatussen.md +[[Erikson]] |
+| 2026-07-14 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Morele Autonomie is een Statistisch Zeldzaamheid.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-14 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Beurscrashes zijn System 1 Gebeurtenissen.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-14 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Identiteit is Geen Bestemming Maar Een Onderhandeling.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-14 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-14 Dagrapport.md — expansiemodus — 4 pagina's, 4 verbindingen, 3 inzichten, 2 nieuwe gaps, Inbox deel12 |
+| 2026-07-14 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-14 Quiz.md — 3 vragen toegevoegd (vr15-17: Kohlberg, Dual Process+Prospect Theory, Erikson vs Kohlberg) |
+| 2026-07-14 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 89% → (ongewijzigd) — Psych 100% (50 pag.), Fil 87%, Gesch 85%, Beleg 84% |
+| 2026-07-14 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | Psychologie Dashboard.md (49 pag.) · Algemeen Dashboard.md (80 pag. totaal) |
+| 2026-07-14 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie.md: +4 (Kohlberg, Dual Process Theorie, Erikson, Fuzzy Trace Theory) |
+| 2026-07-14 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 6:80 (≥ 1:5 ✓) |
+| 2026-07-14 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Kohlberg, Fuzzy Trace Theory, Dual Process Theorie, Erikson) · 2 nieuwe gaps ↓ (Situated Learning, Adolescent Peergroepen) |
+| 2026-07-14 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 gaps gedicht · 1 Inbox verwerkt (deel12) · 4 nieuwe pagina's · 4 relaties · 3 inzichten · Health: 89% |

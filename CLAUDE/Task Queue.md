@@ -81,8 +81,13 @@ type: operationeel
 | ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Epistemologisch Relativisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Epistemologisch Relativisme.md — confidence 8 (Perry 1970 + Kuhn 1991 + Chandler 1987 + Packer 2021) |
 | ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Ethiek van Zorg | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Ethiek van Zorg.md — confidence 8 (Gilligan 1982 + Noddings 1984 + Packer 2021) |
 | ✓ | 2026-07-14T consolidatie | Agent 1 | Inbox verwerkt | deel11 verwerkt — 5 kandidaten gedetecteerd; Theory of Mind UPDATE (teleologische stance, representationele theorie); 4 gaps naar queue |
-| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Kohlberg | Psych/Fil — Kohlberg (1981): stadia van morele ontwikkeling (preconventioneel, conventioneel, postconventioneel); basismodel voor de Ethiek van Zorg en morele redenering bij adolescenten |
-| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Fuzzy Trace Theory | Psych — Reyna & Brainerd (1995): redeneren op basis van "fuzzy" gist-representaties i.p.v. exacte details; verklaring voor adolescent risicoredeneren (Packer deel11 glossary) |
+| ✓ | 2026-07-14T expansie | Agent 3 | Gap: Kohlberg | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Kohlberg.md — confidence 8 (Kohlberg 1963/2008, Packer deel12) |
+| ✓ | 2026-07-14T expansie | Agent 3 | Gap: Fuzzy Trace Theory | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Fuzzy Trace Theory.md — confidence 8 (Reyna & Brainerd 1995, Packer deel11/12) |
+| ✓ | 2026-07-14T expansie | Agent 3 | Gap: Dual Process Theorie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Dual Process Theorie.md — confidence 8 (Evans 2008, Kahneman 2011, Packer deel12) |
+| ✓ | 2026-07-14T expansie | Agent 3 | Gap: Erikson | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Erikson.md — confidence 8 (Erikson 1950, 1994a/b, Packer deel12) |
+| ✓ | 2026-07-14T expansie | Agent 1 | Inbox verwerkt | deel12 verwerkt (bibliografie C–L) — 4 wiki-pagina's aangemaakt; 2 nieuwe gaps geïdentificeerd |
+| ↓ | 2026-07-14T expansie | Agent 3 | Gap: Situated Learning | Psych — Lave & Wenger (1991): communities of practice; gesitueerd leren; leertheorie-domein ontbreekt in vault |
+| ↓ | 2026-07-14T expansie | Agent 3 | Gap: Adolescent Peergroepen | Psych — sociaal-ontwikkelingsdomein; peergroepinvloeden bij adolescenten; relevant voor MSc Klinische Neuropsychologie |
 
 ---
 
