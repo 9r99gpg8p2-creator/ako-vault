@@ -2,32 +2,44 @@
 type: dagrapport
 date: 2026-07-14
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
 Goedemorgen.
 
-Nieuwe kennis: 6 · Inbox verwerkt: 1 · Verbindingen: 4 · Inzichten: 3 · Gaps: 2 nieuw · Leestijd: 6 min
+Nieuwe kennis: 2 · Inbox verwerkt: 1 (deel11) · Pagina's bijgewerkt: 1 · Verbindingen verdicht: 3 · Inzichten: 2 · Gaps gedicht: 2 · Queue resterend: 0 · Leestijd: ~4 min
 
 ---
 
 ## Research Agenda
 
-1. **Epistemologisch Relativisme** — gap gedetecteerd in Packer deel10: adolescente overtuiging dat alle kennis slechts mening is; relevant voor MSc Klinische Neuropsychologie (beoordeling van epistemisch functioneren bij patiënten)
-2. **Ethiek van Zorg (Gilligan)** — gap uit Packer deel10: alternatieve morele stem naast Kohlbergs rechtvaardigheidsethiek; directe relevantie voor klinisch-ethische besluitvorming
-3. **Concrete Operationeel Denken** — eerder gesignaleerd (deel09); sluit de Piagetse stadia-reeks af
+1. **Deel12-14 Inbox** — de resterende Packer-bestanden bevatten bibliografie, referentielijst en index; bij volgende run verwerken (lage prioriteit inhoud, hoge prioriteit afronden)
+2. **Concrete Operationeel Denken** — nog niet als volwaardige pagina aanwezig; sluit de Piagetse stadia-reeks af
+3. **Kohlberg (morele ontwikkeling)** — Ethiek van Zorg verwijst naar zijn model; een eigen Kohlberg-pagina versterkt dat cross-domein netwerk
 
 ---
 
 ## Insight Feed
 
-— "Juist wanneer de adolescent voor het eerst formeel kan redeneren, ontdekt ze dat alle kennis slechts mening is — en verliest ze tijdelijk het vertrouwen in logica zelf." [Psychologie → Filosofie · ★9]
+— "Om werkelijk voor iemand te kunnen zorgen moet je hun geest kunnen kennen — de ethiek van zorg en Theory of Mind zijn twee kanten van hetzelfde vermogen." [Psychologie → Filosofie · ★9]
 
-— "De identiteitscrisis van de adolescent speelt zich af op een fundament dat lang voor de puberteit is gelegd: vroeg hechtingspatroon bepaalt de veiligheid waarmee identiteitsverkenning wordt aangegaan." [Psychologie → Filosofie · ★9]
+— "De intellectuele twijfel die epistemologisch relativisme kenmerkt is dezelfde ruimte waarbinnen identiteit kan rijpen — twijfel is geen vijand van de adolescent maar zijn groeimittel." [Filosofie → Psychologie · ★8]
 
-— "De emotionele besluitvorming die de adolescent kenmerkt keert terug in de volwassen belegger bij marktstress: verliesaversie en herding activeren hetzelfde patroon." [Psychologie → Beleggen · ★8]
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+1. [[Theory of Mind]] — deel11 (glossary): teleologische/intentionele/mentalistische stance + representationele theorie van de geest toegevoegd
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Epistemologisch Relativisme]] ↔ [[Formeel Operationeel Denken]] · ★9
+2. [[Ethiek van Zorg]] ↔ [[Theory of Mind]] · ★9
+3. [[Epistemologisch Relativisme]] ↔ [[Ethiek van Zorg]] · ★8
 
 ---
 
@@ -36,11 +48,11 @@ Nieuwe kennis: 6 · Inbox verwerkt: 1 · Verbindingen: 4 · Inzichten: 3 · Gaps
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 100% | → |
-| Filosofie | 83% | → |
+| Filosofie | ~87% | ↑ |
 | Geschiedenis | 85% | → |
-| Beleggen | 83% | ↑ |
+| Beleggen | 83% | → |
 
-Overall: **88%** — Coverage 75%, Connectivity 100%, Orphan 0%
+Overall: **~89%** — Coverage ↑ (Filosofie: +2 pagina's), Connectivity 100%, Orphan 0%
 
 ---
 
@@ -48,16 +60,18 @@ Overall: **88%** — Coverage 75%, Connectivity 100%, Orphan 0%
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 1 (deel10) |
-| Nieuwe Wiki-pagina's | 6 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 4 |
-| Gaps gedicht | 2 (Meta-emotie, Intent Participatie) |
+| Inbox verwerkt | 1 (deel11 — glossary) |
+| Nieuwe Wiki-pagina's | 2 (Epistemologisch Relativisme, Ethiek van Zorg) |
+| Updates bestaande pagina's | 1 (Theory of Mind) |
+| Nieuwe relatiepagina's | 3 |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 2 |
+| Quiz vragen toegevoegd | 3 (vr12-14) |
 
 ---
 
 ## Aandacht vereist
 
-- [ ] 2 nieuwe gaps in queue: Epistemologisch Relativisme, Ethiek van Zorg (Gilligan)
-- [ ] Inbox: deel11 t/m deel14 nog te verwerken in komende runs
-- [ ] Beleggen (9 pag.) en Filosofie (9 pag.) verdienen prioriteit in volgende expansie-run
+- [ ] Inbox: deel12, 13, 14 nog te verwerken (bibliografie + index — lagere informatiedichtheid verwacht)
+- [ ] Nieuwe gap gesignaleerd: Kohlberg (morele ontwikkeling) — ondersteunt Ethiek van Zorg pagina
+- [ ] Filosofie en Beleggen verdienen expansie in volgende run

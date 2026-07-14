@@ -431,3 +431,24 @@ type: operationeel
 | 2026-07-14 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:68 (≥ 1:5 ✓) |
 | 2026-07-14 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Meta-emotie, Intent Participatie) · 2 nieuwe gaps ↓ (Epistemologisch Relativisme, Ethiek van Zorg) |
 | 2026-07-14 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 6 wiki-pagina's aangemaakt · 4 relatiepagina's · 3 inzichten · Inbox deel10 verwerkt · Health: 88% |
+| 2026-07-14 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-14 | consolidatie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel11.md | discipline: psychologie | 5 wiki-kandidaten: Theory of Mind (UPDATE), Identity Status Model, False-Belief Task, Moratorium, Fuzzy Trace Theory |
+| 2026-07-14 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor Inbox-concepten. |
+| 2026-07-14 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 onderwerpen: Epistemologisch Relativisme (queue↓ PRIORITEIT), Ethiek van Zorg (queue↓ PRIORITEIT) + Theory of Mind UPDATE |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Theory of Mind.md — teleologische/intentionele/mentalistische stance (Dennett) + representationele theorie van de geest toegevoegd (Packer deel11) — confidence 8 behouden |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Epistemologisch Relativisme.md — 02 Filosofie - Wiki — confidence 8 (Perry 1970 + Kuhn 1991 + Chandler 1987 + Packer 2021) |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Ethiek van Zorg.md — 02 Filosofie - Wiki — confidence 8 (Gilligan 1982 + Noddings 1984 + Packer 2021) |
+| 2026-07-14 | consolidatie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps: Kohlberg (morele stadia), Fuzzy Trace Theory (Reyna & Brainerd) |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Epistemologisch Relativisme — Formeel Operationeel Denken.md — sterkte ★9 — Filosofie × Psychologie |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Ethiek van Zorg — Theory of Mind.md — sterkte ★9 — Filosofie × Psychologie |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Epistemologisch Relativisme — Ethiek van Zorg.md — sterkte ★8 — Filosofie (intra) |
+| 2026-07-14 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Zorg is Kennis Over de Ander.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-14 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Twijfel als Fundament van Identiteit.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-14 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-14 Dagrapport.md — consolidatiemodus — 2 pagina's, 1 update, 3 verbindingen, 2 inzichten, 2 nieuwe gaps |
+| 2026-07-14 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-14 Quiz.md — 3 vragen toegevoegd (vr12-14: Epistemologisch Relativisme, Ethiek van Zorg + ToM, Dennett stances) |
+| 2026-07-14 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 89% — Psych 100%, Fil 87% (↑), Gesch 85%, Beleg 84% — Coverage Fil: 55% (11 pag.) |
+| 2026-07-14 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Filosofie Dashboard.md (87% ↑) · Algemeen Dashboard.md (89% ↑, 76 pagina's totaal) |
+| 2026-07-14 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +2 (Epistemologisch Relativisme, Ethiek van Zorg) |
+| 2026-07-14 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:76 (≥ 1:5 ✓) |
+| 2026-07-14 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Epistemologisch Relativisme, Ethiek van Zorg) · 2 nieuwe gaps ↓ (Kohlberg, Fuzzy Trace Theory) |
+| 2026-07-14 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 1 Inbox verwerkt · 2 pagina's · 1 update · Health: 89% |

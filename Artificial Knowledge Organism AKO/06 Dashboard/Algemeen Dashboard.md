@@ -15,10 +15,10 @@ updated: 2026-07-14
 | Discipline | Concept-pag's | Coverage | Score | Trend |
 |---|---|---|---|---|
 | Psychologie | 46 | 100%+ | 100% | → |
-| Filosofie | 9 | 45% | 83% | → |
+| Filosofie | 11 | 55% | 87% | ↑ |
 | Geschiedenis | 10 | 50% | 85% | → |
-| Beleggen | 9 | 45% | 83% | ↑ |
-| **Totaal** | **74** | **80%** | **88%** | **→** |
+| Beleggen | 9 | 45% | 84% | → |
+| **Totaal** | **76** | **—** | **89%** | **↑** |
 
 ---
 
@@ -26,12 +26,12 @@ updated: 2026-07-14
 
 | Metric | Waarde |
 |---|---|
-| Totaal Wiki-pagina's | 74 |
-| Totaal relatiepagina's | 50+ |
-| Totaal inzichtpagina's | 30+ |
-| Inbox verwerkt (cumulatief) | 10 delen (deel01–deel10) |
-| Inbox wachtend | deel11–deel14 |
-| Queue resterend | 2 (Epistemologisch Relativisme, Ethiek van Zorg) |
+| Totaal Wiki-pagina's | 76 |
+| Totaal relatiepagina's | 53+ |
+| Totaal inzichtpagina's | 32+ |
+| Inbox verwerkt (cumulatief) | 11 delen (deel01–deel11) |
+| Inbox wachtend | deel12–deel14 |
+| Queue resterend | 0 |
 
 ---
 
@@ -51,4 +51,5 @@ updated: 2026-07-14
 | 2026-07-13 | Consolidatie | 3+1upd+Inbox deel07 | 88% |
 | 2026-07-14 | Expansie | 4+Inbox deel08 | 88% |
 | 2026-07-14 | Consolidatie | 5+2upd+Inbox deel09 | 88% |
-| 2026-07-14 | Expansie | 6+Inbox deel10 | **88%** |
+| 2026-07-14 | Expansie | 6+Inbox deel10 | 88% |
+| 2026-07-14 | Consolidatie | 2+1upd+Inbox deel11 | **89%** |

@@ -78,8 +78,11 @@ type: operationeel
 | ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Hogere Psychologische Functies | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Hogere Psychologische Functies.md — confidence 8 (Vygotsky 1997a + Packer deel09) |
 | ✓ | 2026-07-14T expansie | Agent 3 | Gap: Meta-emotie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Meta-emotie.md — confidence 8 (Gottman et al. 1997 + Packer 2021) |
 | ✓ | 2026-07-14T expansie | Agent 3 | Gap: Intent Participatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Intent Participatie.md — confidence 8 (Rogoff et al. 2003 + Packer 2021) |
-| ↓ | 2026-07-14T expansie | Agent 3 | Gap: Epistemologisch Relativisme | Psych/Fil — Kuhn (1991), Perry (1970), Chandler (1987): adolescente overtuiging dat kennis subjectief en contextueel is; ontwikkelt zich uit formeel operationeel denken (Packer deel10) |
-| ↓ | 2026-07-14T expansie | Agent 3 | Gap: Ethiek van Zorg | Psych/Fil — Gilligan (1982): moreel redeneren vanuit relaties en zorg i.p.v. abstracte rechtvaardigheid; alternatief voor Kohlbergs model (Packer deel10) |
+| ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Epistemologisch Relativisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Epistemologisch Relativisme.md — confidence 8 (Perry 1970 + Kuhn 1991 + Chandler 1987 + Packer 2021) |
+| ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Ethiek van Zorg | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Ethiek van Zorg.md — confidence 8 (Gilligan 1982 + Noddings 1984 + Packer 2021) |
+| ✓ | 2026-07-14T consolidatie | Agent 1 | Inbox verwerkt | deel11 verwerkt — 5 kandidaten gedetecteerd; Theory of Mind UPDATE (teleologische stance, representationele theorie); 4 gaps naar queue |
+| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Kohlberg | Psych/Fil — Kohlberg (1981): stadia van morele ontwikkeling (preconventioneel, conventioneel, postconventioneel); basismodel voor de Ethiek van Zorg en morele redenering bij adolescenten |
+| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Fuzzy Trace Theory | Psych — Reyna & Brainerd (1995): redeneren op basis van "fuzzy" gist-representaties i.p.v. exacte details; verklaring voor adolescent risicoredeneren (Packer deel11 glossary) |
 
 ---
 

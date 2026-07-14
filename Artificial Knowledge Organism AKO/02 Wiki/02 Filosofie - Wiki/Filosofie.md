@@ -22,3 +22,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Psychoanalyse]]
 - [[Epistemologie]]
 - [[Ethiek]]
+- [[Epistemologisch Relativisme]]
+- [[Ethiek van Zorg]]

@@ -19,6 +19,7 @@ related:
   - "[[Semiotische Functie]]"
 created: 2026-07-14
 updated: 2026-07-14
+bron_update: gebruikersbron — Child Development. Second Edition - Martin J. Packer_deel11.md (glossary)
 ---
 
 # Theory of Mind
@@ -34,6 +35,8 @@ Theory of Mind (ToM) is het vermogen om mentale toestanden — zoals overtuiging
 - **Belief-desire psychology:** Het complete model waarbij zowel overtuigingen als verlangens als mentale toestanden worden toegeschreven aan anderen. Volledig verworven rond 4–5 jaar.
 - **Vygotsky vs. Piaget:** Packer stelt dat Vygotsky's alternatief — kinderen bouwen op praktisch-emotionele intentie-begrip, niet op een abstracte "theorie" — empirisch beter onderbouwd is dan het idee dat kinderen letterlijk een mentale theorie construeren.
 - **Culturele variatie:** Cross-cultureel onderzoek (Canada, Samoa, India, Peru) toont dat de leeftijd waarop kinderen false-belief taken slagen varieert afhankelijk van culturele context en mate van expliciete taalondersteuning.
+- **Teleologische → intentionele → mentalistische stance:** Packer (2021, deel11) beschrijft drie opeenvolgende niveaus van begrip van andermans handelen: (1) *teleologische stance* — het kind begrijpt het doel van een handeling (de telos) maar niet de voorafgaande intentie; (2) *intentionele stance* (Dennett 1987) — de strategie van het toeschrijven van overtuigingen, verlangens en andere mentale toestanden aan een ander om zijn gedrag te voorspellen; (3) *mentalistische stance* — handelen begrepen als gestuurd door persoonlijke overtuigingen en verlangens. De overgang van teleologisch naar intentioneel/mentalistisch begrip markeert de kern van ToM-verwerving.
+- **Representationele theorie van de geest:** Een begrip van andermans overtuigingen als *mentale representaties*, en daarmee als alternatieve interpretaties van dezelfde werkelijkheid — in onderscheid van de werkelijkheid zelf. Dit onderscheid (overtuiging ≠ feit) is de kern van de false-belief taak en van volledig ToM-begrip.
 
 ## Context
 
@@ -67,3 +70,5 @@ De term "Theory of Mind" werd geïntroduceerd door Premack en Woodruff (1978) in
 - Baron-Cohen, S., Leslie, A.M. & Frith, U. (1985). Does the autistic child have a 'theory of mind'? *Cognition*, 21(1), 37–46.
 - Wimmer, H. & Perner, J. (1983). Beliefs about beliefs. *Cognition*, 13(1), 103–128.
 - Packer, M.J. (2021). *Child Development: Second Edition*. SAGE Publications. Hoofdstuk 9.
+- Packer, M.J. (2021). *Child Development: Second Edition*. SAGE Publications. Deel 11 (glossary: teleologische/intentionele/mentalistische stance, representationele theorie van de geest).
+- Dennett, D.C. (1987). *The Intentional Stance*. Cambridge, MA: MIT Press.
