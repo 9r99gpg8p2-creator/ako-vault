@@ -76,8 +76,10 @@ type: operationeel
 | ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Preoperationeel Denken | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Preoperationeel Denken.md — confidence 8 (Piaget & Inhelder 1969 + Bruner 1964 + Packer 2021) |
 | ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Zone of Proximal Development | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Zone of Proximal Development.md — confidence 8 (Vygotsky 1978 + Packer deel09) |
 | ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Hogere Psychologische Functies | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Hogere Psychologische Functies.md — confidence 8 (Vygotsky 1997a + Packer deel09) |
-| ↓ | 2026-07-14T expansie | Agent 3 | Gap: Meta-emotie | Psych — Gottman et al. (1997): vermogen om op eigen emoties te reflecteren en die bewust te sturen; ontwikkelt zich in midden-kinderjaren (Packer deel08) |
-| ↓ | 2026-07-14T expansie | Agent 3 | Gap: Intent Participatie | Psych — Rogoff et al. (2003): leren door observatie en participatie in volwassenactiviteiten, zonder expliciete instructie (Packer deel08) |
+| ✓ | 2026-07-14T expansie | Agent 3 | Gap: Meta-emotie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Meta-emotie.md — confidence 8 (Gottman et al. 1997 + Packer 2021) |
+| ✓ | 2026-07-14T expansie | Agent 3 | Gap: Intent Participatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Intent Participatie.md — confidence 8 (Rogoff et al. 2003 + Packer 2021) |
+| ↓ | 2026-07-14T expansie | Agent 3 | Gap: Epistemologisch Relativisme | Psych/Fil — Kuhn (1991), Perry (1970), Chandler (1987): adolescente overtuiging dat kennis subjectief en contextueel is; ontwikkelt zich uit formeel operationeel denken (Packer deel10) |
+| ↓ | 2026-07-14T expansie | Agent 3 | Gap: Ethiek van Zorg | Psych/Fil — Gilligan (1982): moreel redeneren vanuit relaties en zorg i.p.v. abstracte rechtvaardigheid; alternatief voor Kohlbergs model (Packer deel10) |
 
 ---
 

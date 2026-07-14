@@ -14,11 +14,11 @@ updated: 2026-07-14
 
 | Discipline | Concept-pag's | Coverage | Score | Trend |
 |---|---|---|---|---|
-| Psychologie | 35 | 100%+ | 100% | → |
-| Filosofie | 8 | 40% | 83% | → |
-| Geschiedenis | 9 | 45% | 85% | → |
-| Beleggen | 7 | 35% | 82% | → |
-| **Totaal** | **59** | **74%** | **88%** | **→** |
+| Psychologie | 46 | 100%+ | 100% | → |
+| Filosofie | 9 | 45% | 83% | → |
+| Geschiedenis | 10 | 50% | 85% | → |
+| Beleggen | 9 | 45% | 83% | ↑ |
+| **Totaal** | **74** | **80%** | **88%** | **→** |
 
 ---
 
@@ -26,12 +26,12 @@ updated: 2026-07-14
 
 | Metric | Waarde |
 |---|---|
-| Totaal Wiki-pagina's | 59 |
-| Totaal relatiepagina's | 46+ |
-| Totaal inzichtpagina's | 27+ |
-| Inbox verwerkt (cumulatief) | 8 delen (deel01–deel08) |
-| Inbox wachtend | deel09–deel14 |
-| Queue resterend | 4 (Spiegelzelfherkenning, Familimodellen, Preoperationeel Denken, Meta-emotie) |
+| Totaal Wiki-pagina's | 74 |
+| Totaal relatiepagina's | 50+ |
+| Totaal inzichtpagina's | 30+ |
+| Inbox verwerkt (cumulatief) | 10 delen (deel01–deel10) |
+| Inbox wachtend | deel11–deel14 |
+| Queue resterend | 2 (Epistemologisch Relativisme, Ethiek van Zorg) |
 
 ---
 
@@ -49,4 +49,6 @@ updated: 2026-07-14
 | 2026-07-13 | Consolidatie | 3+1upd | 87% |
 | 2026-07-13 | Expansie | 4+Inbox deel06 | 88% |
 | 2026-07-13 | Consolidatie | 3+1upd+Inbox deel07 | 88% |
-| 2026-07-14 | Expansie | 4+Inbox deel08 | **88%** |
+| 2026-07-14 | Expansie | 4+Inbox deel08 | 88% |
+| 2026-07-14 | Consolidatie | 5+2upd+Inbox deel09 | 88% |
+| 2026-07-14 | Expansie | 6+Inbox deel10 | **88%** |

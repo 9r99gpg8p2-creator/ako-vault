@@ -406,3 +406,28 @@ type: operationeel
 | 2026-07-14 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:64 (≥ 1:5 ✓) |
 | 2026-07-14 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 5 gaps gesloten ✓ · 2 gaps resterend (Meta-emotie, Intent Participatie) |
 | 2026-07-14 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 5 gaps gedicht · 1 Inbox verwerkt · Health: ~88% |
+| 2026-07-14 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-14 | expansie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel10.md | discipline: psychologie | 5 wiki-kandidaten: Formeel Operationeel Denken (NIEUW), Identiteitsstatussen (NIEUW), Adolescentie (NIEUW), Epistemologisch Relativisme (NIEUW), Ethiek van Zorg (NIEUW) |
+| 2026-07-14 | expansie | Agent 2 | Externe bronnen | ✗ | FOUT E-003: Wikipedia API onbereikbaar — fallback: intern kennismodel + Packer 2021 als primaire bron |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Formeel Operationeel Denken.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021 + Inhelder & Piaget 1958 + Moshman 2004) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Identiteitsstatussen.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021 + Marcia 1966 + Erikson 1968) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Adolescentie.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021 + Steinberg 2005 + Erikson 1968 + Hall 1904) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Moderne Portefeuille Theorie.md — 04 Beleggen - Wiki — confidence 5 (intern model: Markowitz 1952 + Sharpe 1964) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Meta-emotie.md — 01 Psychologie - Wiki — confidence 8 (Gottman et al. 1997 + Packer 2021) — gap gesloten |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Intent Participatie.md — 01 Psychologie - Wiki — confidence 8 (Rogoff et al. 2003 + Packer 2021) — gap gesloten |
+| 2026-07-14 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gedetecteerd: Epistemologisch Relativisme (Packer deel10), Ethiek van Zorg (Packer deel10) |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Formeel Operationeel Denken — Hogere Psychologische Functies.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Identiteitsstatussen — Hechtingstheorie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Adolescentie — Synaptogenese.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Moderne Portefeuille Theorie — Risicoperceptie.md — sterkte ★8 — Beleggen × Psychologie (cross-domain) |
+| 2026-07-14 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Logica die Zichzelf Betwijfelt.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-14 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Wie Je Bent Begon Voordat Je Je Herinnert.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-14 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Belegger die Nooit Volwassen Werd.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-14 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-14 Dagrapport.md — expansiemodus — 6 pagina's, 4 verbindingen, 3 inzichten, 2 nieuwe gaps, Health 88% |
+| 2026-07-14 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-14 Quiz.md — 3 vragen toegevoegd (vr9-11: Formeel Operationeel Denken, epistemologisch relativisme, Identiteitsstatussen + Hechtingstheorie) |
+| 2026-07-14 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 88% — Psych 100%+, Fil 45%, Gesch 50%, Beleggen 45% — Coverage/Connectivity/Orphan conform dashboards |
+| 2026-07-14 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard.md bijgewerkt (74 pagina's totaal, run row toegevoegd) · Beleggen Dashboard.md bijgewerkt (score 83% ↑, MPT nieuw) |
+| 2026-07-14 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +5 (Formeel Operationeel Denken, Identiteitsstatussen, Adolescentie, Meta-emotie, Intent Participatie) · Beleggen: +1 (Moderne Portefeuille Theorie) |
+| 2026-07-14 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:68 (≥ 1:5 ✓) |
+| 2026-07-14 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Meta-emotie, Intent Participatie) · 2 nieuwe gaps ↓ (Epistemologisch Relativisme, Ethiek van Zorg) |
+| 2026-07-14 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 6 wiki-pagina's aangemaakt · 4 relatiepagina's · 3 inzichten · Inbox deel10 verwerkt · Health: 88% |

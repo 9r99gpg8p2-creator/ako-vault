@@ -54,3 +54,8 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Spiegelzelfherkenning]]
 - [[Familimodellen]]
 - [[Preoperationeel Denken]]
+- [[Formeel Operationeel Denken]]
+- [[Identiteitsstatussen]]
+- [[Adolescentie]]
+- [[Meta-emotie]]
+- [[Intent Participatie]]

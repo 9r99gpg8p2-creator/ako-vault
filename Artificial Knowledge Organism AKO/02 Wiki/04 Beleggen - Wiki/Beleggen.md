@@ -21,3 +21,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Herding]]
 - [[Efficiënte Markthypothese]]
 - [[Risicoperceptie]]
+- [[Moderne Portefeuille Theorie]]
