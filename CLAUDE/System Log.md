@@ -354,3 +354,28 @@ type: operationeel
 | 2026-07-13 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:59 (≥ 1:5 ✓) |
 | 2026-07-13 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | Intern Werkmodel gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
 | 2026-07-13 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 1 Inbox verwerkt · Health: 88% |
+| 2026-07-14 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-14 | expansie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel08.md | discipline: psychologie | 5 wiki-kandidaten: Verbaal Denken (NIEUW), Theory of Mind (NIEUW), 5-tot-7 Transitie (NIEUW), Meta-emotie (NIEUW→↓), Intent Participatie (NIEUW→↓) |
+| 2026-07-14 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor Inbox-concepten, 5 voor overige. |
+| 2026-07-14 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Verbaal Denken (Inbox NIEUW), Theory of Mind (Inbox NIEUW), 5-tot-7 Transitie (Inbox NIEUW), Collectieve Intentionaliteit (queue↓ PRIORITEIT) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Verbaal Denken.md — 01 Psychologie - Wiki — confidence 8 (Vygotsky + Packer 2021) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Theory of Mind.md — 01 Psychologie - Wiki — confidence 8 (Baron-Cohen 1985 + Packer 2021) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | 5-tot-7 Transitie.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021 + Havighurst 1972) |
+| 2026-07-14 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Collectieve Intentionaliteit.md — 01 Psychologie - Wiki — confidence 8 (Tomasello 2019 + Packer 2021) |
+| 2026-07-14 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Meta-emotie (Psych), Intent Participatie (Psych) |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Verbaal Denken — Executieve Functies.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Theory of Mind — Morele Verantwoordelijkheid.md — sterkte ★9 — Psychologie × Filosofie |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Collectieve Intentionaliteit — Epistemologie.md — sterkte ★8 — Psychologie × Filosofie |
+| 2026-07-14 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | 5-tot-7 Transitie — Synaptogenese.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Stem die Binnenkomt.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-14 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Wie Normen Internaliseeert Heeft Geen Politie Nodig.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-14 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Brein dat Zeven Wordt.md — Psychologie → Geschiedenis — sterkte ★8 |
+| 2026-07-14 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-14 Dagrapport.md — 4 concepten, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-14 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-14 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-14 | expansie | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-14 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 88% — Coverage 74%, Connectivity 100%, Orphan 0% — Psych 100%, Fil 83%, Gesch 85%, Beleg 82% |
+| 2026-07-14 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard bijgewerkt: 59 pagina's totaal |
+| 2026-07-14 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +4 (Verbaal Denken, Theory of Mind, 5-tot-7 Transitie, Collectieve Intentionaliteit) |
+| 2026-07-14 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:59 (≥ 1:5 ✓) |
+| 2026-07-14 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Collectieve Intentionaliteit gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ (Meta-emotie, Intent Participatie) |
+| 2026-07-14 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 88% |

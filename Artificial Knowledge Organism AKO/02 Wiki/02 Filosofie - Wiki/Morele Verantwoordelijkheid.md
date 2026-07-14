@@ -60,6 +60,8 @@ Het debat over morele verantwoordelijkheid begon met Aristoteles, die in de *Nic
 - [[Neuropsychologische Rehabilitatie]] — toepassing: herstelgericht werken veronderstelt een mate van agency en verantwoordelijkheid
 - [[Totalitarisme]] ★9 — toepassing: totalitaire systemen diffuseren bewust individuele morele verantwoordelijkheid via bureaucratie en ideologie (Arendt: banaliteit van het kwaad)
 - [[Zelf-evaluatieve Emoties]] ★9 — de ontwikkeling van schuldgevoel en schaamte bij het kind is de affectieve en fenomenologische grondslag voor moreel verantwoordelijk handelen
+- [[Theory of Mind]] ★9 — ToM is de cognitieve voorwaarde voor morele attributie; intentie toeschrijven aan een ander is onmogelijk zonder ToM
+- [[Collectieve Intentionaliteit]] ★8 — geïnternaliseerde groepsnormen (CI) zijn de vroegste vorm van morele verplichtingen die het kind ervaart als objectief geldend
 
 ## Bronnen
 

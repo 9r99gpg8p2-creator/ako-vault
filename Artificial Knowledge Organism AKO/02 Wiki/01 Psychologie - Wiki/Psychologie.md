@@ -45,3 +45,7 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Ouderschapsstijlen]]
 - [[Sociodramatisch Spel]]
 - [[Intern Werkmodel]]
+- [[Verbaal Denken]]
+- [[Theory of Mind]]
+- [[5-tot-7 Transitie]]
+- [[Collectieve Intentionaliteit]]

@@ -1,3 +1,9 @@
+---
+discipline: psychologie
+status: verwerkt
+verwerkt_op: 2026-07-14
+---
+
   What is significant about the growth of mind in the child is to what degree it
   depends not upon capacity but upon the unlocking of capacity by techniques
   that come from exposure to the specialized environment of a culture.

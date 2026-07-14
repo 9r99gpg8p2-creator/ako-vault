@@ -48,6 +48,7 @@ Alexander Luria legde in de jaren 1960–1970 de neurologische basis voor het be
 **Hub:** [[Psychologie]]
 
 **Gerelateerd:**
+- [[Verbaal Denken]] ★9 — innerlijke spraak als regulatiemechanisme van executieve controle; internalisering van zelf-gerichte spraak is de cognitieve motor van EF-rijping
 - [[Synaptogenese]] ★9 — prefrontale synaptogenese en snoeien zijn de neurologische basis voor de rijping van EF; proces loopt door tot adolescentie
 - [[Werkgeheugen]] — onderdeel van: updating IS een executieve functie; de centrale executieve in het Baddeley-model overlapt volledig met het executieve functioneren
 - [[Anosognosie]] — gevolg: schade aan executieve functies ondermijnt zelfmonitoring en ziektebesef; anosognosie is deels een executief probleem
