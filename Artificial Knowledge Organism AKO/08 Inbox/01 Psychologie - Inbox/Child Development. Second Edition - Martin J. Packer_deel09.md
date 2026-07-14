@@ -1,3 +1,9 @@
+---
+discipline: psychologie
+status: verwerkt
+verwerkt_op: 2026-07-14
+---
+
 ecological validity for children unfamiliar with school. Such children may do badly
 on a task simply because the experience of being asked odd questions by a strange
 adult is new to them.

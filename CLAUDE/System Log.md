@@ -379,3 +379,30 @@ type: operationeel
 | 2026-07-14 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:59 (≥ 1:5 ✓) |
 | 2026-07-14 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Collectieve Intentionaliteit gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ (Meta-emotie, Intent Participatie) |
 | 2026-07-14 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 88% |
+| 2026-07-14 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-14 | consolidatie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel09.md | discipline: psychologie | 5 wiki-kandidaten: Zone of Proximal Development (NIEUW), Hogere Psychologische Functies (NIEUW), Piaget (UPDATE), Vygotsky (UPDATE), Concrete Operationeel Denken (NIEUW→queue) |
+| 2026-07-14 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor Inbox-concepten. |
+| 2026-07-14 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 5 onderwerpen: Zone of Proximal Development (Inbox NIEUW), Hogere Psychologische Functies (Inbox NIEUW), Spiegelzelfherkenning (queue↓), Familimodellen (queue↓), Preoperationeel Denken (queue↓) + 2 UPDATES (Vygotsky, Piaget) |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Vygotsky.md — ZPD detail + obuchenie + hogere/lagere functies toegevoegd (Packer deel09) — confidence 8 behouden |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Piaget.md — Concreet-Operationeel Stadium sectie toegevoegd + cross-cultureel bewijs (Cahan 2008 + Irvine 1978) — confidence 8 behouden |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Zone of Proximal Development.md — 01 Psychologie - Wiki — confidence 8 (Vygotsky 1978 + Packer deel09) |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Hogere Psychologische Functies.md — 01 Psychologie - Wiki — confidence 8 (Vygotsky 1997a + Packer deel09) |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Spiegelzelfherkenning.md — 01 Psychologie - Wiki — confidence 8 (Amsterdam 1972 + Tomasello 2019 + Packer 2021) |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Familimodellen.md — 01 Psychologie - Wiki — confidence 8 (Kağıtçıbaşı 2005 + Packer 2021) |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Preoperationeel Denken.md — 01 Psychologie - Wiki — confidence 8 (Piaget & Inhelder 1969 + Bruner 1964 + Packer 2021) |
+| 2026-07-14 | consolidatie | Agent 3 | Gap Engine | ✓ | 2 gaps resterend: Meta-emotie (Packer deel08), Intent Participatie (Packer deel08) |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Zone of Proximal Development — Hogere Psychologische Functies.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Spiegelzelfherkenning — Theory of Mind.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Familimodellen — Hechtingstheorie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Preoperationeel Denken — Semiotische Functie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Hogere Psychologische Functies — Executieve Functies.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Grens van het Zelf Bepaalt de Grens van het Begrip.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-14 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Wat Cultureel is Lijkt Universeel.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-14 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Leren Schrijven Maakt het Denkende Zelf.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-14 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-14 Dagrapport.md — consolidatiemodus — 5 pagina's, 2 updates, 5 verbindingen, 3 inzichten, 2 gaps resterend |
+| 2026-07-14 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-14 Quiz.md — 3 vragen toegevoegd (Zone of Proximal Development, dynamische assessment, Familimodellen) |
+| 2026-07-14 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: ~88% — Coverage ~78%, Connectivity 100%, Orphan 0% — Psych 100%, Fil 83%, Gesch 85%, Beleg 82% |
+| 2026-07-14 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +5 (Zone of Proximal Development, Hogere Psychologische Functies, Spiegelzelfherkenning, Familimodellen, Preoperationeel Denken) |
+| 2026-07-14 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:64 (≥ 1:5 ✓) |
+| 2026-07-14 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 5 gaps gesloten ✓ · 2 gaps resterend (Meta-emotie, Intent Participatie) |
+| 2026-07-14 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 5 gaps gedicht · 1 Inbox verwerkt · Health: ~88% |

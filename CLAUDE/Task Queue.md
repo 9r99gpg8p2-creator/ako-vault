@@ -71,9 +71,11 @@ type: operationeel
 | ✓ | 2026-07-13T expansie | Agent 3 | Gap: Affordances | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Affordances.md — confidence 7 (Gibson 1966 + Packer 2021) |
 | ✓ | 2026-07-13T consolidatie | Agent 3 | Gap: Intern Werkmodel | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Intern Werkmodel.md — confidence 8 (Bowlby 1973, 1980) |
 | ✓ | 2026-07-14T expansie | Agent 3 | Gap: Collectieve Intentionaliteit | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Collectieve Intentionaliteit.md — confidence 8 (Packer deel06 + Tomasello 2019) |
-| ↓ | 2026-07-13T expansie | Agent 3 | Gap: Spiegelzelfherkenning | Psych — rouge-test, zelfbesef bij 3-jarigen, ASD-marker; Tomasello (2019) + Packer deel06 |
-| ↓ | 2026-07-13T consolidatie | Agent 3 | Gap: Familimodellen | Psych — Kağıtçıbaşı (2005): vier gezinsmodellen (interdependent, independent, autonoom-relatie, hiërarchisch-verwaarlozing); cross-cultureel opvoedingsmodel (Packer deel07) |
-| ↓ | 2026-07-13T consolidatie | Agent 3 | Gap: Preoperationeel Denken | Psych — Piaget: vroegkinderlijk denken 2-7 jaar; centration, conservatietaken, Bruner-scherm-experiment; aparte pagina los van Piaget-persoonspagina (Packer deel07) |
+| ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Spiegelzelfherkenning | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Spiegelzelfherkenning.md — confidence 8 (Amsterdam 1972 + Tomasello 2019 + Packer 2021) |
+| ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Familimodellen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Familimodellen.md — confidence 8 (Kağıtçıbaşı 2005 + Packer 2021) |
+| ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Preoperationeel Denken | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Preoperationeel Denken.md — confidence 8 (Piaget & Inhelder 1969 + Bruner 1964 + Packer 2021) |
+| ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Zone of Proximal Development | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Zone of Proximal Development.md — confidence 8 (Vygotsky 1978 + Packer deel09) |
+| ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Hogere Psychologische Functies | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Hogere Psychologische Functies.md — confidence 8 (Vygotsky 1997a + Packer deel09) |
 | ↓ | 2026-07-14T expansie | Agent 3 | Gap: Meta-emotie | Psych — Gottman et al. (1997): vermogen om op eigen emoties te reflecteren en die bewust te sturen; ontwikkelt zich in midden-kinderjaren (Packer deel08) |
 | ↓ | 2026-07-14T expansie | Agent 3 | Gap: Intent Participatie | Psych — Rogoff et al. (2003): leren door observatie en participatie in volwassenactiviteiten, zonder expliciete instructie (Packer deel08) |
 

@@ -49,3 +49,8 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Theory of Mind]]
 - [[5-tot-7 Transitie]]
 - [[Collectieve Intentionaliteit]]
+- [[Zone of Proximal Development]]
+- [[Hogere Psychologische Functies]]
+- [[Spiegelzelfherkenning]]
+- [[Familimodellen]]
+- [[Preoperationeel Denken]]

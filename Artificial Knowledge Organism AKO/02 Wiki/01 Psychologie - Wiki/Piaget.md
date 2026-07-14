@@ -6,6 +6,7 @@ type: persoon
 status: uitgewerkt
 confidence: 8
 bron: gebruikersbron — Child Development. Second Edition - Martin J. Packer_deel02.md
+bron_update: gebruikersbron — Child Development. Second Edition - Martin J. Packer_deel09.md
 sources:
   - "Packer, M. J. (2021). Child Development: Understanding a Cultural Perspective. SAGE Publications."
   - "Piaget, J. (1952). The Origins of Intelligence in Children. International Universities Press."
@@ -75,6 +76,24 @@ Het preoperationele stadium is de tweede fase in Piagets model. Het kind kan nu 
 **Conservatietaken:** Piaget toonde kinderen twee even grote containers met vloeistof, goot de inhoud over in een dunnere, hogere container en vroeg of de hoeveelheid veranderd was. Kinderen tot ±7 jaar zeggen dat er meer is (ze focussen op hoogte). Dit geldt ook voor plasticine en muntjes.
 
 **Kernbevinding van Bruner (1964):** Als de transformatie achter een scherm verborgen werd, steeg het percentage correcte antwoorden dramatisch — van 0% naar 50% bij 4-jarigen. Dit suggereert dat de moeilijkheid niet zit in beperkte mentale representaties, maar in de overweldigende invloed van het visuele. Taal speelt een cruciale rol: verbale formulering maakt het mogelijk de visuele aantrekkingskracht te weerstaan.
+
+## Concreet-Operationeel Stadium — detail (Packer, 2021, deel09)
+
+In het concreet-operationele stadium (7–11 jaar) beschikt het kind over georganiseerde systemen van mentale operaties. Deze blijken uit logisch redeneren over concrete situaties: classificatie, seriële ordening, en correspondentierelaties.
+
+**Kenmerken van concrete operaties (Piaget & Inhelder, 1966/2008):**
+- **Reversibiliteit** — het kind kan transformaties mentaal terugdraaien (bijv. vloeistof teruggooien, of compenseren via breedte vs. hoogte)
+- **Identiteit** — de hoeveelheid blijft gelijk bij transformatie
+- **Negatie** — de handeling kan ongedaan worden gemaakt
+- **Commutativity** — elementen kunnen worden gecombineerd ongeacht volgorde
+
+**Onderscheid infralogische vs. logico-mathematische operaties (Piaget):**
+- *Infralogische operaties* — betreffen continue objecten (conservatie van vloeistof, massa); ontwikkelen universeel met leeftijd, ongeacht schoolgang
+- *Logico-mathematische operaties* — classificatie, klasse-insluiting, transitiviteit; verbeteren door schooling (Cahan et al., 2008)
+
+**Cross-cultureel bewijs:** Studies met de Wolof in Senegal leken te suggereren dat conservatietaken alleen door schoolkinderen worden opgelost. Later onderzoek toonde echter dat niet-schoolgaande kinderen de taken wél begrepen, maar het interviewformat niet kenden. Als de taak werd gepresenteerd als "vertel de onwetende onderzoeker" scoorden ook niet-schoolgaande kinderen correct (Irvine, 1978). Conclusie: schooling beïnvloedt de test-situatiekennis, niet de cognitieve basiscompetenties.
+
+**Vygotsky vs. Piaget over onderwijs:** Piaget geloofde dat onderwijs hooguit de *snelheid* van het doorlopen der stadia beïnvloedt; Vygotsky betoogde dat onderwijs ontwikkeling kan *vooruitlopen* en nieuwe mentale formaties kan oproepen.
 
 ## Toepassingen
 

@@ -2,54 +2,62 @@
 type: dagrapport
 date: 2026-07-14
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Goedemorgen.
+Inbox verwerkt: 1 · Gaps gedicht: 5 · Pagina's bijgewerkt: 2 · Verbindingen verdicht: 5 · Queue resterend: 2
 
-Nieuwe kennis: 4 · Inbox verwerkt: 1 · Verbindingen: 4 · Inzichten: 3 · Gaps: 2 · Leestijd: ~12 min
+## Pagina's Bijgewerkt via Inbox
 
----
+1. [[Vygotsky]] — Child Development deel09 (ZPD detail, hogere functies, obuchenie)
+2. [[Piaget]] — Child Development deel09 (Concreet-Operationeel Stadium, cross-cultureel bewijs, Bruner 1964)
 
-## Research Agenda
+## Nieuwe Wiki-Pagina's (Consolidatie)
 
-1. **Spiegelzelfherkenning** — queue ↓ (Tomasello, rouge-test, zelfbesef bij peuters, ASD-marker)
-2. **Preoperationeel Denken** — queue ↓ (Piaget: centration, animisme, egocentrisme 2–7 jaar)
-3. **Meta-emotie** — nieuw gap uit Packer deel08 (Gottman: vermogen om te reflecteren op eigen emoties)
-4. **Familimodellen** — queue ↓ (Kağıtçıbaşı: vier gezinsmodellen, cross-cultureel opvoedingsonderzoek)
+1. [[Zone of Proximal Development]] — confidence 8 (Packer deel09 + Vygotsky 1978)
+2. [[Hogere Psychologische Functies]] — confidence 8 (Packer deel09 + Vygotsky 1997a)
+3. [[Spiegelzelfherkenning]] — confidence 8 (Packer deel06 + Amsterdam 1972 + Tomasello 2019)
+4. [[Familimodellen]] — confidence 8 (Packer deel07 + Kağıtçıbaşı 2005)
+5. [[Preoperationeel Denken]] — confidence 8 (Packer deel07/09 + Piaget & Inhelder 1969 + Bruner 1964)
 
----
+## Verbindingen Toegevoegd
+
+1. [[Zone of Proximal Development]] ↔ [[Hogere Psychologische Functies]] · ★9
+2. [[Spiegelzelfherkenning]] ↔ [[Theory of Mind]] · ★9
+3. [[Familimodellen]] ↔ [[Hechtingstheorie]] · ★9
+4. [[Preoperationeel Denken]] ↔ [[Semiotische Functie]] · ★9
+5. [[Hogere Psychologische Functies]] ↔ [[Executieve Functies]] · ★9
 
 ## Insight Feed
 
-— "De interne stem die een kind rond het zevende jaar begint te horen — het verbaal denken — is niet biologisch aangeboren maar cultureel verworven: het is de sociale spraak die naar binnen is gegaan." [Psychologie → Filosofie · ★9]
+— "De grens van het zelf bepaalt de grens van het begrip: spiegelzelfherkenning is de kiem van Theory of Mind én morele verantwoordelijkheid." [Psychologie → Filosofie · ★9]
+— "Wat cultureel is lijkt universeel: het westerse autonoom-individuele kind als norm is een specifiek gezinsmodel dat zich als biologisch feit vermomt." [Psychologie → Filosofie · ★9]
+— "Leren schrijven maakt het denkende zelf: literacy transformeert onbewust taalgebruik in bewuste zelfregulatie." [Psychologie → Filosofie · ★8]
 
-— "Collectieve intentionaliteit verklaart waarom mensen normen naleven ook als niemand kijkt: de groepsnorm is geïnternaliseerd als objectief feit, niet slechts als convenantie." [Psychologie → Filosofie · ★9]
+## Research Agenda
 
-— "Bijna elke beschaving in de geschiedenis erkende het zevende levensjaar als moreel omslagpunt — een culturele convergentie die verwijst naar een reëel biologisch-psychologisch omslagpunt in hersenrijping en executieve functies." [Psychologie → Geschiedenis · ★8]
-
----
+Prioriteit 1: [[Meta-emotie]] — queue ↓ (Gottman et al. 1997; Packer deel08)
+Prioriteit 2: [[Intent Participatie]] — queue ↓ (Rogoff et al. 2003; Packer deel08)
+Prioriteit 3: [[Verbaal Denken]] verder uitdiepen — relatie schrijven/denken (Vygotsky, deel09)
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 100% | → |
-| Filosofie | 83% | → |
-| Geschiedenis | 85% | → |
-| Beleggen | 82% | → |
-
----
+| Psychologie | ~100% | → |
+| Filosofie | ~83% | → |
+| Geschiedenis | ~85% | → |
+| Beleggen | ~82% | → |
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 1 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 4 |
-| Gaps gedicht | 1 (Collectieve Intentionaliteit) |
-| Nieuwe gaps gesignaleerd | 2 (Meta-emotie, Intent Participatie) |
+| Nieuwe Wiki-pagina's | 5 |
+| Pagina's bijgewerkt | 2 |
+| Nieuwe verbindingen | 5 |
+| Nieuwe inzichten | 3 |
+| Gaps gedicht | 5 |
+| Inbox verwerkt | 1 (deel09) |

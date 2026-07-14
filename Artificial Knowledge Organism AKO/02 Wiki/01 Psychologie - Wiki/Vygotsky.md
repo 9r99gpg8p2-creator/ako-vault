@@ -6,9 +6,11 @@ type: persoon
 status: uitgewerkt
 confidence: 8
 bron: gebruikersbron — Child Development. Second Edition - Martin J. Packer_deel02.md
+bron_update: gebruikersbron — Child Development. Second Edition - Martin J. Packer_deel09.md
 sources:
   - "Packer, M. J. (2021). Child Development: Understanding a Cultural Perspective. SAGE Publications."
   - "Vygotsky, L. S. (1978). Mind in Society: The Development of Higher Psychological Processes. Harvard University Press."
+  - "Vygotsky, L. S. (1987[1934]). Thinking and Speech. Plenum Press."
 hub: "[[Psychologie]]"
 related:
   - "[[Piaget]]"
@@ -28,11 +30,24 @@ Lev Vygotsky (1896–1934) was een Sovjet-Russische psycholoog en grondlegger va
 
 ## Kernconcepten
 
-- **Zone van Naaste Ontwikkeling (ZNO / ZPD)** — het verschil tussen wat een kind zelfstandig kan en wat het kan met begeleiding van een meer bekwame ander; dit is de optimale leerzone
-- **Scaffolding** — tijdelijke ondersteuning door een begeleider die geleidelijk wordt teruggetrokken naarmate het kind meer kan
-- **Hogere vs. lagere psychologische functies** — lagere functies zijn biologisch (reflexen, basale waarneming); hogere functies (taal, logisch denken) zijn cultureel van oorsprong
-- **Algemene genetische wet van de culturele ontwikkeling** — elke hogere functie verschijnt eerst op intermentaal niveau (tussen mensen) en daarna op intramentaal niveau (binnen het individu)
+- **Zone van Naaste Ontwikkeling (ZNO / ZPD)** — "the distance between the actual developmental level as determined by independent problem solving and the level of potential development as determined through problem solving under adult guidance, or in collaboration with more capable peers" (Vygotsky, 1978, p. 86); dit is de optimale leerzone
+- **Scaffolding** — tijdelijke ondersteuning door een begeleider (term van Wood et al. 1976, niet van Vygotsky zelf); het gevaar is dat het kind als passief wordt voorgesteld; Vygotsky benadrukte dat het kind altijd actief is
+- **Hogere vs. lagere psychologische functies** — lagere functies zijn biologisch (reflexen, basale waarneming); hogere functies (deliberate remembering, voluntary attention, conceptual thinking, logical memory, categorical perception, creative imagination, foresight) zijn cultureel van oorsprong en worden bewust en vrijwillig
+- **Algemene genetische wet van de culturele ontwikkeling** — elke hogere functie verschijnt eerst op intermentaal niveau (tussen mensen) en daarna op intramentaal niveau (binnen het individu); ZPD is slechts een bijzonder geval van deze wet
 - **Mediatie door artefacten** — taal, tekens en gereedschappen zijn culturele mediators die het denken structureren
+- **Obuchenie (instructed learning)** — Russisch begrip dat onderwijs en leren combineert; niet los te zien van ontwikkeling, maar "geknoopt" ermee verbonden; onderwijs kan ontwikkeling vooruitlopen en nieuwe mentale formaties oproepen
+
+## Zone van Naaste Ontwikkeling — detail (Packer, 2021, deel09)
+
+De ZPD is Vygotsky's bekendste concept, maar moet begrepen worden als bijzonder geval van de algemene genetische wet. Vygotsky zelf introduceerde de ZPD simpelweg als illustratie van het "well known fact that with collaboration, direction, or some kind of help the child is always able to do more."
+
+De ZPD is géén instructiemethode — Vygotsky deed geen specifieke aanbevelingen voor pedagogiek. Wat hij bedoelde: de afstand tussen wat een kind nu al kan en wat het met begeleiding van een ander kan, is de zone waarin echte ontwikkeling plaatsvindt. Teaching kan ontwikkeling *vooruitlopen*, maar ontwikkeling en onderwijs zijn niet hetzelfde.
+
+Vygotsky onderscheidde twee niveaus van psychologisch functioneren:
+- **Lager niveau** — automatisch, onbewust, System 1 equivalent
+- **Hoger niveau** — bewust, vrijwillig, System 2 equivalent
+
+Onderwijs maakt de beweging van onbewust naar bewust en vrijwillig mogelijk. Het schrijven leren is hiervan een voorbeeld: writing vereist conscious control over language dat in het dagelijks spreken al automatisch is geworden.
 
 ## Context
 
@@ -58,6 +73,8 @@ Zijn werk sluit aan bij Packer's (2021) centrale argument: ontwikkeling is een c
 - [[Hechtingstheorie]] — aanvulling: veilige hechting schept de sociale basis die Vygotsky als noodzakelijk beschouwt
 - [[Executieve Functies]] — oorzaak/gevolg: hogere functies (EF) zijn voor Vygotsky producten van sociale interactie die worden geïnternaliseerd
 - [[Embodied Cognition]] — aanvulling: beide benadrukken dat cognitie niet louter in het hoofd zit
+- [[Zone of Proximal Development]] — onderdeel van: centrale toepassing van de genetische wet
+- [[Hogere Psychologische Functies]] — onderdeel van: theorie van bewust en vrijwillig denken
 
 **Cross-domein:**
 - [[Epistemologie]] — Vygotsky's anti-dualisme is een epistemologische stelling over hoe kennis tot stand komt
