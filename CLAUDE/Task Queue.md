@@ -86,8 +86,14 @@ type: operationeel
 | ✓ | 2026-07-14T expansie | Agent 3 | Gap: Dual Process Theorie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Dual Process Theorie.md — confidence 8 (Evans 2008, Kahneman 2011, Packer deel12) |
 | ✓ | 2026-07-14T expansie | Agent 3 | Gap: Erikson | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Erikson.md — confidence 8 (Erikson 1950, 1994a/b, Packer deel12) |
 | ✓ | 2026-07-14T expansie | Agent 1 | Inbox verwerkt | deel12 verwerkt (bibliografie C–L) — 4 wiki-pagina's aangemaakt; 2 nieuwe gaps geïdentificeerd |
-| ↓ | 2026-07-14T expansie | Agent 3 | Gap: Situated Learning | Psych — Lave & Wenger (1991): communities of practice; gesitueerd leren; leertheorie-domein ontbreekt in vault |
-| ↓ | 2026-07-14T expansie | Agent 3 | Gap: Adolescent Peergroepen | Psych — sociaal-ontwikkelingsdomein; peergroepinvloeden bij adolescenten; relevant voor MSc Klinische Neuropsychologie |
+| ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Situated Learning | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Situated Learning.md — confidence 8 (Lave & Wenger 1991) |
+| ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Adolescent Peergroepen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Adolescent Peergroepen.md — confidence 8 (Packer 2021 + Rubin 1983 + Way 2006) |
+| ✓ | 2026-07-14T consolidatie | Agent 1 | Inbox verwerkt | deel13 verwerkt (bibliografie M–W + index) — 5 nieuwe gaps geïdentificeerd |
+| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Scaffolding | Psych — Wood, Bruner & Ross (1976); Pea (2004): tijdelijke ondersteuningsstructuren bij leren; kernbegrip bij ZPD en situated learning |
+| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Intersubjectiviteit | Psych — Trevarthen (1974, 1979): primaire intersubjectiviteit als vroegste vorm van sociaal bewustzijn; voorloper van Theory of Mind |
+| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Activiteitstheorie | Psych — Vygotsky/Leont'ev: activiteit als eenheid van analyse voor psychologisch onderzoek; context voor situated learning |
+| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Sociale Ontologie | Fil — Searle (1995, 2005, 2006): hoe sociale realiteit geconstrueerd wordt; institutionele feiten; relevant voor Collectieve Intentionaliteit |
+| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Etnische Identiteit | Psych — Phinney (1990, 1996, 2001): etnische identiteitsontwikkeling bij adolescenten; kruispunt van Adolescentie en Culturele Psychologie |
 
 ---
 

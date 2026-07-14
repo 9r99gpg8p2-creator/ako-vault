@@ -63,3 +63,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Dual Process Theorie]]
 - [[Erikson]]
 - [[Fuzzy Trace Theory]]
+- [[Situated Learning]]
+- [[Adolescent Peergroepen]]

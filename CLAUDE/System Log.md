@@ -477,3 +477,24 @@ type: operationeel
 | 2026-07-14 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 6:80 (≥ 1:5 ✓) |
 | 2026-07-14 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Kohlberg, Fuzzy Trace Theory, Dual Process Theorie, Erikson) · 2 nieuwe gaps ↓ (Situated Learning, Adolescent Peergroepen) |
 | 2026-07-14 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 gaps gedicht · 1 Inbox verwerkt (deel12) · 4 nieuwe pagina's · 4 relaties · 3 inzichten · Health: 89% |
+| 2026-07-14 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-14 | consolidatie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel13.md | discipline: psychologie | bibliografie + index (Packer 2021) | 5 kandidaten: Scaffolding, Intersubjectiviteit, Activiteitstheorie, Sociale Ontologie, Etnische Identiteit — allen nieuw → Task Queue |
+| 2026-07-14 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor queue-items. |
+| 2026-07-14 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 onderwerpen: Situated Learning (queue↓ PRIORITEIT), Adolescent Peergroepen (queue↓ PRIORITEIT) |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Situated Learning.md — 01 Psychologie - Wiki — confidence 8 (Lave & Wenger 1991, Wenger 1998, Pea 2004) |
+| 2026-07-14 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Adolescent Peergroepen.md — 01 Psychologie - Wiki — confidence 8 (Rubin 1983, Way 2006, Packer 2021) |
+| 2026-07-14 | consolidatie | Agent 3 | Gap Engine | ✓ | 5 nieuwe gaps via Packer deel13 (bibliografie): Scaffolding, Intersubjectiviteit, Activiteitstheorie, Sociale Ontologie, Etnische Identiteit |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Situated Learning — Zone of Proximal Development.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Situated Learning — Geleid Participeren.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Adolescent Peergroepen — Identiteitsstatussen.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-14 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Adolescent Peergroepen — Sociale Leertheorie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-14 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Kennis Bestaat Pas Als Je Erbij Hoort.md — Situated Learning → Culturele Psychologie → Epistemologie — sterkte ★9 |
+| 2026-07-14 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Groep Beslist Wie Je Wordt.md — Adolescent Peergroepen → Identiteitsstatussen → Spiegelzelfherkenning — sterkte ★9 |
+| 2026-07-14 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Leren is Worden, Niet Weten.md — Situated Learning → Zone of Proximal Development → Hogere Psychologische Functies — sterkte ★8 |
+| 2026-07-14 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-14 Dagrapport.md — consolidatiemodus — 2 pagina's, 4 verbindingen, 3 inzichten, 5 nieuwe gaps |
+| 2026-07-14 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-14 Quiz.md — 3 vragen toegevoegd (vr18-20: Situated Learning, Adolescent Peergroepen + riskant gedrag, vergelijking leertheorieën) |
+| 2026-07-14 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 89% — Psych 100% (52 pag.), Fil 87%, Gesch 85%, Beleg 84% — onveranderd t.o.v. vorige run |
+| 2026-07-14 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie.md: +2 (Situated Learning, Adolescent Peergroepen) |
+| 2026-07-14 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:82 (≥ 1:5 ✓) |
+| 2026-07-14 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Situated Learning, Adolescent Peergroepen) · 5 nieuwe gaps ↓ |
+| 2026-07-14 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 1 Inbox verwerkt · 2 nieuwe pagina's · 4 relaties · 3 inzichten · Health: 89% |

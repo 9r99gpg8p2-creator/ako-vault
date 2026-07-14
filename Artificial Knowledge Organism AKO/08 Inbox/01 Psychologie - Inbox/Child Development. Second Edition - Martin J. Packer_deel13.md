@@ -1,3 +1,9 @@
+---
+discipline: psychologie
+status: verwerkt
+verwerkt_op: 2026-07-14
+---
+
 Packer, M. J., & Cole, M. (2019). Evolution and ontogenesis: The
   deontic niche of human development. Human Development, 62(4),
   175–211.
