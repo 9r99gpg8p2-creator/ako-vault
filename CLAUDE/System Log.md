@@ -574,3 +574,20 @@ type: operationeel
 | 2026-07-15 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:93 (≥ 1:5 ✓) |
 | 2026-07-15 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 1 nieuwe gap ↓ (Postkoloniale Psychologie / Fanon) |
 | 2026-07-15 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% · Gepusht naar origin/main |
+| 2026-07-15 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-15 | consolidatie | Agent 1 | Inbox scan | ✓ | Alle bestanden status: verwerkt — STAP 1.5 overgeslagen |
+| 2026-07-15 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-15 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 1 queue↓ item geselecteerd: Postkoloniale Psychologie (Fanon) — Geschiedenis/Psychologie cross-domein |
+| 2026-07-15 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Postkoloniale Psychologie.md — 01 Psychologie - Wiki — confidence 5 (Fanon 1952, 1961 + Hook 2004) |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Postkoloniale Psychologie — Dekolonisatie.md — sterkte ★9 — Psychologie × Geschiedenis |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Postkoloniale Psychologie — Etnische Identiteit.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Postkoloniale Psychologie — PTSD.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Postkoloniale Psychologie — Culturele Psychologie.md — sterkte ★7 — Psychologie (intra) |
+| 2026-07-15 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Masker dat Kolonialisme Schept.md — Geschiedenis → Psychologie — sterkte ★9 |
+| 2026-07-15 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-15 Dagrapport.md — consolidatiemodus — 1 pagina, 4 verbindingen, 1 inzicht, 1 gap gedicht |
+| 2026-07-15 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-15 Quiz.md — 3 vragen toegevoegd (vr12-14: Postkoloniale Psychologie, Fanon klinisch, vergelijking Fanon+Erikson) |
+| 2026-07-15 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Psych 100% (59 pag.), Fil 90%, Gesch 87%, Beleg 87% — ongewijzigd t.o.v. vorige run |
+| 2026-07-15 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Postkoloniale Psychologie) |
+| 2026-07-15 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 1:95 (≥ 1:5 ✓) |
+| 2026-07-15 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | Postkoloniale Psychologie gesloten ✓ · Queue volledig leeg |
+| 2026-07-15 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 1 gap gedicht · 0 Inbox verwerkt · Health: 91% |

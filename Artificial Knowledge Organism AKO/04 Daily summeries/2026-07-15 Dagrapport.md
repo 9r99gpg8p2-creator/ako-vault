@@ -2,32 +2,43 @@
 type: dagrapport
 date: 2026-07-15
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
 Goedemorgen.
 
-Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 0 · Leestijd: ±10 min
+Nieuwe kennis: 1 concept toegevoegd (Postkoloniale Psychologie) · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 1 · Gaps gedicht: 1 · Leestijd: ±3 min
 
 ---
 
 ## Research Agenda
 
-1. **Puberteit & Identiteitsvorming** — Gender Identiteit is aangemaakt; volgende stap is het uitdiepen van de verbinding met Erikson's psychosociale stadia en de klinische implicaties voor adolescente patiënten in de klinische neuropsychologie
-2. **Postkoloniale Psychologie** — Dekolonisatie verbindt Geschiedenis met Culturele Psychologie; Fanon's psychologische theorie verdient een eigen pagina (gap)
-3. **Behavioral Finance verdieping** — Technische Analyse is toegevoegd; de verbinding met Herding en Prospect Theory verdient een integratieve pagina over marktpsychologie
+Prioriteit 1: **Fanon & klinische neuropsychologie** — de postkoloniale dimensie van traumabehandeling is direct relevant voor MSc Klinische Neuropsychologie; cultuur-sensitieve diagnostiek is een groeiend vakgebied
+Prioriteit 2: **WEIRD-bias in de psychologie** — verbindt Postkoloniale Psychologie met Culturele Psychologie; vraag: welke klinische instrumenten zijn cross-cultureel gevalideerd?
+Prioriteit 3: **Intergenerationeel trauma** — verbindt PTSD, Postkoloniale Psychologie en Etnische Identiteit; epigenetische mechanismen als mogelijke brug
+
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+*Geen Inbox-bestanden verwerkt deze run — alle bestanden al verwerkt in vorige sessies.*
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Postkoloniale Psychologie]] ↔ [[Dekolonisatie]] · ★9
+2. [[Postkoloniale Psychologie]] ↔ [[Etnische Identiteit]] · ★8
+3. [[Postkoloniale Psychologie]] ↔ [[PTSD]] · ★8
+4. [[Postkoloniale Psychologie]] ↔ [[Culturele Psychologie]] · ★7
 
 ---
 
 ## Insight Feed
 
-— "Wie je bent is ook wat men van je maakt: gender identiteit is een institutioneel feit dat door sociale statustoewijzing tot stand komt, niet alleen een innerlijk gevoel." [Gender Identiteit → Sociale Ontologie · ★9]
-
-— "Vrijheid na het trauma is existentieel, niet alleen neurologisch: neuropsychologische revalidatie confronteert de patiënt met dezelfde vragen die het existentialisme stelt over zingeving, authenticiteit en sterfelijkheid." [Existentialisme → Neuropsychologische Rehabilitatie · ★8]
-
-— "De grafiek liegt niet, maar de lezer wel: technische analyse is zowel gefundeerd op als kwetsbaar voor System 1-denkpatronen van de belegger." [Dual Process Theorie → Technische Analyse · ★8]
+— "Wat politiek bevrijding lijkt te vragen — het afwerpen van koloniale structuren — blijkt psychologisch hetzelfde te vereisen: wie jarenlang een masker droeg kan niet genezen zolang de machtsrelatie voortduurt." [Dekolonisatie → Postkoloniale Psychologie → PTSD · ★9]
 
 ---
 
@@ -36,10 +47,10 @@ Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 4 ·
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 100% | → |
-| Filosofie | 90% | ↑ |
-| Geschiedenis | 87% | ↑ |
-| Beleggen | 87% | ↑ |
-| Algemeen | 91% | ↑ |
+| Filosofie | 90% | → |
+| Geschiedenis | 87% | → |
+| Beleggen | 87% | → |
+| Algemeen | 91% | → |
 
 ---
 
@@ -48,25 +59,22 @@ Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 4 ·
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
+| Nieuwe Wiki-pagina's | 1 |
+| Updates bestaande pagina's | 0 |
 | Nieuwe verbindingen | 4 |
-| Gaps gedicht | 0 |
-| Nieuwe inzichten | 3 |
+| Gaps gedicht | 1 |
+| Nieuwe inzichten | 1 |
 
 ---
 
 ## Nieuwe pagina's deze run
 
-- **Gender Identiteit** (Psychologie) — confidence 8 · bron: Packer 2021 (deel14)
-- **Dekolonisatie** (Geschiedenis) — confidence 5 · expansie Geschiedenis-domein
-- **Technische Analyse** (Beleggen) — confidence 5 · expansie Beleggen-domein
-- **Existentialisme** (Filosofie) — confidence 5 · expansie Filosofie-domein
+- **Postkoloniale Psychologie** (Psychologie) — confidence 5 · Fanon's theorie van koloniale bevrijding · cross-domein: Geschiedenis
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Psychologie overschrijdt de 20-pagina norm (58 pagina's); coverage gecapped op 100%
-- [ ] Wikipedia API nog steeds onbereikbaar (E-003) — alle pagina's op basis van intern model of Inbox-bronnen
-- [ ] Gap gesignaleerd: Fanon's psychologische theorie (postkoloniale psychologie) verdient eigen pagina
+- [ ] Queue leeg na deze run — overweeg nieuwe Inbox-content toe te voegen voor de volgende sessie
+- [ ] Postkoloniale Psychologie-pagina heeft confidence 5 (interne kennis) — verhoging mogelijk na raadpleging van primaire bronnen (Fanon, Hook)
+- [ ] Wikipedia API nog steeds onbereikbaar (E-003) — alle pagina's op basis van intern model
