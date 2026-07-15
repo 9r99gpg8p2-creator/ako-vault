@@ -2,52 +2,32 @@
 type: dagrapport
 date: 2026-07-15
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 3 · Inbox verwerkt: 0 · Verbindingen: 7 · Inzichten: 3 · Gaps: 0 (queue leeg) · Leestijd: ~5 min
+Goedemorgen.
+
+Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 0 · Leestijd: ±10 min
 
 ---
 
 ## Research Agenda
 
-Filosofie-coverage relatief laag (11 pagina's / 55%) — kandidaten: Taal & Werkelijkheid, Personalisme, Politieke Filosofie
-Geschiedenis-coverage laag (9 pagina's / 45%) — kandidaten: Renaissance, Dekolonisatie, Koude Oorlog verdiepen
-Gebruiker kan nieuwe Inbox-bestanden aanleveren voor volgende expansie — queue is volledig leeg
+1. **Puberteit & Identiteitsvorming** — Gender Identiteit is aangemaakt; volgende stap is het uitdiepen van de verbinding met Erikson's psychosociale stadia en de klinische implicaties voor adolescente patiënten in de klinische neuropsychologie
+2. **Postkoloniale Psychologie** — Dekolonisatie verbindt Geschiedenis met Culturele Psychologie; Fanon's psychologische theorie verdient een eigen pagina (gap)
+3. **Behavioral Finance verdieping** — Technische Analyse is toegevoegd; de verbinding met Herding en Prospect Theory verdient een integratieve pagina over marktpsychologie
 
 ---
 
 ## Insight Feed
 
-— "Het antwoord op het 'andere geest'-probleem ligt in de wieg: twee maanden oude baby's bezitten intersubjectieve capaciteiten die filosofen eeuwenlang als onoplosbaar beschouwden." [Psychologie → Filosofie · ★9]
+— "Wie je bent is ook wat men van je maakt: gender identiteit is een institutioneel feit dat door sociale statustoewijzing tot stand komt, niet alleen een innerlijk gevoel." [Gender Identiteit → Sociale Ontologie · ★9]
 
-— "Activiteitstheorie verklaart waarom financiële educatie zo weinig verandert: beleggingsvaardigheid is praktische participatie, geen overdraagbare informatie." [Psychologie → Beleggen · ★8]
+— "Vrijheid na het trauma is existentieel, niet alleen neurologisch: neuropsychologische revalidatie confronteert de patiënt met dezelfde vragen die het existentialisme stelt over zingeving, authenticiteit en sterfelijkheid." [Existentialisme → Neuropsychologische Rehabilitatie · ★8]
 
-— "Een adolescent met een ongeëxamineerde etnische identiteit mist een cruciale buffer — etnische identiteitscrises presenteren zich klinisch als angst of depressie." [Psychologie intra · ★8]
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-*Geen Inbox-bestanden verwerkt — alle bestanden hadden reeds status: verwerkt.*
-
-## Nieuwe Pagina's (Queue-gaps gesloten)
-
-1. [[Intersubjectiviteit]] — Trevarthen (1974, 1979) · confidence 8
-2. [[Activiteitstheorie]] — Vygotsky/Leont'ev/Engeström · confidence 8
-3. [[Etnische Identiteit]] — Phinney (1990, 1996, 2001) · confidence 8
-
-## Verbindingen Toegevoegd
-
-1. [[Intersubjectiviteit]] ↔ [[Theory of Mind]] · ★9
-2. [[Intersubjectiviteit]] ↔ [[Hechtingstheorie]] · ★8
-3. [[Activiteitstheorie]] ↔ [[Situated Learning]] · ★9
-4. [[Vygotsky]] → [[Activiteitstheorie]] · ★10
-5. [[Identiteitsstatussen]] → [[Etnische Identiteit]] · ★9
-6. [[Culturele Psychologie]] → [[Etnische Identiteit]] · ★8
-7. [[Activiteitstheorie]] → [[Sociale Ontologie]] · ★7
+— "De grafiek liegt niet, maar de lezer wel: technische analyse is zowel gefundeerd op als kwetsbaar voor System 1-denkpatronen van de belegger." [Dual Process Theorie → Technische Analyse · ★8]
 
 ---
 
@@ -56,10 +36,10 @@ Gebruiker kan nieuwe Inbox-bestanden aanleveren voor volgende expansie — queue
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 100% | → |
-| Filosofie | 88% | → |
-| Geschiedenis | 85% | → |
-| Beleggen | 85% | → |
-| **Algemeen** | **90%** | **→** |
+| Filosofie | 90% | ↑ |
+| Geschiedenis | 87% | ↑ |
+| Beleggen | 87% | ↑ |
+| Algemeen | 91% | ↑ |
 
 ---
 
@@ -68,15 +48,25 @@ Gebruiker kan nieuwe Inbox-bestanden aanleveren voor volgende expansie — queue
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 3 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe relatiepagina's | 7 |
-| Nieuwe inzichtpagina's | 3 |
-| Gaps gedicht | 3 |
-| Queue resterend | 0 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 4 |
+| Nieuwe verbindingen | 4 |
+| Gaps gedicht | 0 |
+| Nieuwe inzichten | 3 |
+
+---
+
+## Nieuwe pagina's deze run
+
+- **Gender Identiteit** (Psychologie) — confidence 8 · bron: Packer 2021 (deel14)
+- **Dekolonisatie** (Geschiedenis) — confidence 5 · expansie Geschiedenis-domein
+- **Technische Analyse** (Beleggen) — confidence 5 · expansie Beleggen-domein
+- **Existentialisme** (Filosofie) — confidence 5 · expansie Filosofie-domein
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Queue volledig leeg — volgende run kan nieuwe Inbox-bestanden verwerken of coverage Filosofie/Geschiedenis/Beleggen uitbreiden
+- [ ] Psychologie overschrijdt de 20-pagina norm (58 pagina's); coverage gecapped op 100%
+- [ ] Wikipedia API nog steeds onbereikbaar (E-003) — alle pagina's op basis van intern model of Inbox-bronnen
+- [ ] Gap gesignaleerd: Fanon's psychologische theorie (postkoloniale psychologie) verdient eigen pagina

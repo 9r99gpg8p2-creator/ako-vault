@@ -14,11 +14,11 @@ updated: 2026-07-15
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 12 |
-| Coverage | 60% |
+| Pagina's | 13 |
+| Coverage | 65% |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **88%** |
+| **Score** | **90%** |
 | Trend | ↑ |
 
 ---
@@ -30,6 +30,7 @@ updated: 2026-07-15
 - [[Epistemologisch Relativisme]]
 - [[Ethiek]]
 - [[Ethiek van Zorg]]
+- [[Existentialisme]]
 - [[Fenomenologie]]
 - [[Filosofie van de Geest]]
 - [[Morele Verantwoordelijkheid]]
@@ -42,6 +43,5 @@ updated: 2026-07-15
 ## Prioriteit voor uitbreiding
 
 - Stoïcisme
-- Existentialisme
 - Pragmatisme
-- Activiteitstheorie (cross-psych)
+- Politieke Filosofie

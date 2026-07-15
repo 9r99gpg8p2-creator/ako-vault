@@ -548,3 +548,29 @@ type: operationeel
 | 2026-07-15 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:90 (≥ 1:5 ✓) |
 | 2026-07-15 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Intersubjectiviteit, Activiteitstheorie, Etnische Identiteit) · Queue volledig leeg |
 | 2026-07-15 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox verwerkt · Health: 90% |
+| 2026-07-15 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-15 | expansie | Agent 1 | Inbox scan | ✓ | Alle bestanden status: verwerkt — STAP 1.5 overgeslagen |
+| 2026-07-15 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. Inbox-concepten confidence 8. |
+| 2026-07-15 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Gender Identiteit (Inbox deel14 NIEUW), Dekolonisatie (Gesch — minste coverage), Technische Analyse (Beleg — expansie), Existentialisme (Fil — expansie) |
+| 2026-07-15 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Gender Identiteit.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021 deel14 + Bem 1981 + Ruble et al. 2006) |
+| 2026-07-15 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Dekolonisatie.md — 03 Geschiedenis - Wiki — confidence 5 (Fanon 1961 + Hobsbawm 1994) |
+| 2026-07-15 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Technische Analyse.md — 04 Beleggen - Wiki — confidence 5 (Murphy 1999 + Malkiel 2003) |
+| 2026-07-15 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Existentialisme.md — 02 Filosofie - Wiki — confidence 5 (Sartre 1946 + Heidegger 1927 + Camus 1942) |
+| 2026-07-15 | expansie | Agent 3 | Gap Engine | ✓ | 1 nieuwe gap gesignaleerd: Postkoloniale Psychologie / Fanon (vervolg op Dekolonisatie) |
+| 2026-07-15 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Existentialisme — Neuropsychologische Rehabilitatie.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-15 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Dekolonisatie — Culturele Psychologie.md — sterkte ★9 — Geschiedenis × Psychologie |
+| 2026-07-15 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Technische Analyse — Dual Process Theorie.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-15 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Gender Identiteit — Sociale Ontologie.md — sterkte ★8 — Psychologie × Filosofie |
+| 2026-07-15 | expansie | Agent 4 | Reverse links bijgewerkt | ✓ | Neuropsychologische Rehabilitatie ← Existentialisme ★8 · Culturele Psychologie ← Dekolonisatie ★9 · Dual Process Theorie ← Technische Analyse ★8 · Sociale Ontologie ← Gender Identiteit ★8 |
+| 2026-07-15 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Wie Je Bent Is Ook Wat Men Van Je Maakt.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-15 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Vrijheid na het Trauma is Existentieel Niet Alleen Neurologisch.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-15 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Grafiek Liegt Niet Maar de Lezer Wel.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-15 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-15 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 1 nieuwe gap |
+| 2026-07-15 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-15 Quiz.md — 3 vragen toegevoegd (vr9-11: Existentialisme + MV, Technische Analyse + DPT, Gender Identiteit + SO) |
+| 2026-07-15 | expansie | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-15 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Psych 100% (58 pag.), Fil 90% (↑), Gesch 87% (↑), Beleg 87% (↑) |
+| 2026-07-15 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (91% ↑), Filosofie (90% ↑), Geschiedenis (87% ↑), Beleggen (87% ↑) |
+| 2026-07-15 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Gender Identiteit) · Filosofie: +1 (Existentialisme) · Geschiedenis: +1 (Dekolonisatie) · Beleggen: +1 (Technische Analyse) |
+| 2026-07-15 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:93 (≥ 1:5 ✓) |
+| 2026-07-15 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 1 nieuwe gap ↓ (Postkoloniale Psychologie / Fanon) |
+| 2026-07-15 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% · Gepusht naar origin/main |

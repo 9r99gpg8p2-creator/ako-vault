@@ -2,7 +2,7 @@
 tags: [dashboard, geschiedenis]
 type: dashboard
 discipline: geschiedenis
-updated: 2026-07-13
+updated: 2026-07-15
 ---
 
 # Geschiedenis Dashboard
@@ -15,7 +15,7 @@ updated: 2026-07-13
 
 | Score | Trend |
 |---|---|
-| 84%   | ↑     |
+| 87%   | ↑     |
 
 ---
 
@@ -23,17 +23,18 @@ updated: 2026-07-13
 
 | Metric       | Waarde | Streef |
 |---|---|---|
-| Coverage     | 45%    | ≥ 85%  |
+| Coverage     | 55%    | ≥ 85%  |
 | Connectivity | 100%   | ≥ 90%  |
 | Orphan       | 0%     | ≤ 3%   |
 
 ---
 
-## Wiki-pagina's (9 concept-pagina's)
+## Wiki-pagina's (10 concept-pagina's)
 
-- [[De Verlichting]] · [[Eerste Wereldoorlog]]
-- [[Geschiedenis van de Psychiatrie]] · [[Industriële Revolutie]]
-- [[Koude Oorlog]] · [[Paradigmawisseling]] · [[Totalitarisme]]
+- [[De Verlichting]] · [[Dekolonisatie]]
+- [[Eerste Wereldoorlog]] · [[Geschiedenis van de Psychiatrie]]
+- [[Industriële Revolutie]] · [[Koude Oorlog]]
+- [[Paradigmawisseling]] · [[Totalitarisme]]
 - [[Tweede Wereldoorlog]] · [[Wetenschappelijke Revolutie]]
 
 ---
@@ -41,4 +42,4 @@ updated: 2026-07-13
 ## Gesignaleerde gaps
 
 - Russische Revolutie (logisch vervolg op Totalitarisme + Eerste Wereldoorlog)
-- Dekolonisatie (historische tegenhanger van Koloniale Geschiedenis)
+- Postkoloniale Psychologie / Fanon (nieuw gesignaleerd — vervolg op Dekolonisatie)

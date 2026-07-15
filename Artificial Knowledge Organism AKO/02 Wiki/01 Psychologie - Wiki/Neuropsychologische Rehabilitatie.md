@@ -58,6 +58,7 @@ In Nederland en Vlaanderen is neuropsychologische rehabilitatie een erkend klini
 
 **Cross-domein:**
 - [[Prospect Theory]] — gedeeld mentaal model: beslissingsgedrag en risicoperceptie van patiënten bepalen mede de effectiviteit van revalidatie
+- [[Existentialisme]] ★8 — existentiële vragen over zingeving, identiteit en sterfelijkheid zijn centraal in revalidatie na hersenletsel
 
 ## Bronnen
 

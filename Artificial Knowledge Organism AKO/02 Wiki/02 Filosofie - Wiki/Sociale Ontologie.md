@@ -65,6 +65,7 @@ In de ontwikkelingspsychologie sluit sociale ontologie aan bij Piaget's en Vygot
 
 **Cross-domein:**
 - [[Culturele Psychologie]] — Culturele psychologie bestudeert hoe sociale ontologieën geïnternaliseerd worden in de ontwikkeling van kinderen
+- [[Gender Identiteit]] ★8 — gender als institutioneel feit: de toewijzing van genderstatus aan personen is een klassiek voorbeeld van Searle's constitutieve regels
 
 ## Bronnen
 

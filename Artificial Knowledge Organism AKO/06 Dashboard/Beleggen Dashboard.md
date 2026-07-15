@@ -14,11 +14,11 @@ updated: 2026-07-15
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 10 |
-| Coverage | 50% |
+| Pagina's | 11 |
+| Coverage | 55% |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **85%** |
+| **Score** | **87%** |
 | Trend | ↑ |
 
 ---
@@ -32,6 +32,7 @@ updated: 2026-07-15
 - [[Moderne Portefeuille Theorie]]
 - [[Prospect Theory]]
 - [[Risicoperceptie]]
+- [[Technische Analyse]]
 - [[Verliesaversie]]
 - [[Waarde Investeren]]
 
@@ -39,7 +40,6 @@ updated: 2026-07-15
 
 ## Prioriteit voor uitbreiding
 
-- Technische Analyse
 - Dividendbeleggen
 - Marktcycli
 - Behavioral Finance (overzicht)

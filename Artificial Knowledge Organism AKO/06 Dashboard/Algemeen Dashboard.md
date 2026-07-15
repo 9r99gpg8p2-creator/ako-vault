@@ -14,11 +14,11 @@ updated: 2026-07-15
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 54 | 100% | 100% | **100%** | → |
-| Filosofie | 12 | 60% | 100% | **88%** | ↑ |
-| Geschiedenis | 10 | 50% | 100% | **85%** | → |
-| Beleggen | 10 | 50% | 100% | **85%** | ↑ |
-| **Overall** | **86** | — | — | **90%** | ↑ |
+| Psychologie | 58 | 100% | 100% | **100%** | → |
+| Filosofie | 13 | 65% | 100% | **90%** | ↑ |
+| Geschiedenis | 11 | 55% | 100% | **87%** | ↑ |
+| Beleggen | 11 | 55% | 100% | **87%** | ↑ |
+| **Overall** | **93** | — | — | **91%** | ↑ |
 
 ---
 
@@ -26,30 +26,30 @@ updated: 2026-07-15
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 86 |
-| Relatie- en inzichtpagina's | 143+ |
+| Totale Wiki-pagina's | 93 |
+| Relatie- en inzichtpagina's | 150+ |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-15)
+## Sessie-activiteit (2026-07-15 expansie)
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 1 |
+| Inbox verwerkt | 0 |
 | Nieuwe Wiki-pagina's | 4 |
-| Updates | 1 |
+| Updates | 4 |
 | Nieuwe verbindingen | 4 |
 | Nieuwe inzichten | 3 |
-| Gaps gedicht | 2 |
+| Gaps gedicht | 0 |
 
 ---
 
 ## Hubs
 
-- [[Psychologie]] — 54 pagina's
-- [[Filosofie]] — 12 pagina's
-- [[Geschiedenis]] — 10 pagina's
-- [[Beleggen]] — 10 pagina's
+- [[Psychologie]] — 58 pagina's
+- [[Filosofie]] — 13 pagina's
+- [[Geschiedenis]] — 11 pagina's
+- [[Beleggen]] — 11 pagina's

@@ -65,6 +65,7 @@ De klinische relevantie voor neuropsychologie is aanzienlijk: culturele psycholo
 **Cross-domein:**
 - [[Epistemologie]] — culturele psychologie stelt epistemologische vragen: hoe is kennis mogelijk, en hoe wordt ze sociaal geconstitueerd?
 - [[Geschiedenis van de Psychiatrie]] — de psychiatrie is zelf een cultureel artefact dat diagnoses constitueert
+- [[Dekolonisatie]] ★9 — post-koloniale identiteitsopbouw en het herstel van inheemse kennissystemen als cultureel-psychologisch proces
 
 ## Bronnen
 

@@ -94,6 +94,7 @@ type: operationeel
 | ✓ | 2026-07-15T consolidatie | Agent 3 | Gap: Activiteitstheorie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Activiteitstheorie.md — confidence 8 (Vygotsky 1978 + Leont'ev 1978 + Engeström 1987 + Packer 2021) |
 | ✓ | 2026-07-15T expansie | Agent 3 | Gap: Sociale Ontologie | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Sociale Ontologie.md — confidence 5 (Searle 1995, 2005, 2006) |
 | ✓ | 2026-07-15T consolidatie | Agent 3 | Gap: Etnische Identiteit | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Etnische Identiteit.md — confidence 8 (Phinney 1990, 1996, 2001 + Packer 2021) |
+| ↓ | 2026-07-15T expansie | Agent 3 | Gap: Postkoloniale Psychologie | Fanon's psychologische theorie van koloniale bevrijding — vervolg op Dekolonisatie.md · prioriteit: Geschiedenis/Psychologie cross-domein |
 
 ---
 
