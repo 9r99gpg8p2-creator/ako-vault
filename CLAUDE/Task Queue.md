@@ -90,13 +90,10 @@ type: operationeel
 | ✓ | 2026-07-14T consolidatie | Agent 3 | Gap: Adolescent Peergroepen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Adolescent Peergroepen.md — confidence 8 (Packer 2021 + Rubin 1983 + Way 2006) |
 | ✓ | 2026-07-14T consolidatie | Agent 1 | Inbox verwerkt | deel13 verwerkt (bibliografie M–W + index) — 5 nieuwe gaps geïdentificeerd |
 | ✓ | 2026-07-15T expansie | Agent 3 | Gap: Scaffolding | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Scaffolding.md — confidence 8 (Wood/Bruner/Ross 1976 + Packer 2021) |
-| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Intersubjectiviteit | Psych — Trevarthen (1974, 1979): primaire intersubjectiviteit als vroegste vorm van sociaal bewustzijn; voorloper van Theory of Mind |
-| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Activiteitstheorie | Psych — Vygotsky/Leont'ev: activiteit als eenheid van analyse voor psychologisch onderzoek; context voor situated learning |
+| ✓ | 2026-07-15T consolidatie | Agent 3 | Gap: Intersubjectiviteit | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Intersubjectiviteit.md — confidence 8 (Trevarthen 1974, 1979 + Packer 2021) |
+| ✓ | 2026-07-15T consolidatie | Agent 3 | Gap: Activiteitstheorie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Activiteitstheorie.md — confidence 8 (Vygotsky 1978 + Leont'ev 1978 + Engeström 1987 + Packer 2021) |
 | ✓ | 2026-07-15T expansie | Agent 3 | Gap: Sociale Ontologie | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Sociale Ontologie.md — confidence 5 (Searle 1995, 2005, 2006) |
-| ↓ | 2026-07-14T consolidatie | Agent 3 | Gap: Etnische Identiteit | Psych — Phinney (1990, 1996, 2001): etnische identiteitsontwikkeling bij adolescenten; kruispunt van Adolescentie en Culturele Psychologie |
-| ↓ | 2026-07-15T expansie | Agent 3 | Gap: Intersubjectiviteit | Psych — Trevarthen (1974, 1979): primaire intersubjectiviteit als vroegste vorm van sociaal bewustzijn; voorloper van Theory of Mind |
-| ↓ | 2026-07-15T expansie | Agent 3 | Gap: Activiteitstheorie | Psych — Vygotsky/Leont'ev: activiteit als eenheid van analyse; context voor situated learning en ZPD |
-| ↓ | 2026-07-15T expansie | Agent 3 | Gap: Etnische Identiteit | Psych — Phinney (1990, 1996, 2001): etnische identiteitsontwikkeling bij adolescenten; MSc KNP-relevant |
+| ✓ | 2026-07-15T consolidatie | Agent 3 | Gap: Etnische Identiteit | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Etnische Identiteit.md — confidence 8 (Phinney 1990, 1996, 2001 + Packer 2021) |
 
 ---
 

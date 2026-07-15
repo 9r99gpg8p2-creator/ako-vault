@@ -524,3 +524,27 @@ type: operationeel
 | 2026-07-15 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:86 (≥ 1:5 ✓) |
 | 2026-07-15 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Scaffolding ✓ + Sociale Ontologie ✓ gesloten · 3 gaps resterend ↓ |
 | 2026-07-15 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 1 update · 4 verbindingen · 3 inzichten · Health: 90% |
+| 2026-07-15 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-15 | consolidatie | Agent 1 | Inbox scan | ✓ | Alle bestanden hebben status: verwerkt — STAP 1.5 overgeslagen |
+| 2026-07-15 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor queue-items. |
+| 2026-07-15 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 queue↓ items geselecteerd: Intersubjectiviteit, Activiteitstheorie, Etnische Identiteit |
+| 2026-07-15 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Intersubjectiviteit.md — 01 Psychologie - Wiki — confidence 8 (Trevarthen 1974, 1979 + Packer 2021) |
+| 2026-07-15 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Activiteitstheorie.md — 01 Psychologie - Wiki — confidence 8 (Vygotsky 1978 + Leont'ev 1978 + Engeström 1987 + Packer 2021) |
+| 2026-07-15 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Etnische Identiteit.md — 01 Psychologie - Wiki — confidence 8 (Phinney 1990, 1996, 2001 + Packer 2021) |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Intersubjectiviteit — Theory of Mind.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Intersubjectiviteit — Hechtingstheorie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Activiteitstheorie — Situated Learning.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Activiteitstheorie — Vygotsky.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Etnische Identiteit — Identiteitsstatussen.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Etnische Identiteit — Culturele Psychologie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Activiteitstheorie — Sociale Ontologie.md — sterkte ★7 — Psychologie × Filosofie |
+| 2026-07-15 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Antwoord op het Andere Geest Probleem Ligt in de Wieg.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-15 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Marktkennis is Geen Informatie Maar Praktijk.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-15 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Wie Ben Ik Bepaalt Hoe Ik Breek.md — Psychologie intra — sterkte ★8 |
+| 2026-07-15 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-15 Dagrapport.md — consolidatiemodus — 3 pagina's, 7 verbindingen, 3 inzichten, queue leeg |
+| 2026-07-15 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-15 Quiz.md — 3 vragen toegevoegd (vr6-8: Intersubjectiviteit, Activiteitstheorie, Etnische Identiteit) |
+| 2026-07-15 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 90% — Psych 100% (57 pag.), Fil 88%, Gesch 85%, Beleg 85% — ongewijzigd (Psych reeds gecapped) |
+| 2026-07-15 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +3 (Intersubjectiviteit, Activiteitstheorie, Etnische Identiteit) |
+| 2026-07-15 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:90 (≥ 1:5 ✓) |
+| 2026-07-15 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Intersubjectiviteit, Activiteitstheorie, Etnische Identiteit) · Queue volledig leeg |
+| 2026-07-15 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox verwerkt · Health: 90% |
