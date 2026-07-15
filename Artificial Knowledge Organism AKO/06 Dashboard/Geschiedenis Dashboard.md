@@ -15,7 +15,7 @@ updated: 2026-07-15
 
 | Score | Trend |
 |---|---|
-| 87%   | ↑     |
+| 87%   | →     |
 
 ---
 
@@ -29,17 +29,18 @@ updated: 2026-07-15
 
 ---
 
-## Wiki-pagina's (10 concept-pagina's)
+## Wiki-pagina's (11 concept-pagina's)
 
-- [[De Verlichting]] · [[Dekolonisatie]]
-- [[Eerste Wereldoorlog]] · [[Geschiedenis van de Psychiatrie]]
-- [[Industriële Revolutie]] · [[Koude Oorlog]]
-- [[Paradigmawisseling]] · [[Totalitarisme]]
-- [[Tweede Wereldoorlog]] · [[Wetenschappelijke Revolutie]]
+- [[De Franse Revolutie]] · [[De Verlichting]]
+- [[Dekolonisatie]] · [[Eerste Wereldoorlog]]
+- [[Geschiedenis van de Psychiatrie]] · [[Industriële Revolutie]]
+- [[Koude Oorlog]] · [[Paradigmawisseling]]
+- [[Totalitarisme]] · [[Tweede Wereldoorlog]]
+- [[Wetenschappelijke Revolutie]]
 
 ---
 
 ## Gesignaleerde gaps
 
 - Russische Revolutie (logisch vervolg op Totalitarisme + Eerste Wereldoorlog)
-- Postkoloniale Psychologie / Fanon (nieuw gesignaleerd — vervolg op Dekolonisatie)
+- Imperialisme (context voor Dekolonisatie)

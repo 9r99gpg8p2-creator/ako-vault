@@ -19,7 +19,7 @@ updated: 2026-07-15
 | Connectivity | 100% |
 | Orphan% | 0% |
 | **Score** | **90%** |
-| Trend | ↑ |
+| Trend | → |
 
 ---
 
@@ -36,6 +36,7 @@ updated: 2026-07-15
 - [[Morele Verantwoordelijkheid]]
 - [[Psychoanalyse]]
 - [[Sociale Ontologie]]
+- [[Utilitarisme]]
 - [[Vrije Wil]]
 
 ---

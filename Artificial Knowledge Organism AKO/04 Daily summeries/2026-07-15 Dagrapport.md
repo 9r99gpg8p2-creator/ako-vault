@@ -2,79 +2,43 @@
 type: dagrapport
 date: 2026-07-15
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Goedemorgen.
-
-Nieuwe kennis: 1 concept toegevoegd (Postkoloniale Psychologie) · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 1 · Gaps gedicht: 1 · Leestijd: ±3 min
-
----
+Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 0 · Leestijd: 5 min
 
 ## Research Agenda
 
-Prioriteit 1: **Fanon & klinische neuropsychologie** — de postkoloniale dimensie van traumabehandeling is direct relevant voor MSc Klinische Neuropsychologie; cultuur-sensitieve diagnostiek is een groeiend vakgebied
-Prioriteit 2: **WEIRD-bias in de psychologie** — verbindt Postkoloniale Psychologie met Culturele Psychologie; vraag: welke klinische instrumenten zijn cross-cultureel gevalideerd?
-Prioriteit 3: **Intergenerationeel trauma** — verbindt PTSD, Postkoloniale Psychologie en Etnische Identiteit; epigenetische mechanismen als mogelijke brug
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-*Geen Inbox-bestanden verwerkt deze run — alle bestanden al verwerkt in vorige sessies.*
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[Postkoloniale Psychologie]] ↔ [[Dekolonisatie]] · ★9
-2. [[Postkoloniale Psychologie]] ↔ [[Etnische Identiteit]] · ★8
-3. [[Postkoloniale Psychologie]] ↔ [[PTSD]] · ★8
-4. [[Postkoloniale Psychologie]] ↔ [[Culturele Psychologie]] · ★7
-
----
+1. **Utilitarisme** — ontbrekend concept in de filosofietak; grondlegger van seculiere ethische redenering en direct relevant voor besliskunde en medische ethiek
+2. **De Franse Revolutie** — grote lacune in de Geschiedenistak; verbindt met De Verlichting en Totalitarisme
+3. **Asset Allocatie** — fundamenteel beleggingsconcept dat de link legt tussen Moderne Portefeuille Theorie en gedragseconomische inzichten
+4. **Klinische Neuropsychologie** — kernvakgebied voor de MSc-doelstelling van de gebruiker; plaatst eerder verworven concepten (Executieve Functies, Werkgeheugen, Anosognosie) in klinische context
 
 ## Insight Feed
 
-— "Wat politiek bevrijding lijkt te vragen — het afwerpen van koloniale structuren — blijkt psychologisch hetzelfde te vereisen: wie jarenlang een masker droeg kan niet genezen zolang de machtsrelatie voortduurt." [Dekolonisatie → Postkoloniale Psychologie → PTSD · ★9]
+— "Utilitarisme belooft een objectieve morele rekenmachine, maar Prospect Theory toont dat de rekenmachine zelf scheef staat." [Filosofie → Beleggen · ★8]
 
----
+— "De Franse Revolutie vernietigde de steiger van het Ancien Régime zonder adequaat alternatief — de Terreur is het psychologische gevolg van scaffolding zonder vervanging." [Geschiedenis → Psychologie · ★8]
+
+— "De optimale portefeuille bestaat in theorie, maar wordt alleen benaderd wanneer de belegger zichzelf kent als neuropsychologisch feilbare actor." [Beleggen → Psychologie · ★9]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 100% | → |
-| Filosofie | 90% | → |
-| Geschiedenis | 87% | → |
+| Filosofie | 90% | ↑ |
+| Geschiedenis | 87% | ↑ |
 | Beleggen | 87% | → |
-| Algemeen | 91% | → |
-
----
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 1 |
+| Nieuwe Wiki-pagina's | 4 |
 | Updates bestaande pagina's | 0 |
 | Nieuwe verbindingen | 4 |
-| Gaps gedicht | 1 |
-| Nieuwe inzichten | 1 |
-
----
-
-## Nieuwe pagina's deze run
-
-- **Postkoloniale Psychologie** (Psychologie) — confidence 5 · Fanon's theorie van koloniale bevrijding · cross-domein: Geschiedenis
-
----
-
-## Aandacht vereist
-
-- [ ] Queue leeg na deze run — overweeg nieuwe Inbox-content toe te voegen voor de volgende sessie
-- [ ] Postkoloniale Psychologie-pagina heeft confidence 5 (interne kennis) — verhoging mogelijk na raadpleging van primaire bronnen (Fanon, Hook)
-- [ ] Wikipedia API nog steeds onbereikbaar (E-003) — alle pagina's op basis van intern model
+| Gaps gedicht | 0 |

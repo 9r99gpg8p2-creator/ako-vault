@@ -24,3 +24,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Tweede Wereldoorlog]]
 - [[Koude Oorlog]]
 - [[Dekolonisatie]]
+- [[De Franse Revolutie]]

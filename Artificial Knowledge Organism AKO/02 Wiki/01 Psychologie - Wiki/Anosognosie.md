@@ -53,6 +53,7 @@ Joseph Babinski beschreef in 1914 patiënten met hemiplegie die hun verlammende 
 
 **Cross-domein:**
 - [[Bewustzijn]] — filosofisch raakvlak: anosognosie illustreert de dissociatie tussen functioneel bewustzijn en zelfbewustzijn; het 'harde probleem' van Chalmers wordt zichtbaar in klinische dissociaties
+- [[Klinische Neuropsychologie]] ★9 — anosognosie is een van de meest klinisch uitdagende verschijnselen bij neuropsychologische assessment en behandeling
 
 ## Bronnen
 

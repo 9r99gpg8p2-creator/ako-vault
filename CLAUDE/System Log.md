@@ -591,3 +591,27 @@ type: operationeel
 | 2026-07-15 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 1:95 (≥ 1:5 ✓) |
 | 2026-07-15 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | Postkoloniale Psychologie gesloten ✓ · Queue volledig leeg |
 | 2026-07-15 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 1 gap gedicht · 0 Inbox verwerkt · Health: 91% |
+| 2026-07-15 | expansie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-15 | expansie-2 | Agent 1 | Inbox scan | ✓ | Alle bestanden status: verwerkt — STAP 1.5 overgeslagen |
+| 2026-07-15 | expansie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-15 | expansie-2 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Utilitarisme (Fil — ontbreekt), De Franse Revolutie (Gesch — grote lacune), Asset Allocatie (Beleg — fundamenteel), Klinische Neuropsychologie (Psych — MSc-doel gebruiker) |
+| 2026-07-15 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Utilitarisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-15 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | De Franse Revolutie.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-15 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Asset Allocatie.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-15 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Klinische Neuropsychologie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-15 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Utilitarisme — Prospect Theory.md — sterkte ★8 — Filosofie × Beleggen |
+| 2026-07-15 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | De Franse Revolutie — Utilitarisme.md — sterkte ★8 — Geschiedenis × Filosofie |
+| 2026-07-15 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Asset Allocatie — Verliesaversie.md — sterkte ★9 — Beleggen × Psychologie |
+| 2026-07-15 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Klinische Neuropsychologie — Anosognosie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-15 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Rekening zonder Houder.md — Filosofie → Beleggen — sterkte ★8 |
+| 2026-07-15 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Revolutie Heeft een Steiger Nodig.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-15 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Optimale Portefeuille Bestaat Niet Zonder Zelfkennis.md — Beleggen → Psychologie — sterkte ★9 |
+| 2026-07-15 | expansie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-15 Dagrapport.md — expansie-2 modus — 4 concepten, 4 verbindingen, 3 inzichten, 0 gaps |
+| 2026-07-15 | expansie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-15 Quiz.md — 3 vragen toegevoegd (vr15-17: Utilitarisme, Asset Allocatie + MPT, Klinische Neuropsychologie + Anosognosie) |
+| 2026-07-15 | expansie-2 | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-15 | expansie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Psych 100% (59 pag.), Fil 90%, Gesch 87%, Beleg 87% — ongewijzigd t.o.v. vorige run |
+| 2026-07-15 | expansie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (91%), Psychologie (100%), Filosofie (90%), Geschiedenis (87%), Beleggen (87%) |
+| 2026-07-15 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Klinische Neuropsychologie) · Filosofie: +1 (Utilitarisme) · Geschiedenis: +1 (De Franse Revolutie) · Beleggen: +1 (Asset Allocatie) |
+| 2026-07-15 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:99 (≥ 1:5 ✓) |
+| 2026-07-15 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 expansiepagina's toegevoegd ✓ · geen nieuwe gaps |
+| 2026-07-15 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% |

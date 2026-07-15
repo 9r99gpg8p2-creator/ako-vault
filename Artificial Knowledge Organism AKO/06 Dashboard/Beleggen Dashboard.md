@@ -19,12 +19,13 @@ updated: 2026-07-15
 | Connectivity | 100% |
 | Orphan% | 0% |
 | **Score** | **87%** |
-| Trend | ↑ |
+| Trend | → |
 
 ---
 
 ## Concepten
 
+- [[Asset Allocatie]]
 - [[Cognitieve Biases]]
 - [[Efficiënte Markthypothese]]
 - [[Gedragseconomie]]

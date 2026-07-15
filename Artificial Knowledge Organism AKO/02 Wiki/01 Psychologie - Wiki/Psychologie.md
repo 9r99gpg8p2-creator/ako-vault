@@ -72,3 +72,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Etnische Identiteit]]
 - [[Gender Identiteit]]
 - [[Postkoloniale Psychologie]]
+- [[Klinische Neuropsychologie]]

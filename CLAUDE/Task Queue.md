@@ -95,6 +95,10 @@ type: operationeel
 | ✓ | 2026-07-15T expansie | Agent 3 | Gap: Sociale Ontologie | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Sociale Ontologie.md — confidence 5 (Searle 1995, 2005, 2006) |
 | ✓ | 2026-07-15T consolidatie | Agent 3 | Gap: Etnische Identiteit | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Etnische Identiteit.md — confidence 8 (Phinney 1990, 1996, 2001 + Packer 2021) |
 | ✓ | 2026-07-15T consolidatie | Agent 3 | Gap: Postkoloniale Psychologie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Postkoloniale Psychologie.md — confidence 5 · 4 relatiepagina's + 1 inzicht |
+| ✓ | 2026-07-15T expansie-2 | Agent 3 | Expansie: Utilitarisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Utilitarisme.md — confidence 5 |
+| ✓ | 2026-07-15T expansie-2 | Agent 3 | Expansie: De Franse Revolutie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Franse Revolutie.md — confidence 5 |
+| ✓ | 2026-07-15T expansie-2 | Agent 3 | Expansie: Asset Allocatie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Asset Allocatie.md — confidence 5 |
+| ✓ | 2026-07-15T expansie-2 | Agent 3 | Expansie: Klinische Neuropsychologie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Klinische Neuropsychologie.md — confidence 5 |
 
 ---
 
