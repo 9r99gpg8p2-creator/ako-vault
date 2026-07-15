@@ -615,3 +615,15 @@ type: operationeel
 | 2026-07-15 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:99 (≥ 1:5 ✓) |
 | 2026-07-15 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 expansiepagina's toegevoegd ✓ · geen nieuwe gaps |
 | 2026-07-15 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% |
+| 2026-07-15 | consolidatie | Agent 2 | Research (FALLBACK) | ✓ | Geen ↓-queue · geen Inbox → laag-connectivity scan uitgevoerd: Scaffolding/ZPD, Behaviorisme/Gedragseconomie, Klinische Neuropsych/Rehabilitatie geselecteerd |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Scaffolding — Zone of Proximal Development.md — sterkte ★10 — Psychologie |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Behaviorisme — Gedragseconomie.md — sterkte ★8 — Psychologie × Beleggen |
+| 2026-07-15 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Klinische Neuropsychologie — Neuropsychologische Rehabilitatie.md — sterkte ★9 — Psychologie |
+| 2026-07-15 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Fabriek die de Markt Conditioneerde.md — Geschiedenis → Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-15 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Steiger die Vrijheid Geeft.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-15 | consolidatie | Agent 6 | Dagrapport bijgewerkt | ✓ | 2026-07-15 Dagrapport.md overschreven (consolidatie run 3) |
+| 2026-07-15 | consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-15 Quiz.md — 3 vragen toegevoegd (vraag 18–20) |
+| 2026-07-15 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — ongewijzigd (geen nieuwe wiki-pagina's) · graph: 172 → 177 pagina's |
+| 2026-07-15 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard bijgewerkt: 177 graph-pagina's, run 3 |
+| 2026-07-15 | consolidatie | Agent 8 | Hub-validatie | ✓ | Alle 4 hubs compleet — geen ontbrekende conceptlinks gedetecteerd |
+| 2026-07-15 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 0 pag's · 3 verbindingen · 2 inzichten · Health: 91% |

@@ -2,43 +2,51 @@
 type: dagrapport
 date: 2026-07-15
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 0 · Leestijd: 5 min
+Inbox verwerkt: 0 · Gaps gedicht: 0 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 3 · Queue resterend: 0
 
-## Research Agenda
+## Pagina's Bijgewerkt via Inbox
 
-1. **Utilitarisme** — ontbrekend concept in de filosofietak; grondlegger van seculiere ethische redenering en direct relevant voor besliskunde en medische ethiek
-2. **De Franse Revolutie** — grote lacune in de Geschiedenistak; verbindt met De Verlichting en Totalitarisme
-3. **Asset Allocatie** — fundamenteel beleggingsconcept dat de link legt tussen Moderne Portefeuille Theorie en gedragseconomische inzichten
-4. **Klinische Neuropsychologie** — kernvakgebied voor de MSc-doelstelling van de gebruiker; plaatst eerder verworven concepten (Executieve Functies, Werkgeheugen, Anosognosie) in klinische context
+*(geen Inbox-bestanden beschikbaar voor verwerking deze run)*
+
+## Verbindingen Toegevoegd
+
+1. [[Scaffolding]] ↔ [[Zone of Proximal Development]] · ★10
+2. [[Behaviorisme]] ↔ [[Gedragseconomie]] · ★8
+3. [[Klinische Neuropsychologie]] ↔ [[Neuropsychologische Rehabilitatie]] · ★9
 
 ## Insight Feed
 
-— "Utilitarisme belooft een objectieve morele rekenmachine, maar Prospect Theory toont dat de rekenmachine zelf scheef staat." [Filosofie → Beleggen · ★8]
+— "De Industriële Revolutie schiep niet alleen de fabriek als productiesysteem — zij schiep ook de geconditioneerde economische actor, wiens loon-beloning-cyclus de gedragseconomische gevoeligheid voor onmiddellijke bekrachtiging verankerde in moderne markten." [Geschiedenis → Psychologie → Beleggen · ★8]
 
-— "De Franse Revolutie vernietigde de steiger van het Ancien Régime zonder adequaat alternatief — de Terreur is het psychologische gevolg van scaffolding zonder vervanging." [Geschiedenis → Psychologie · ★8]
-
-— "De optimale portefeuille bestaat in theorie, maar wordt alleen benaderd wanneer de belegger zichzelf kent als neuropsychologisch feilbare actor." [Beleggen → Psychologie · ★9]
+— "Echte autonomie wordt niet verworven door onafhankelijkheid maar door tijdelijke afhankelijkheid — Scaffolding en de ZPD tonen dat vrijheid als verworvenheid het paradoxale product is van begeleide beperking." [Psychologie → Filosofie · ★8]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 100% | → |
-| Filosofie | 90% | ↑ |
-| Geschiedenis | 87% | ↑ |
-| Beleggen | 87% | → |
+| Filosofie | 91% | ↑ |
+| Geschiedenis | 88% | ↑ |
+| Beleggen | 88% | ↑ |
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe Wiki-pagina's | 0 |
 | Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 4 |
+| Nieuwe verbindingen | 3 |
+| Nieuwe inzichten | 2 |
 | Gaps gedicht | 0 |
+
+## Research Agenda
+
+Prioriteit 1: **Scaffolding in neurorevalidatie** — de nieuwe relatiepagina Scaffolding ↔ Neuropsychologische Rehabilitatie suggereert een dieper uitwerkbaar leerpad voor klinische toepassing
+Prioriteit 2: **Behaviorisme & nudge-theorie** — de keten Behaviorisme → Gedragseconomie → Utilitarisme vraagt om een vergelijkende inzichtpagina over de ethische implicaties van nudging
+Prioriteit 3: **Graph consolidatie** — 98 wiki-pagina's, 175+ graph-pagina's; verdichting via cross-domein relaties verdient voorrang boven nieuwe concepten

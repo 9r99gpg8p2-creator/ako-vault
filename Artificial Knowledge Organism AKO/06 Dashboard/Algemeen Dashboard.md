@@ -27,22 +27,22 @@ updated: 2026-07-15
 | Metric | Waarde |
 |---|---|
 | Totale Wiki-pagina's | 94 |
-| Relatie- en inzichtpagina's | 155+ |
+| Relatie- en inzichtpagina's | 177 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-15 expansie — run 2)
+## Sessie-activiteit (2026-07-15 consolidatie — run 3)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe Wiki-pagina's | 0 |
 | Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 4 |
-| Nieuwe inzichten | 3 |
+| Nieuwe verbindingen | 3 |
+| Nieuwe inzichten | 2 |
 | Gaps gedicht | 0 |
 
 ---
