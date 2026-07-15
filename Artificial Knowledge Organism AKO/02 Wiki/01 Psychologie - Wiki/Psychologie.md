@@ -65,3 +65,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Fuzzy Trace Theory]]
 - [[Situated Learning]]
 - [[Adolescent Peergroepen]]
+- [[Puberteit]]
+- [[Scaffolding]]

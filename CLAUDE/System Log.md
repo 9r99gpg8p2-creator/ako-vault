@@ -498,3 +498,29 @@ type: operationeel
 | 2026-07-14 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:82 (≥ 1:5 ✓) |
 | 2026-07-14 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Situated Learning, Adolescent Peergroepen) · 5 nieuwe gaps ↓ |
 | 2026-07-14 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 1 Inbox verwerkt · 2 nieuwe pagina's · 4 relaties · 3 inzichten · Health: 89% |
+| 2026-07-15 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-15 | expansie | Agent 1 | Inbox verwerkt | ✓ | Child Development. Second Edition - Martin J. Packer_deel14.md | discipline: psychologie | 5 wiki-kandidaten: Puberteit (NIEUW), Scaffolding (NIEUW queue↓), Intersubjectiviteit (NIEUW queue↓), Gender Identiteit (NIEUW), Formeel Operationeel Denken (UPDATE) |
+| 2026-07-15 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis + Packer 2021 gebruikt. Confidence 8 voor Inbox-concepten, 5 voor overige. |
+| 2026-07-15 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Puberteit (Inbox NIEUW), Scaffolding (queue↓), Sociale Ontologie (queue↓ Filosofie), Waarde Investeren (Beleggen expansie — minste pagina's) |
+| 2026-07-15 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Puberteit.md — 01 Psychologie - Wiki — confidence 8 (Packer 2021) |
+| 2026-07-15 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Scaffolding.md — 01 Psychologie - Wiki — confidence 8 (Wood/Bruner/Ross 1976 + Packer 2021) |
+| 2026-07-15 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Sociale Ontologie.md — 02 Filosofie - Wiki — confidence 5 (Searle 1995, 2005, 2006) |
+| 2026-07-15 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Waarde Investeren.md — 04 Beleggen - Wiki — confidence 5 (Graham 1934, 1949; Buffett 1984) |
+| 2026-07-15 | expansie | Agent 3 | Wiki bijgewerkt | ✓ | Formeel Operationeel Denken.md — links naar Puberteit en Dual Process Theorie toegevoegd — confidence 8 behouden |
+| 2026-07-15 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Intersubjectiviteit (reeds in queue herbevestigd), Activiteitstheorie (reeds in queue) |
+| 2026-07-15 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Puberteit — Dual Process Theorie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-15 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Scaffolding — Neuropsychologische Rehabilitatie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-15 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Sociale Ontologie — Collectieve Intentionaliteit.md — sterkte ★10 — Filosofie × Psychologie |
+| 2026-07-15 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Waarde Investeren — Gedragseconomie.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-15 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Lichaam dat de Markt Maakt.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-15 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Steiger die de Samenleving Draagt.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-15 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Markt als Institutioneel Feit.md — Filosofie → Beleggen — sterkte ★8 |
+| 2026-07-15 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-15 Dagrapport.md — 4 concepten, 1 update, 4 verbindingen, 3 inzichten, 2 gaps |
+| 2026-07-15 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-15 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-15 | expansie | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-15 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 90% — Psych 100% (54 pag.), Fil 88%, Gesch 85%, Beleg 85% |
+| 2026-07-15 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (90%), Filosofie (88%), Beleggen (85%) |
+| 2026-07-15 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Puberteit, Scaffolding) · Filosofie: +1 (Sociale Ontologie) · Beleggen: +1 (Waarde Investeren) · Geschiedenis: +0 |
+| 2026-07-15 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:86 (≥ 1:5 ✓) |
+| 2026-07-15 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Scaffolding ✓ + Sociale Ontologie ✓ gesloten · 3 gaps resterend ↓ |
+| 2026-07-15 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 1 update · 4 verbindingen · 3 inzichten · Health: 90% |

@@ -1,38 +1,45 @@
 ---
-tags: [dashboard, beleggen]
 type: dashboard
-discipline: beleggen
-updated: 2026-07-14
+tags: [dashboard, beleggen]
+updated: 2026-07-15
 ---
 
 # Beleggen Dashboard
 
-> Gegenereerd door Agent 7. Wordt elke sessie overschreven.
+**Hub:** [[Beleggen]]
 
 ---
 
-## Score
+## Knowledge Health
 
-| Score | Trend |
+| Metric | Waarde |
 |---|---|
-| 83%   | ↑     |
+| Pagina's | 10 |
+| Coverage | 50% |
+| Connectivity | 100% |
+| Orphan% | 0% |
+| **Score** | **85%** |
+| Trend | ↑ |
 
 ---
 
-## Metrics
+## Concepten
 
-| Metric       | Waarde | Streef |
-|---|---|---|
-| Coverage     | 45%    | ≥ 85%  |
-| Connectivity | 100%   | ≥ 90%  |
-| Orphan       | 0%     | ≤ 3%   |
+- [[Cognitieve Biases]]
+- [[Efficiënte Markthypothese]]
+- [[Gedragseconomie]]
+- [[Herding]]
+- [[Moderne Portefeuille Theorie]]
+- [[Prospect Theory]]
+- [[Risicoperceptie]]
+- [[Verliesaversie]]
+- [[Waarde Investeren]]
 
 ---
 
-## Wiki-pagina's (9 concept-pagina's)
+## Prioriteit voor uitbreiding
 
-- [[Cognitieve Biases]] · [[Efficiënte Markthypothese]]
-- [[Gedragseconomie]] · [[Herding]] · [[Prospect Theory]]
-- [[Risicoperceptie]] · [[Verliesaversie]]
-- [[Moderne Portefeuille Theorie]] *(nieuw 2026-07-14)*
-- [[Beleggen]] *(hub)*
+- Technische Analyse
+- Dividendbeleggen
+- Marktcycli
+- Behavioral Finance (overzicht)

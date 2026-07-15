@@ -17,7 +17,7 @@ related:
   - "[[Preoperationeel Denken]]"
   - "[[Executieve Functies]]"
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-15
 ---
 
 # Formeel Operationeel Denken
@@ -59,6 +59,8 @@ Vygotsky bood een aanvullende kijk: de overgang naar hogere psychologische funct
 - [[Hogere Psychologische Functies]] — Vygotsky's alternatieve account van adolescent denken: culturele bewuste controle ipv formele logica
 - [[Preoperationeel Denken]] — voorafgaand stadium in Piagets theorie
 - [[Executieve Functies]] — neuropsychologisch correlaat: prefrontale cortex die formele redenering mogelijk maakt
+- [[Puberteit]] — formeel operationeel denken ontwikkelt zich tijdens de puberteitsperiode; hersenrijping is een voorwaarde
+- [[Dual Process Theorie]] — formeel redeneren correleert met System 2; maar adolescente impulsiviteit toont dat System 2 nog niet volledig dominant is
 
 **Cross-domein:**
 - [[Epistemologie]] — formeel redeneren als basis voor epistemologisch relativisme in adolescentie

@@ -1,44 +1,47 @@
 ---
-tags: [dashboard, filosofie]
 type: dashboard
-discipline: filosofie
-updated: 2026-07-14
+tags: [dashboard, filosofie]
+updated: 2026-07-15
 ---
 
 # Filosofie Dashboard
 
-> Gegenereerd door Agent 7. Wordt elke sessie overschreven.
+**Hub:** [[Filosofie]]
 
 ---
 
-## Score
+## Knowledge Health
 
-| Score | Trend |
+| Metric | Waarde |
 |---|---|
-| 87%   | ↑     |
+| Pagina's | 12 |
+| Coverage | 60% |
+| Connectivity | 100% |
+| Orphan% | 0% |
+| **Score** | **88%** |
+| Trend | ↑ |
 
 ---
 
-## Metrics
+## Concepten
 
-| Metric       | Waarde | Streef |
-|---|---|---|
-| Coverage     | 55%    | ≥ 85%  |
-| Connectivity | 100%   | ≥ 90%  |
-| Orphan       | 0%     | ≤ 3%   |
-
----
-
-## Wiki-pagina's (11 concept-pagina's)
-
-- [[Bewustzijn]] · [[Epistemologie]] · [[Epistemologisch Relativisme]]
-- [[Ethiek]] · [[Ethiek van Zorg]] · [[Fenomenologie]]
-- [[Filosofie van de Geest]] · [[Morele Verantwoordelijkheid]]
-- [[Psychoanalyse]] · [[Psychoanalyse]] · [[Vrije Wil]]
+- [[Bewustzijn]]
+- [[Epistemologie]]
+- [[Epistemologisch Relativisme]]
+- [[Ethiek]]
+- [[Ethiek van Zorg]]
+- [[Fenomenologie]]
+- [[Filosofie van de Geest]]
+- [[Morele Verantwoordelijkheid]]
+- [[Psychoanalyse]]
+- [[Sociale Ontologie]]
+- [[Vrije Wil]]
 
 ---
 
-## Recente toevoegingen (2026-07-14)
+## Prioriteit voor uitbreiding
 
-- [[Epistemologisch Relativisme]] — confidence 8 (Perry 1970 + Kuhn 1991 + Chandler 1987 + Packer 2021)
-- [[Ethiek van Zorg]] — confidence 8 (Gilligan 1982 + Noddings 1984 + Packer 2021)
+- Stoïcisme
+- Existentialisme
+- Pragmatisme
+- Activiteitstheorie (cross-psych)

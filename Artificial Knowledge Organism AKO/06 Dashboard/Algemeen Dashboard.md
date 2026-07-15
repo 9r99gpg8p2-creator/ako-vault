@@ -1,56 +1,55 @@
 ---
-tags: [dashboard, systeem]
 type: dashboard
-updated: 2026-07-14
+tags: [dashboard, algemeen]
+updated: 2026-07-15
 ---
 
-# AKO Algemeen Dashboard
+# Algemeen Dashboard — AKO
 
-**Systeem:** [[AKO]]
-
----
-
-## Overall Knowledge Health
-
-| Discipline | Concept-pag's | Coverage | Score | Trend |
-|---|---|---|---|---|
-| Psychologie | 50 | 100%+ | 100% | → |
-| Filosofie | 11 | 55% | 87% | → |
-| Geschiedenis | 10 | 50% | 85% | → |
-| Beleggen | 9 | 45% | 84% | → |
-| **Totaal** | **80** | **—** | **89%** | **→** |
+**Systeemkoppelingen:** [[AKO]]
 
 ---
 
-## Systeem Status
+## Knowledge Health — Overzicht
+
+| Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
+|---|---|---|---|---|---|
+| Psychologie | 54 | 100% | 100% | **100%** | → |
+| Filosofie | 12 | 60% | 100% | **88%** | ↑ |
+| Geschiedenis | 10 | 50% | 100% | **85%** | → |
+| Beleggen | 10 | 50% | 100% | **85%** | ↑ |
+| **Overall** | **86** | — | — | **90%** | ↑ |
+
+---
+
+## Graph Statistieken
 
 | Metric | Waarde |
 |---|---|
-| Totaal Wiki-pagina's | 80 |
-| Totaal relatiepagina's | 57+ |
-| Totaal inzichtpagina's | 35+ |
-| Inbox verwerkt (cumulatief) | 12 delen (deel01–deel12) |
-| Inbox wachtend | deel13–deel14 |
-| Queue resterend | 2 |
+| Totale Wiki-pagina's | 86 |
+| Relatie- en inzichtpagina's | 143+ |
+| Geïsoleerde nodes | 0 |
+| Hub-to-hub links | 0 |
+| Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Run Historie
+## Sessie-activiteit (2026-07-15)
 
-| Datum | Modus | Nieuwe pagina's | Health |
-|---|---|---|---|
-| 2026-07-07 | Initieel | 4 | 58% |
-| 2026-07-08 | Expansie | 11 | 76% |
-| 2026-07-09 | Expansie/Consolidatie | 11 | 82% |
-| 2026-07-12 | Consolidatie | 3+1upd | 83% |
-| 2026-07-13 | Expansie | 4+1upd | 84% |
-| 2026-07-13 | Consolidatie | 4+1upd | 86% |
-| 2026-07-13 | Expansie | 4 nieuw | 86% |
-| 2026-07-13 | Consolidatie | 3+1upd | 87% |
-| 2026-07-13 | Expansie | 4+Inbox deel06 | 88% |
-| 2026-07-13 | Consolidatie | 3+1upd+Inbox deel07 | 88% |
-| 2026-07-14 | Expansie | 4+Inbox deel08 | 88% |
-| 2026-07-14 | Consolidatie | 5+2upd+Inbox deel09 | 88% |
-| 2026-07-14 | Expansie | 6+Inbox deel10 | 88% |
-| 2026-07-14 | Consolidatie | 2+1upd+Inbox deel11 | 89% |
-| 2026-07-14 | Expansie | 4+Inbox deel12 | **89%** |
+| Metric | Aantal |
+|---|---|
+| Inbox verwerkt | 1 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates | 1 |
+| Nieuwe verbindingen | 4 |
+| Nieuwe inzichten | 3 |
+| Gaps gedicht | 2 |
+
+---
+
+## Hubs
+
+- [[Psychologie]] — 54 pagina's
+- [[Filosofie]] — 12 pagina's
+- [[Geschiedenis]] — 10 pagina's
+- [[Beleggen]] — 10 pagina's

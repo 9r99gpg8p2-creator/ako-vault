@@ -22,3 +22,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Efficiënte Markthypothese]]
 - [[Risicoperceptie]]
 - [[Moderne Portefeuille Theorie]]
+- [[Waarde Investeren]]

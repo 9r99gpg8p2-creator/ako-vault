@@ -24,3 +24,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Ethiek]]
 - [[Epistemologisch Relativisme]]
 - [[Ethiek van Zorg]]
+- [[Sociale Ontologie]]

@@ -1,3 +1,9 @@
+---
+discipline: psychologie
+status: verwerkt
+verwerkt_op: 2026-07-15
+---
+
 Fajans, S., 125
 false-belief tasks, 224–225, 343–350, 343, 346, 355
 
