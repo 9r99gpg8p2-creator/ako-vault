@@ -14,11 +14,11 @@ updated: 2026-07-16
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 63 | 100% | 100% | **99%** | → |
-| Filosofie | 19 | 95% | 100% | **97%** | ↑ |
-| Geschiedenis | 15 | 75% | 100% | **86%** | ↑ |
-| Beleggen | 15 | 75% | 100% | **86%** | → |
-| **Overall** | **112** | — | — | **92%** | ↑ |
+| Psychologie | 63 | 100% | 100% | **100%** | → |
+| Filosofie | 20 | 100% | 100% | **100%** | ↑ |
+| Geschiedenis | 16 | 80% | 100% | **94%** | ↑ |
+| Beleggen | 15 | 75% | 100% | **93%** | → |
+| **Overall** | **114** | — | — | **97%** | ↑ |
 
 ---
 
@@ -26,30 +26,30 @@ updated: 2026-07-16
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 112 |
-| Relatie- en inzichtpagina's | 212 |
+| Totale Wiki-pagina's | 114 |
+| Relatie- en inzichtpagina's | 220 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-16 expansie-run)
+## Sessie-activiteit (2026-07-16 consolidatierun-2)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 (Neuroplasticiteit, Reformatie, Stoïcisme, Depressie) |
-| Updates bestaande pagina's | 2 (Cognitieve Gedragstherapie, Klinische Neuropsychologie) |
-| Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichten | 3 |
-| Gaps gedicht | 0 |
+| Nieuwe Wiki-pagina's | 3 (Aristoteles, Angststoornissen, Contrareformatie) |
+| Updates bestaande pagina's | 0 |
+| Nieuwe relatiepagina's | 6 |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 3 (queue leeg) |
 
 ---
 
 ## Hubs
 
 - [[Psychologie]] — 63 pagina's
-- [[Filosofie]] — 19 pagina's
-- [[Geschiedenis]] — 15 pagina's
+- [[Filosofie]] — 20 pagina's
+- [[Geschiedenis]] — 16 pagina's
 - [[Beleggen]] — 15 pagina's

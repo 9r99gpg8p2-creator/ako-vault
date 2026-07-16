@@ -117,9 +117,9 @@ type: operationeel
 | ✓ | 2026-07-16T expansie-2 | Agent 3 | Expansie: Reformatie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Reformatie.md — confidence 5 |
 | ✓ | 2026-07-16T expansie-2 | Agent 3 | Expansie: Stoïcisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Stoïcisme.md — confidence 5 |
 | ✓ | 2026-07-16T expansie-2 | Agent 3 | Expansie: Depressie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Depressie.md — confidence 5 |
-| ↓ | 2026-07-16T expansie-2 | Agent 3 | Gap: Aristoteles | Filosofie — kernfiguur; deugdethiek, logica, kennistheorie; sluit aan op Stoïcisme, Ethiek, Epistemologie |
-| ↓ | 2026-07-16T expansie-2 | Agent 3 | Gap: Angststoornissen | Psychologie — klinisch; complement van Depressie; DSM-5 categorie relevant voor MSc Klinische Neuropsychologie |
-| ↓ | 2026-07-16T expansie-2 | Agent 3 | Gap: Contrareformatie | Geschiedenis — vervolg op Reformatie; Concilie van Trente, jezuïeten, Dertigjarige Oorlog |
+| ✓ | 2026-07-16T consolidatie-2 | Agent 3 | Gap: Aristoteles | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Aristoteles.md — confidence 5 |
+| ✓ | 2026-07-16T consolidatie-2 | Agent 3 | Gap: Angststoornissen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Angststoornissen.md — confidence 5 |
+| ✓ | 2026-07-16T consolidatie-2 | Agent 3 | Gap: Contrareformatie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Contrareformatie.md — confidence 5 |
 
 ---
 

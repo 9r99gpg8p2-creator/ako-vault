@@ -2,23 +2,23 @@
 type: dagrapport
 date: 2026-07-16
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 # Dagrapport — 16 juli 2026
 
 ## Daily Briefing
 
-Nieuwe kennis: 14 · Inbox verwerkt: 0 · Verbindingen: 9 · Inzichten: 6 · Gaps gedicht: 3 · Leestijd: ~56 min
+Nieuwe kennis: 17 · Inbox verwerkt: 0 · Verbindingen: 14 · Inzichten: 8 · Gaps gedicht: 6 · Queue resterend: 0 · Leestijd: ~68 min
 
-*Dit dagrapport combineert twee runs: een consolidatierun (eerder vandaag) en een expansierun (huidig).*
+*Dit dagrapport combineert drie runs: consolidatierun-1, expansierun en consolidatierun-2 (huidig).*
 
 ## Research Agenda
 
-1. **Borderline Persoonlijkheidsstoornis** — DBT aangemaakt; verdieping diagnostische criteria en neurobiologie nodig
-2. **Speculatieve zeepbellen comparatief** — Tulpenmanie aangemaakt; vergelijking dot-com (2000) en crypto-crash (2022) ontbreekt
-3. **Neuroplasticiteit en revalidatie** — nieuw aangemaakt; verdieping met specifieke revalidatieprotocollen gewenst
-4. **Antieke filosofie** — Stoïcisme aangemaakt; Aristoteles en Plato ontbreken nog als kernfiguren van de filosofie-hub
+1. **Plato** — Aristoteles aangemaakt; zijn leermeester Plato ontbreekt nog als kernfiguur van de filosofie-hub
+2. **Borderline Persoonlijkheidsstoornis** — DBT aangemaakt; verdieping diagnostische criteria en neurobiologie relevant voor MSc Klinische Neuropsychologie
+3. **Dertigjarige Oorlog** — Contrareformatie aangemaakt; directe vervolg-gebeurtenis is de Dertigjarige Oorlog (1618–1648)
+4. **Speculatieve zeepbellen comparatief** — Tulpenmanie aangemaakt; vergelijking dot-com (2000) en crypto-crash (2022) ontbreekt
 
 ## Insight Feed
 
@@ -32,28 +32,45 @@ Nieuwe kennis: 14 · Inbox verwerkt: 0 · Verbindingen: 9 · Inzichten: 6 · Gap
 
 — "Linehan deed Hegel klinisch: de dialectiek van acceptatie en verandering is een filosofisch principe in therapeutische vorm." [Psychologie → Filosofie · ★8]
 
+— "Vermijdingsgedrag bij angststoornissen en verliesaversie bij beleggers zijn twee uitingen van hetzelfde evolutionaire mechanisme — actiedrempel verhoging bij dreigend verlies." [Psychologie → Beleggen · ★8]
+
+— "Aristoteles' phronesis (praktische wijsheid) is structureel verwant aan wat behavioral finance beschrijft als rationele beleggingsdiscipline: handelen vanuit doordachte principes, niet vanuit impulsen." [Filosofie → Beleggen · ★7]
+
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | ~99% | → |
-| Filosofie | ~86% | ↑ |
-| Geschiedenis | ~85% | ↑ |
+| Filosofie | ~91% | ↑ |
+| Geschiedenis | ~88% | ↑ |
 | Beleggen | ~84% | → |
-| **Algemeen** | **~88%** | **↑** |
+| **Algemeen** | **~90%** | **↑** |
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 (geen bestanden — alleen `_`-templates) |
-| Nieuwe Wiki-pagina's | 14 |
+| Nieuwe Wiki-pagina's | 17 |
 | Bijgewerkte pagina's | 2 |
-| Nieuwe relatiepagina's | 9 |
-| Nieuwe inzichten | 6 |
-| Gaps gedicht | 3 |
+| Nieuwe relatiepagina's | 14 |
+| Nieuwe inzichten | 8 |
+| Gaps gedicht | 6 |
 
-## Nieuwe Pagina's — Consolidatierun
+## Pagina's Bijgewerkt via Inbox
+
+*(geen Inbox-bestanden beschikbaar in deze run)*
+
+## Verbindingen Toegevoegd
+
+1. [[Aristoteles]] ↔ [[Ethiek]] · ★9
+2. [[Aristoteles]] ↔ [[Wetenschappelijke Revolutie]] · ★8
+3. [[Angststoornissen]] ↔ [[Depressie]] · ★8
+4. [[Angststoornissen]] ↔ [[Executieve Functies]] · ★7
+5. [[Contrareformatie]] ↔ [[Reformatie]] · ★10
+6. [[Contrareformatie]] ↔ [[Gouden Eeuw]] · ★8
+
+## Nieuwe Pagina's — Consolidatierun-1
 
 1. [[Rationalisme]] — 02 Filosofie - Wiki — confidence 5
 2. [[Immanuel Kant]] — 02 Filosofie - Wiki — confidence 5
@@ -68,13 +85,19 @@ Nieuwe kennis: 14 · Inbox verwerkt: 0 · Verbindingen: 9 · Inzichten: 6 · Gap
 
 ## Nieuwe Pagina's — Expansierun
 
-1. [[Neuroplasticiteit]] — 01 Psychologie - Wiki — confidence 5 · sleutelconcept klinische neuropsychologie
-2. [[Reformatie]] — 03 Geschiedenis - Wiki — confidence 5 · eerste religieuze hervorming als motor van moderniteit
-3. [[Stoïcisme]] — 02 Filosofie - Wiki — confidence 5 · antieke filosofische school, voorloper CGT
-4. [[Depressie]] — 01 Psychologie - Wiki — confidence 5 · klinisch kernbegrip voor MSc Klinische Neuropsychologie
+1. [[Neuroplasticiteit]] — 01 Psychologie - Wiki — confidence 5
+2. [[Reformatie]] — 03 Geschiedenis - Wiki — confidence 5
+3. [[Stoïcisme]] — 02 Filosofie - Wiki — confidence 5
+4. [[Depressie]] — 01 Psychologie - Wiki — confidence 5
+
+## Nieuwe Pagina's — Consolidatierun-2 (huidig)
+
+1. [[Aristoteles]] — 02 Filosofie - Wiki — confidence 5 · grondlegger deugdethiek, logica, empirisme
+2. [[Angststoornissen]] — 01 Psychologie - Wiki — confidence 5 · DSM-5 kernbegrip voor MSc Klinische Neuropsychologie
+3. [[Contrareformatie]] — 03 Geschiedenis - Wiki — confidence 5 · vervolg op Reformatie; Concilie van Trente, jezuïeten
 
 ## Aandacht vereist
 
 - [ ] Wikipedia API nog steeds geblokkeerd (E-003) — confidence beperkt tot max 5 voor pagina's zonder Inbox-bron
-- [ ] Filosofie mist nog kernfiguren: Aristoteles, Plato, Hegel — aanbevolen voor volgende run
-- [ ] Geschiedenis: Reformatie aangemaakt, maar Contrareformatie en Dertigjarige Oorlog als vervolgonderwerpen relevant
+- [ ] Filosofie: Plato ontbreekt nog als kernfiguur — aanbevolen voor volgende run
+- [ ] Geschiedenis: Contrareformatie aangemaakt, maar Dertigjarige Oorlog (1618–1648) als direct vervolg ontbreekt

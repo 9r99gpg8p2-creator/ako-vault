@@ -749,3 +749,16 @@ type: operationeel
 | 2026-07-16 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-16 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 pagina's gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
 | 2026-07-16 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 92% |
+| 2026-07-16 | consolidatie-2 | Agent 1 | Inbox scan | ✓ | Geen te verwerken bestanden (alleen `_`-templates) — STAP 1.5 overgeslagen |
+| 2026-07-16 | consolidatie-2 | Agent 2 | Wikipedia API | FOUT E-003 | Geblokkeerd — interne kennis gebruikt voor Aristoteles, Angststoornissen, Contrareformatie |
+| 2026-07-16 | consolidatie-2 | Agent 3 | Wiki aangemaakt | ✓ | Aristoteles.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-16 | consolidatie-2 | Agent 3 | Wiki aangemaakt | ✓ | Angststoornissen.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-16 | consolidatie-2 | Agent 3 | Wiki aangemaakt | ✓ | Contrareformatie.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-16 | consolidatie-2 | Agent 4 | Relatiepagina's aangemaakt | ✓ | 6 relaties: Aristoteles—Ethiek ★9, Aristoteles—Wetenschappelijke Revolutie ★8, Angststoornissen—Depressie ★8, Angststoornissen—Executieve Functies ★7, Contrareformatie—Reformatie ★10, Contrareformatie—Gouden Eeuw ★8 |
+| 2026-07-16 | consolidatie-2 | Agent 5 | Inzichtpagina's aangemaakt | ✓ | Vermijding als Universeel Mechanisme ★8 · Aristoteles en de Deugd van Goed Beleggen ★7 |
+| 2026-07-16 | consolidatie-2 | Agent 6 | Dagrapport bijgewerkt | ✓ | 2026-07-16 Dagrapport.md overschreven — 3 nieuwe pag's, 6 verbindingen, 2 inzichten |
+| 2026-07-16 | consolidatie-2 | Agent 6 | Quiz uitgebreid | ✓ | 3 nieuwe vragen (18, 19, 20) toegevoegd aan 2026-07-16 Quiz.md |
+| 2026-07-16 | consolidatie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen (97%) · Filosofie: 20 pag's 100% · Geschiedenis: 16 pag's 94% |
+| 2026-07-16 | consolidatie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +1 (Aristoteles) · Psychologie: +1 (Angststoornissen) · Geschiedenis: +1 (Contrareformatie) |
+| 2026-07-16 | consolidatie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue leeg |
+| 2026-07-16 | consolidatie-2 | Orchestrator | Consolidatie-run voltooid | ✓ | 3 pag's · 6 verbindingen · 2 inzichten · Health: 97% |
