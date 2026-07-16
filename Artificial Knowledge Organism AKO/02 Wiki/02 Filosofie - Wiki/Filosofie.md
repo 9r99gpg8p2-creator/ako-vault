@@ -27,3 +27,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Sociale Ontologie]]
 - [[Existentialisme]]
 - [[Utilitarisme]]
+- [[Empirisme]]
+- [[Deontologie]]

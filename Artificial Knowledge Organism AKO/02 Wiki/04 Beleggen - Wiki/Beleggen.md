@@ -25,3 +25,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Waarde Investeren]]
 - [[Technische Analyse]]
 - [[Asset Allocatie]]
+- [[Fundamentele Analyse]]

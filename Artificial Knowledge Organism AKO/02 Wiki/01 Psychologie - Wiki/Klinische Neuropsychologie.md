@@ -62,6 +62,7 @@ Vandaag omvat het vakgebied diagnostiek en begeleiding bij traumatisch hersenlet
 **Cross-domein:**
 - [[Existentialisme]] — existentiële thema's (verlies van identiteit, zin na hersenletsel) zijn klinisch relevant bij ernstige neurologische aandoeningen
 - [[Scaffolding]] — rehabilitatiestrategieën bouwen op hetzelfde principe van tijdelijke ondersteuning die geleidelijk wordt afgebouwd
+- [[Deontologie]] ★8 — beroepsgeheim, informed consent en autonomie van de patiënt zijn deontologische plichten die de klinische praktijk structureren
 
 ## Bronnen
 

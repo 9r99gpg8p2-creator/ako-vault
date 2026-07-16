@@ -2,7 +2,7 @@
 tags: [dashboard, geschiedenis]
 type: dashboard
 discipline: geschiedenis
-updated: 2026-07-15
+updated: 2026-07-16
 ---
 
 # Geschiedenis Dashboard
@@ -15,7 +15,7 @@ updated: 2026-07-15
 
 | Score | Trend |
 |---|---|
-| 87%   | →     |
+| 88%   | ↑     |
 
 ---
 
@@ -23,20 +23,20 @@ updated: 2026-07-15
 
 | Metric       | Waarde | Streef |
 |---|---|---|
-| Coverage     | 55%    | ≥ 85%  |
+| Coverage     | 60%    | ≥ 85%  |
 | Connectivity | 100%   | ≥ 90%  |
 | Orphan       | 0%     | ≤ 3%   |
 
 ---
 
-## Wiki-pagina's (11 concept-pagina's)
+## Wiki-pagina's (12 concept-pagina's)
 
-- [[De Franse Revolutie]] · [[De Verlichting]]
-- [[Dekolonisatie]] · [[Eerste Wereldoorlog]]
-- [[Geschiedenis van de Psychiatrie]] · [[Industriële Revolutie]]
-- [[Koude Oorlog]] · [[Paradigmawisseling]]
-- [[Totalitarisme]] · [[Tweede Wereldoorlog]]
-- [[Wetenschappelijke Revolutie]]
+- [[De Franse Revolutie]] · [[De Renaissance]] *(nieuw 2026-07-16)*
+- [[De Verlichting]] · [[Dekolonisatie]]
+- [[Eerste Wereldoorlog]] · [[Geschiedenis van de Psychiatrie]]
+- [[Industriële Revolutie]] · [[Koude Oorlog]]
+- [[Paradigmawisseling]] · [[Totalitarisme]]
+- [[Tweede Wereldoorlog]] · [[Wetenschappelijke Revolutie]]
 
 ---
 
@@ -44,3 +44,4 @@ updated: 2026-07-15
 
 - Russische Revolutie (logisch vervolg op Totalitarisme + Eerste Wereldoorlog)
 - Imperialisme (context voor Dekolonisatie)
+- Humanisme (kern van De Renaissance — hoge prioriteit)

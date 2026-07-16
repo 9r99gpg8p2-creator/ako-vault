@@ -65,6 +65,7 @@ De wetenschappelijke impact weerspiegelt een bredere Wetenschappelijke Revolutie
 - [[Emotieregulatie]] ★8 — emotionele toestand versterkt verliesaversie; slechte regulatie maakt irrationele keuzes onder druk waarschijnlijker
 - [[Dual Process Theorie]] ★9 — loss aversion en framing-effecten zijn uitkomsten van System 1-dominantie; Kahneman is grondlegger van beide
 - [[Utilitarisme]] ★8 — Prospect Theory weerlegt empirisch de psychologische aanname van nutsmaximalisering waarop klassiek utilitarisme steunt
+- [[Fundamentele Analyse]] ★8 — psychologische biases (verliesaversie, ankereffect) verklaren systematische miswaardaties die fundamentele analisten kunnen exploiteren
 
 ## Bronnen
 

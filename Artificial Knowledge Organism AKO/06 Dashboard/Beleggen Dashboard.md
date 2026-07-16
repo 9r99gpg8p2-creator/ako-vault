@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, beleggen]
-updated: 2026-07-15
+updated: 2026-07-16
 ---
 
 # Beleggen Dashboard
@@ -14,12 +14,12 @@ updated: 2026-07-15
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 11 |
-| Coverage | 55% |
+| Pagina's | 12 |
+| Coverage | 60% |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **87%** |
-| Trend | → |
+| **Score** | **88%** |
+| Trend | ↑ |
 
 ---
 
@@ -28,6 +28,7 @@ updated: 2026-07-15
 - [[Asset Allocatie]]
 - [[Cognitieve Biases]]
 - [[Efficiënte Markthypothese]]
+- [[Fundamentele Analyse]] *(nieuw 2026-07-16)*
 - [[Gedragseconomie]]
 - [[Herding]]
 - [[Moderne Portefeuille Theorie]]
@@ -41,6 +42,6 @@ updated: 2026-07-15
 
 ## Prioriteit voor uitbreiding
 
+- Intrinsieke Waarde / DCF-modellen (kernbegrip Fundamentele Analyse)
 - Dividendbeleggen
 - Marktcycli
-- Behavioral Finance (overzicht)

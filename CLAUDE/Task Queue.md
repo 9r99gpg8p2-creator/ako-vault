@@ -102,6 +102,14 @@ type: operationeel
 
 ---
 
+| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Rationalisme | Ontbreekt als pagina — directe tegenhanger van Empirisme; fundamenteel voor epistemologie |
+| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Immanuel Kant | Persoonspagina ontbreekt — grondlegger Deontologie, centrale figuur in de filosofie |
+| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Intrinsieke Waarde / DCF-modellen | Kernbegrip in Fundamentele Analyse — verdient eigen uitwerking |
+| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Humanisme | Intellectuele kern van De Renaissance — nog geen eigen pagina |
+| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Logisch Positivisme | Vervolg op Empirisme — Wiener Kreis, verificatieprincipe |
+
+---
+
 ## Prioriteitsvolgorde
 
 1. Gebruikersverzoek (hoogste prioriteit)

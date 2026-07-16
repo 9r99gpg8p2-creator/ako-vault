@@ -627,3 +627,28 @@ type: operationeel
 | 2026-07-15 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard bijgewerkt: 177 graph-pagina's, run 3 |
 | 2026-07-15 | consolidatie | Agent 8 | Hub-validatie | ✓ | Alle 4 hubs compleet — geen ontbrekende conceptlinks gedetecteerd |
 | 2026-07-15 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 0 pag's · 3 verbindingen · 2 inzichten · Health: 91% |
+| 2026-07-16 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-16 | expansie | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met _ — STAP 1.5 overgeslagen |
+| 2026-07-16 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-16 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Empirisme (Fil — ontbreekt), Deontologie (Fil — complementair Utilitarisme), Fundamentele Analyse (Beleg — complementair Technische Analyse), De Renaissance (Gesch — culturele lacune) |
+| 2026-07-16 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Empirisme.md — 02 Filosofie - Wiki — confidence 5 (Locke 1689, Hume 1748) |
+| 2026-07-16 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Deontologie.md — 02 Filosofie - Wiki — confidence 5 (Kant 1785, Ross 1930, Korsgaard 1996) |
+| 2026-07-16 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Fundamentele Analyse.md — 04 Beleggen - Wiki — confidence 5 (Graham & Dodd 1934, Graham 1949) |
+| 2026-07-16 | expansie | Agent 3 | Wiki aangemaakt | ✓ | De Renaissance.md — 03 Geschiedenis - Wiki — confidence 5 (Burckhardt 1860, Burke 1972) |
+| 2026-07-16 | expansie | Agent 3 | Gap Engine | ✓ | 5 nieuwe gaps gesignaleerd: Rationalisme (Fil), Kant (persoon, Fil), Intrinsieke Waarde/DCF (Beleg), Humanisme (Gesch/Fil), Logisch Positivisme (Fil) |
+| 2026-07-16 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Empirisme — Behaviorisme.md — sterkte ★9 — Filosofie × Psychologie |
+| 2026-07-16 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Deontologie — Klinische Neuropsychologie.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-16 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Fundamentele Analyse — Prospect Theory.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-16 | expansie | Agent 4 | Reverse links bijgewerkt | ✓ | Behaviorisme ← Empirisme ★9 · Klinische Neuropsychologie ← Deontologie ★8 · Prospect Theory ← Fundamentele Analyse ★8 |
+| 2026-07-16 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Ervaring als Fundament van Gedrag.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-16 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Plicht Beschermt Wat Gevolgen Niet Kunnen Berekenen.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-16 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Markt Prijs Wat de Geest Voelt.md — Beleggen × Psychologie — sterkte ★8 |
+| 2026-07-16 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-16 Dagrapport.md — 4 concepten, 3 verbindingen, 3 inzichten, 5 nieuwe gaps |
+| 2026-07-16 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-16 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-16 | expansie | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-16 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 92% — Psych 100% (59 pag.), Fil 93% (↑, 15 pag.), Gesch 88% (↑, 12 pag.), Beleg 88% (↑, 12 pag.) |
+| 2026-07-16 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (92% ↑), Filosofie (93% ↑), Geschiedenis (88% ↑), Beleggen (88% ↑) |
+| 2026-07-16 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +2 (Empirisme, Deontologie) · Geschiedenis: +1 (De Renaissance) · Beleggen: +1 (Fundamentele Analyse) |
+| 2026-07-16 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:183 (≥ 1:5 ✓) |
+| 2026-07-16 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 5 nieuwe gaps toegevoegd ↓ (Rationalisme, Kant, Intrinsieke Waarde, Humanisme, Logisch Positivisme) |
+| 2026-07-16 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 3 verbindingen · 3 inzichten · Health: 92% · Gepusht naar origin/main |

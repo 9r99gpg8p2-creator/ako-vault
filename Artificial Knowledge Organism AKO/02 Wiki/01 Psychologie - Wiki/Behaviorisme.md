@@ -64,6 +64,7 @@ Het behaviorisme werd in de jaren 1960 uitgedaagd door de cognitieve revolutie, 
 
 **Cross-domein:**
 - [[Gedragseconomie]] — gedragseconomie combineert inzichten uit het behaviorisme (conditionering, bekrachtiging) met cognitieve psychologie om economisch gedrag te verklaren
+- [[Empirisme]] ★9 — de empiristische tabula rasa (Locke, Hume) is de filosofische grondslag van het behaviorisme
 
 ## Bronnen
 
