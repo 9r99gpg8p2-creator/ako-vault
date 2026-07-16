@@ -652,3 +652,26 @@ type: operationeel
 | 2026-07-16 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 3:183 (≥ 1:5 ✓) |
 | 2026-07-16 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 5 nieuwe gaps toegevoegd ↓ (Rationalisme, Kant, Intrinsieke Waarde, Humanisme, Logisch Positivisme) |
 | 2026-07-16 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 3 verbindingen · 3 inzichten · Health: 92% · Gepusht naar origin/main |
+| 2026-07-16 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-16 | consolidatie | Agent 1 | Inbox scan | ✓ | Alleen `_`-templates aanwezig — STAP 1.5 overgeslagen |
+| 2026-07-16 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-16 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Rationalisme (queue↓), Immanuel Kant (queue↓), Intrinsieke Waarde/DCF (queue↓), Humanisme (queue↓) |
+| 2026-07-16 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Rationalisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-16 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Immanuel Kant.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-16 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Intrinsieke Waarde en DCF-modellen.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-16 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Humanisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-16 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Rationalisme — Empirisme.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-16 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Immanuel Kant — Deontologie.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-16 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Intrinsieke Waarde en DCF-modellen — Fundamentele Analyse.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-16 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Humanisme — De Renaissance.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-16 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Rede als Fundament van Plicht.md — Filosofie (intra + cross Psych) — sterkte ★9 |
+| 2026-07-16 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Prijs die Geen Waarde Kent.md — Beleggen × Filosofie — sterkte ★8 |
+| 2026-07-16 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Renaissance van het Zelf als Klinisch Principe.md — Geschiedenis → Psychologie — sterkte ★7 |
+| 2026-07-16 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-16 Dagrapport.md — consolidatiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 4 gaps gedicht |
+| 2026-07-16 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-16 Quiz.md — 3 vragen toegevoegd (Kant, DCF, Humanisme) |
+| 2026-07-16 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 94% — Psych 100% (59 pag.), Fil 96% (↑, 17 pag.), Gesch 90% (↑, 13 pag.), Beleg 90% (↑, 13 pag.) |
+| 2026-07-16 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (94% ↑), Filosofie (96% ↑), Geschiedenis (90% ↑), Beleggen (90% ↑) |
+| 2026-07-16 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +2 (Rationalisme, Immanuel Kant) · Geschiedenis: +1 (Humanisme) · Beleggen: +1 (Intrinsieke Waarde en DCF-modellen) |
+| 2026-07-16 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-16 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 1 gap resterend ↓ (Logisch Positivisme) |
+| 2026-07-16 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · Health: 94% |

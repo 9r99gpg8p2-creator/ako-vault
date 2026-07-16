@@ -29,3 +29,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Utilitarisme]]
 - [[Empirisme]]
 - [[Deontologie]]
+- [[Rationalisme]]
+- [[Immanuel Kant]]

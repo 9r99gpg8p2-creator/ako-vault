@@ -102,10 +102,10 @@ type: operationeel
 
 ---
 
-| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Rationalisme | Ontbreekt als pagina — directe tegenhanger van Empirisme; fundamenteel voor epistemologie |
-| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Immanuel Kant | Persoonspagina ontbreekt — grondlegger Deontologie, centrale figuur in de filosofie |
-| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Intrinsieke Waarde / DCF-modellen | Kernbegrip in Fundamentele Analyse — verdient eigen uitwerking |
-| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Humanisme | Intellectuele kern van De Renaissance — nog geen eigen pagina |
+| ✓ | 2026-07-16T consolidatie | Agent 3 | Gap: Rationalisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Rationalisme.md — confidence 5 |
+| ✓ | 2026-07-16T consolidatie | Agent 3 | Gap: Immanuel Kant | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Immanuel Kant.md — confidence 5 |
+| ✓ | 2026-07-16T consolidatie | Agent 3 | Gap: Intrinsieke Waarde / DCF-modellen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Intrinsieke Waarde en DCF-modellen.md — confidence 5 |
+| ✓ | 2026-07-16T consolidatie | Agent 3 | Gap: Humanisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Humanisme.md — confidence 5 |
 | ↓ | 2026-07-16T expansie | Agent 3 | Gap: Logisch Positivisme | Vervolg op Empirisme — Wiener Kreis, verificatieprincipe |
 
 ---

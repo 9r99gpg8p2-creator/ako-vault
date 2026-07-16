@@ -14,11 +14,11 @@ updated: 2026-07-16
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 12 |
-| Coverage | 60% |
+| Pagina's | 13 |
+| Coverage | 65% |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **88%** |
+| **Score** | **90%** |
 | Trend | ↑ |
 
 ---
@@ -28,9 +28,10 @@ updated: 2026-07-16
 - [[Asset Allocatie]]
 - [[Cognitieve Biases]]
 - [[Efficiënte Markthypothese]]
-- [[Fundamentele Analyse]] *(nieuw 2026-07-16)*
+- [[Fundamentele Analyse]]
 - [[Gedragseconomie]]
 - [[Herding]]
+- [[Intrinsieke Waarde en DCF-modellen]] *(nieuw 2026-07-16 consolidatie)*
 - [[Moderne Portefeuille Theorie]]
 - [[Prospect Theory]]
 - [[Risicoperceptie]]
@@ -42,6 +43,6 @@ updated: 2026-07-16
 
 ## Prioriteit voor uitbreiding
 
-- Intrinsieke Waarde / DCF-modellen (kernbegrip Fundamentele Analyse)
 - Dividendbeleggen
 - Marktcycli
+- Rentevoet en Obligaties

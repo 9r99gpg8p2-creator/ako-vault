@@ -14,11 +14,11 @@ updated: 2026-07-16
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 15 |
-| Coverage | 75% |
+| Pagina's | 17 |
+| Coverage | 85% |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **93%** |
+| **Score** | **96%** |
 | Trend | ↑ |
 
 ---
@@ -35,8 +35,10 @@ updated: 2026-07-16
 - [[Existentialisme]]
 - [[Fenomenologie]]
 - [[Filosofie van de Geest]]
+- [[Immanuel Kant]] *(nieuw 2026-07-16 consolidatie)*
 - [[Morele Verantwoordelijkheid]]
 - [[Psychoanalyse]]
+- [[Rationalisme]] *(nieuw 2026-07-16 consolidatie)*
 - [[Sociale Ontologie]]
 - [[Utilitarisme]]
 - [[Vrije Wil]]
@@ -45,6 +47,4 @@ updated: 2026-07-16
 
 ## Prioriteit voor uitbreiding
 
-- Rationalisme (tegenhanger Empirisme — hoge prioriteit)
-- Immanuel Kant (persoonspagina — grondlegger Deontologie)
-- Humanisme (Renaissance-kern)
+- Logisch Positivisme (vervolg Empirisme — nog in queue ↓)

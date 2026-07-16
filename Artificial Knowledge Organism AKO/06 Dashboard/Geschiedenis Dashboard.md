@@ -15,7 +15,7 @@ updated: 2026-07-16
 
 | Score | Trend |
 |---|---|
-| 88%   | ↑     |
+| 90%   | ↑     |
 
 ---
 
@@ -23,17 +23,18 @@ updated: 2026-07-16
 
 | Metric       | Waarde | Streef |
 |---|---|---|
-| Coverage     | 60%    | ≥ 85%  |
+| Coverage     | 65%    | ≥ 85%  |
 | Connectivity | 100%   | ≥ 90%  |
 | Orphan       | 0%     | ≤ 3%   |
 
 ---
 
-## Wiki-pagina's (12 concept-pagina's)
+## Wiki-pagina's (13 concept-pagina's)
 
-- [[De Franse Revolutie]] · [[De Renaissance]] *(nieuw 2026-07-16)*
+- [[De Franse Revolutie]] · [[De Renaissance]]
 - [[De Verlichting]] · [[Dekolonisatie]]
 - [[Eerste Wereldoorlog]] · [[Geschiedenis van de Psychiatrie]]
+- [[Humanisme]] *(nieuw 2026-07-16 consolidatie)*
 - [[Industriële Revolutie]] · [[Koude Oorlog]]
 - [[Paradigmawisseling]] · [[Totalitarisme]]
 - [[Tweede Wereldoorlog]] · [[Wetenschappelijke Revolutie]]
@@ -44,4 +45,3 @@ updated: 2026-07-16
 
 - Russische Revolutie (logisch vervolg op Totalitarisme + Eerste Wereldoorlog)
 - Imperialisme (context voor Dekolonisatie)
-- Humanisme (kern van De Renaissance — hoge prioriteit)
