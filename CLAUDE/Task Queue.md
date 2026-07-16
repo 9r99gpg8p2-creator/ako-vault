@@ -106,7 +106,13 @@ type: operationeel
 | ✓ | 2026-07-16T consolidatie | Agent 3 | Gap: Immanuel Kant | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Immanuel Kant.md — confidence 5 |
 | ✓ | 2026-07-16T consolidatie | Agent 3 | Gap: Intrinsieke Waarde / DCF-modellen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Intrinsieke Waarde en DCF-modellen.md — confidence 5 |
 | ✓ | 2026-07-16T consolidatie | Agent 3 | Gap: Humanisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Humanisme.md — confidence 5 |
-| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Logisch Positivisme | Vervolg op Empirisme — Wiener Kreis, verificatieprincipe |
+| ✓ | 2026-07-16T expansie | Agent 3 | Gap: Logisch Positivisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Logisch Positivisme.md — confidence 5 |
+| ✓ | 2026-07-16T expansie | Agent 3 | Expansie: Gouden Eeuw | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Gouden Eeuw.md — confidence 5 |
+| ✓ | 2026-07-16T expansie | Agent 3 | Expansie: Marktcycli | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Marktcycli.md — confidence 5 |
+| ✓ | 2026-07-16T expansie | Agent 3 | Expansie: Cognitieve Gedragstherapie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Gedragstherapie.md — confidence 5 |
+| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Tulpenmanie | Vroegste financiële zeepbel — verbindt Gouden Eeuw, Marktcycli, Prospect Theory |
+| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Dialectische Gedragstherapie | Derde golf CGT — Linehan; emotieregulatie bij PTSD en borderline |
+| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Deontologie verdiepen | Kant aangemaakt; koppeling Kant ↔ Deontologie nadere uitwerking verdient |
 
 ---
 

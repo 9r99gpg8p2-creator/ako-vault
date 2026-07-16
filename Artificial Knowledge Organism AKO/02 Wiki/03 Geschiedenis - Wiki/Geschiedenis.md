@@ -27,3 +27,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Franse Revolutie]]
 - [[De Renaissance]]
 - [[Humanisme]]
+- [[Gouden Eeuw]]

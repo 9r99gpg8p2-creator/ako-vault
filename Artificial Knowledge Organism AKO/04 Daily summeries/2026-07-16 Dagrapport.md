@@ -2,51 +2,37 @@
 type: dagrapport
 date: 2026-07-16
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
 Goedemorgen.
 
-Nieuwe kennis:        4 concepten toegevoegd (consolidatie-run)
+Nieuwe kennis:        8 concepten toegevoegd vandaag (4 consolidatie + 4 expansie)
 Nieuwe artikelen:     0 (Wikipedia API geblokkeerd — interne kennis gebruikt)
-Nieuwe verbindingen:  4 relaties gelegd
-Nieuwe inzichten:     3 cross-domein inzichten gegenereerd
-Kennishiaten gedicht: 4 (Rationalisme, Kant, DCF, Humanisme)
-Queue resterend:      1 (Logisch Positivisme)
-Aanbevolen leestijd:  10 minuten
+Nieuwe verbindingen:  8 relaties gelegd
+Nieuwe inzichten:     6 cross-domein inzichten gegenereerd
+Kennishiaten gedicht: 5 (Rationalisme, Kant, DCF, Humanisme, Logisch Positivisme)
+Aanbevolen leestijd:  20 minuten
 
 ---
 
 ## Research Agenda
 
-Prioriteit 1: **Logisch Positivisme** (Filosofie) — vervolg op Empirisme en Rationalisme; Wiener Kreis, verificatieprincipe; enige resterende gap in de queue
-Prioriteit 2: **Deontologie verdiepen** — Kant is nu aangemaakt; koppeling Deontologie ↔ Immanuel Kant verdient nadere uitwerking in klinisch-ethische context
-Prioriteit 3: **Waarde Investeren** — nu Intrinsieke Waarde en DCF aanwezig, is de verbinding met Benjamin Graham en Warren Buffett een logische verdieping
+Prioriteit 1: **Tulpenmanie** (Geschiedenis/Beleggen) — vroegst gedocumenteerde financiële zeepbel, uitstekend voorbeeld voor Prospect Theory en Marktcycli; verbindt Gouden Eeuw met gedragseconomie
+Prioriteit 2: **Dialectische Gedragstherapie** (Psychologie) — kerndeel van de "derde golf" CGT; bijzonder relevant voor klinische neuropsychologie (emotieregulatie bij borderline, PTSD)
+Prioriteit 3: **Deontologie verdiepen** (Filosofie) — Kant is aangemaakt; koppeling Kant ↔ Deontologie verdient nadere uitwerking in klinisch-ethische context
 
 ---
 
 ## Insight Feed
 
-— "Kants categorische imperatief is geen willekeurig gebod maar de directe uitkomst van zijn epistemologie: rede die universele structuren oplegt aan de werkelijkheid, kan alleen maximes erkennen die universaliseerbaar zijn." [Filosofie (Rationalisme → Kant → Deontologie) · ★9]
+— "De logisch-positivistische eis van empirische verificatie heeft haar financieel equivalent in waardebeleggen: wie uitsluitend betaalt voor bewijsbaar waarde, weerstand biedt aan narratief-gedreven zeepbellen." [Filosofie → Beleggen · ★8]
 
-— "DCF-modellen veronderstellen dat intrinsieke waarde kenbaar is — maar dit epistemologisch optimisme botst fundamenteel met de Efficiënte Markthypothese, die stelt dat geen enkele analist de markt structureel kan verslaan." [Beleggen × Filosofie · ★8]
+— "Cognitieve gedragstherapie en reconsolidatie zijn twee kanten van dezelfde neurale munt: elke geslaagde sesssie herschrijft letterlijk de geheugenstructuren die disfunctionele schema's bevatten." [Psychologie (CGT → Reconsolidatie) · ★9]
 
-— "Pico della Mirandola's overtuiging dat de mens zijn eigen natuur vrij kan vormen (1486) keert terug als klinisch principe in de neuropsychologische rehabilitatie: de patiënt is niet zijn beschadiging." [Geschiedenis → Psychologie · ★7]
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-*(Geen inbox verwerkt — alle bestanden gefilterd als `_`-template)*
-
-## Verbindingen Toegevoegd
-
-1. [[Rationalisme]] ↔ [[Empirisme]] · ★10
-2. [[Immanuel Kant]] → [[Deontologie]] · ★10
-3. [[Intrinsieke Waarde en DCF-modellen]] ↔ [[Fundamentele Analyse]] · ★10
-4. [[Humanisme]] → [[De Renaissance]] · ★10
+— "De Gouden Eeuw was een onbedoeld experiment in de psychologische effecten van vrijheid: religieuze tolerantie en commerciële openheid produceerden een culturele psychologie van risicobereidheid en intellectuele creativiteit die in gesloten absolutistische staten ontbrak." [Geschiedenis → Psychologie · ★7]
 
 ---
 
@@ -54,11 +40,11 @@ Prioriteit 3: **Waarde Investeren** — nu Intrinsieke Waarde en DCF aanwezig, i
 
 | Discipline | Pagina's | Coverage | Score | Trend |
 |---|---|---|---|---|
-| Psychologie | 59 | 100% | 95% | → |
-| Filosofie | 17 | 85% | 89% | ↑ |
-| Geschiedenis | 13 | 65% | 84% | ↑ |
-| Beleggen | 13 | 65% | 84% | ↑ |
-| **Gemiddeld** | **102** | — | **88%** | ↑ |
+| Psychologie | 60 | 100% | 96% | → |
+| Filosofie | 18 | 90% | 90% | ↑ |
+| Geschiedenis | 14 | 70% | 85% | ↑ |
+| Beleggen | 14 | 70% | 85% | ↑ |
+| **Gemiddeld** | **106** | — | **89%** | ↑ |
 
 ---
 
@@ -71,13 +57,13 @@ Prioriteit 3: **Waarde Investeren** — nu Intrinsieke Waarde en DCF aanwezig, i
 | Updates bestaande pagina's | 0 |
 | Nieuwe relatiepagina's | 4 |
 | Nieuwe inzichten | 3 |
-| Gaps gedicht | 4 |
-| Queue resterend | 1 |
+| Gaps gedicht | 1 (Logisch Positivisme) |
+| Expansie-onderwerpen | 3 (Gouden Eeuw, Marktcycli, Cognitieve Gedragstherapie) |
 
 ---
 
 ## Aandacht vereist
 
 - [ ] Wikipedia API nog steeds geblokkeerd (E-003) — confidence beperkt tot max 5 voor nieuwe pagina's zonder Inbox-bron
-- [ ] Logisch Positivisme nog in queue (↓) — enige resterende gap
-- [ ] Geschiedenis en Beleggen coverage (65%) onder 80% streefwaarde — verdere expansie aanbevolen
+- [ ] Geschiedenis (14 pagina's, 70% coverage) en Beleggen (14 pagina's, 70% coverage) onder 80% streefwaarde — verdere expansie aanbevolen
+- [ ] Tulpenmanie als gap geïdentificeerd — prioriteit voor volgende run

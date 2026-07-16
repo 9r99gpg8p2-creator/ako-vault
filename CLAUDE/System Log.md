@@ -675,3 +675,28 @@ type: operationeel
 | 2026-07-16 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-16 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 1 gap resterend ↓ (Logisch Positivisme) |
 | 2026-07-16 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · Health: 94% |
+| 2026-07-16 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-16 | expansie | Agent 1 | Inbox scan | ✓ | Alleen `_`-templates aanwezig — STAP 1.5 overgeslagen |
+| 2026-07-16 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-16 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Logisch Positivisme (queue↓), Gouden Eeuw (Gesch expansie), Marktcycli (Beleg expansie), Cognitieve Gedragstherapie (Psych — klinisch doel) |
+| 2026-07-16 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Logisch Positivisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-16 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Gouden Eeuw.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-16 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Marktcycli.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-16 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Cognitieve Gedragstherapie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-16 | expansie | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Tulpenmanie (Gesch/Beleg), Dialectische Gedragstherapie (Psych), Deontologie verdiepen (Fil) |
+| 2026-07-16 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Logisch Positivisme — Paradigmawisseling.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-16 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Cognitieve Gedragstherapie — EMDR.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-16 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Marktcycli — Gedragseconomie.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-16 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Gouden Eeuw — Prospect Theory.md — sterkte ★8 — Geschiedenis × Beleggen |
+| 2026-07-16 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Verificatie als Bescherming tegen Zeepbellen.md — Filosofie → Beleggen — sterkte ★8 |
+| 2026-07-16 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Therapie Herschrijft het Geheugen.md — Psychologie (CGT → Reconsolidatie) — sterkte ★9 |
+| 2026-07-16 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Republiek als Vrijheidsexperiment.md — Geschiedenis → Psychologie — sterkte ★7 |
+| 2026-07-16 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-16 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 3 gaps gesignaleerd |
+| 2026-07-16 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-16 Quiz.md — 3 vragen toegevoegd (Logisch Positivisme, Marktcycli/Tulpenmanie, CGT vs EMDR) |
+| 2026-07-16 | expansie | Agent 6 | Weekreflectie | ↓ | 2026-29 Reflectie.md bestaat reeds — geen nieuwe aanmaak vereist |
+| 2026-07-16 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 89% — Psych 96% (60 pag.), Fil 90% (↑, 18 pag.), Gesch 85% (↑, 14 pag.), Beleg 85% (↑, 14 pag.) |
+| 2026-07-16 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven (89%) |
+| 2026-07-16 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Cognitieve Gedragstherapie) · Filosofie: +1 (Logisch Positivisme) · Geschiedenis: +1 (Gouden Eeuw) · Beleggen: +1 (Marktcycli) |
+| 2026-07-16 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-16 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Logisch Positivisme gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
+| 2026-07-16 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 89% |
