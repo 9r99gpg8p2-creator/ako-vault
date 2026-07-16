@@ -10,10 +10,12 @@ sources:
   - "Korsgaard, C. (1996). Creating the Kingdom of Ends. Cambridge: Cambridge University Press."
 hub: "[[Filosofie]]"
 related:
+  - "[[Immanuel Kant]]"
   - "[[Ethiek]]"
   - "[[Utilitarisme]]"
   - "[[Ethiek van Zorg]]"
   - "[[Morele Verantwoordelijkheid]]"
+  - "[[Vrije Wil]]"
 created: 2026-07-16
 updated: 2026-07-16
 ---
@@ -53,13 +55,16 @@ Deontologie staat tegenover utilitarisme (gevolgen tellen) en deugdethiek (karak
 **Hub:** [[Filosofie]]
 
 **Gerelateerd:**
+- [[Immanuel Kant]] — grondlegger: Kants categorische imperatief is het fundament van de moderne deontologische ethiek
 - [[Ethiek]] — Deontologie is één van de drie hoofdstromen in de normatieve ethiek
 - [[Utilitarisme]] — Fundamentele tegenstelling: plicht versus gevolgen
 - [[Ethiek van Zorg]] — Beide bekritiseren het abstracte universalisme, maar vanuit verschillende hoeken
 - [[Morele Verantwoordelijkheid]] — Deontologie koppelt verantwoordelijkheid aan autonomie en intentie
+- [[Vrije Wil]] — Kants deontologie veronderstelt vrijheid: moreel handelen is alleen mogelijk voor rationele, vrije wezens
 
 **Cross-domein:**
 - [[Prospect Theory]] — Mensen redeneren in de praktijk deontologisch (regels, rechtvaardigheid), niet puur utilistisch
+- [[Dialectische Gedragstherapie]] — De deontologische plicht tot validatie en niet-schaden vormt een ethische grondslag van DBT
 
 ## Bronnen
 

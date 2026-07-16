@@ -2,68 +2,72 @@
 type: dagrapport
 date: 2026-07-16
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
+
+# Dagrapport — 16 juli 2026
 
 ## Daily Briefing
 
-Goedemorgen.
+Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 1 · Verbindingen verdicht: 5 · Queue resterend: 0
 
-Nieuwe kennis:        8 concepten toegevoegd vandaag (4 consolidatie + 4 expansie)
-Nieuwe artikelen:     0 (Wikipedia API geblokkeerd — interne kennis gebruikt)
-Nieuwe verbindingen:  8 relaties gelegd
-Nieuwe inzichten:     6 cross-domein inzichten gegenereerd
-Kennishiaten gedicht: 5 (Rationalisme, Kant, DCF, Humanisme, Logisch Positivisme)
-Aanbevolen leestijd:  20 minuten
+## Pagina's Bijgewerkt via Inbox
 
----
+*Geen Inbox-bestanden beschikbaar — consolidatiemodus actief op Task Queue items ↓*
 
-## Research Agenda
+## Nieuwe Pagina's Aangemaakt
 
-Prioriteit 1: **Tulpenmanie** (Geschiedenis/Beleggen) — vroegst gedocumenteerde financiële zeepbel, uitstekend voorbeeld voor Prospect Theory en Marktcycli; verbindt Gouden Eeuw met gedragseconomie
-Prioriteit 2: **Dialectische Gedragstherapie** (Psychologie) — kerndeel van de "derde golf" CGT; bijzonder relevant voor klinische neuropsychologie (emotieregulatie bij borderline, PTSD)
-Prioriteit 3: **Deontologie verdiepen** (Filosofie) — Kant is aangemaakt; koppeling Kant ↔ Deontologie verdient nadere uitwerking in klinisch-ethische context
+1. [[Tulpenmanie]] — 04 Beleggen - Wiki — confidence 5 · vroegste speculatieve zeepbel; verbindt Gouden Eeuw, Marktcycli, Prospect Theory
+2. [[Dialectische Gedragstherapie]] — 01 Psychologie - Wiki — confidence 5 · Linehan, derde golf CGT; emotieregulatie bij PTSD en borderline
 
----
+## Bijgewerkte Pagina's
+
+1. [[Deontologie]] — [[Immanuel Kant]] en [[Vrije Wil]] toegevoegd aan related en Verbindingen; cross-domein link naar [[Dialectische Gedragstherapie]]
+
+## Verbindingen Toegevoegd
+
+1. [[Tulpenmanie]] ↔ [[Gouden Eeuw]] · ★9
+2. [[Tulpenmanie]] ↔ [[Marktcycli]] · ★9
+3. [[Dialectische Gedragstherapie]] ↔ [[Cognitieve Gedragstherapie]] · ★10
+4. [[Dialectische Gedragstherapie]] ↔ [[Emotieregulatie]] · ★9
+5. [[Deontologie]] ↔ [[Vrije Wil]] · ★8
 
 ## Insight Feed
 
-— "De logisch-positivistische eis van empirische verificatie heeft haar financieel equivalent in waardebeleggen: wie uitsluitend betaalt voor bewijsbaar waarde, weerstand biedt aan narratief-gedreven zeepbellen." [Filosofie → Beleggen · ★8]
+— "De vroegste marktkrach was geen economisch maar een psychologisch fenomeen — de Tulpenmanie als proto-Kahneman" [Beleggen → Psychologie · ★8]
 
-— "Cognitieve gedragstherapie en reconsolidatie zijn twee kanten van dezelfde neurale munt: elke geslaagde sesssie herschrijft letterlijk de geheugenstructuren die disfunctionele schema's bevatten." [Psychologie (CGT → Reconsolidatie) · ★9]
+— "Linehan deed Hegel klinisch: de dialectiek van acceptatie en verandering is een filosofisch principe in therapeutische vorm" [Psychologie → Filosofie · ★8]
 
-— "De Gouden Eeuw was een onbedoeld experiment in de psychologische effecten van vrijheid: religieuze tolerantie en commerciële openheid produceerden een culturele psychologie van risicobereidheid en intellectuele creativiteit die in gesloten absolutistische staten ontbrak." [Geschiedenis → Psychologie · ★7]
-
----
+— "De plicht die heelt: Kants categorische imperatief als stille architectuur van de therapeutische relatie" [Filosofie → Psychologie · ★8]
 
 ## Knowledge Health
 
-| Discipline | Pagina's | Coverage | Score | Trend |
-|---|---|---|---|---|
-| Psychologie | 60 | 100% | 96% | → |
-| Filosofie | 18 | 90% | 90% | ↑ |
-| Geschiedenis | 14 | 70% | 85% | ↑ |
-| Beleggen | 14 | 70% | 85% | ↑ |
-| **Gemiddeld** | **106** | — | **89%** | ↑ |
+| Discipline | Score | Trend |
+|---|---|---|
+| Psychologie | ~97% | → |
+| Filosofie | ~84% | ↑ |
+| Geschiedenis | ~84% | → |
+| Beleggen | ~84% | ↑ |
 
----
+## Research Agenda
+
+Prioriteit 1: Borderline Persoonlijkheidsstoornis — DBT aangemaakt; verdieping diagnostische criteria en neurobiologische grondslag zou Psychologie-hub verder versterken
+Prioriteit 2: Speculatieve financiële zeepbellen — Tulpenmanie aangemaakt; vergelijking met dot-com en crypto zou Beleggen verdichten
+Prioriteit 3: Kant en klinische ethiek — Deontologie verdiept; forensisch-psychiatrische toepassingen als volgende stap
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 0 (alleen `_`-templates aanwezig) |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe relatiepagina's | 4 |
+| Inbox verwerkt | 0 (alleen `_`-templates) |
+| Nieuwe Wiki-pagina's | 2 |
+| Bijgewerkte pagina's | 1 |
+| Nieuwe relatiepagina's | 5 |
 | Nieuwe inzichten | 3 |
-| Gaps gedicht | 1 (Logisch Positivisme) |
-| Expansie-onderwerpen | 3 (Gouden Eeuw, Marktcycli, Cognitieve Gedragstherapie) |
-
----
+| Gaps gedicht | 3 |
+| Queue resterend | 0 |
 
 ## Aandacht vereist
 
 - [ ] Wikipedia API nog steeds geblokkeerd (E-003) — confidence beperkt tot max 5 voor nieuwe pagina's zonder Inbox-bron
-- [ ] Geschiedenis (14 pagina's, 70% coverage) en Beleggen (14 pagina's, 70% coverage) onder 80% streefwaarde — verdere expansie aanbevolen
-- [ ] Tulpenmanie als gap geïdentificeerd — prioriteit voor volgende run
+- [ ] Task Queue volledig leeg na deze run — volgende run start met expansie van minst-bedekte disciplines

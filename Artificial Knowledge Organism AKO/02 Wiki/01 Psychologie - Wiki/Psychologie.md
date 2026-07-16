@@ -74,3 +74,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Postkoloniale Psychologie]]
 - [[Klinische Neuropsychologie]]
 - [[Cognitieve Gedragstherapie]]
+- [[Dialectische Gedragstherapie]]

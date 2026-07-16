@@ -14,11 +14,11 @@ updated: 2026-07-16
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 13 |
-| Coverage | 65% |
+| Pagina's | 15 |
+| Coverage | 75% |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **90%** |
+| **Score** | **87%** |
 | Trend | ↑ |
 
 ---
@@ -31,11 +31,13 @@ updated: 2026-07-16
 - [[Fundamentele Analyse]]
 - [[Gedragseconomie]]
 - [[Herding]]
-- [[Intrinsieke Waarde en DCF-modellen]] *(nieuw 2026-07-16 consolidatie)*
+- [[Intrinsieke Waarde en DCF-modellen]]
+- [[Marktcycli]]
 - [[Moderne Portefeuille Theorie]]
 - [[Prospect Theory]]
 - [[Risicoperceptie]]
 - [[Technische Analyse]]
+- [[Tulpenmanie]] *(nieuw 2026-07-16 consolidatie)*
 - [[Verliesaversie]]
 - [[Waarde Investeren]]
 
@@ -44,5 +46,5 @@ updated: 2026-07-16
 ## Prioriteit voor uitbreiding
 
 - Dividendbeleggen
-- Marktcycli
 - Rentevoet en Obligaties
+- Behavioral Finance (overzichtspagina)

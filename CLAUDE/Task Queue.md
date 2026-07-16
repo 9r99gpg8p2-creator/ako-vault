@@ -110,9 +110,9 @@ type: operationeel
 | ✓ | 2026-07-16T expansie | Agent 3 | Expansie: Gouden Eeuw | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Gouden Eeuw.md — confidence 5 |
 | ✓ | 2026-07-16T expansie | Agent 3 | Expansie: Marktcycli | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Marktcycli.md — confidence 5 |
 | ✓ | 2026-07-16T expansie | Agent 3 | Expansie: Cognitieve Gedragstherapie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Gedragstherapie.md — confidence 5 |
-| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Tulpenmanie | Vroegste financiële zeepbel — verbindt Gouden Eeuw, Marktcycli, Prospect Theory |
-| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Dialectische Gedragstherapie | Derde golf CGT — Linehan; emotieregulatie bij PTSD en borderline |
-| ↓ | 2026-07-16T expansie | Agent 3 | Gap: Deontologie verdiepen | Kant aangemaakt; koppeling Kant ↔ Deontologie nadere uitwerking verdient |
+| ✓ | 2026-07-16T consolidatie | Agent 3 | Gap: Tulpenmanie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Tulpenmanie.md — confidence 5 |
+| ✓ | 2026-07-16T consolidatie | Agent 3 | Gap: Dialectische Gedragstherapie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Dialectische Gedragstherapie.md — confidence 5 |
+| ✓ | 2026-07-16T consolidatie | Agent 3 | Gap: Deontologie verdiepen | Deontologie.md bijgewerkt: Immanuel Kant + Vrije Wil + cross-domein DBT toegevoegd |
 
 ---
 

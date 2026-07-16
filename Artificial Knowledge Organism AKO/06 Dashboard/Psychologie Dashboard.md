@@ -2,7 +2,7 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-07-15
+updated: 2026-07-16
 ---
 
 # Psychologie Dashboard
@@ -15,11 +15,11 @@ updated: 2026-07-15
 
 | Metric | Waarde |
 |---|---|
-| Concept-pagina's | 59 |
-| Coverage (59/20) | 100%+ |
-| Connectivity | 100% |
+| Concept-pagina's | 61 |
+| Coverage (61/20) | 100%+ |
+| Connectivity | 97% |
 | Orphan-rate | 0% |
-| **Score** | **100%** |
+| **Score** | **97%** |
 | Trend | → |
 
 ---
@@ -35,9 +35,11 @@ updated: 2026-07-15
 | [[Affordances]] | 7 | uitgewerkt |
 | [[Anosognosie]] | 8 | uitgewerkt |
 | [[Behaviorisme]] | 9 | definitief |
+| [[Cognitieve Gedragstherapie]] | 5 | uitgewerkt |
 | [[Collectieve Intentionaliteit]] | 8 | uitgewerkt |
 | [[Culturele Ontwikkelingspaden]] | 8 | uitgewerkt |
 | [[Culturele Psychologie]] | 8 | uitgewerkt |
+| [[Dialectische Gedragstherapie]] | 5 | uitgewerkt | *(nieuw 2026-07-16)*
 | [[Dual Process Theorie]] | 8 | uitgewerkt |
 | [[EMDR]] | 5 | concept |
 | [[Embodied Cognition]] | 5 | concept |
@@ -92,4 +94,4 @@ updated: 2026-07-15
 
 ## Gaps
 
-Geen actieve gaps — queue leeg.
+Geen actieve gaps — queue leeg na consolidatie-run 2026-07-16.

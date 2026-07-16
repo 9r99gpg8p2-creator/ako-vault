@@ -28,3 +28,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Fundamentele Analyse]]
 - [[Intrinsieke Waarde en DCF-modellen]]
 - [[Marktcycli]]
+- [[Tulpenmanie]]

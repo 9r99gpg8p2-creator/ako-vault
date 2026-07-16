@@ -700,3 +700,26 @@ type: operationeel
 | 2026-07-16 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-16 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Logisch Positivisme gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
 | 2026-07-16 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 89% |
+| 2026-07-16 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-16 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden — alleen _-templates aanwezig — STAP 1.5 overgeslagen |
+| 2026-07-16 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-16 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 queue-gaps geselecteerd: Tulpenmanie (Beleg), Dialectische Gedragstherapie (Psych), Deontologie verdiepen (Fil) |
+| 2026-07-16 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Tulpenmanie.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-16 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Dialectische Gedragstherapie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-16 | consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Deontologie.md — Immanuel Kant + Vrije Wil toegevoegd aan related + Verbindingen; cross-domein DBT |
+| 2026-07-16 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Tulpenmanie — Gouden Eeuw.md — sterkte ★9 — Beleggen × Geschiedenis |
+| 2026-07-16 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Tulpenmanie — Marktcycli.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-16 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Dialectische Gedragstherapie — Cognitieve Gedragstherapie.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-16 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Dialectische Gedragstherapie — Emotieregulatie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-16 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Deontologie — Vrije Wil.md — sterkte ★8 — Filosofie (intra) |
+| 2026-07-16 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Eerste Zeepbel was een Psychologisch Fenomeen.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-16 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Linehan Deed Hegel Klinisch.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-16 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Plicht die Heelt.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-16 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-16 Dagrapport.md — consolidatiemodus — 2 pagina's, 1 update, 5 verbindingen, 3 inzichten, queue leeg |
+| 2026-07-16 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-16 Quiz.md — 3 vragen toegevoegd (DBT modules, Tulpenmanie × EMH, Deontologie × Zorgethiek) |
+| 2026-07-16 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 90% — Psych 97% (61 pag.), Fil 90% (18 pag.), Gesch 85% (14 pag.), Beleg 87% (↑, 15 pag.) |
+| 2026-07-16 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard (90%) · Psychologie Dashboard (97%) · Beleggen Dashboard (87%) |
+| 2026-07-16 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Dialectische Gedragstherapie) · Beleggen: +1 (Tulpenmanie) |
+| 2026-07-16 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-16 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · queue volledig leeg |
+| 2026-07-16 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 90% |
