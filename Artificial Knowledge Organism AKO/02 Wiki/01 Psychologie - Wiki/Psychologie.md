@@ -75,3 +75,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Klinische Neuropsychologie]]
 - [[Cognitieve Gedragstherapie]]
 - [[Dialectische Gedragstherapie]]
+- [[Neuroplasticiteit]]
+- [[Depressie]]

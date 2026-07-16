@@ -15,11 +15,11 @@ updated: 2026-07-16
 
 | Metric | Waarde |
 |---|---|
-| Concept-pagina's | 61 |
-| Coverage (61/20) | 100%+ |
-| Connectivity | 97% |
+| Concept-pagina's | 63 |
+| Coverage (63/20) | 100%+ |
+| Connectivity | 100% |
 | Orphan-rate | 0% |
-| **Score** | **97%** |
+| **Score** | **99%** |
 | Trend | → |
 
 ---
@@ -39,6 +39,7 @@ updated: 2026-07-16
 | [[Collectieve Intentionaliteit]] | 8 | uitgewerkt |
 | [[Culturele Ontwikkelingspaden]] | 8 | uitgewerkt |
 | [[Culturele Psychologie]] | 8 | uitgewerkt |
+| [[Depressie]] | 5 | uitgewerkt | *(nieuw 2026-07-16)*
 | [[Dialectische Gedragstherapie]] | 5 | uitgewerkt | *(nieuw 2026-07-16)*
 | [[Dual Process Theorie]] | 8 | uitgewerkt |
 | [[EMDR]] | 5 | concept |
@@ -64,6 +65,7 @@ updated: 2026-07-16
 | [[Klinische Neuropsychologie]] | 5 | uitgewerkt |
 | [[Kohlberg]] | 8 | uitgewerkt |
 | [[Meta-emotie]] | 8 | uitgewerkt |
+| [[Neuroplasticiteit]] | 5 | uitgewerkt | *(nieuw 2026-07-16)*
 | [[Neuropsychologische Rehabilitatie]] | 8 | uitgewerkt |
 | [[Niche Constructie]] | 8 | uitgewerkt |
 | [[Ouderschapsstijlen]] | 8 | uitgewerkt |

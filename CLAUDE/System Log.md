@@ -723,3 +723,29 @@ type: operationeel
 | 2026-07-16 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-16 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · queue volledig leeg |
 | 2026-07-16 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 90% |
+| 2026-07-16 | expansie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-16 | expansie-2 | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden — alleen _-templates aanwezig — STAP 1.5 overgeslagen |
+| 2026-07-16 | expansie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-16 | expansie-2 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Neuroplasticiteit (Psych — klinisch), Reformatie (Gesch — minste coverage), Stoïcisme (Fil), Depressie (Psych — MSc klinisch) |
+| 2026-07-16 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Neuroplasticiteit.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-16 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Reformatie.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-16 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Stoïcisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-16 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Depressie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-16 | expansie-2 | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Aristoteles (Fil), Angststoornissen (Psych), Contrareformatie (Gesch) |
+| 2026-07-16 | expansie-2 | Agent 3 | Pagina bijgewerkt | ✓ | Cognitieve Gedragstherapie.md — Stoïcisme ★9 toegevoegd aan Cross-domein verbindingen |
+| 2026-07-16 | expansie-2 | Agent 3 | Pagina bijgewerkt | ✓ | Klinische Neuropsychologie.md — Neuroplasticiteit ★9 toegevoegd aan Cross-domein verbindingen |
+| 2026-07-16 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Stoïcisme — Cognitieve Gedragstherapie.md — sterkte ★9 — Filosofie × Psychologie |
+| 2026-07-16 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Depressie — Neuroplasticiteit.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-16 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Reformatie — Wetenschappelijke Revolutie.md — sterkte ★8 — Geschiedenis (intra) |
+| 2026-07-16 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuroplasticiteit — Klinische Neuropsychologie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-16 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Filosofie die Therapie Werd.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-16 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Genezing is Groei.md — Psychologie → Neuropsychologie — sterkte ★8 |
+| 2026-07-16 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Ketterij als Wetenschappelijke Methode.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-16 | expansie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-16 Dagrapport.md — expansiemodus — 4 pagina's, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-16 | expansie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-16 Quiz.md — 3 vragen toegevoegd (Neuroplasticiteit, Reformatie + Wetenschappelijke Revolutie, Stoïcisme × CGT) |
+| 2026-07-16 | expansie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 92% — Psych 99% (63 pag.) · Fil 97% (19 pag.) · Gesch 86% (15 pag.) · Beleg 86% (15 pag.) |
+| 2026-07-16 | expansie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen (92%) · Psychologie (99%) · Filosofie (97%) · Geschiedenis (86%) |
+| 2026-07-16 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Neuroplasticiteit, Depressie) · Filosofie: +1 (Stoïcisme) · Geschiedenis: +1 (Reformatie) |
+| 2026-07-16 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-16 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 pagina's gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
+| 2026-07-16 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 92% |

@@ -66,6 +66,7 @@ Metaanalyses (Hofmann et al., 2012; Cuijpers et al., 2019) bevestigen de effecti
 **Cross-domein:**
 - [[Prospect Theory]] — verliesaversie en negatieve framing als cognitieve vervormingen in financieel gedrag
 - [[Ethiek van Zorg]] — relationele en empathische dimensies van de therapeutische relatie in CGT
+- [[Stoïcisme]] ★9 — het stoïcijnse principe dat oordelen (niet gebeurtenissen) emoties veroorzaken is de directe voorloper van cognitieve herstructurering in CGT
 
 ## Bronnen
 

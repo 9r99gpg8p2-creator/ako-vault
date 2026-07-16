@@ -14,11 +14,11 @@ updated: 2026-07-16
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 61 | 100% | 97% | **97%** | → |
-| Filosofie | 18 | 90% | 100% | **90%** | → |
-| Geschiedenis | 14 | 70% | 100% | **85%** | → |
-| Beleggen | 15 | 75% | 100% | **87%** | ↑ |
-| **Overall** | **108** | — | — | **90%** | ↑ |
+| Psychologie | 63 | 100% | 100% | **99%** | → |
+| Filosofie | 19 | 95% | 100% | **97%** | ↑ |
+| Geschiedenis | 15 | 75% | 100% | **86%** | ↑ |
+| Beleggen | 15 | 75% | 100% | **86%** | → |
+| **Overall** | **112** | — | — | **92%** | ↑ |
 
 ---
 
@@ -26,30 +26,30 @@ updated: 2026-07-16
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 108 |
-| Relatie- en inzichtpagina's | 205 |
+| Totale Wiki-pagina's | 112 |
+| Relatie- en inzichtpagina's | 212 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-16 consolidatie-run)
+## Sessie-activiteit (2026-07-16 expansie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 2 (Tulpenmanie, Dialectische Gedragstherapie) |
-| Updates bestaande pagina's | 1 (Deontologie) |
-| Nieuwe relatiepagina's | 5 |
+| Nieuwe Wiki-pagina's | 4 (Neuroplasticiteit, Reformatie, Stoïcisme, Depressie) |
+| Updates bestaande pagina's | 2 (Cognitieve Gedragstherapie, Klinische Neuropsychologie) |
+| Nieuwe relatiepagina's | 4 |
 | Nieuwe inzichten | 3 |
-| Gaps gedicht | 3 (Tulpenmanie, DBT, Deontologie verdiept) |
+| Gaps gedicht | 0 |
 
 ---
 
 ## Hubs
 
-- [[Psychologie]] — 61 pagina's
-- [[Filosofie]] — 18 pagina's
-- [[Geschiedenis]] — 14 pagina's
+- [[Psychologie]] — 63 pagina's
+- [[Filosofie]] — 19 pagina's
+- [[Geschiedenis]] — 15 pagina's
 - [[Beleggen]] — 15 pagina's

@@ -14,11 +14,11 @@ updated: 2026-07-16
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 17 |
-| Coverage | 85% |
+| Pagina's | 19 |
+| Coverage | 95% |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **96%** |
+| **Score** | **97%** |
 | Trend | ↑ |
 
 ---
@@ -40,6 +40,7 @@ updated: 2026-07-16
 - [[Psychoanalyse]]
 - [[Rationalisme]] *(nieuw 2026-07-16 consolidatie)*
 - [[Sociale Ontologie]]
+- [[Stoïcisme]] *(nieuw 2026-07-16 expansie)*
 - [[Utilitarisme]]
 - [[Vrije Wil]]
 
@@ -47,4 +48,5 @@ updated: 2026-07-16
 
 ## Prioriteit voor uitbreiding
 
-- Logisch Positivisme (vervolg Empirisme — nog in queue ↓)
+- Aristoteles — grondlegger van de ethiek en logica, ontbreekt nog
+- Plato — ideëenleer en kennistheorie, onmisbaar in de filosofie-hub
