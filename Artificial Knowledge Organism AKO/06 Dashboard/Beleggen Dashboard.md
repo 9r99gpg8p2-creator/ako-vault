@@ -14,20 +14,20 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 16 |
-| Coverage | 80% (16/20) |
+| Pagina's | 17 |
+| Coverage | 85% (17/20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **94%** |
+| **Score** | **96%** |
 | Trend | ↑ |
 
 ---
 
 ## Nieuw deze sessie
 
-- [[Obligaties]] — fixed income, coupon, duration, kredietrisico, renterisico
+- [[Macroeconomie]] — BBP, inflatie, rentepolitiek, conjunctuurcyclus, top-down beleggingsanalyse; cross-domein met Paradigmawisseling (★8)
 
 ## Cross-domein bruggen
 
-- [[Obligaties]] → [[Verliesaversie]] (nominale illusie; vasthouden van verlieslatende posities)
-- [[Obligaties]] → [[Asset Allocatie]] (60/40-portefeuille; diversificatie)
+- [[Macroeconomie]] → [[Paradigmawisseling]] (macro-economische crises als Kuhn-cycli in economisch denken; ★8)
+- [[Macroeconomie]] → [[Gedragseconomie]] (macro-nieuws triggert systematische cognitieve biases)

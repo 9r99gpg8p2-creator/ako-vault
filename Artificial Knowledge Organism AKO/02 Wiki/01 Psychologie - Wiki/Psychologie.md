@@ -79,3 +79,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Depressie]]
 - [[Angststoornissen]]
 - [[Schizofrenie]]
+- [[ADHD]]
+- [[Dopamine]]

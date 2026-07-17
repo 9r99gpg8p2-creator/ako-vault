@@ -9,25 +9,26 @@ modus: expansie
 
 Goedemorgen.
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 3 · Leestijd: ~7 min
+Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 (leeg) · Verbindingen: 4 · Inzichten: 3 · Gaps: 2 · Leestijd: ~16 min
 
 ---
 
 ## Research Agenda
 
-1. **ADHD** — klinisch relevant voor MSc Klinische Neuropsychologie; niet aanwezig in vault; overlap met executieve functies en werkgeheugen is direct leerpad-relevant
-2. **Socrates** — grondlegger westerse filosofie; via Plato centraal in vault aanwezig maar nog zonder eigen pagina; nodig voor volledig begrip van de Atheense filosofie
-3. **Neuropsychologisch Assessment** — essentieel voor klinische praktijk; bridge tussen Klinische Neuropsychologie, Executieve Functies en Schizofrenie
+1. **Socrates** — queue ↓ gesloten; grondlegger westerse filosofie, cross-domein met CGT (★8 verbinding)
+2. **ADHD** — queue ↓ gesloten; klinisch kernonderwerp MSc Klinische Neuropsychologie, gelinkt aan Executieve Functies (★10), Werkgeheugen, Dopamine
+3. **Dopamine** — queue ↓ gesloten; neurowetenschappelijk fundament voor Schizofrenie en ADHD; cross-domein met Prospect Theory (★9)
+4. **Macroeconomie** — Beleggen had minste pagina's (16 → 17); onontgonnen subgebied; gelinkt aan Marktcycli, Asset Allocatie, Paradigmawisseling
 
 ---
 
 ## Insight Feed
 
-— "De overtuiging dat de werkelijkheid anders is dan wat we waarnemen — centraal bij Plato — keert terug in de psychologie als de kern van psychose: hallucinaties zijn Plato's grot van binnenuit." [Filosofie → Psychologie · ★9]
+— "Het brein en de belegger delen dezelfde architectuur: niet de absolute waarde maar de afwijking van het verwachte bepaalt de reactie." [Dopamine → Prospect Theory · ★9]
 
-— "Napoleon incarneerde een paradox: hij exporteerde Verlichtingsidealen via militaire verovering — en ondergroef daarmee precies het zelfbeschikkingsbeginsel dat die idealen fundeerden." [Geschiedenis → Filosofie · ★8]
+— "Socrates' vragenmethode en Becks socratisch bevragen in CGT zijn structureel identiek — filosofie en therapie raken mechanistisch verbonden." [Socrates → Cognitieve Gedragstherapie · ★8]
 
-— "Beleggers in obligaties lijden bijzonder sterk aan nominale illusie: de vaste coupon maskeert het reële verlies bij stijgende rentes — een directe toepassing van verliesaversie in fixed income." [Psychologie → Beleggen · ★8]
+— "Economische crises zijn niet alleen verwoestend voor vermogen — ze zijn de enige momenten waarop de onzichtbare aannames van het heersende denken zichtbaar worden." [Macroeconomie → Paradigmawisseling · ★8]
 
 ---
 
@@ -35,10 +36,11 @@ Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 93% | ↑ |
-| Filosofie | 84% | ↑ |
-| Geschiedenis | 82% | ↑ |
-| Beleggen | 83% | ↑ |
+| Psychologie | ~100% | → |
+| Filosofie | ~88% | ↑ |
+| Geschiedenis | ~86% | ↑ |
+| Beleggen | ~86% | ↑ |
+| **Algemeen** | **~89%** | **↑** |
 
 ---
 
@@ -47,17 +49,16 @@ Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 3 |
+| Nieuwe Wiki-pagina's | 4 (Socrates, ADHD, Dopamine, Macroeconomie) |
+| Updates bestaande pagina's | 4 (CGT, Prospect Theory, Executieve Functies, Paradigmawisseling) |
 | Nieuwe verbindingen | 4 |
-| Gaps gedicht | 0 |
 | Nieuwe inzichten | 3 |
+| Gaps gedicht | 3 (Socrates, ADHD, Dopamine) |
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Inbox bevat geen nieuwe bestanden — volgende run kan focus leggen op Filosofie en Beleggen (laagste absolute paginatelling)
-- [ ] Gap gesignaleerd: Socrates (Filosofie) — grondlegger westerse filosofie, nog zonder pagina
-- [ ] Gap gesignaleerd: ADHD (Psychologie) — klinisch kernonderwerp voor MSc-doel
-- [ ] Gap gesignaleerd: Dopamine (Psychologie) — centraal mechanisme in Schizofrenie, nog niet uitgewerkt
+- [ ] Filosofie Coverage nadert 100% — verdere diversificatie naar Politieke Filosofie, Metafysica of Esthetica overwegen
+- [ ] Geschiedenis heeft minste concept-pagina's (17) — nieuwe subgebieden zoals Islamitische Gouden Eeuw of Byzantijnse Rijk zijn nog onontgonnen
+- [ ] Beleggen: Macroeconomie toegevoegd; vervolgonderwerpen zoals Derivaten, ESG-Beleggen of Monetair Beleid staan nog open

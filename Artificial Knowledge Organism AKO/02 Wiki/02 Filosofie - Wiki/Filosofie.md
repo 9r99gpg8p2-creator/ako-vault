@@ -35,3 +35,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Stoïcisme]]
 - [[Aristoteles]]
 - [[Plato]]
+- [[Socrates]]

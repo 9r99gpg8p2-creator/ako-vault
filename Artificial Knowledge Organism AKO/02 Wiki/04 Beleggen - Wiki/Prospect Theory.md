@@ -62,6 +62,7 @@ De wetenschappelijke impact weerspiegelt een bredere Wetenschappelijke Revolutie
 
 **Cross-domein:**
 - [[Neuropsychologische Rehabilitatie]] — psychologisch mechanisme: verliesaversie als neuropsychologisch mechanisme dat behandeluitkomsten beïnvloedt
+- [[Dopamine]] ★9 — neurobiologisch equivalent: de beloningspredictie-fout van dopamineneuronen is het cellulaire mechanisme achter de referentiepunt-gevoeligheid in Prospect Theory
 - [[Emotieregulatie]] ★8 — emotionele toestand versterkt verliesaversie; slechte regulatie maakt irrationele keuzes onder druk waarschijnlijker
 - [[Dual Process Theorie]] ★9 — loss aversion en framing-effecten zijn uitkomsten van System 1-dominantie; Kahneman is grondlegger van beide
 - [[Utilitarisme]] ★8 — Prospect Theory weerlegt empirisch de psychologische aanname van nutsmaximalisering waarop klassiek utilitarisme steunt

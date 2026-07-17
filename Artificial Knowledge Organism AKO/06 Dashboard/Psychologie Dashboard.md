@@ -15,7 +15,7 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 65 |
+| Pagina's | 67 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
@@ -26,9 +26,10 @@ updated: 2026-07-17
 
 ## Nieuw deze sessie
 
-- [[Schizofrenie]] — positieve/negatieve/cognitieve symptomen; dopamine-hypothese; neurontwikkeling; klinische neuropsychologische relevantie
+- [[ADHD]] — neurobiologische ontwikkelingsstoornis; executieve disfunctie; dopamine; klinische neuropsychologie MSc-relevant
+- [[Dopamine]] — neurotransmitter; beloningspredictie-fout; ADHD en Schizofrenie; cross-domein met Prospect Theory
 
 ## Cross-domein bruggen
 
-- [[Schizofrenie]] → [[Bewustzijn]] (wanen en hallucinaties als filosofisch probleem van werkelijkheidstoetsing)
-- [[Schizofrenie]] → [[Executieve Functies]] (hypofrontaliteit als kernsymptoom)
+- [[Dopamine]] → [[Prospect Theory]] (beloningspredictie-fout = referentiepunt-gevoeligheid; ★9)
+- [[ADHD]] → [[Executieve Functies]] (Barkley-model: inhibitie als kerndeficit; ★10)

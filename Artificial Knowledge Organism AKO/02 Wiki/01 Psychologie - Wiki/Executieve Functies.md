@@ -54,6 +54,7 @@ Alexander Luria legde in de jaren 1960–1970 de neurologische basis voor het be
 - [[Anosognosie]] — gevolg: schade aan executieve functies ondermijnt zelfmonitoring en ziektebesef; anosognosie is deels een executief probleem
 - [[Neuropsychologische Rehabilitatie]] — doelgebied: executieve revalidatie is een van de kerngebieden; GMT en strategische interventies zijn evidence-based
 - [[Schizofrenie]] ★9 — executieve disfunctie (hypofrontaliteit) is een kernsymptoom van schizofrenie en sterk gerelateerd aan functionele uitkomsten
+- [[ADHD]] ★10 — ADHD is primair een stoornis van executieve functies (Barkley): gedragsinhibitie als kerndeficit met cascade op werkgeheugen, emotieregulatie en planning
 
 **Cross-domein:**
 - [[Paradigmawisseling]] — analogie: cognitieve flexibiliteit (shifting) op individueel niveau weerspiegelt hoe wetenschappelijke gemeenschappen paradigma's kunnen loslaten

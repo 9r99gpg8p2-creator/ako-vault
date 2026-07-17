@@ -788,3 +788,28 @@ type: operationeel
 | 2026-07-17 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:119 (≥ 1:5 ✓) |
 | 2026-07-17 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
 | 2026-07-17 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 98%
+| 2026-07-17 | expansie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-17 | expansie-2 | Agent 1 | Inbox scan | ✓ | Alleen _-bestanden aanwezig — STAP 1.5 volledig overgeslagen |
+| 2026-07-17 | expansie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-17 | expansie-2 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Socrates (queue↓ Filosofie), ADHD (queue↓ Psychologie MSc KNP), Dopamine (queue↓ Psychologie), Macroeconomie (Beleggen — minste pagina's) |
+| 2026-07-17 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Socrates.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-17 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | ADHD.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-17 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Dopamine.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-17 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Macroeconomie.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-17 | expansie-2 | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Verslaving (Psych), Monetair Beleid (Beleg) |
+| 2026-07-17 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Socrates — Cognitieve Gedragstherapie.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-17 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Dopamine — Prospect Theory.md — sterkte ★9 — Psychologie × Beleggen |
+| 2026-07-17 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | ADHD — Executieve Functies.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-17 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Macroeconomie — Paradigmawisseling.md — sterkte ★8 — Beleggen × Geschiedenis |
+| 2026-07-17 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Referentiepunt dat Alles Bepaalt.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-17 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Vraag als Therapeutisch Instrument.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-17 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Crises Maken Paradigma's Zichtbaar.md — Beleggen → Geschiedenis — sterkte ★8 |
+| 2026-07-17 | expansie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-17 Dagrapport.md — expansie-2 modus — 4 concepten, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-17 | expansie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-17 Quiz.md — 3 vragen toegevoegd (Socrates/CGT, ADHD/EF, Dopamine/Prospect Theory) |
+| 2026-07-17 | expansie-2 | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-17 | expansie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 98% — Psych 100%, Fil 100%, Gesch 96%, Beleg 96% |
+| 2026-07-17 | expansie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (98%), Psychologie (100%), Filosofie (100%), Beleggen (96%) |
+| 2026-07-17 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (ADHD, Dopamine) · Filosofie: +1 (Socrates) · Beleggen: +1 (Macroeconomie) · Geschiedenis: +0 |
+| 2026-07-17 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:123 (≥ 1:5 ✓) |
+| 2026-07-17 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten (Socrates, ADHD, Dopamine) + 1 expansie (Macroeconomie) · 2 nieuwe gaps toegevoegd ↓ |
+| 2026-07-17 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 98%

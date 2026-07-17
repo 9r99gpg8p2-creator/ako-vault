@@ -14,20 +14,20 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 21 |
-| Coverage | 100% (21/20) |
+| Pagina's | 22 |
+| Coverage | 100% (22/20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
 | **Score** | **100%** |
-| Trend | ↑ |
+| Trend | → |
 
 ---
 
 ## Nieuw deze sessie
 
-- [[Plato]] — grondlegger westerse filosofie, ideeënleer en allegorie van de grot
+- [[Socrates]] — grondlegger westerse filosofie; socratische methode (elenchus); deugd als kennis; cross-domein met CGT (★8)
 
 ## Cross-domein bruggen
 
-- [[Plato]] → [[Werkgeheugen]] (anamnese vs. tabula rasa)
-- [[Plato]] → [[Schizofrenie]] (bewustzijnsfilosofie en werkelijkheidstoetsing)
+- [[Socrates]] → [[Cognitieve Gedragstherapie]] (socratisch bevragen als therapeutische techniek; ★8)
+- [[Socrates]] → [[Epistemologie]] (epistemische bescheidenheid als vertrekpunt voor kennis)

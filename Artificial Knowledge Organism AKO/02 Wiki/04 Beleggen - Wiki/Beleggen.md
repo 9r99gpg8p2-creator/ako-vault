@@ -30,3 +30,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Marktcycli]]
 - [[Tulpenmanie]]
 - [[Obligaties]]
+- [[Macroeconomie]]

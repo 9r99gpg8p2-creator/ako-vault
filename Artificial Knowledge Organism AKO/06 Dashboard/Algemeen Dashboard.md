@@ -14,11 +14,11 @@ updated: 2026-07-17
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 65 | 100% | 100% | **100%** | → |
-| Filosofie | 21 | 100% | 100% | **100%** | ↑ |
-| Geschiedenis | 17 | 85% | 100% | **96%** | ↑ |
-| Beleggen | 16 | 80% | 100% | **94%** | ↑ |
-| **Overall** | **119** | — | — | **98%** | ↑ |
+| Psychologie | 67 | 100% | 100% | **100%** | → |
+| Filosofie | 22 | 100% | 100% | **100%** | → |
+| Geschiedenis | 17 | 85% | 100% | **96%** | → |
+| Beleggen | 17 | 85% | 100% | **96%** | ↑ |
+| **Overall** | **123** | — | — | **98%** | → |
 
 ---
 
@@ -26,30 +26,30 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 119 |
-| Relatie- en inzichtpagina's | 227 |
+| Totale Wiki-pagina's | 123 |
+| Relatie- en inzichtpagina's | 234 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-17 expansie-run)
+## Sessie-activiteit (2026-07-17 expansie-run 2)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 (Plato, Schizofrenie, Obligaties, Het Napoleontische Tijdperk) |
-| Updates bestaande pagina's | 3 (Aristoteles, Executieve Functies, Verliesaversie, De Verlichting) |
+| Nieuwe Wiki-pagina's | 4 (Socrates, ADHD, Dopamine, Macroeconomie) |
+| Updates bestaande pagina's | 4 (CGT, Prospect Theory, Executieve Functies, Paradigmawisseling) |
 | Nieuwe relatiepagina's | 4 |
 | Nieuwe inzichten | 3 |
-| Gaps gedicht | 0 |
+| Gaps gedicht | 3 (Socrates, ADHD, Dopamine) |
 
 ---
 
 ## Hubs
 
-- [[Psychologie]] — 65 pagina's
-- [[Filosofie]] — 21 pagina's
+- [[Psychologie]] — 67 pagina's
+- [[Filosofie]] — 22 pagina's
 - [[Geschiedenis]] — 17 pagina's
-- [[Beleggen]] — 16 pagina's
+- [[Beleggen]] — 17 pagina's

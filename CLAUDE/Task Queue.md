@@ -125,9 +125,12 @@ type: operationeel
 | ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Schizofrenie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Schizofrenie.md — confidence 5 |
 | ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Obligaties | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Obligaties.md — confidence 5 |
 | ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Het Napoleontische Tijdperk | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Napoleontische Tijdperk.md — confidence 5 |
-| ↓ | 2026-07-17T expansie | Agent 3 | Gap: Socrates | Grondlegger westerse filosofie; via Plato gerefereerd maar eigen pagina ontbreekt |
-| ↓ | 2026-07-17T expansie | Agent 3 | Gap: ADHD | Klinisch kernonderwerp voor MSc Klinische Neuropsychologie; overlap Executieve Functies |
-| ↓ | 2026-07-17T expansie | Agent 3 | Gap: Dopamine | Centraal neurotransmitter-mechanisme in Schizofrenie; nog niet uitgewerkt |
+| ✓ | 2026-07-17T expansie-2 | Agent 3 | Gap: Socrates | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Socrates.md — confidence 5 |
+| ✓ | 2026-07-17T expansie-2 | Agent 3 | Gap: ADHD | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/ADHD.md — confidence 5 |
+| ✓ | 2026-07-17T expansie-2 | Agent 3 | Gap: Dopamine | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Dopamine.md — confidence 5 |
+| ✓ | 2026-07-17T expansie-2 | Agent 3 | Expansie: Macroeconomie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Macroeconomie.md — confidence 5 |
+| ↓ | 2026-07-17T expansie-2 | Agent 3 | Gap: Verslaving | Neurobiologisch substraat besproken in Dopamine.md; eigen pagina ontbreekt; relevant voor klinische neuropsychologie |
+| ↓ | 2026-07-17T expansie-2 | Agent 3 | Gap: Monetair Beleid | Gerefereerd in Macroeconomie.md als kernmechanisme van centrale banken; eigen pagina ontbreekt in Beleggen |
 
 ---
 
