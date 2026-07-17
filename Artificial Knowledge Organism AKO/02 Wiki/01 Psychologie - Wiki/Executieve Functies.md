@@ -53,6 +53,7 @@ Alexander Luria legde in de jaren 1960–1970 de neurologische basis voor het be
 - [[Werkgeheugen]] — onderdeel van: updating IS een executieve functie; de centrale executieve in het Baddeley-model overlapt volledig met het executieve functioneren
 - [[Anosognosie]] — gevolg: schade aan executieve functies ondermijnt zelfmonitoring en ziektebesef; anosognosie is deels een executief probleem
 - [[Neuropsychologische Rehabilitatie]] — doelgebied: executieve revalidatie is een van de kerngebieden; GMT en strategische interventies zijn evidence-based
+- [[Schizofrenie]] ★9 — executieve disfunctie (hypofrontaliteit) is een kernsymptoom van schizofrenie en sterk gerelateerd aan functionele uitkomsten
 
 **Cross-domein:**
 - [[Paradigmawisseling]] — analogie: cognitieve flexibiliteit (shifting) op individueel niveau weerspiegelt hoe wetenschappelijke gemeenschappen paradigma's kunnen loslaten

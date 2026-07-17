@@ -53,6 +53,7 @@ Aristoteles studeerde aan Plato's Academie in Athene en stichtte later zijn eige
 **Hub:** [[Filosofie]]
 
 **Gerelateerd:**
+- [[Plato]] ★10 — leermeester en intellectueel tegenstander; Aristoteles verwierp de ideeënleer ten gunste van empirisme
 - [[Ethiek]] — deugdethiek als fundament van Aristoteles' moraalfilosofie
 - [[Epistemologie]] — empirische kennistheorie; kennis via zintuiglijke waarneming
 - [[Stoïcisme]] — de Stoa bouwde voort op Aristoteles' ethiek maar week af op de kosmologie

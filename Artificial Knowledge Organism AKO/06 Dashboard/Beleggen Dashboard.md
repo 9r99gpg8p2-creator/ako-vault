@@ -1,12 +1,12 @@
 ---
 type: dashboard
 tags: [dashboard, beleggen]
-updated: 2026-07-16
+updated: 2026-07-17
 ---
 
 # Beleggen Dashboard
 
-**Hub:** [[Beleggen]]
+**Systeemkoppelingen:** [[AKO]] · [[Beleggen]]
 
 ---
 
@@ -14,37 +14,20 @@ updated: 2026-07-16
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 15 |
-| Coverage | 75% |
+| Pagina's | 16 |
+| Coverage | 80% (16/20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **87%** |
+| **Score** | **94%** |
 | Trend | ↑ |
 
 ---
 
-## Concepten
+## Nieuw deze sessie
 
-- [[Asset Allocatie]]
-- [[Cognitieve Biases]]
-- [[Efficiënte Markthypothese]]
-- [[Fundamentele Analyse]]
-- [[Gedragseconomie]]
-- [[Herding]]
-- [[Intrinsieke Waarde en DCF-modellen]]
-- [[Marktcycli]]
-- [[Moderne Portefeuille Theorie]]
-- [[Prospect Theory]]
-- [[Risicoperceptie]]
-- [[Technische Analyse]]
-- [[Tulpenmanie]] *(nieuw 2026-07-16 consolidatie)*
-- [[Verliesaversie]]
-- [[Waarde Investeren]]
+- [[Obligaties]] — fixed income, coupon, duration, kredietrisico, renterisico
 
----
+## Cross-domein bruggen
 
-## Prioriteit voor uitbreiding
-
-- Dividendbeleggen
-- Rentevoet en Obligaties
-- Behavioral Finance (overzichtspagina)
+- [[Obligaties]] → [[Verliesaversie]] (nominale illusie; vasthouden van verlieslatende posities)
+- [[Obligaties]] → [[Asset Allocatie]] (60/40-portefeuille; diversificatie)

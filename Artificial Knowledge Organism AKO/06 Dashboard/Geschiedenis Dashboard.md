@@ -2,48 +2,33 @@
 tags: [dashboard, geschiedenis]
 type: dashboard
 discipline: geschiedenis
-updated: 2026-07-16
+updated: 2026-07-17
 ---
 
 # Geschiedenis Dashboard
 
-> Gegenereerd door Agent 7. Wordt elke sessie overschreven.
+**Systeemkoppelingen:** [[AKO]] · [[Geschiedenis]]
 
 ---
 
-## Score
+## Knowledge Health
 
-| Score | Trend |
+| Metric | Waarde |
 |---|---|
-| 86%   | ↑     |
+| Pagina's | 17 |
+| Coverage | 85% (17/20) |
+| Connectivity | 100% |
+| Orphan% | 0% |
+| **Score** | **96%** |
+| Trend | ↑ |
 
 ---
 
-## Metrics
+## Nieuw deze sessie
 
-| Metric       | Waarde | Streef |
-|---|---|---|
-| Coverage     | 75%    | ≥ 85%  |
-| Connectivity | 100%   | ≥ 90%  |
-| Orphan       | 0%     | ≤ 3%   |
+- [[Het Napoleontische Tijdperk]] — apex en crisis van de Verlichting; Code civil; Congres van Wenen
 
----
+## Cross-domein bruggen
 
-## Wiki-pagina's (15 concept-pagina's)
-
-- [[De Franse Revolutie]] · [[De Renaissance]]
-- [[De Verlichting]] · [[Dekolonisatie]]
-- [[Eerste Wereldoorlog]] · [[Geschiedenis van de Psychiatrie]]
-- [[Gouden Eeuw]] *(nieuw 2026-07-16 consolidatie)*
-- [[Humanisme]] *(nieuw 2026-07-16 consolidatie)*
-- [[Industriële Revolutie]] · [[Koude Oorlog]]
-- [[Paradigmawisseling]] · [[Reformatie]] *(nieuw 2026-07-16 expansie)*
-- [[Totalitarisme]] · [[Tweede Wereldoorlog]] · [[Wetenschappelijke Revolutie]]
-
----
-
-## Gesignaleerde gaps
-
-- Russische Revolutie (logisch vervolg op Totalitarisme + Eerste Wereldoorlog)
-- Imperialisme (context voor Dekolonisatie)
-- Contrareformatie (vervolg op Reformatie — Dertigjarige Oorlog)
+- [[Het Napoleontische Tijdperk]] → [[Prospect Theory]] (house money effect; escalatie na vroege successen)
+- [[Het Napoleontische Tijdperk]] → [[De Verlichting]] → [[Totalitarisme]] (rede als rechtvaardiging voor macht)

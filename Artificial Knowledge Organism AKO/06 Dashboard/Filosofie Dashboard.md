@@ -1,12 +1,12 @@
 ---
 type: dashboard
 tags: [dashboard, filosofie]
-updated: 2026-07-16
+updated: 2026-07-17
 ---
 
 # Filosofie Dashboard
 
-**Hub:** [[Filosofie]]
+**Systeemkoppelingen:** [[AKO]] · [[Filosofie]]
 
 ---
 
@@ -14,39 +14,20 @@ updated: 2026-07-16
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 19 |
-| Coverage | 95% |
+| Pagina's | 21 |
+| Coverage | 100% (21/20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **97%** |
+| **Score** | **100%** |
 | Trend | ↑ |
 
 ---
 
-## Concepten
+## Nieuw deze sessie
 
-- [[Bewustzijn]]
-- [[Deontologie]] *(nieuw 2026-07-16)*
-- [[Empirisme]] *(nieuw 2026-07-16)*
-- [[Epistemologie]]
-- [[Epistemologisch Relativisme]]
-- [[Ethiek]]
-- [[Ethiek van Zorg]]
-- [[Existentialisme]]
-- [[Fenomenologie]]
-- [[Filosofie van de Geest]]
-- [[Immanuel Kant]] *(nieuw 2026-07-16 consolidatie)*
-- [[Morele Verantwoordelijkheid]]
-- [[Psychoanalyse]]
-- [[Rationalisme]] *(nieuw 2026-07-16 consolidatie)*
-- [[Sociale Ontologie]]
-- [[Stoïcisme]] *(nieuw 2026-07-16 expansie)*
-- [[Utilitarisme]]
-- [[Vrije Wil]]
+- [[Plato]] — grondlegger westerse filosofie, ideeënleer en allegorie van de grot
 
----
+## Cross-domein bruggen
 
-## Prioriteit voor uitbreiding
-
-- Aristoteles — grondlegger van de ethiek en logica, ontbreekt nog
-- Plato — ideëenleer en kennistheorie, onmisbaar in de filosofie-hub
+- [[Plato]] → [[Werkgeheugen]] (anamnese vs. tabula rasa)
+- [[Plato]] → [[Schizofrenie]] (bewustzijnsfilosofie en werkelijkheidstoetsing)

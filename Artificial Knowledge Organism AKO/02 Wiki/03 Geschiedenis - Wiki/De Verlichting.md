@@ -53,6 +53,7 @@ De Verlichting had haar intellectuele wortels in de Wetenschappelijke Revolutie 
 - [[Wetenschappelijke Revolutie]] — oorzaak/gevolg: de Wetenschappelijke Revolutie was de intellectuele motor die de Verlichting voedde
 - [[Paradigmawisseling]] — aanvulling: de Verlichting was zelf een paradigmawisseling in hoe de westerse beschaving kennis en autoriteit begreep
 - [[Industriële Revolutie]] — oorzaak/gevolg: Verlichtingsrationalisme en empirisme legden de grondslag voor de technologische vooruitgang van de Industriële Revolutie
+- [[Het Napoleontische Tijdperk]] ★9 — Napoleon als ambivalente erfgenaam van de Verlichting: de Code civil institutionaliseerde Verlichtingsidealen terwijl het imperium ze ondergroef
 
 **Cross-domein:**
 - [[Vrije Wil]] — verbinding: de Verlichting bevorderde het idee van de autonome, rationele mens — direct verbonden aan het filosofische concept van vrije wil en zelfbeschikking

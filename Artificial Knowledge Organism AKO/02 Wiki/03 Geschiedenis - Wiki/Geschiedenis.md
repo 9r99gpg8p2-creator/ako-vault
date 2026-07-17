@@ -30,3 +30,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Gouden Eeuw]]
 - [[Reformatie]]
 - [[Contrareformatie]]
+- [[Het Napoleontische Tijdperk]]

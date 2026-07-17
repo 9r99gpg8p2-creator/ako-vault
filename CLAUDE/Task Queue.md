@@ -121,6 +121,14 @@ type: operationeel
 | ✓ | 2026-07-16T consolidatie-2 | Agent 3 | Gap: Angststoornissen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Angststoornissen.md — confidence 5 |
 | ✓ | 2026-07-16T consolidatie-2 | Agent 3 | Gap: Contrareformatie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Contrareformatie.md — confidence 5 |
 
+| ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Plato | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Plato.md — confidence 5 |
+| ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Schizofrenie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Schizofrenie.md — confidence 5 |
+| ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Obligaties | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Obligaties.md — confidence 5 |
+| ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Het Napoleontische Tijdperk | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Napoleontische Tijdperk.md — confidence 5 |
+| ↓ | 2026-07-17T expansie | Agent 3 | Gap: Socrates | Grondlegger westerse filosofie; via Plato gerefereerd maar eigen pagina ontbreekt |
+| ↓ | 2026-07-17T expansie | Agent 3 | Gap: ADHD | Klinisch kernonderwerp voor MSc Klinische Neuropsychologie; overlap Executieve Functies |
+| ↓ | 2026-07-17T expansie | Agent 3 | Gap: Dopamine | Centraal neurotransmitter-mechanisme in Schizofrenie; nog niet uitgewerkt |
+
 ---
 
 ## Prioriteitsvolgorde

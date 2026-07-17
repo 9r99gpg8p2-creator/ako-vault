@@ -762,3 +762,29 @@ type: operationeel
 | 2026-07-16 | consolidatie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +1 (Aristoteles) · Psychologie: +1 (Angststoornissen) · Geschiedenis: +1 (Contrareformatie) |
 | 2026-07-16 | consolidatie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue leeg |
 | 2026-07-16 | consolidatie-2 | Orchestrator | Consolidatie-run voltooid | ✓ | 3 pag's · 6 verbindingen · 2 inzichten · Health: 97% |
+| 2026-07-17 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-17 | expansie | Agent 1 | Inbox scan | ✓ | Alleen _-bestanden aangetroffen — STAP 1.5 overgeslagen |
+| 2026-07-17 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-17 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Plato (Fil — ontbrekende grondlegger), Schizofrenie (Psych — klinisch MSc-doel), Obligaties (Beleg — laagste coverage), Het Napoleontische Tijdperk (Gesch — tweede laagste coverage) |
+| 2026-07-17 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Plato.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-17 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Schizofrenie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-17 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Obligaties.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-17 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Het Napoleontische Tijdperk.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-17 | expansie | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Socrates (Fil), ADHD (Psych), Dopamine (Psych) |
+| 2026-07-17 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Plato — Aristoteles.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-17 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Schizofrenie — Executieve Functies.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-17 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Obligaties — Verliesaversie.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-17 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Het Napoleontische Tijdperk — De Verlichting.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-17 | expansie | Agent 4 | Backlinks bijgewerkt | ✓ | Aristoteles.md, Executieve Functies.md, Verliesaversie.md, De Verlichting.md — sterktemarkeringen toegevoegd |
+| 2026-07-17 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Schaduw van Ideeën.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-17 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Idealist die de Wereld Veranderde.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-17 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Angst voor het Nominale.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-17 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-17 Dagrapport.md — 4 concepten, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-17 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-17 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-17 | expansie | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-17 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 98% — Psych 100%, Fil 100%, Gesch 96%, Beleg 94% |
+| 2026-07-17 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (98%), Psychologie (100%), Filosofie (100%), Geschiedenis (96%), Beleggen (94%) |
+| 2026-07-17 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +1 (Plato) · Psychologie: +1 (Schizofrenie) · Geschiedenis: +1 (Het Napoleontische Tijdperk) · Beleggen: +1 (Obligaties) |
+| 2026-07-17 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:119 (≥ 1:5 ✓) |
+| 2026-07-17 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
+| 2026-07-17 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 98%
