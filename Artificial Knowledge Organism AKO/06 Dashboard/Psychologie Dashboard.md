@@ -15,21 +15,23 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 69 |
+| Pagina's | 71 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
 | **Score** | **100%** |
-| Trend | → |
+| Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie
+## Nieuw deze sessie (2026-07-17 consolidatie)
 
-- [[Verslaving]] — breinziektemodel (Koob & Volkow), incentive-salience (Berridge), verslavingscyclus, cue-reactivity; klinisch neuropsychologie MSc-kernthema
+- [[First Episode Psychosis]] — UHR-criteria (APS/BLIPS/FRFD), DUP, Critical Period Hypothesis, EIP-programma's, CGTp, neuropsychologisch assessment bij eerste psychose; direct MSc KNP-relevant
 
 ## Cross-domein bruggen
 
-- [[Verslaving]] → [[Gedragseconomie]] (impulsiviteit en hyperbolische tijdsdiscontering parallellen irrationeel beleggersgedrag; ★8)
+- [[First Episode Psychosis]] → [[Ethiek]] (preventieve behandeling van UHR-individuen: autonomie vs. bescherming; ★7)
+- [[First Episode Psychosis]] → [[Klinische Neuropsychologie]] (assessment, CRT, functioneel herstel; ★9)
+- [[Psychose]] → [[First Episode Psychosis]] (FEP als klinisch kritiek tijdvenster; ★10)
+- [[Verslaving]] → [[Gedragseconomie]] (impulsiviteit en hyperbolische tijdsdiscontering; ★8)
 - [[Dopamine]] → [[Prospect Theory]] (beloningspredictie-fout = referentiepunt-gevoeligheid; ★9)
-- [[ADHD]] → [[Executieve Functies]] (Barkley-model: inhibitie als kerndeficit; ★10)

@@ -2,43 +2,41 @@
 type: dagrapport
 date: 2026-07-17
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 # Dagrapport — 17 juli 2026
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 concepten toegevoegd (Russische Revolutie, Diversificatie, Psychose, Antiek Griekenland)
-
-Nieuwe wetenschappelijke artikelen: 0 gevonden (Wikipedia API geblokkeerd; interne kennis gebruikt, confidence 5)
-
-Nieuwe verbindingen: 4 relatiepagina's (waarvan 2 cross-domein)
-
-Nieuwe inzichten: 3 cross-domein inzichtpagina's
-
-Kennishiaten: 2 nieuwe gaps gesignaleerd (Stalinisme, First Episode Psychosis)
-
-Aanbevolen leestijd: 16 minuten (4 wiki-pagina's × 4 min gemiddeld)
+Inbox verwerkt: 0 · Gaps gedicht: 2 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 5 · Queue resterend: 0
 
 ---
 
-## Research Agenda
+## Nieuwe Wiki-pagina's (Consolidatie — Task Queue gaps gedicht)
 
-1. **Psychose — Vroegdetectie en UHR-criteria** — nieuw concept aangemaakt; verdieping gewenst via Ultra-High Risk literatuur en neuropsychologische tests bij first-episode psychosis assessment (MSc KNP relevant)
-2. **Russische Revolutie — Stalinisme als vervolgstap** — Stalintijd (1924–1953) ontbreekt en is cruciaal voor begrip van twintigste-eeuws totalitarisme
-3. **Diversificatie — Home bias** — het concept diversificatie is aangemaakt; gedragseconomisch falen van geografische spreiding (home bias) verdient verdieping
-4. **Antiek Griekenland — Hippocrates en vroege geneeskunde** — connectie tussen antieke Griekse geneeskunde en Geschiedenis van de Psychiatrie verdient eigen relatiepagina
+1. [[Stalinisme]] — Geschiedenis · confidence 5 · Stalintijd (1924–1953), collectivisering, Grote Terreur, Goelag, persoonscultus, destalinisatie; psikhushka-link naar psychiatriegeschiedenis
+2. [[First Episode Psychosis]] — Psychologie · confidence 5 · UHR-criteria (APS/BLIPS/FRFD), Duration of Untreated Psychosis, Critical Period Hypothesis, EIP-programma's, CGTp, neuropsychologisch assessment; MSc KNP kernonderwerp
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Stalinisme]] ↔ [[Totalitarisme]] · ★9
+2. [[Stalinisme]] ↔ [[Russische Revolutie]] · ★10
+3. [[First Episode Psychosis]] ↔ [[Psychose]] · ★10
+4. [[First Episode Psychosis]] ↔ [[Klinische Neuropsychologie]] · ★9
+5. [[First Episode Psychosis]] ↔ [[Ethiek]] · ★7
 
 ---
 
 ## Insight Feed
 
-— "Dopamine-overactiviteit veroorzaakt zowel psychotische wanen als speculatieve manie: aberrant salience verklaart beide fenomenen via hetzelfde neurobiologische mechanisme." [Dopamine → Psychose → Tulpenmanie · ★9]
+— "Het moment van eerste psychose is het moment van grootste neurologische plasticiteit — vroeginterventie beslist over decennia." [Psychose → First Episode Psychosis → Klinische Neuropsychologie · ★9]
 
-— "De stoïcijnse onthechting van externe bezittingen is de filosofische formulering van wat Markowitz wiskundig bewees: wie niet hecht, diversifieert beter." [Stoïcisme → Verliesaversie → Diversificatie · ★8]
+— "Wanneer een staat totalitair wordt, wordt de psychiatrie geen instrument van genezing maar van controle — de diagnose als politiek oordeel." [Stalinisme → Geschiedenis van de Psychiatrie → Ethiek · ★9]
 
-— "Revoluties zijn collectieve cognitieve dissonantie-resoluties: de spanning tussen beloofde en geleefde werkelijkheid overschrijdt de tolerantiegrens van een samenleving." [Russische Revolutie → Paradigmawisseling → Cognitieve Dissonantie · ★8]
+— "Vroeginterventie bij psychose is niet alleen klinisch effectief maar ethisch verplicht — het niet-behandelen is ook een morele keuze." [First Episode Psychosis → Ethiek → Klinische Neuropsychologie · ★8]
 
 ---
 
@@ -46,12 +44,10 @@ Aanbevolen leestijd: 16 minuten (4 wiki-pagina's × 4 min gemiddeld)
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 70 | 100% | ↑ |
-| Filosofie | 23 | 100% | → |
-| Geschiedenis | 20 | 100% | ↑↑ |
-| Beleggen | 20 | 100% | ↑ |
-
-*Toelichting:* Geschiedenis groeide vandaag van 18 naar 20 pagina's (+2: Russische Revolutie, Antiek Griekenland). Alle disciplines bereiken nu de streefdrempel van ≥ 20 pagina's. Volgende prioriteit: connectivity en cross-domein ratio verder verbeteren.
+| Psychologie | 71 | ~88% | ↑ |
+| Filosofie | 23 | ~82% | → |
+| Geschiedenis | 21 | ~85% | ↑ |
+| Beleggen | 20 | ~81% | → |
 
 ---
 
@@ -60,15 +56,21 @@ Aanbevolen leestijd: 16 minuten (4 wiki-pagina's × 4 min gemiddeld)
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen (relatiepagina's) | 4 |
+| Nieuwe Wiki-pagina's | 2 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe verbindingen (relatiepagina's) | 5 |
 | Nieuwe inzichtpagina's | 3 |
-| Gaps gedicht | 4 |
-| Nieuwe gaps gesignaleerd | 2 |
+| Gaps gedicht | 2 |
+| Nieuwe gaps gesignaleerd | 0 |
 
 ---
 
 ## Voortgang MSc Klinische Neuropsychologie
 
-Vandaag aangemaakt: **Psychose** — kernonderwerp voor het MSc KNP-profiel. De pagina dekt dopaminehypothese, cognitieve symptomen, neuropsychologische assessment (WCST, TMT-B, Digit Span), CGTp en vroegdetectie (UHR-criteria). Aangeraden vervolgstap: First Episode Psychosis en Cognitive Remediation Therapy.
+Vandaag aangemaakt: **First Episode Psychosis** — direct MSc KNP-relevant. Dekt UHR-criteria, DUP, Critical Period Hypothesis, EIP-programma's en neuropsychologisch assessment bij eerste psychose. Aanbevolen vervolgstap: Cognitive Remediation Therapy en Sociale Cognitie bij Psychose.
+
+---
+
+## Eerder op 17 juli 2026 (expansie-run)
+
+Aangemaakt: Plato · Schizofrenie · Obligaties · Het Napoleontische Tijdperk · Socrates · ADHD · Dopamine · Macroeconomie · Verslaving · Monetair Beleid · Russische Revolutie · Diversificatie · Psychose · Antiek Griekenland

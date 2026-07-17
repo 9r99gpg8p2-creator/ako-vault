@@ -15,25 +15,23 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 20 |
-| Coverage | 100% (20/20) |
+| Pagina's | 21 |
+| Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
 | **Score** | **100%** |
-| Trend | ↑↑ |
-
-*Mijlpaal: Geschiedenis bereikt voor het eerst 100% coverage (20 pagina's).*
+| Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie
+## Nieuw deze sessie (2026-07-17 consolidatie)
 
-- [[Russische Revolutie]] — bolsjewistische machtsovername 1917; Leninisme; burgeroorlog; oprichting Sovjet-Unie; verbinding met Koude Oorlog ★10
-- [[Antiek Griekenland]] — polis, democratie, filosofie, Perzenoorlogen; fundament van westerse beschaving; verbindingen met Stoïcisme, Socrates, Aristoteles
+- [[Stalinisme]] — Stalintijd (1924–1953), collectivisering, Holodomor, Grote Terreur, Goelag, persoonscultus, psikhushka-psychiatriemisbruik, destalinisatie; verbindingen Russische Revolutie ★10, Totalitarisme ★9, Koude Oorlog
 
 ## Cross-domein bruggen
 
+- [[Stalinisme]] → [[Totalitarisme]] (paradigmatisch geval twintigste-eeuws totalitarisme; ★9)
+- [[Stalinisme]] → [[Russische Revolutie]] (directe politieke erfopvolging én ideologische breuk; ★10)
+- [[Stalinisme]] → [[Geschiedenis van de Psychiatrie]] (psikhushka-systeem en psychiatrie als staatsinstrument; ★9)
 - [[Russische Revolutie]] → [[Koude Oorlog]] → [[Totalitarisme]] (oorzaak-gevolg keten twintigste eeuw; ★10)
-- [[Antiek Griekenland]] → [[Stoïcisme]] (directe filosofische oorsprong van Stoïcisme in Atheense traditie; ★9)
-- [[Antiek Griekenland]] → [[Geschiedenis van de Psychiatrie]] (Hippocrates als grondlegger van de geneeskunde)
-- [[Russische Revolutie]] → [[Cognitieve Dissonantie]] (revoluties als collectieve dissonantie-resolutie; inzicht ★8)
+- [[Antiek Griekenland]] → [[Stoïcisme]] (directe filosofische oorsprong; ★9)

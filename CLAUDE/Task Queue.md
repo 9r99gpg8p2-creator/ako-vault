@@ -135,8 +135,8 @@ type: operationeel
 | ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Diversificatie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Diversificatie.md — confidence 5 |
 | ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Psychose | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Psychose.md — confidence 5 |
 | ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Antiek Griekenland | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Antiek Griekenland.md — confidence 5 |
-| ↓ | 2026-07-17T expansie | Agent 3 | Gap: Stalinisme | Vervolgpagina op Russische Revolutie; de Stalintijd (1924–1953) is essentieel voor begrip 20e-eeuws totalitarisme |
-| ↓ | 2026-07-17T expansie | Agent 3 | Gap: First Episode Psychosis | Verdieping van Psychose-pagina; UHR-criteria, DUP, vroeginterventie — MSc KNP relevant |
+| ✓ | 2026-07-17T consolidatie | Agent 3 | Gap: Stalinisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Stalinisme.md — confidence 5 |
+| ✓ | 2026-07-17T consolidatie | Agent 3 | Gap: First Episode Psychosis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/First Episode Psychosis.md — confidence 5 |
 
 ---
 

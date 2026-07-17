@@ -858,4 +858,26 @@ type: operationeel
 | 2026-07-17 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Psychose) · Geschiedenis: +2 (Russische Revolutie, Antiek Griekenland) · Beleggen: +1 (Diversificatie) · Filosofie: +0 |
 | 2026-07-17 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:133 (≥ 1:5 ✓) |
 | 2026-07-17 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ (Stalinisme, First Episode Psychosis) |
-| 2026-07-17 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% — eerste overall 100% score
+| 2026-07-17 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% — eerste overall 100% score |
+| 2026-07-17 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-17 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _-prefix bestanden) — STAP 1.5 overgeslagen |
+| 2026-07-17 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia APIs onbereikbaar. Interne kennis gebruikt, confidence 5. |
+| 2026-07-17 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 queue-items ↓ geselecteerd: Stalinisme (Gesch), First Episode Psychosis (Psych/KNP) |
+| 2026-07-17 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Stalinisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-17 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | First Episode Psychosis.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-17 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Stalinisme — Totalitarisme.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-17 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Stalinisme — Russische Revolutie.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-17 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | First Episode Psychosis — Psychose.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-17 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | First Episode Psychosis — Klinische Neuropsychologie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-17 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | First Episode Psychosis — Ethiek.md — sterkte ★7 — Psychologie × Filosofie |
+| 2026-07-17 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Moment Dat Telt.md — Psychose → First Episode Psychosis → Klinische Neuropsychologie — sterkte ★9 |
+| 2026-07-17 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Psychiatrie als Wapen van de Staat.md — Stalinisme → Geschiedenis van de Psychiatrie → Ethiek — sterkte ★9 |
+| 2026-07-17 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Vroeginterventie als Ethische Frontlinie.md — First Episode Psychosis → Ethiek → Klinische Neuropsychologie — sterkte ★8 |
+| 2026-07-17 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-17 Dagrapport.md — consolidatiemodus — 2 concepten, 5 verbindingen, 3 inzichten, 0 nieuwe gaps |
+| 2026-07-17 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-17 Quiz.md — 3 vragen toegevoegd (FEP/DUP, UHR casusvraag, Stalinisme/Totalitarisme vergelijking) |
+| 2026-07-17 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100% (71 pag's), Fil 100% (23 pag's), Gesch 100% (21 pag's), Beleg 100% (20 pag's) |
+| 2026-07-17 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (135 pag's), Psychologie (71), Geschiedenis (21) |
+| 2026-07-17 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (First Episode Psychosis) · Geschiedenis: +1 (Stalinisme) · Filosofie: +0 · Beleggen: +0 |
+| 2026-07-17 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 1:135 (≥ 1:5 ✓) |
+| 2026-07-17 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · 0 nieuwe gaps · Queue leeg |
+| 2026-07-17 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · Health: 100% · 135 wiki-pagina's totaal |
