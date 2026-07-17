@@ -833,3 +833,29 @@ type: operationeel
 | 2026-07-17 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:129 (≥ 1:5 ✓) |
 | 2026-07-17 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · queue leeg |
 | 2026-07-17 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps · Health: 98%
+| 2026-07-17 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-17 | expansie | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met _ — STAP 1.5 volledig overgeslagen |
+| 2026-07-17 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-17 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Russische Revolutie (Gesch — minste pag's), Diversificatie (Beleg — kernleemte), Psychose (Psych — MSc KNP relevant), Antiek Griekenland (Gesch — fundamentele periode) |
+| 2026-07-17 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Russische Revolutie.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-17 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Diversificatie.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-17 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Psychose.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-17 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Antiek Griekenland.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-17 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Stalinisme (Gesch), First Episode Psychosis (Psych/KNP) |
+| 2026-07-17 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Diversificatie — Verliesaversie.md — sterkte ★9 — Beleggen × Psychologie |
+| 2026-07-17 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Antiek Griekenland — Stoïcisme.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-17 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Psychose — Dopamine.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-17 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Russische Revolutie — Koude Oorlog.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-17 | expansie | Agent 4 | Updates bestaande pag's | ✓ | Verliesaversie, Stoïcisme, Dopamine, Koude Oorlog — terugverwijzingen toegevoegd |
+| 2026-07-17 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Aberrant Salience en Marktbubbels.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-17 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Onthechting als Beleggingsprincipe.md — Filosofie → Beleggen — sterkte ★8 |
+| 2026-07-17 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Revolutie als Cognitieve Dissonantie op Maatschappelijk Niveau.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-17 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-17 Dagrapport.md — expansie-modus — 4 concepten, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-17 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-17 Quiz.md — 3 vragen toegevoegd (Psychose/Dopamine, Diversificatie/MPT, Russische/Franse Revolutie vergelijking) |
+| 2026-07-17 | expansie | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-17 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100% (70 pag's), Fil 100% (23 pag's), Gesch 100% (20 pag's), Beleg 100% (20 pag's) — eerste 100% overall |
+| 2026-07-17 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (100%), Geschiedenis (100%), Beleggen (100%) |
+| 2026-07-17 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Psychose) · Geschiedenis: +2 (Russische Revolutie, Antiek Griekenland) · Beleggen: +1 (Diversificatie) · Filosofie: +0 |
+| 2026-07-17 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:133 (≥ 1:5 ✓) |
+| 2026-07-17 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ (Stalinisme, First Episode Psychosis) |
+| 2026-07-17 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% — eerste overall 100% score

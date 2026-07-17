@@ -14,21 +14,24 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 19 |
-| Coverage | 90% (18/20) |
+| Pagina's | 20 |
+| Coverage | 100% (20/20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **97%** |
+| **Score** | **100%** |
 | Trend | ↑ |
+
+*Mijlpaal: Beleggen bereikt 100% coverage (20 pagina's).*
 
 ---
 
 ## Nieuw deze sessie
 
-- [[Monetair Beleid]] — beleidsrente, QE/QT, forward guidance, transmissiemechanismen; kern van topdown beleggingsanalyse; cross-domein met Paradigmawisseling (★8)
+- [[Diversificatie]] — Markowitz 1952; specifiek vs. systematisch risico; correlatie; efficiënte frontier; 60/40-portefeuille; cross-domein met Verliesaversie (★9) en Stoïcisme (★8)
 
 ## Cross-domein bruggen
 
-- [[Monetair Beleid]] → [[Paradigmawisseling]] (monetaire crises als Kuhn-cycli in economisch denken; ★8)
-- [[Macroeconomie]] → [[Gedragseconomie]] (macro-nieuws triggert systematische cognitieve biases)
-- [[Verslaving]] → [[Gedragseconomie]] (wanting-structuur en impulsiviteit als gedeeld neuropsychologisch substraat; ★8)
+- [[Diversificatie]] → [[Verliesaversie]] (disposition effect als barrière voor optimale spreiding; ★9)
+- [[Diversificatie]] → [[Stoïcisme]] (filosofische onthechting als basis voor rationele spreiding; ★8)
+- [[Dopamine]] → [[Prospect Theory]] (beloningspredictie-fout als neurobiologisch substraat van risicogedrag)
+- [[Aberrant Salience en Marktbubbels]] — psychose en speculatieve manie als verwante fenomenen (★9)

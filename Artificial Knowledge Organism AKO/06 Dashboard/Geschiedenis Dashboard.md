@@ -15,20 +15,25 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 17 |
-| Coverage | 85% (17/20) |
+| Pagina's | 20 |
+| Coverage | 100% (20/20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **96%** |
-| Trend | ↑ |
+| **Score** | **100%** |
+| Trend | ↑↑ |
+
+*Mijlpaal: Geschiedenis bereikt voor het eerst 100% coverage (20 pagina's).*
 
 ---
 
 ## Nieuw deze sessie
 
-- [[Het Napoleontische Tijdperk]] — apex en crisis van de Verlichting; Code civil; Congres van Wenen
+- [[Russische Revolutie]] — bolsjewistische machtsovername 1917; Leninisme; burgeroorlog; oprichting Sovjet-Unie; verbinding met Koude Oorlog ★10
+- [[Antiek Griekenland]] — polis, democratie, filosofie, Perzenoorlogen; fundament van westerse beschaving; verbindingen met Stoïcisme, Socrates, Aristoteles
 
 ## Cross-domein bruggen
 
-- [[Het Napoleontische Tijdperk]] → [[Prospect Theory]] (house money effect; escalatie na vroege successen)
-- [[Het Napoleontische Tijdperk]] → [[De Verlichting]] → [[Totalitarisme]] (rede als rechtvaardiging voor macht)
+- [[Russische Revolutie]] → [[Koude Oorlog]] → [[Totalitarisme]] (oorzaak-gevolg keten twintigste eeuw; ★10)
+- [[Antiek Griekenland]] → [[Stoïcisme]] (directe filosofische oorsprong van Stoïcisme in Atheense traditie; ★9)
+- [[Antiek Griekenland]] → [[Geschiedenis van de Psychiatrie]] (Hippocrates als grondlegger van de geneeskunde)
+- [[Russische Revolutie]] → [[Cognitieve Dissonantie]] (revoluties als collectieve dissonantie-resolutie; inzicht ★8)

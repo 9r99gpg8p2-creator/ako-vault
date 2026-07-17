@@ -56,6 +56,7 @@ Verliesaversie is het centrale mechanisme achter Prospect Theory, gepubliceerd i
 - [[Geheugenconsolidatie]] ★8 — verliesaversie wordt deels verklaard door selectieve consolidatie van emotioneel negatieve herinneringen
 - [[Asset Allocatie]] ★9 — verliesaversie verstoort rationele portefeuilleconstructie: beleggers houden suboptimaal veel cash aan en vermijden noodzakelijke rebalancering
 - [[Obligaties]] ★8 — verliesaversie leidt tot irrationeel vasthouden van koersverlieslatende obligaties en tot nominale couponillusie
+- [[Diversificatie]] ★9 — verliesaversie ondermijnt rationele portfoliospreiding via het disposition effect en concentratie in geïdealiseerde posities
 
 ## Bronnen
 

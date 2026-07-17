@@ -62,6 +62,7 @@ Het begrip van dopamine evolueerde van eenvoudig "geluksstofje" naar genuanceerd
 
 **Cross-domein:**
 - [[Prospect Theory]] — beloningspredictie-fout parallelt psychologische mechanismen achter risicobeoordeling in Beleggen
+- [[Psychose]] ★10 — dopaminehypothese: mesolimbische hyperactiviteit (D2) veroorzaakt positieve psychotische symptomen; mesocorticale hypoactiviteit veroorzaakt negatieve en cognitieve symptomen
 
 ## Bronnen
 
