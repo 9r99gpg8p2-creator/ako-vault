@@ -14,11 +14,11 @@ updated: 2026-07-17
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 67 | 100% | 100% | **100%** | → |
-| Filosofie | 22 | 100% | 100% | **100%** | → |
-| Geschiedenis | 17 | 85% | 100% | **96%** | → |
-| Beleggen | 17 | 85% | 100% | **96%** | ↑ |
-| **Overall** | **123** | — | — | **98%** | → |
+| Psychologie | 69 | 100% | 100% | **100%** | → |
+| Filosofie | 23 | 100% | 100% | **100%** | → |
+| Geschiedenis | 18 | 85% | 100% | **96%** | → |
+| Beleggen | 19 | 90% | 100% | **97%** | ↑ |
+| **Overall** | **129** | — | — | **98%** | → |
 
 ---
 
@@ -26,30 +26,30 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 123 |
-| Relatie- en inzichtpagina's | 234 |
+| Totale Wiki-pagina's | 129 |
+| Relatie- en inzichtpagina's | 244 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-17 expansie-run 2)
+## Sessie-activiteit (2026-07-17 consolidatie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 (Socrates, ADHD, Dopamine, Macroeconomie) |
-| Updates bestaande pagina's | 4 (CGT, Prospect Theory, Executieve Functies, Paradigmawisseling) |
+| Nieuwe Wiki-pagina's | 2 (Verslaving, Monetair Beleid) |
+| Updates bestaande pagina's | 0 |
 | Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichten | 3 |
-| Gaps gedicht | 3 (Socrates, ADHD, Dopamine) |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 2 (Verslaving, Monetair Beleid) |
 
 ---
 
 ## Hubs
 
-- [[Psychologie]] — 67 pagina's
-- [[Filosofie]] — 22 pagina's
-- [[Geschiedenis]] — 17 pagina's
-- [[Beleggen]] — 17 pagina's
+- [[Psychologie]] — 69 pagina's
+- [[Filosofie]] — 23 pagina's
+- [[Geschiedenis]] — 18 pagina's
+- [[Beleggen]] — 19 pagina's

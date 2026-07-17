@@ -813,3 +813,23 @@ type: operationeel
 | 2026-07-17 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:123 (≥ 1:5 ✓) |
 | 2026-07-17 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten (Socrates, ADHD, Dopamine) + 1 expansie (Macroeconomie) · 2 nieuwe gaps toegevoegd ↓ |
 | 2026-07-17 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 98%
+| 2026-07-17 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-17 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden in Inbox (alle beginnen met _) — STAP 1.5 overgeslagen |
+| 2026-07-17 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-17 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 queue-items ↓ geselecteerd: Verslaving (Psych), Monetair Beleid (Beleg) |
+| 2026-07-17 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Verslaving.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-17 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Monetair Beleid.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-17 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Verslaving — Dopamine.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-17 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Verslaving — Klassieke Conditionering.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-17 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Monetair Beleid — Obligaties.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-17 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Monetair Beleid — Macroeconomie.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-17 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Verlangen dat Niet Stopt.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-17 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Rente als Zenuwstelsel van de Markt.md — Beleggen → Geschiedenis — sterkte ★9 |
+| 2026-07-17 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-17 Dagrapport.md — consolidatiemodus — 2 gaps, 4 verbindingen, 2 inzichten |
+| 2026-07-17 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-17 Quiz.md — 3 vragen toegevoegd (Verslaving, Monetair Beleid, cross-domein vergelijking) |
+| 2026-07-17 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 98% — Psych 100% (69 pag's), Fil 100% (23 pag's), Gesch 96% (18 pag's), Beleg 97% (19 pag's) |
+| 2026-07-17 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (98%), Psychologie (100%), Beleggen (97%) |
+| 2026-07-17 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Verslaving) · Beleggen: +1 (Monetair Beleid) · Filosofie: +0 · Geschiedenis: +0 |
+| 2026-07-17 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:129 (≥ 1:5 ✓) |
+| 2026-07-17 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · queue leeg |
+| 2026-07-17 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps · Health: 98%

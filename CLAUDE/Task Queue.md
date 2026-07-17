@@ -129,8 +129,8 @@ type: operationeel
 | ✓ | 2026-07-17T expansie-2 | Agent 3 | Gap: ADHD | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/ADHD.md — confidence 5 |
 | ✓ | 2026-07-17T expansie-2 | Agent 3 | Gap: Dopamine | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Dopamine.md — confidence 5 |
 | ✓ | 2026-07-17T expansie-2 | Agent 3 | Expansie: Macroeconomie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Macroeconomie.md — confidence 5 |
-| ↓ | 2026-07-17T expansie-2 | Agent 3 | Gap: Verslaving | Neurobiologisch substraat besproken in Dopamine.md; eigen pagina ontbreekt; relevant voor klinische neuropsychologie |
-| ↓ | 2026-07-17T expansie-2 | Agent 3 | Gap: Monetair Beleid | Gerefereerd in Macroeconomie.md als kernmechanisme van centrale banken; eigen pagina ontbreekt in Beleggen |
+| ✓ | 2026-07-17T consolidatie | Agent 3 | Gap: Verslaving | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Verslaving.md — confidence 5 |
+| ✓ | 2026-07-17T consolidatie | Agent 3 | Gap: Monetair Beleid | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Monetair Beleid.md — confidence 5 |
 
 ---
 

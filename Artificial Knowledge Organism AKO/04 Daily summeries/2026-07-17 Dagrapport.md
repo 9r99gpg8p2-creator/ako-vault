@@ -2,45 +2,41 @@
 type: dagrapport
 date: 2026-07-17
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
 Goedemorgen.
 
-Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 (leeg) · Verbindingen: 4 · Inzichten: 3 · Gaps: 2 · Leestijd: ~16 min
+Nieuwe kennis: 2 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 2 · Gaps: 2 · Leestijd: ~8 min
 
 ---
 
-## Research Agenda
+## Gaps Gedicht via Consolidatie
 
-1. **Socrates** — queue ↓ gesloten; grondlegger westerse filosofie, cross-domein met CGT (★8 verbinding)
-2. **ADHD** — queue ↓ gesloten; klinisch kernonderwerp MSc Klinische Neuropsychologie, gelinkt aan Executieve Functies (★10), Werkgeheugen, Dopamine
-3. **Dopamine** — queue ↓ gesloten; neurowetenschappelijk fundament voor Schizofrenie en ADHD; cross-domein met Prospect Theory (★9)
-4. **Macroeconomie** — Beleggen had minste pagina's (16 → 17); onontgonnen subgebied; gelinkt aan Marktcycli, Asset Allocatie, Paradigmawisseling
+1. **[[Verslaving]]** — breinziektemodel, incentive-salience theorie (Berridge & Robinson), verslavingscyclus (Koob & Volkow), cue-reactivity, neuroplasticiteit; gelinkt aan [[Dopamine]] (★10), [[Klassieke Conditionering]] (★9), [[Executieve Functies]], [[Klinische Neuropsychologie]]
+2. **[[Monetair Beleid]]** — beleidsrente, QE/QT, forward guidance, inflatiedoelstelling, transmissiemechanismen; gelinkt aan [[Obligaties]] (★10), [[Macroeconomie]] (★9), [[Marktcycli]], [[Efficiënte Markthypothese]]
 
 ---
 
 ## Insight Feed
 
-— "Het brein en de belegger delen dezelfde architectuur: niet de absolute waarde maar de afwijking van het verwachte bepaalt de reactie." [Dopamine → Prospect Theory · ★9]
+— "Het Verlangen dat Niet Stopt — verslaafde wanting-structuur parallelt irrationeel beleggersgedrag: beiden gedreven door dopaminerg anticipatieproces losgekoppeld van werkelijke bevrediging." [Verslaving → Dopamine → Gedragseconomie · ★8]
 
-— "Socrates' vragenmethode en Becks socratisch bevragen in CGT zijn structureel identiek — filosofie en therapie raken mechanistisch verbonden." [Socrates → Cognitieve Gedragstherapie · ★8]
-
-— "Economische crises zijn niet alleen verwoestend voor vermogen — ze zijn de enige momenten waarop de onzichtbare aannames van het heersende denken zichtbaar worden." [Macroeconomie → Paradigmawisseling · ★8]
+— "De Rente als Zenuwstelsel van de Markt — monetair beleid stuurt het financiële systeem als autonome regulator; historische regime-switches veroorzaken de grootste portefeuilleverlessen." [Monetair Beleid → Marktcycli → Paradigmawisseling · ★9]
 
 ---
 
 ## Knowledge Health
 
-| Discipline | Score | Trend |
-|---|---|---|
-| Psychologie | ~100% | → |
-| Filosofie | ~88% | ↑ |
-| Geschiedenis | ~86% | ↑ |
-| Beleggen | ~86% | ↑ |
-| **Algemeen** | **~89%** | **↑** |
+| Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
+|---|---|---|---|---|---|
+| Psychologie | 69 | 100% | 100% | **100%** | → |
+| Filosofie | 23 | 100% | 100% | **100%** | → |
+| Geschiedenis | 18 | 85% | 100% | **96%** | → |
+| Beleggen | 19 | 90% | 100% | **97%** | ↑ |
+| **Overall** | **129** | — | — | **98%** | → |
 
 ---
 
@@ -49,16 +45,17 @@ Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 (leeg) · Verbindinge
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 (Socrates, ADHD, Dopamine, Macroeconomie) |
-| Updates bestaande pagina's | 4 (CGT, Prospect Theory, Executieve Functies, Paradigmawisseling) |
+| Nieuwe Wiki-pagina's | 2 (Verslaving, Monetair Beleid) |
+| Updates bestaande pagina's | 0 |
 | Nieuwe verbindingen | 4 |
-| Nieuwe inzichten | 3 |
-| Gaps gedicht | 3 (Socrates, ADHD, Dopamine) |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 2 (Verslaving, Monetair Beleid) |
+| Queue resterend | 0 |
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Filosofie Coverage nadert 100% — verdere diversificatie naar Politieke Filosofie, Metafysica of Esthetica overwegen
-- [ ] Geschiedenis heeft minste concept-pagina's (17) — nieuwe subgebieden zoals Islamitische Gouden Eeuw of Byzantijnse Rijk zijn nog onontgonnen
-- [ ] Beleggen: Macroeconomie toegevoegd; vervolgonderwerpen zoals Derivaten, ESG-Beleggen of Monetair Beleid staan nog open
+- [ ] Queue is leeg — volgende consolidatie-run focus op lage-connectivity pagina's in Geschiedenis (17 pagina's)
+- [ ] Cross-domein richting Beleggen verder uitbouwen: Verslaving × Gedragseconomie (impulsiviteit) is veelbelovend voor MSc Klinische Neuropsychologie context
+- [ ] Verslaving-pagina verdient eigen quiz-traject als klinisch kernthema

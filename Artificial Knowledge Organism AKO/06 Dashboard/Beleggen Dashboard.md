@@ -14,20 +14,21 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 17 |
-| Coverage | 85% (17/20) |
+| Pagina's | 19 |
+| Coverage | 90% (18/20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **96%** |
+| **Score** | **97%** |
 | Trend | ↑ |
 
 ---
 
 ## Nieuw deze sessie
 
-- [[Macroeconomie]] — BBP, inflatie, rentepolitiek, conjunctuurcyclus, top-down beleggingsanalyse; cross-domein met Paradigmawisseling (★8)
+- [[Monetair Beleid]] — beleidsrente, QE/QT, forward guidance, transmissiemechanismen; kern van topdown beleggingsanalyse; cross-domein met Paradigmawisseling (★8)
 
 ## Cross-domein bruggen
 
-- [[Macroeconomie]] → [[Paradigmawisseling]] (macro-economische crises als Kuhn-cycli in economisch denken; ★8)
+- [[Monetair Beleid]] → [[Paradigmawisseling]] (monetaire crises als Kuhn-cycli in economisch denken; ★8)
 - [[Macroeconomie]] → [[Gedragseconomie]] (macro-nieuws triggert systematische cognitieve biases)
+- [[Verslaving]] → [[Gedragseconomie]] (wanting-structuur en impulsiviteit als gedeeld neuropsychologisch substraat; ★8)
