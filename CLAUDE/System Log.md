@@ -881,3 +881,27 @@ type: operationeel
 | 2026-07-17 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 1:135 (≥ 1:5 ✓) |
 | 2026-07-17 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · 0 nieuwe gaps · Queue leeg |
 | 2026-07-17 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · Health: 100% · 135 wiki-pagina's totaal |
+| 2026-07-18 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-18 | expansie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _-bestanden) — STAP 1.5 overgeslagen |
+| 2026-07-18 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-18 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: De Middeleeuwen (Gesch — grote lacune), Nietzsche (Fil — sleutelfiguur), Inflatie (Beleg — fundamenteel), Aandelen (Beleg — basisinstrument) |
+| 2026-07-18 | expansie | Agent 3 | Wiki aangemaakt | ✓ | De Middeleeuwen.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-18 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Nietzsche.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-18 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Inflatie.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-18 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Aandelen.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-18 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Middeleeuwen — De Renaissance.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-18 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Nietzsche — Existentialisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-18 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Inflatie — Monetair Beleid.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-18 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Aandelen — Gouden Eeuw.md — sterkte ★9 — Beleggen × Geschiedenis |
+| 2026-07-18 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Crisis die de Renaissance Bouwde.md — Geschiedenis → Filosofie — sterkte ★9 |
+| 2026-07-18 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Waarden Scheppen of Waarden Volgen.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-18 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Onzichtbare Verlies van Koopkracht.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-18 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-18 Dagrapport.md — 4 concepten, 4 verbindingen, 3 inzichten, 0 nieuwe gaps |
+| 2026-07-18 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-18 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-18 | expansie | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-18 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Coverage 100%, Connectivity 100%, Orphan 0% — alle 4 disciplines |
+| 2026-07-18 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven — 139 wiki-pagina's totaal · 262 graph-pagina's |
+| 2026-07-18 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Geschiedenis: +1 (De Middeleeuwen) · Filosofie: +1 (Nietzsche) · Beleggen: +2 (Inflatie, Aandelen) |
+| 2026-07-18 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-18 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | Geen nieuwe gaps · Queue blijft leeg |
+| 2026-07-18 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% · 139 wiki-pagina's totaal |

@@ -53,6 +53,7 @@ De uitvinding van de boekdrukkunst door Gutenberg (~1450) versnelde de verspreid
 **Hub:** [[Geschiedenis]]
 
 **Gerelateerd:**
+- [[De Middeleeuwen]] — oorzaak: de Renaissance was de directe culturele opvolger van de Middeleeuwen; crises van de Late Middeleeuwen baanden de weg
 - [[De Verlichting]] — De Verlichting is het intellectuele kind van de Renaissance: rede en empirisme voltooid
 - [[Wetenschappelijke Revolutie]] — Renaissance-humanisme en observatiedrang bereiden de wetenschappelijke methode voor
 - [[De Franse Revolutie]] — Verlichting (kind van de Renaissance) → burgerrechten → Revolutie

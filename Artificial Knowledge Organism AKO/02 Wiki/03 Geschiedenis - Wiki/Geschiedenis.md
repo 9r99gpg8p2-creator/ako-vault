@@ -34,3 +34,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Russische Revolutie]]
 - [[Antiek Griekenland]]
 - [[Stalinisme]]
+- [[De Middeleeuwen]]

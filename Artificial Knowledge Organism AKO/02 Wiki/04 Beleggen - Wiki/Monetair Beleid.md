@@ -53,6 +53,7 @@ De kwantiteitstheorie van geld (Fisher, vroeg 20e eeuw) stelde dat inflatie prim
 **Hub:** [[Beleggen]]
 
 **Gerelateerd:**
+- [[Inflatie]] — aanvulling: inflatie is de primaire indicator waarop monetair beleid reageert; het Fisher-effect koppelt nominale rente aan inflatieverwachting
 - [[Macroeconomie]] — monetair beleid is het kernmechanisme waarmee centrale banken de macroeconomie sturen via rente, geldhoeveelheid en verwachtingen
 - [[Obligaties]] — obligatiemarkten zijn het primaire transmissiekanaal van monetair beleid; inverse relatie rente-koers
 - [[Marktcycli]] — monetaire cycli (verkrapping/verruiming) bepalen mede het verloop van beurs- en economische conjunctuurcycli

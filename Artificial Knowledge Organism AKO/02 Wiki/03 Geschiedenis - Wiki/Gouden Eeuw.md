@@ -60,6 +60,7 @@ De neergang begon met de Engelse Oorlogen (1652–1674) en het Rampjaar (1672), 
 - [[Humanisme]] — humanistische waarden van tolerantie en tekstkritiek in de Republiek
 
 **Cross-domein:**
+- [[Aandelen]] — oorzaak: de VOC (1602) op de Amsterdamse Beurs was het eerste verhandelbare aandeel ter wereld; de Gouden Eeuw produceerde de institutionele oorsprong van moderne aandelenmarkten
 - [[Prospect Theory]] — Tulpenmanie als historisch voorbeeld van speculatief gedrag en verliesaversie
 - [[Gedragseconomie]] — vroege aandelenmarkten tonen irrationeel kuddegedrag en zeepbellen
 

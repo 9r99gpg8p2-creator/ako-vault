@@ -52,6 +52,7 @@ Simone de Beauvoir paste existentialistische categorieën toe op de situatie van
 **Hub:** [[Filosofie]]
 
 **Gerelateerd:**
+- [[Nietzsche]] — oorzaak: Nietzsche's dood van God en nadruk op zelfschepping zijn de directe filosofische voorlopers van het existentialisme
 - [[Bewustzijn]] — existentialisme plaatst het bewustzijn en de first-person perspective centraal
 - [[Vrije Wil]] — existentialisme radicaliseert het vrije wil debat: vrijheid is niet optioneel maar onvermijdelijk
 - [[Morele Verantwoordelijkheid]] — vrijheid impliceert totale morele verantwoordelijkheid voor eigen keuzes

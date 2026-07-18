@@ -33,3 +33,5 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Macroeconomie]]
 - [[Monetair Beleid]]
 - [[Diversificatie]]
+- [[Inflatie]]
+- [[Aandelen]]

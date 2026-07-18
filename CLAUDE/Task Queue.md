@@ -137,6 +137,10 @@ type: operationeel
 | ✓ | 2026-07-17T expansie | Agent 3 | Expansie: Antiek Griekenland | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Antiek Griekenland.md — confidence 5 |
 | ✓ | 2026-07-17T consolidatie | Agent 3 | Gap: Stalinisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Stalinisme.md — confidence 5 |
 | ✓ | 2026-07-17T consolidatie | Agent 3 | Gap: First Episode Psychosis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/First Episode Psychosis.md — confidence 5 |
+| ✓ | 2026-07-18T expansie | Agent 3 | Expansie: De Middeleeuwen | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Middeleeuwen.md — confidence 5 |
+| ✓ | 2026-07-18T expansie | Agent 3 | Expansie: Nietzsche | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Nietzsche.md — confidence 5 |
+| ✓ | 2026-07-18T expansie | Agent 3 | Expansie: Inflatie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Inflatie.md — confidence 5 |
+| ✓ | 2026-07-18T expansie | Agent 3 | Expansie: Aandelen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Aandelen.md — confidence 5 |
 
 ---
 
