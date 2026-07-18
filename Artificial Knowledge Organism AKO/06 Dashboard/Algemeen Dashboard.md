@@ -15,10 +15,10 @@ updated: 2026-07-18
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
 | Psychologie | 71 | 100% | 100% | **100%** | → |
-| Filosofie | 24 | 100% | 100% | **100%** | ↑ |
-| Geschiedenis | 22 | 100% | 100% | **100%** | ↑ |
-| Beleggen | 22 | 100% | 100% | **100%** | ↑ |
-| **Overall** | **139** | — | — | **100%** | ↑ |
+| Filosofie | 24 | 100% | 100% | **100%** | → |
+| Geschiedenis | 22 | 100% | 100% | **100%** | → |
+| Beleggen | 22 | 100% | 100% | **100%** | → |
+| **Overall** | **139** | — | — | **100%** | → |
 
 *Alle vier disciplines: ≥ 20 pagina's · 100% connectivity · 0% orphans.*
 
@@ -29,24 +29,24 @@ updated: 2026-07-18
 | Metric | Waarde |
 |---|---|
 | Totale Wiki-pagina's | 139 |
-| Relatie- en inzichtpagina's | 262 |
+| Relatie- en inzichtpagina's | 273 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-18 expansie-run)
+## Sessie-activiteit (2026-07-18 consolidatie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 (De Middeleeuwen, Nietzsche, Inflatie, Aandelen) |
-| Updates bestaande pagina's | 4 (De Renaissance, Existentialisme, Monetair Beleid, Gouden Eeuw) |
-| Nieuwe relatiepagina's | 4 |
+| Nieuwe Wiki-pagina's | 0 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe relatiepagina's | 8 |
 | Nieuwe inzichtpagina's | 3 |
 | Gaps gedicht | 0 |
-| Nieuwe gaps gesignaleerd | 0 |
+| Queue resterend | 0 |
 
 ---
 
