@@ -41,3 +41,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Functionalisme]]
 - [[Hegel]]
 - [[Politieke Filosofie]]
+- [[Historisch Materialisme]]

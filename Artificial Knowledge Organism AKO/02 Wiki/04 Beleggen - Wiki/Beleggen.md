@@ -37,3 +37,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Aandelen]]
 - [[Rente]]
 - [[Passief Beleggen]]
+- [[Actief Beleggen]]

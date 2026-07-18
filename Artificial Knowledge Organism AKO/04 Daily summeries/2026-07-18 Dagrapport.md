@@ -2,18 +2,18 @@
 type: dagrapport
 date: 2026-07-18
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 # Dagrapport — 2026-07-18
 
 ## Daily Briefing
-Inbox verwerkt: 0 · Nieuwe Wiki-pagina's: 11 · Verbindingen: 17 · Inzichten: 9 · Gaps: 2 nieuw · Leestijd: 44 min
+Inbox verwerkt: 0 · Nieuwe Wiki-pagina's: 13 · Verbindingen: 22 · Inzichten: 12 · Gaps gedicht: 5 · Leestijd: 52 min
 
 ## Research Agenda
-1. **Passief Beleggen** — fundament van moderne beleggingsstrategie uitgebreid; Waarde Investeren als aanvulling en tegenhanger aanbevolen
-2. **Hegel en Marxisme** — de verbinding Hegel → Marx is de volgende logische stap; Historisch Materialisme ontbreekt in de vault
-3. **Het Ottomaanse Rijk en moderne Midden-Oosten** — geopolitieke erfenis directe oorzaak van actuele conflicten; Dekolonisatie verdiepen
+1. **Historisch Materialisme → Kapitalisme** — logische volgende stap: een aparte pagina over Kapitalisme als economisch systeem ontbreekt nog in de vault
+2. **Actief Beleggen → Factor Investing** — smart beta / factor investing als brug tussen passief en actief is nog niet gedicht
+3. **Hegel → Marx → Frankfurt School** — de kritische theorie (Adorno, Horkheimer, Gramsci) als erfenis van het historisch materialisme is een gap
 
 ## Insight Feed
 — "Epistemische bescheidenheid — zowel in de filosofie (weten wat je niet weet) als in beleggen — is de meest rationele houding tegenover complexe systemen." [Filosofie → Beleggen · ★9]
@@ -26,37 +26,47 @@ Inbox verwerkt: 0 · Nieuwe Wiki-pagina's: 11 · Verbindingen: 17 · Inzichten: 
 
 — "Economische wanhoop is een psychologisch massaexperiment: verliesaversie op volksniveau maakt totalitaire beloften van zekerheid aantrekkelijk." [Grote Depressie → Verliesaversie → Totalitarisme · ★9]
 
+— "Historisch materialisme en gedragseconomie analyseren allebei waarom economische systemen falen — maar op radicaal verschillende niveaus: systeem versus individu." [Historisch Materialisme → Gedragseconomie · ★8]
+
+— "Het disposition effect — winnaars verkopen, verliezers vasthouden — is verliesaversie in actie op de beurs. Beleggen is daarmee een dagelijks experiment in Prospect Theory." [Verliesaversie → Actief Beleggen · ★9]
+
+— "Zowel Hegel, Marx als Kuhn beschrijven de geschiedenis als bewegend via interne spanning naar kwalitatieve breuken — niet via graduele aanpassing." [Hegel → Historisch Materialisme → Paradigmawisseling · ★8]
+
 ## Knowledge Health
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 89% | → |
-| Filosofie | 91% | ↑ |
-| Geschiedenis | 91% | ↑ |
-| Beleggen | 89% | ↑ |
+| Filosofie | 92% | ↑ |
+| Geschiedenis | 91% | → |
+| Beleggen | 91% | ↑ |
 
-## Activiteit — Volledige dag (2 expansie-runs + 1 consolidatie-run)
+## Activiteit — Volledige dag (2 expansie-runs + 2 consolidatie-runs)
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 11 (4 expansie-1 + 3 consolidatie + 4 expansie-2) |
+| Nieuwe Wiki-pagina's | 13 |
 | Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen | 17 (4+6+4+3 extra) |
-| Nieuwe inzichten | 9 (3+3+3) |
-| Gaps gedicht | 3 |
+| Nieuwe verbindingen | 22 |
+| Nieuwe inzichten | 12 |
+| Gaps gedicht | 5 |
 
-## Nieuwe pagina's — expansie-1 (eerder vandaag)
-- [[René Descartes]] (Filosofie) — grondlegger van de moderne filosofie, cartesiaans dualisme
-- [[Kolonialisme]] (Geschiedenis) — politiek-economisch systeem van koloniale overheersing
-- [[Rente]] (Beleggen) — vergoeding voor kapitaalverstrekking; fundamenteel financieel concept
-- [[Interbellum]] (Geschiedenis) — periode 1918–1939, incubatietijdperk voor PTSD en totalitarisme
+## Pagina's Bijgewerkt via Inbox
+— Geen Inbox-bestanden verwerkt deze run.
 
-## Nieuwe pagina's — consolidatie
-- [[Functionalisme]] (Filosofie) — functionele definitie van mentale toestanden; meervoudige realiseerbaarheid
-- [[Grote Depressie]] (Geschiedenis) — economische crisis 1929–1939; Keynesiaanse paradigmawisseling
-- [[Weimar Republiek]] (Geschiedenis) — democratisch experiment 1919–1933; hyperinflatie en democratische erosie
+## Verbindingen Toegevoegd (consolidatie-run 2)
+1. [[Historisch Materialisme]] ↔ [[Hegel]] · ★10
+2. [[Historisch Materialisme]] → [[Russische Revolutie]] · ★9
+3. [[Actief Beleggen]] ↔ [[Passief Beleggen]] · ★10
+4. [[Actief Beleggen]] ← [[Efficiënte Markthypothese]] · ★9
+5. [[Verliesaversie]] → [[Actief Beleggen]] · ★8
 
-## Nieuwe pagina's — expansie-2 (huidige run)
-- [[Passief Beleggen]] (Beleggen) — indexbeleggen, ETF's, Bogle; theoretisch fundament in EMH
-- [[Hegel]] (Filosofie) — Duits idealisme, dialectiek, Absolute Geest
-- [[Het Ottomaanse Rijk]] (Geschiedenis) — zes eeuwen multicultureel imperium, erfenis Midden-Oosten
-- [[Politieke Filosofie]] (Filosofie) — sociaal contract, rechtvaardigheid, legitimiteit van staatsmacht
+## Nieuwe Wiki-pagina's (alle runs vandaag)
+- [[René Descartes]] · [[Kolonialisme]] · [[Rente]] · [[Interbellum]] — expansie-1
+- [[Functionalisme]] · [[Grote Depressie]] · [[Weimar Republiek]] — consolidatie-1
+- [[Passief Beleggen]] · [[Hegel]] · [[Het Ottomaanse Rijk]] · [[Politieke Filosofie]] — expansie-2
+- [[Historisch Materialisme]] (Filosofie) — consolidatie-2
+- [[Actief Beleggen]] (Beleggen) — consolidatie-2
+
+## Aandacht vereist
+- [ ] Kapitalisme als concept ontbreekt nog in de vault (gap gesignaleerd)
+- [ ] Frankfurt School / kritische theorie als opvolger van historisch materialisme

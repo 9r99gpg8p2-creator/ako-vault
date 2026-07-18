@@ -1000,3 +1000,25 @@ type: operationeel
 | 2026-07-18 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-18 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 2 nieuwe gaps toegevoegd ↓: Historisch Materialisme, Actief Beleggen |
 | 2026-07-18 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 90% · 150 wiki-pagina's totaal |
+| 2026-07-18 | consolidatie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-18 | consolidatie-2 | Agent 1 | Inbox scan | ✓ | Geen bestanden zonder underscore-prefix — STAP 1.5 overgeslagen |
+| 2026-07-18 | consolidatie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-18 | consolidatie-2 | Agent 2 | Onderwerp selectie | ✓ | 2 queue-items geselecteerd: Historisch Materialisme (↓ Fil), Actief Beleggen (↓ Beleg) |
+| 2026-07-18 | consolidatie-2 | Agent 3 | Wiki aangemaakt | ✓ | Historisch Materialisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-18 | consolidatie-2 | Agent 3 | Wiki aangemaakt | ✓ | Actief Beleggen.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-18 | consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Historisch Materialisme — Hegel.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-18 | consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Historisch Materialisme — Russische Revolutie.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-18 | consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Actief Beleggen — Passief Beleggen.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-18 | consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Actief Beleggen — Efficiënte Markthypothese.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-18 | consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Actief Beleggen — Verliesaversie.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-18 | consolidatie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Twee Niveaus van Economisch Falen.md — Filosofie → Beleggen — sterkte ★8 |
+| 2026-07-18 | consolidatie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Psychologie van de Verliezende Positie.md — Beleggen → Psychologie — sterkte ★9 |
+| 2026-07-18 | consolidatie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Dialectiek van het Historisch Breken.md — Filosofie → Geschiedenis — sterkte ★8 |
+| 2026-07-18 | consolidatie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-18 Dagrapport.md — consolidatie-2 modus — 2 concepten, 5 verbindingen, 3 inzichten, 0 nieuwe gaps |
+| 2026-07-18 | consolidatie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-18 Quiz.md — 3 vragen toegevoegd (Historisch Materialisme, Actief Beleggen, disposition effect × klinisch) |
+| 2026-07-18 | consolidatie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Coverage 100%, Connectivity 100%, Orphan 0% — Psych 89%, Fil 92%, Gesch 91%, Beleg 91% |
+| 2026-07-18 | consolidatie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (91%), Filosofie (92%), Beleggen (91%) |
+| 2026-07-18 | consolidatie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +1 (Historisch Materialisme) · Beleggen: +1 (Actief Beleggen) |
+| 2026-07-18 | consolidatie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-18 | consolidatie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓: Historisch Materialisme, Actief Beleggen · Queue volledig leeg |
+| 2026-07-18 | consolidatie-2 | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · Health: 91% · 152 wiki-pagina's totaal |
