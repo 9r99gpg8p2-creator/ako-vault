@@ -60,6 +60,7 @@ In de twintigste eeuw werd de discipline hervormd door de opkomst van de cogniti
 **Cross-domein:**
 - [[Neuropsychologische Rehabilitatie]] — psychologisch mechanisme: klinische observaties van hersenletselpatiënten leveren empirisch bewijs voor filosofische theorieën over bewustzijn
 - [[Semiotische Functie]] ★8 — het debat over of tekenbegrip mentale representaties vereist (Piaget) of relationeel is (Peirce/Vygotsky) raakt direct aan kernposities in de filosofie van de geest
+- [[René Descartes]] ★9 — oorzaak: Descartes' dualisme is het historische startpunt van de filosofie van de geest als discipline
 
 ## Bronnen
 

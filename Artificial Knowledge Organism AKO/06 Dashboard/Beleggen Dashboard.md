@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, beleggen]
-updated: 2026-07-17
+updated: 2026-07-18
 ---
 
 # Beleggen Dashboard
@@ -14,24 +14,22 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 20 |
-| Coverage | 100% (20/20) |
+| Pagina's | 23 |
+| Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **100%** |
+| **Score** | **89%** |
 | Trend | ↑ |
-
-*Mijlpaal: Beleggen bereikt 100% coverage (20 pagina's).*
 
 ---
 
-## Nieuw deze sessie
+## Nieuw deze sessie (2026-07-18 expansie)
 
-- [[Diversificatie]] — Markowitz 1952; specifiek vs. systematisch risico; correlatie; efficiënte frontier; 60/40-portefeuille; cross-domein met Verliesaversie (★9) en Stoïcisme (★8)
+- [[Rente]] — vergoeding voor kapitaalverstrekking; nominale vs. reële rente; rentecurve; centrale bank als primaire renteactor; Fisher-effect; cross-domein met Verliesaversie ★7
 
 ## Cross-domein bruggen
 
-- [[Diversificatie]] → [[Verliesaversie]] (disposition effect als barrière voor optimale spreiding; ★9)
-- [[Diversificatie]] → [[Stoïcisme]] (filosofische onthechting als basis voor rationele spreiding; ★8)
+- [[Rente]] → [[Verliesaversie]] (rentestijgingen activeren verliesaversie via koersdalingen; psychologische multiplicator op economisch effect; ★7)
+- [[Rente]] → [[Monetair Beleid]] (centrale bank stuurt beleidsrente als transmissiemechanisme; ★9)
+- [[Rente]] → [[Intrinsieke Waarde en DCF-modellen]] (disconteringsvoet rechtstreeks afgeleid van risicovrije rente; ★10)
 - [[Dopamine]] → [[Prospect Theory]] (beloningspredictie-fout als neurobiologisch substraat van risicogedrag)
-- [[Aberrant Salience en Marktbubbels]] — psychose en speculatieve manie als verwante fenomenen (★9)

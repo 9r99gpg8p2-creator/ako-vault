@@ -927,3 +927,28 @@ type: operationeel
 | 2026-07-18 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Alle hubs actueel — geen nieuwe concepten toegevoegd (hubs al bijgewerkt in expansie-run) |
 | 2026-07-18 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-18 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 8 verbindingen verdicht · 3 inzichten · Health: 100% · Queue leeg |
+| 2026-07-18 | expansie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-18 | expansie-2 | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _-prefixed bestanden) — STAP 1.5 overgeslagen |
+| 2026-07-18 | expansie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-18 | expansie-2 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: René Descartes (Fil — persoonspage), Kolonialisme (Gesch — gap), Rente (Beleg — fundamenteel concept), Interbellum (Gesch — minste coverage) |
+| 2026-07-18 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | René Descartes.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-18 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Kolonialisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-18 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Rente.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-18 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Interbellum.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-18 | expansie-2 | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Functionalisme (Fil), Grote Depressie (Gesch/Beleg), Weimar Republiek (Gesch) |
+| 2026-07-18 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Kolonialisme — Postkoloniale Psychologie.md — sterkte ★9 — Geschiedenis × Psychologie |
+| 2026-07-18 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Rente — Verliesaversie.md — sterkte ★7 — Beleggen × Psychologie |
+| 2026-07-18 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Interbellum — PTSD.md — sterkte ★8 — Geschiedenis × Psychologie |
+| 2026-07-18 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | René Descartes — Filosofie van de Geest.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-18 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Lichaam-Geestprobleem als Fundament van de Klinische Neuropsychologie.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-18 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Schok die de Psychiatrie Schiep.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-18 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Rente Schrijft de Emotionele Toonhoogte van de Markt.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-18 | expansie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-18 Dagrapport.md — expansie-2 modus — 4 concepten, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-18 | expansie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-18 Quiz.md — 3 vragen toegevoegd (Descartes, Rente+Verliesaversie, Interbellum+PTSD) |
+| 2026-07-18 | expansie-2 | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-18 | expansie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 89% — Coverage 100%, Connectivity ~99%, Orphan ~1% — Psych 89%, Fil 90%, Gesch 89%, Beleg 89% |
+| 2026-07-18 | expansie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (89%), Filosofie (90%), Geschiedenis (89%), Beleggen (89%) |
+| 2026-07-18 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +1 (René Descartes) · Geschiedenis: +2 (Kolonialisme, Interbellum) · Beleggen: +1 (Rente) |
+| 2026-07-18 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-18 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps toegevoegd: Functionalisme, Grote Depressie, Weimar Republiek |
+| 2026-07-18 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 89% · 143 wiki-pagina's totaal |

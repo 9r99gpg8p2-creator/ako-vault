@@ -35,3 +35,5 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Antiek Griekenland]]
 - [[Stalinisme]]
 - [[De Middeleeuwen]]
+- [[Kolonialisme]]
+- [[Interbellum]]

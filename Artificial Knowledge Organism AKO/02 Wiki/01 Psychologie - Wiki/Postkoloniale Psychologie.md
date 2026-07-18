@@ -64,6 +64,7 @@ Na Fanon is het veld uitgebreid met denkers zoals Albert Memmi (*Portrait du Col
 
 **Cross-domein:**
 - [[Dekolonisatie]] — de politiek-historische context van het postkoloniale denken; Fanons werk is tegelijkertijd een psychologische en historische interventie
+- [[Kolonialisme]] ★9 — oorzaak: kolonialisme is de historische grondoorzaak van de psychologische patronen die postkoloniale psychologie beschrijft
 
 ## Bronnen
 

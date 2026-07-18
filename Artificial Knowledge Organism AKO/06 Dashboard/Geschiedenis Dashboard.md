@@ -2,7 +2,7 @@
 tags: [dashboard, geschiedenis]
 type: dashboard
 discipline: geschiedenis
-updated: 2026-07-17
+updated: 2026-07-18
 ---
 
 # Geschiedenis Dashboard
@@ -15,23 +15,23 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 21 |
+| Pagina's | 24 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **100%** |
+| **Score** | **89%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie (2026-07-17 consolidatie)
+## Nieuw deze sessie (2026-07-18 expansie)
 
-- [[Stalinisme]] — Stalintijd (1924–1953), collectivisering, Holodomor, Grote Terreur, Goelag, persoonscultus, psikhushka-psychiatriemisbruik, destalinisatie; verbindingen Russische Revolutie ★10, Totalitarisme ★9, Koude Oorlog
+- [[Kolonialisme]] — politiek-economisch systeem van koloniale overheersing; grondoorzaak postkoloniale psychologische problematiek; cross-domein met Postkoloniale Psychologie ★9
+- [[Interbellum]] — periode 1918–1939; Weimar Republiek, Grote Depressie, opkomst totalitarisme; incubatietijdperk voor PTSD-erkenning
 
 ## Cross-domein bruggen
 
-- [[Stalinisme]] → [[Totalitarisme]] (paradigmatisch geval twintigste-eeuws totalitarisme; ★9)
-- [[Stalinisme]] → [[Russische Revolutie]] (directe politieke erfopvolging én ideologische breuk; ★10)
-- [[Stalinisme]] → [[Geschiedenis van de Psychiatrie]] (psikhushka-systeem en psychiatrie als staatsinstrument; ★9)
-- [[Russische Revolutie]] → [[Koude Oorlog]] → [[Totalitarisme]] (oorzaak-gevolg keten twintigste eeuw; ★10)
-- [[Antiek Griekenland]] → [[Stoïcisme]] (directe filosofische oorsprong; ★9)
+- [[Kolonialisme]] → [[Postkoloniale Psychologie]] (historische grondoorzaak van psychologische identiteitsfragmentatie; ★9)
+- [[Interbellum]] → [[PTSD]] (shell shock → traumatische neurose → PTSD: institutionele evolutie tussen de oorlogen; ★8)
+- [[Stalinisme]] → [[Geschiedenis van de Psychiatrie]] (psikhushka-systeem: psychiatrie als staatsinstrument; ★9)
+- [[Eerste Wereldoorlog]] → [[Interbellum]] → [[Tweede Wereldoorlog]] (oorzaak-gevolg keten twintigste eeuw)

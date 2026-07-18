@@ -37,3 +37,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Plato]]
 - [[Socrates]]
 - [[Nietzsche]]
+- [[René Descartes]]

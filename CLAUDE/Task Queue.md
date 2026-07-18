@@ -141,6 +141,9 @@ type: operationeel
 | ✓ | 2026-07-18T expansie | Agent 3 | Expansie: Nietzsche | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Nietzsche.md — confidence 5 |
 | ✓ | 2026-07-18T expansie | Agent 3 | Expansie: Inflatie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Inflatie.md — confidence 5 |
 | ✓ | 2026-07-18T expansie | Agent 3 | Expansie: Aandelen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Aandelen.md — confidence 5 |
+| ↓ | 2026-07-18T expansie-2 | Agent 3 | Gap: Functionalisme | Filosofisch kernbegrip; vermeld in Filosofie van de Geest + René Descartes; geen eigen pagina |
+| ↓ | 2026-07-18T expansie-2 | Agent 3 | Gap: Grote Depressie | Cruciaal voor Interbellum, Marktcycli, Gedragseconomie; geen eigen pagina |
+| ↓ | 2026-07-18T expansie-2 | Agent 3 | Gap: Weimar Republiek | Centrale context voor totalitarisme en PTSD-erkenning; vermeld in Interbellum |
 
 ---
 
