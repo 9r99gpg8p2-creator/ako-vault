@@ -14,21 +14,23 @@ updated: 2026-07-18
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 25 |
-| Coverage | 100% (25/20) |
+| Pagina's | 26 |
+| Coverage | 100% (26/20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **90%** |
+| **Score** | **91%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie (2026-07-18 expansie)
+## Nieuw deze sessie (2026-07-18 consolidatie)
 
-- [[René Descartes]] — grondlegger moderne filosofie; cogito ergo sum; cartesiaans dualisme; lichaam-geestprobleem als erfenis voor klinische neuropsychologie
+- [[Functionalisme]] — kernpositie in filosofie van de geest; meervoudige realiseerbaarheid; grondslag van cognitieve wetenschap en AI
 
 ## Cross-domein bruggen
 
+- [[Functionalisme]] → [[Werkgeheugen]] (functionalistisch model van geheugenarchitectuur; ★7)
+- [[Functionalisme]] → [[Neuroplasticiteit]] (meervoudige realiseerbaarheid als filosofische grondslag voor herstelprocessen; ★8)
 - [[René Descartes]] → [[Filosofie van de Geest]] (cartesiaans dualisme als startpunt van de discipline; ★9)
 - [[René Descartes]] → [[Neuropsychologische Rehabilitatie]] (dualisme onderbouwt organisch/functioneel onderscheid in klinische diagnostiek; ★8)
 - [[Socrates]] → [[Cognitieve Gedragstherapie]] (socratisch bevragen als therapeutische techniek; ★8)

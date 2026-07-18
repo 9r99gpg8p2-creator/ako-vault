@@ -37,3 +37,5 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Middeleeuwen]]
 - [[Kolonialisme]]
 - [[Interbellum]]
+- [[Grote Depressie]]
+- [[Weimar Republiek]]

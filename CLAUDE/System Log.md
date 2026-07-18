@@ -952,3 +952,27 @@ type: operationeel
 | 2026-07-18 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-18 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps toegevoegd: Functionalisme, Grote Depressie, Weimar Republiek |
 | 2026-07-18 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 89% · 143 wiki-pagina's totaal |
+| 2026-07-18 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-18 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _-prefixed bestanden) — STAP 1.5 overgeslagen |
+| 2026-07-18 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-18 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 onderwerpen (queue ↓): Functionalisme (Fil), Grote Depressie (Gesch), Weimar Republiek (Gesch) |
+| 2026-07-18 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Functionalisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-18 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Grote Depressie.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-18 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Weimar Republiek.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-18 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Functionalisme — Filosofie van de Geest.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-18 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Functionalisme — Werkgeheugen.md — sterkte ★7 — Filosofie × Psychologie |
+| 2026-07-18 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Grote Depressie — Gedragseconomie.md — sterkte ★9 — Geschiedenis × Beleggen |
+| 2026-07-18 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Grote Depressie — Paradigmawisseling.md — sterkte ★9 — Geschiedenis × Beleggen |
+| 2026-07-18 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Weimar Republiek — PTSD.md — sterkte ★8 — Geschiedenis × Psychologie |
+| 2026-07-18 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Weimar Republiek — Monetair Beleid.md — sterkte ★8 — Geschiedenis × Beleggen |
+| 2026-07-18 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Geest Hoeft Niet te Weten Hoe Ze Zichzelf Herstelt.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-18 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Economische Wanhoop als Psychologische Vatbaarheid.md — Geschiedenis → Psychologie × Beleggen — sterkte ★9 |
+| 2026-07-18 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Geld dat Verdwijnt Verandert Wat Je Vertrouwt.md — Geschiedenis → Beleggen × Psychologie — sterkte ★8 |
+| 2026-07-18 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-18 Dagrapport.md — consolidatiemodus — 3 gaps, 6 verbindingen, 3 inzichten, queue leeg |
+| 2026-07-18 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-18 Quiz.md — 3 vragen toegevoegd (Functionalisme, Grote Depressie, Weimar Republiek) |
+| 2026-07-18 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 90% — Coverage 100%, Connectivity ~99%, Orphan 0% — Psych 89%, Fil 91%, Gesch 91%, Beleg 89% |
+| 2026-07-18 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (90%), Filosofie (91%), Geschiedenis (91%) |
+| 2026-07-18 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +1 (Functionalisme) · Geschiedenis: +2 (Grote Depressie, Weimar Republiek) |
+| 2026-07-18 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-18 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue leeg (0 items ↓) |
+| 2026-07-18 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 90% · 146 wiki-pagina's totaal |
