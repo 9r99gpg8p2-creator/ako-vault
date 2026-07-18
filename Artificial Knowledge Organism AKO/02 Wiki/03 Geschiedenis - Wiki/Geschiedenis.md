@@ -39,3 +39,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Interbellum]]
 - [[Grote Depressie]]
 - [[Weimar Republiek]]
+- [[Het Ottomaanse Rijk]]

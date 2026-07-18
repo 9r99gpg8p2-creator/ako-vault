@@ -15,7 +15,7 @@ updated: 2026-07-18
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 26 |
+| Pagina's | 27 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
@@ -24,13 +24,14 @@ updated: 2026-07-18
 
 ---
 
-## Nieuw deze sessie (2026-07-18 consolidatie)
+## Nieuw deze sessie (2026-07-18 expansie-2)
 
-- [[Grote Depressie]] — economische crisis 1929–1939; beurscrash, bankfaillissementen, deflatoire spiraal; Keynesiaanse paradigmawisseling; cross-domein met Gedragseconomie ★9 en Paradigmawisseling ★9
-- [[Weimar Republiek]] — democratisch experiment 1919–1933; hyperinflatie 1923, politieke erosie, val aan nationaalsocialisten; cross-domein met PTSD ★8 en Monetair Beleid ★8
+- [[Het Ottomaanse Rijk]] — zes eeuwen multicultureel imperium (1299–1922); millet-systeem; Tanzimat; erfenis Midden-Oosten
 
 ## Cross-domein bruggen
 
+- [[Het Ottomaanse Rijk]] → [[Eerste Wereldoorlog]] (deelname aan de Centrale Mogendheden; ineenstorting en territoriaal verval; ★9)
+- [[Het Ottomaanse Rijk]] → [[Politieke Filosofie]] (millet-systeem als historisch model voor religieus pluralisme; ★8)
 - [[Grote Depressie]] → [[Gedragseconomie]] (kuddegedrag, paniek en irrationele marktdynamiek op maximale schaal; ★9)
 - [[Grote Depressie]] → [[Paradigmawisseling]] (Keynes' General Theory als economische paradigmawisseling; ★9)
 - [[Weimar Republiek]] → [[PTSD]] (onverwerkte oorlogstrauma's en psychiatrische verwaarlozing in een democratie in crisis; ★8)

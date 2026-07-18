@@ -147,6 +147,11 @@ type: operationeel
 
 ---
 
+| ↓ | 2026-07-18T expansie-2 | Agent 3 | Gap: Historisch Materialisme | Marx's materialistische dialectiek — verbinding Hegel → Marx → Kapitalisme |
+| ↓ | 2026-07-18T expansie-2 | Agent 3 | Gap: Actief Beleggen | Tegenhanger van Passief Beleggen — stock picking, timing, vergoeding vs. risico |
+
+---
+
 ## Prioriteitsvolgorde
 
 1. Gebruikersverzoek (hoogste prioriteit)

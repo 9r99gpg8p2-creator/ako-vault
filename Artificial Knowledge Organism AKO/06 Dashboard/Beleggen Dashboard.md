@@ -14,22 +14,24 @@ updated: 2026-07-18
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 23 |
+| Pagina's | 24 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **89%** |
+| **Score** | **90%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie (2026-07-18 expansie)
+## Nieuw deze sessie (2026-07-18 expansie-2)
 
-- [[Rente]] — vergoeding voor kapitaalverstrekking; nominale vs. reële rente; rentecurve; centrale bank als primaire renteactor; Fisher-effect; cross-domein met Verliesaversie ★7
+- [[Passief Beleggen]] — indexbeleggen, ETF's; Bogle/Vanguard; rekenkundige superioriteit na kosten; theoretisch fundament in EMH
 
 ## Cross-domein bruggen
 
+- [[Passief Beleggen]] → [[Efficiënte Markthypothese]] (EMH rechtvaardigt passief beleggen theoretisch; ★9)
+- [[Passief Beleggen]] → [[Gedragseconomie]] (gedragsbiases verklaren structurele onderperformance actieve beleggers; ★8)
+- [[Passief Beleggen]] → [[Prospect Theory]] (verliesaversie drijft actief handelen ondanks bewijs voor passieve superioriteit; ★7)
 - [[Rente]] → [[Verliesaversie]] (rentestijgingen activeren verliesaversie via koersdalingen; psychologische multiplicator op economisch effect; ★7)
 - [[Rente]] → [[Monetair Beleid]] (centrale bank stuurt beleidsrente als transmissiemechanisme; ★9)
-- [[Rente]] → [[Intrinsieke Waarde en DCF-modellen]] (disconteringsvoet rechtstreeks afgeleid van risicovrije rente; ★10)
 - [[Dopamine]] → [[Prospect Theory]] (beloningspredictie-fout als neurobiologisch substraat van risicogedrag)

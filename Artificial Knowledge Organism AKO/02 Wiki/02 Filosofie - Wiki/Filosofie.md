@@ -39,3 +39,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Nietzsche]]
 - [[René Descartes]]
 - [[Functionalisme]]
+- [[Hegel]]
+- [[Politieke Filosofie]]

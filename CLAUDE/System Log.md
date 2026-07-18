@@ -976,3 +976,27 @@ type: operationeel
 | 2026-07-18 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-18 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue leeg (0 items ↓) |
 | 2026-07-18 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 90% · 146 wiki-pagina's totaal |
+| 2026-07-18 | expansie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-18 | expansie-2 | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met _ — STAP 1.5 overgeslagen |
+| 2026-07-18 | expansie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-18 | expansie-2 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Passief Beleggen (Beleg — minste pagina's), Hegel (Fil — ontbrekende sleutelfiguur), Het Ottomaanse Rijk (Gesch — ontbrekend imperium), Politieke Filosofie (Fil — ontbrekend kerndomein) |
+| 2026-07-18 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Passief Beleggen.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-18 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Hegel.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-18 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Het Ottomaanse Rijk.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-18 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Politieke Filosofie.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-18 | expansie-2 | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Historisch Materialisme (Fil/Gesch — Hegel→Marx), Actief Beleggen (Beleg — tegenhanger Passief Beleggen) |
+| 2026-07-18 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Passief Beleggen — Efficiënte Markthypothese.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-18 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Hegel — Immanuel Kant.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-18 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Het Ottomaanse Rijk — Eerste Wereldoorlog.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-18 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Politieke Filosofie — Ethiek.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-18 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Prijs van het Weten.md — Filosofie → Beleggen — sterkte ★9 |
+| 2026-07-18 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Pluralisme als Overlevingsstrategie.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-18 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Dialectiek van de Markt.md — Filosofie → Beleggen — sterkte ★7 |
+| 2026-07-18 | expansie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-18 Dagrapport.md — expansie-2 modus — 4 concepten, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-18 | expansie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-18 Quiz.md — 3 vragen toegevoegd (Hegel dialectiek, Passief Beleggen rekenkundige grondslag, Ottomaans Rijk pluralisme) |
+| 2026-07-18 | expansie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 90% — Coverage 100%, Connectivity 100%, Orphan 0% — Psych 89%, Fil 91%, Gesch 91%, Beleg 90% |
+| 2026-07-18 | expansie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (90%), Filosofie (91%), Geschiedenis (91%), Beleggen (90%) |
+| 2026-07-18 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +2 (Hegel, Politieke Filosofie) · Geschiedenis: +1 (Het Ottomaanse Rijk) · Beleggen: +1 (Passief Beleggen) |
+| 2026-07-18 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-18 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 2 nieuwe gaps toegevoegd ↓: Historisch Materialisme, Actief Beleggen |
+| 2026-07-18 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 90% · 150 wiki-pagina's totaal |
