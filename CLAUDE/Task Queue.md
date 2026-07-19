@@ -164,6 +164,16 @@ type: operationeel
 
 ---
 
+| ✓ | 2026-07-19T expansie-2 | Agent 3 | Expansie: Heuristieken | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Heuristieken.md — confidence 5 |
+| ✓ | 2026-07-19T expansie-2 | Agent 3 | Expansie: Persoonlijkheidsstoornissen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Persoonlijkheidsstoornissen.md — confidence 5 |
+| ✓ | 2026-07-19T expansie-2 | Agent 3 | Expansie: Imperialisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Imperialisme.md — confidence 5 |
+| ✓ | 2026-07-19T expansie-2 | Agent 3 | Expansie: Freud | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Freud.md — confidence 5 |
+| ↓ | 2026-07-19T expansie-2 | Agent 3 | Gap: George Berkeley (empirisme-cluster) | Epistemisch empirisme-trio: Locke + Hume aanwezig; Berkeley ontbreekt |
+| ↓ | 2026-07-19T expansie-2 | Agent 3 | Gap: Complexe PTSD (C-PTSD) | Onderscheid van DSM-5 PTSD; ICD-11 C-PTSD; MSc KNP-relevant |
+| ↓ | 2026-07-19T expansie-2 | Agent 3 | Gap: Traumatisch Hersenletsel (THL) | Klinische neuropsychologie kerndomein; cognitief profiel, revalidatie |
+
+---
+
 ## Prioriteitsvolgorde
 
 1. Gebruikersverzoek (hoogste prioriteit)

@@ -64,6 +64,7 @@ De Neys (2006) toonde aan dat mensen met hoge cognitieve capaciteiten conflicten
 **Cross-domein:**
 - [[Filosofie van de Geest]] — de grens tussen bewuste en onbewuste cognitie is een centraal filosofisch vraagstuk
 - [[Technische Analyse]] ★8 — patroonherkenning in grafieken is een System 1-process; technische analyse is deels verklarbaar en deels kwetsbaar door dual process mechanismen
+- [[Heuristieken]] ★9 — heuristieken zijn het directe product van System 1-denken in financiële beslissingscontexten
 
 ## Bronnen
 

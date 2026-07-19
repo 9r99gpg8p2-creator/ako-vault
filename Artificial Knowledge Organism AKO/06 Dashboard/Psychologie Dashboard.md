@@ -15,21 +15,21 @@ updated: 2026-07-19
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 72 |
+| Pagina's | 77 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **100%** |
+| **Score** | **91%** |
 | Trend | → |
 
 ---
 
-## Nieuw deze sessie (2026-07-19 expansie)
+## Nieuw deze sessie (2026-07-19 expansie-run)
 
-- [[Autisme Spectrum Stoornis]] — neurobiologische ontwikkelingsstoornis; ASS-criteria (DSM-5), ToM-tekorten (Baron-Cohen), executieve functieproblemen, ADOS-2; direct MSc KNP-relevant
+- [[Persoonlijkheidsstoornissen]] — DSM-5 Cluster A/B/C; BPS, narcistische PS, antisociale PS; DBT en schematherapie; neurobiologie PFC/amygdala; direct MSc KNP-relevant
+- [[Freud]] — grondlegger psychoanalyse; onbewuste, id/ego/superego, verdedigingsmechanismen, overdracht; historisch scharnierfiguur
 
 ## Cross-domein bruggen
 
-- [[Autisme Spectrum Stoornis]] → [[Theory of Mind]] (mindblindness als kerntekort bij ASS; ★10)
-- [[Autisme Spectrum Stoornis]] → [[Klinische Neuropsychologie]] (neuropsychologische evaluatie en behandelplanning; ★9)
-- [[Autisme Spectrum Stoornis]] → [[Ethiek van Zorg]] (neurodiversiteit vs. zorgplicht; ★8)
+- [[Persoonlijkheidsstoornissen]] → [[Emotieregulatie]] (verstoorde regulatie als neuropsychologisch kernmechanisme bij BPS; ★10)
+- [[Freud]] → [[Bewustzijn]] (topografisch model bewust/onbewust als vroege theorie van bewustzijnsstructuur; ★9)

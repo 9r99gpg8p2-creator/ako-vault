@@ -2,56 +2,38 @@
 type: dagrapport
 date: 2026-07-19
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
 Goedemorgen.
 
-Nieuwe kennis:          3 concepten (David Hume, Schematherapie, Kapitalisme)
+Nieuwe kennis:          4 concepten toegevoegd (expansie-run)
 Nieuwe artikelen:       0 (Wikipedia API onbereikbaar — interne kennis gebruikt)
-Nieuwe verbindingen:    9 relaties · 3 inzichten
-Kennishiaten:           0 nieuwe gaps · queue leeg na deze run
-Aanbevolen leestijd:    12 minuten
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-*(geen Inbox-bestanden verwerkt deze run — alle bestanden beginnen met _)*
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[David Hume]] ↔ [[Empirisme]] · ★9
-2. [[David Hume]] ↔ [[Immanuel Kant]] · ★9
-3. [[David Hume]] ↔ [[Gedragseconomie]] · ★8
-4. [[Schematherapie]] ↔ [[Hechtingstheorie]] · ★9
-5. [[Schematherapie]] ↔ [[Cognitieve Gedragstherapie]] · ★9
-6. [[Schematherapie]] ↔ [[PTSD]] · ★8
-7. [[Kapitalisme]] ↔ [[Industriële Revolutie]] · ★10
-8. [[Kapitalisme]] ↔ [[Slavernij]] · ★9
-9. [[Kapitalisme]] ↔ [[Gedragseconomie]] · ★8
-
----
-
-## Insight Feed
-
-— "Drie eeuwen voor de gedragseconomie beschreef Hume waarom markten niet rationeel zijn: passie bepaalt wat beleggers doen, niet wat ze zouden moeten doen." [Filosofie → Beleggen · ★9]
-
-— "Vroegkinderlijke schema's zijn geen herinneringen maar stille structuren — Hume's bundle theory in therapeutische praktijk: het zelf is geen kern maar een patroon van aangeleerde reacties." [Psychologie → Filosofie · ★8]
-
-— "Kapitalisme is niet alleen een economisch systeem maar een historische structuur die psychologische littekens doorgeeft aan volgende generaties via slavernij en koloniale extractie." [Geschiedenis → Psychologie · ★8]
+Nieuwe verbindingen:    4 relaties gelegd
+Nieuwe inzichten:       3 cross-domein inzichten gegenereerd
+Kennishiaten:           3 nieuwe gaps gesignaleerd
+Aanbevolen leestijd:    ~16 minuten
 
 ---
 
 ## Research Agenda
 
-Prioriteit 1: Complexe PTSD en Schematherapie — directe MSc KNP-relevantie; verdieping na verdere praktijkliteratuur
-Prioriteit 2: Empirisme-cluster completeren — John Locke en David Hume aanwezig; Berkeley zou het triumviraat afsluiten
-Prioriteit 3: Kapitalisme × Kolonialisme cross-domein — verdere verdieping via Kolonialisme-pagina en dekolonisatie
+1. **Heuristieken** — Beleggen minste pagina's; Kahneman/Tversky vuistregels zijn fundamenteel voor behavioral finance en cross-link naar Dual Process Theorie
+2. **Persoonlijkheidsstoornissen** — Essentieel voor MSc Klinische Neuropsychologie-doel; Cluster A/B/C, borderline PS, DBT/schematherapie verbanden
+3. **Imperialisme** — Geschiedenis ondervertegenwoordigd; sleutelbegrip voor 19e–20e eeuwse wereldgeschiedenis en postkoloniale psychologie
+4. **Freud** — Grondlegger psychoanalyse ontbrak als persoonspagina; verbindt psychologie, bewustzijn en psychiatriegeschiedenis
+
+---
+
+## Insight Feed
+
+— "Heuristieken zijn geen uitzonderingen maar de standaard van menselijk redeneren — de markt is het kristallisatiepunt van collectieve cognitive shortcuts, niet van rationele verwachtingen." [Psychologie → Beleggen · ★9]
+
+— "Freud's meest radicale claim — dat het bewuste ik niet de auteur is van zijn eigen gedachten — herschrijft het filosofisch bewustzijnsconcept en verankert anosognosie als neuropsychologisch bewijs van structurele zelfinzichtbeperkingen." [Psychologie → Filosofie · ★9]
+
+— "De imperiale 'beschavingsmissie' perverteerde de Verlichtingsethiek tot rechtvaardiging voor onderwerping — een paradox die postkoloniale psychologie dwong westerse classificatiesystemen als DSM te bevragen." [Geschiedenis → Filosofie · ★8]
 
 ---
 
@@ -59,10 +41,10 @@ Prioriteit 3: Kapitalisme × Kolonialisme cross-domein — verdere verdieping vi
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 91% | → |
-| Filosofie | 93% | ↑ |
-| Geschiedenis | 92% | → |
-| Beleggen | 92% | → |
+| Psychologie | ~91% | → |
+| Filosofie | ~84% | ↑ |
+| Geschiedenis | ~84% | ↑ |
+| Beleggen | ~83% | ↑ |
 
 ---
 
@@ -70,15 +52,17 @@ Prioriteit 3: Kapitalisme × Kolonialisme cross-domein — verdere verdieping vi
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 3 |
-| Nieuwe sub-hubs | 0 |
-| Nieuwe verbindingen | 9 |
-| Gaps gedicht | 3 (David Hume, Schematherapie, Kapitalisme) |
-| Merges uitgevoerd | 0 |
+| Inbox verwerkt | 0 (geen bestanden na filtering) |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 2 (back-links in Dual Process Theorie, Emotieregulatie, Bewustzijn, Politieke Filosofie) |
+| Nieuwe verbindingen | 4 |
+| Nieuwe inzichten | 3 |
+| Gaps gedicht | 0 |
+| Nieuwe gaps gesignaleerd | 3 |
 
 ---
 
 ## Aandacht vereist
 
 - [ ] Wikipedia API nog steeds onbereikbaar (E-003) — confidence nieuwe pagina's: 5
-- [ ] Queue nu leeg — volgende run start nieuwe expansie of Inbox-scan
+- [ ] Nieuwe gaps in queue: Traumatisch Breinletsel, George Berkely (empirisme-cluster), Complexe PTSD

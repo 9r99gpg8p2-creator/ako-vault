@@ -62,6 +62,7 @@ In de twintigste eeuw domineerden het debat: Rawls' liberale egalitarisme (1971)
 
 **Cross-domein:**
 - [[De Verlichting]] — politieke filosofie bereikte haar modernste vorm tijdens de Verlichting, met het sociaal-contractdenken als sleutelproduct
+- [[Imperialisme]] ★8 — imperialisme confronteert politieke filosofie met vragen over soevereiniteit, zelfbeschikking en de morele rechtvaardiging van geweld
 
 ## Bronnen
 

@@ -1123,3 +1123,29 @@ type: operationeel
 | 2026-07-19 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-19 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue leeg (0 items ↓) |
 | 2026-07-19 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 9 verbindingen · 3 inzichten · Health: 92% · 166 wiki-pagina's totaal |
+| 2026-07-19 | expansie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-19 | expansie-2 | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden beginnen met _ — geen bestanden te verwerken — STAP 1.5 overgeslagen |
+| 2026-07-19 | expansie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-19 | expansie-2 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Heuristieken (Beleg — minste pagina's), Persoonlijkheidsstoornissen (Psych — MSc KNP), Imperialisme (Gesch — expansie), Freud (Psych — grondlegger ontbrak) |
+| 2026-07-19 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Heuristieken.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-19 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Persoonlijkheidsstoornissen.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-19 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Imperialisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-19 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Freud.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-19 | expansie-2 | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: George Berkeley, Complexe PTSD, Traumatisch Hersenletsel |
+| 2026-07-19 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Heuristieken — Dual Process Theorie.md — sterkte ★9 — Beleggen × Psychologie |
+| 2026-07-19 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Imperialisme — Politieke Filosofie.md — sterkte ★8 — Geschiedenis × Filosofie |
+| 2026-07-19 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Freud — Bewustzijn.md — sterkte ★9 — Psychologie × Filosofie |
+| 2026-07-19 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Persoonlijkheidsstoornissen — Emotieregulatie.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-19 | expansie-2 | Agent 4 | Back-links bijgewerkt | ✓ | Dual Process Theorie, Emotieregulatie, Bewustzijn, Politieke Filosofie — links toegevoegd |
+| 2026-07-19 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Vuistregel als Onzichtbare Architect van de Markt.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-19 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Onbewuste Herschrijft het Zelf.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-19 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Beschavingsmissie als Filosofisch Zelfbedrog.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-19 | expansie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-19 Dagrapport.md — expansie-modus — 4 pagina's · 4 verbindingen · 3 inzichten · 3 nieuwe gaps |
+| 2026-07-19 | expansie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-19 Quiz.md — 3 vragen toegevoegd (Heuristieken, Persoonlijkheidsstoornissen/BPS, Freud vs. cognitieve psychologie) |
+| 2026-07-19 | expansie-2 | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-19 | expansie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: ~85% — Psych 91% (77 pag's), Fil 84% (32 pag's), Gesch 84% (30 pag's), Beleg 83% (27 pag's) |
+| 2026-07-19 | expansie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven — 170 wiki-pagina's totaal |
+| 2026-07-19 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Persoonlijkheidsstoornissen, Freud) · Beleggen: +1 (Heuristieken) · Geschiedenis: +1 (Imperialisme) · Filosofie: +0 |
+| 2026-07-19 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-19 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps toegevoegd ↓ · 4 expansies gesloten ✓ |
+| 2026-07-19 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: ~85% · 170 wiki-pagina's totaal |

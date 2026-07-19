@@ -50,6 +50,7 @@ Bewustzijn was decennialang taboe in de cognitieve wetenschap vanwege het behavi
 - [[Filosofie van de Geest]] — domein: bewustzijn is het centrale vraagstuk van de filosofie van de geest; het harde probleem is het kernprobleem van het vakgebied
 - [[Anosognosie]] — klinisch raakvlak: anosognosie illustreert hoe het zelfbewustzijn kan uitvallen terwijl basisverwerking intact is — een dissociatie die het harde probleem empirisch maakt
 - [[Neuropsychologische Rehabilitatie]] — toepassing: revalidatie vereist bewustzijnsmonitoring; anosognosie als uitval van zelfbewustzijn is direct klinisch relevant
+- [[Freud]] ★9 — Freud's topografisch model (bewust/voorbewust/onbewust) is een vroege invloedrijke theorie over bewustzijnsstructuur
 
 **Cross-domein:**
 - [[Anosognosie]] — klinisch bewijs: patiënten met anosognosie tonen hoe zelfbewustzijn neuraal dissocieerbaar is van functioneel gedrag; het harde probleem manifesteert zich klinisch

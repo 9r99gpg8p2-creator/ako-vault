@@ -15,24 +15,21 @@ updated: 2026-07-19
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 28 |
+| Pagina's | 30 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **91%** |
+| **Score** | **84%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie (2026-07-19 expansie)
+## Nieuw deze sessie (2026-07-19 expansie-run)
 
-- [[Fascisme]] — Mussolini en Hitler; palingenetisch nationalisme (Griffin); leiderscultus; geweldsverheelijking; corporatistische economie; Neurenbergprocessen
+- [[Imperialisme]] — Europese expansie 1870–1914; Scramble for Africa; Hobson/Lenin economische these; Said's cultureel imperialisme; postkoloniale erfenis
 
 ## Cross-domein bruggen
 
-- [[Fascisme]] → [[Totalitarisme]] (fascisme als specifieke vorm van totalitarisme met nationale mythe; ★9)
-- [[Fascisme]] → [[Morele Verantwoordelijkheid]] (banaliteit van het kwaad; Arendt; ★9)
-- [[Fascisme]] → [[Eerste Wereldoorlog]] (nationaal trauma 1918 als voedingsbodem; ★9)
-- [[Grote Depressie]] → [[Gedragseconomie]] (kuddegedrag, paniek en irrationele marktdynamiek op maximale schaal; ★9)
-- [[Weimar Republiek]] → [[PTSD]] (onverwerkte oorlogstrauma's en psychiatrische verwaarlozing in een democratie in crisis; ★8)
-- [[Kolonialisme]] → [[Postkoloniale Psychologie]] (historische grondoorzaak van psychologische identiteitsfragmentatie; ★9)
+- [[Imperialisme]] → [[Politieke Filosofie]] (soevereiniteit, zelfbeschikking en morele paradox van beschavingsmissie; ★8)
+- [[Imperialisme]] → [[Kapitalisme]] (Hobson/Lenin-these: imperialisme als gevolg van kapitalistische overaccumulatie; ★9)
+- [[Imperialisme]] → [[Dekolonisatie]] (historische causaliteit: koloniale onderwerping als voorwaarde voor dekolonisatiebeweging; ★10)

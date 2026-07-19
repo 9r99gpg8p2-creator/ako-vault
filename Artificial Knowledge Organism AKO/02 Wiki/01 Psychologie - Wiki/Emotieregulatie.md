@@ -62,6 +62,7 @@ In de klinische neuropsychologie is emotieregulatie cruciaal: stoornissen in reg
 
 **Cross-domein:**
 - [[Prospect Theory]] — emotionele invloed op risicoafweging (Beleggen)
+- [[Persoonlijkheidsstoornissen]] ★10 — verstoorde emotieregulatie als kernkenmerk van Cluster B PS, met name Borderline
 
 ## Bronnen
 

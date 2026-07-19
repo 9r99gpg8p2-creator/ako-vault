@@ -43,3 +43,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Fascisme]]
 - [[Slavernij]]
 - [[Kapitalisme]]
+- [[Imperialisme]]
