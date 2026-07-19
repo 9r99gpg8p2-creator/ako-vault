@@ -2,51 +2,38 @@
 type: dagrapport
 date: 2026-07-19
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie-2
 ---
 
 # 2026-07-19 Dagrapport
 
 ## Daily Briefing
 
-Goedemorgen.
-
-Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 6 · Queue resterend: 0
+Nieuwe kennis: 7 · Inbox verwerkt: 0 · Verbindingen: 14 · Inzichten: 6 · Gaps: 3 nieuw · Leestijd: ~28 min
 
 ---
 
 ## Research Agenda
 
-1. **Neuropsychologische diagnostiek ASS** — ADOS-2 en ADI-R zijn nu uitgewerkt; volgende stap: specifiek neuropsychologisch profiel bij ASS in klinische praktijk (executief functietests, ToM-taken — dieper uitwerken met recente literatuur Lord et al.)
-2. **ACT — empirische onderbouwing verdiepen** — A-Tjak et al. (2015) meta-analyse als startpunt voor uitbreiding; ACT bij neuropsychologische patiëntengroepen (niet-aangeboren hersenletsel) is een onderontwikkeld gebied in de vault
-3. **Adorno en Milgram — historische psychologie verbreden** — verbindingen met Hannah Arendt ('Banaliteit van het Kwaad'), Philip Zimbardo (Stanford Prison Experiment) en huidige radicaliserings-literatuur
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-*Geen Inbox verwerkt deze run.*
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[Neuropsychologische Diagnostiek ASS (ADOS-2)]] ↔ [[Autisme Spectrum Stoornis]] · ★10
-2. [[Neuropsychologische Diagnostiek ASS (ADOS-2)]] ↔ [[Klinische Neuropsychologie]] · ★9
-3. [[Adorno en de Autoritaire Persoonlijkheid]] ↔ [[Totalitarisme]] · ★9
-4. [[Adorno en de Autoritaire Persoonlijkheid]] ↔ [[Morele Verantwoordelijkheid]] · ★9
-5. [[Acceptatie en Commitment Therapie]] ↔ [[Cognitieve Gedragstherapie]] · ★9
-6. [[Acceptatie en Commitment Therapie]] ↔ [[Stoïcisme]] · ★7
+1. **David Hume** (Filosofie) — de andere grote empirist naast Locke; causaliteit, scepticisme, en de is-ought kloof zijn onmisbaar voor de filosofische canon en de epistemologische basis van de gedragseconomie
+2. **Schematherapie** (Psychologie) — gericht op vroegkinderlijk trauma en maladaptieve schema's; directe relevantie voor MSc Klinische Neuropsychologie; verbindt Hechtingstheorie met Traumabehandeling
+3. **Kapitalisme** (Geschiedenis/Beleggen) — slavernij, de Industriële Revolutie en de moderne beurzen roepen de vraag op naar de bredere economische systeemgeschiedenis; ontbreekt als expliciete pagina
 
 ---
 
 ## Insight Feed
 
-— "Acceptatie en Commitment Therapie heeft de Stoïcijnse tweedeling — beheersbaar versus onbeheersbaar — in wetenschappelijk verfijnde therapievorm omgezet: waar Marcus Aurelius schreef over deugd ongeacht omstandigheid, leert ACT cliënten gedrag te richten op waarden terwijl zij moeilijke gedachten onbewogen observeren." [Filosofie → Psychologie · ★8]
+— "Slavernij liet niet alleen materiële ongelijkheid na, maar ook een psychologische wond die zonder naam geen behandeling vindt — en precies die naamloosheid is de diepste erfenis van dehumanisering." [Geschiedenis → Psychologie · ★9]
 
-— "De Holocaust was niet alleen een politiek project maar ook de uitkomst van miljoenen psychologische structuren die gehoorzaamheid, conformisme en agressie tegen outgroups combineerden — Adorno's kritische theorie verbindt karakterontwikkeling met historische catastrofe." [Filosofie × Geschiedenis × Psychologie · ★9]
+— "John Lockes tabula rasa is niet alleen een epistemologische these — het is een politiek argument: als de geest bij geboorte leeg is, zijn er geen aangeboren hiërarchieën, geen voorbestemd genie, geen biologisch gedetermineerde inferioriteit." [Filosofie → Psychologie → Geschiedenis · ★8]
 
-— "Iedere diagnostische categorie is ook een morele categorie: de ADOS-2 definieert een grens tussen neuronormatief en neurodivers functioneren, en roept de ethische vraag op wie het recht heeft die grens te trekken en met welk doel." [Psychologie → Filosofie · ★7]
+— "Derivaten versterken niet alleen de financiële risico's — zij versterken ook de psychologische biases van de belegger: wat zonder hefboom een beheersbaar gevoel van verlies zou zijn, wordt met opties of futures een existentiële dreiging." [Beleggen → Psychologie · ★8]
+
+— "Acceptatie en Commitment Therapie heeft de Stoïcijnse tweedeling — beheersbaar versus onbeheersbaar — in wetenschappelijk verfijnde therapievorm omgezet." [Filosofie → Psychologie · ★8]
+
+— "De Holocaust was niet alleen een politiek project maar ook de uitkomst van miljoenen psychologische structuren die gehoorzaamheid, conformisme en agressie combineerden." [Filosofie × Geschiedenis × Psychologie · ★9]
+
+— "Iedere diagnostische categorie is ook een morele categorie: de ADOS-2 definieert een grens tussen neuronormatief en neurodivers functioneren." [Psychologie → Filosofie · ★7]
 
 ---
 
@@ -54,13 +41,11 @@ Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 0 · Verbindingen v
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 100% | → |
-| Filosofie | 100% | ↑ |
-| Geschiedenis | 100% | → |
-| Beleggen | 100% | → |
-| **Algemeen** | **100%** | **→** |
-
-*Nieuwe pagina's: +3 (Neuropsychologische Diagnostiek ASS, Adorno en de Autoritaire Persoonlijkheid, Acceptatie en Commitment Therapie). Totaal: 159 wiki-pagina's.*
+| Psychologie | 89% | → |
+| Filosofie | 93% | ↑ |
+| Geschiedenis | 92% | ↑ |
+| Beleggen | 92% | ↑ |
+| **Algemeen** | **91%** | **↑** |
 
 ---
 
@@ -69,17 +54,36 @@ Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 0 · Verbindingen v
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 3 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 6 |
-| Nieuwe inzichten | 3 |
+| Nieuwe Wiki-pagina's | 7 |
+| Updates bestaande pagina's | 7 |
+| Nieuwe verbindingen | 14 |
+| Nieuwe inzichten | 6 |
 | Gaps gedicht | 3 |
-| Queue resterend | 0 |
+| Nieuwe gaps gesignaleerd | 3 |
+
+**Nieuwe pagina's (expansie-1):**
+- [[Pragmatisme]] · [[Fascisme]] · [[Duurzaam Beleggen]] · [[Autisme Spectrum Stoornis]]
+
+**Nieuwe pagina's (expansie-2):**
+- [[Derivaten]] (Beleggen)
+- [[John Locke]] (Filosofie)
+- [[Slavernij]] (Geschiedenis)
+- [[Traumabehandeling]] (Psychologie)
+
+**Nieuwe inzichtpagina's (expansie-2):**
+- De Wond die Geen Datum Heeft (Geschiedenis → Psychologie)
+- De Lege Lei als Politiek Argument (Filosofie → Psychologie → Geschiedenis)
+- Hefboom op de Emotie (Beleggen → Psychologie)
+
+**Gaps gesignaleerd → Task Queue:**
+- David Hume (Filosofie) ↓
+- Schematherapie (Psychologie) ↓
+- Kapitalisme (Geschiedenis/Beleggen) ↓
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Geen kritieke issues gedetecteerd
-- [ ] Suggestie: Adorno — Hannah Arendt verbinding nog niet uitgewerkt in vault
-- [ ] Suggestie: ACT bij neuropsychologische patiëntengroepen verdient eigen pagina op langere termijn
+- [ ] David Hume ontbreekt als sleutelfiguur in het filosofisch empirisme (Locke-cluster incompleet)
+- [ ] Schematherapie verdient eigen pagina: direct relevant voor MSc KNP-doelstelling
+- [ ] Kapitalisme als historisch-economisch systeem is fundamenteel maar afwezig in vault

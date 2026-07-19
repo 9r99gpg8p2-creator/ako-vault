@@ -58,6 +58,7 @@ De Verlichting had haar intellectuele wortels in de Wetenschappelijke Revolutie 
 **Cross-domein:**
 - [[Vrije Wil]] — verbinding: de Verlichting bevorderde het idee van de autonome, rationele mens — direct verbonden aan het filosofische concept van vrije wil en zelfbeschikking
 - [[Morele Verantwoordelijkheid]] — verbinding: Verlichtingsethiek (Kant, utilitarisme) formuleerde seculiere grondslagen voor morele verantwoordelijkheid zonder goddelijk gebod
+- [[John Locke]] ★9 — Locke is de epistemologische en politieke architect van de Verlichting; zijn empirisme en contracttheorie zijn de fundering van de Verlichtingsbeweging
 
 ## Bronnen
 

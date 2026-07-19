@@ -41,3 +41,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Weimar Republiek]]
 - [[Het Ottomaanse Rijk]]
 - [[Fascisme]]
+- [[Slavernij]]

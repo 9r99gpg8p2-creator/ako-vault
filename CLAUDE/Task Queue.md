@@ -158,6 +158,12 @@ type: operationeel
 
 ---
 
+| ↓ | 2026-07-19T expansie-2 | Agent 3 | Gap: David Hume | Ontbreekt: sleutelfiguur empirisme (Locke-cluster incompleet); causaliteitskritiek en scepticisme zijn fundamenteel voor Filosofie én Gedragseconomie |
+| ↓ | 2026-07-19T expansie-2 | Agent 3 | Gap: Schematherapie | Ontbreekt: behandeling van complexe trauma via vroegkinderlijke schema's; direct MSc KNP-relevant; verbindt Hechtingstheorie + Traumabehandeling |
+| ↓ | 2026-07-19T expansie-2 | Agent 3 | Gap: Kapitalisme | Ontbreekt: fundamenteel economisch-historisch systeem; Slavernij + Industriële Revolutie roepen dit op; cross-domein Geschiedenis × Beleggen |
+
+---
+
 ## Prioriteitsvolgorde
 
 1. Gebruikersverzoek (hoogste prioriteit)

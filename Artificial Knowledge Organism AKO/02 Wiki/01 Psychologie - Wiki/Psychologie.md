@@ -87,3 +87,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Autisme Spectrum Stoornis]]
 - [[Neuropsychologische Diagnostiek ASS (ADOS-2)]]
 - [[Acceptatie en Commitment Therapie]]
+- [[Traumabehandeling]]

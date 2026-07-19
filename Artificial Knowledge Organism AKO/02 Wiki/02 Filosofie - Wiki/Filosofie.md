@@ -44,3 +44,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Historisch Materialisme]]
 - [[Pragmatisme]]
 - [[Adorno en de Autoritaire Persoonlijkheid]]
+- [[John Locke]]

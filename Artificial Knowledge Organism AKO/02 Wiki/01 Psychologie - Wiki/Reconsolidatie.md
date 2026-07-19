@@ -54,6 +54,7 @@ Tot het jaar 2000 gold de klassieke consolidatietheorie: een herinnering wordt e
 - [[Werkgeheugen]] — oorzaak/gevolg: werkgeheugen activeert langetermijnherinneringen en initieert daarmee het reconsolidatievenster
 - [[Executieve Functies]] — aanvulling: prefrontale sturing is betrokken bij de regulatie van reconsolidatieprocessen
 - [[PTSD]] ★9 — toepassing: reconsolidatievenster is het mechanisme achter EMDR en propranolol-behandeling bij trauma
+- [[Traumabehandeling]] ★9 — reconsolidatie biedt de neurowetenschappelijke grondslag voor waarom psychotherapeutische traumabehandeling het geheugen daadwerkelijk kan modificeren
 
 **Cross-domein:**
 - [[Vrije Wil]] — als herinneringen modificeerbaar zijn via reconsolidatie, raakt dit aan filosofische vragen over de constructie van het zelf en persoonlijke identiteit

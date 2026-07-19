@@ -1070,3 +1070,29 @@ type: operationeel
 | 2026-07-19 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Neuropsychologische Diagnostiek ASS, Acceptatie en Commitment Therapie) · Filosofie: +1 (Adorno en de Autoritaire Persoonlijkheid) |
 | 2026-07-19 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-19 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 91% · 159 wiki-pagina's totaal |
+| 2026-07-19 | expansie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-19 | expansie-2 | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met _ prefix — STAP 1.5 overgeslagen |
+| 2026-07-19 | expansie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-19 | expansie-2 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Derivaten (Beleggen — minste pages), John Locke (Filosofie — ontbrekende sleutelfiguur), Slavernij (Geschiedenis — groot gap), Traumabehandeling (Psychologie — MSc KNP-relevant) |
+| 2026-07-19 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Derivaten.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-19 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | John Locke.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-19 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Slavernij.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-19 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Traumabehandeling.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-19 | expansie-2 | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: David Hume (Fil), Schematherapie (Psych), Kapitalisme (Gesch×Beleg) |
+| 2026-07-19 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Slavernij — Postkoloniale Psychologie.md — sterkte ★9 — Geschiedenis × Psychologie |
+| 2026-07-19 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Derivaten — Verliesaversie.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-19 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | John Locke — De Verlichting.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-19 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Traumabehandeling — Reconsolidatie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-19 | expansie-2 | Agent 4 | Back-links bijgewerkt | ✓ | 4 bestaande pagina's bijgewerkt: Postkoloniale Psychologie, Verliesaversie, De Verlichting, Reconsolidatie |
+| 2026-07-19 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Wond die Geen Datum Heeft.md — Geschiedenis → Psychologie — sterkte ★9 |
+| 2026-07-19 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Lege Lei als Politiek Argument.md — Filosofie → Psychologie → Geschiedenis — sterkte ★8 |
+| 2026-07-19 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Hefboom op de Emotie.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-19 | expansie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-19 Dagrapport.md — expansie-2 modus — 4 wiki-pagina's, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-19 | expansie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-19 Quiz.md — 3 vragen toegevoegd (Locke+Behaviorisme, Traumabehandeling+EMDR, Slavernij+PostkolonialePsychologie) |
+| 2026-07-19 | expansie-2 | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-19 | expansie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Coverage 100%, Connectivity 100%, Orphan 0% — Psych 89%, Fil 93%, Gesch 92%, Beleg 92% |
+| 2026-07-19 | expansie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven — 163 wiki-pagina's totaal |
+| 2026-07-19 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Traumabehandeling) · Filosofie: +1 (John Locke) · Geschiedenis: +1 (Slavernij) · Beleggen: +1 (Derivaten) |
+| 2026-07-19 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-19 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps toegevoegd ↓: David Hume, Schematherapie, Kapitalisme |
+| 2026-07-19 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% · 163 wiki-pagina's totaal |
