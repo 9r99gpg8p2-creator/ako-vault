@@ -2,7 +2,7 @@
 type: dagrapport
 date: 2026-07-19
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 # 2026-07-19 Dagrapport
@@ -11,39 +11,56 @@ modus: expansie
 
 Goedemorgen.
 
-Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 (geen nieuwe bestanden) · Verbindingen: 4 · Inzichten: 3 · Gaps: 3 · Leestijd: ~16 min
+Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 6 · Queue resterend: 0
 
 ---
 
 ## Research Agenda
 
-1. **Autisme Spectrum Stoornis (verdieping)** — directe relevantie voor MSc Klinische Neuropsychologie; neuroimaging en diagnostische instrumenten verdienen aparte pagina's (ADOS-2, ADI-R)
-2. **Pragmatisme — toepassingen in psychotherapie** — de pragmatistische filosofie van handelen-als-kennis is de basis van gedragsactivatie in CGT en ACT; cross-domein brug is waardevol
-3. **Fascisme en psychologie van de massa** — Adorno's Autoritaire Persoonlijkheid en Milgrams gehoorzaamheidsonderzoek sluiten direct aan bij het nieuwe Fascisme-artikel
+1. **Neuropsychologische diagnostiek ASS** — ADOS-2 en ADI-R zijn nu uitgewerkt; volgende stap: specifiek neuropsychologisch profiel bij ASS in klinische praktijk (executief functietests, ToM-taken — dieper uitwerken met recente literatuur Lord et al.)
+2. **ACT — empirische onderbouwing verdiepen** — A-Tjak et al. (2015) meta-analyse als startpunt voor uitbreiding; ACT bij neuropsychologische patiëntengroepen (niet-aangeboren hersenletsel) is een onderontwikkeld gebied in de vault
+3. **Adorno en Milgram — historische psychologie verbreden** — verbindingen met Hannah Arendt ('Banaliteit van het Kwaad'), Philip Zimbardo (Stanford Prison Experiment) en huidige radicaliserings-literatuur
+
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+*Geen Inbox verwerkt deze run.*
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Neuropsychologische Diagnostiek ASS (ADOS-2)]] ↔ [[Autisme Spectrum Stoornis]] · ★10
+2. [[Neuropsychologische Diagnostiek ASS (ADOS-2)]] ↔ [[Klinische Neuropsychologie]] · ★9
+3. [[Adorno en de Autoritaire Persoonlijkheid]] ↔ [[Totalitarisme]] · ★9
+4. [[Adorno en de Autoritaire Persoonlijkheid]] ↔ [[Morele Verantwoordelijkheid]] · ★9
+5. [[Acceptatie en Commitment Therapie]] ↔ [[Cognitieve Gedragstherapie]] · ★9
+6. [[Acceptatie en Commitment Therapie]] ↔ [[Stoïcisme]] · ★7
 
 ---
 
 ## Insight Feed
 
-— "Een geest die structureel niet kan begrijpen dat andere geesten eigen inhoud hebben, illustreert het meest radicale epistemologische probleem dat de pragmatistische kennis­filosofie kon voorzien." [Psychologie → Filosofie · ★9]
+— "Acceptatie en Commitment Therapie heeft de Stoïcijnse tweedeling — beheersbaar versus onbeheersbaar — in wetenschappelijk verfijnde therapievorm omgezet: waar Marcus Aurelius schreef over deugd ongeacht omstandigheid, leert ACT cliënten gedrag te richten op waarden terwijl zij moeilijke gedachten onbewogen observeren." [Filosofie → Psychologie · ★8]
 
-— "Fascistische regimes zijn niet de triomf van het kwaad maar het falen van de institutionele architectuur die gewone mensen verplicht moreel te oordelen." [Geschiedenis → Filosofie · ★9]
+— "De Holocaust was niet alleen een politiek project maar ook de uitkomst van miljoenen psychologische structuren die gehoorzaamheid, conformisme en agressie tegen outgroups combineerden — Adorno's kritische theorie verbindt karakterontwikkeling met historische catastrofe." [Filosofie × Geschiedenis × Psychologie · ★9]
 
-— "Duurzaam beleggen vertaalt normatieve ethiek in marktprikkels — en maakt de filosofische stelling dat ethiek consequenties moet hebben, letterlijk meetbaar in miljarden euro's rendement." [Beleggen → Filosofie · ★8]
+— "Iedere diagnostische categorie is ook een morele categorie: de ADOS-2 definieert een grens tussen neuronormatief en neurodivers functioneren, en roept de ethische vraag op wie het recht heeft die grens te trekken en met welk doel." [Psychologie → Filosofie · ★7]
 
 ---
 
 ## Knowledge Health
 
-| Discipline | Pagina's | Coverage | Score | Trend |
-|---|---|---|---|---|
-| Psychologie | 72 | 100% | 100% | ↑ |
-| Filosofie | 30 | 100% | 100% | ↑ |
-| Geschiedenis | 28 | 100% | 100% | ↑ |
-| Beleggen | 26 | 100% | 100% | ↑ |
-| **Algemeen** | **156** | **100%** | **100%** | **↑** |
+| Discipline | Score | Trend |
+|---|---|---|
+| Psychologie | 100% | → |
+| Filosofie | 100% | ↑ |
+| Geschiedenis | 100% | → |
+| Beleggen | 100% | → |
+| **Algemeen** | **100%** | **→** |
 
-*Coverage = wiki-pagina's / (20 × 4 disciplines) = 156/80; score = Coverage×0.3 + Connectivity×0.3 + (1−Orphan%)×0.4*
+*Nieuwe pagina's: +3 (Neuropsychologische Diagnostiek ASS, Adorno en de Autoritaire Persoonlijkheid, Acceptatie en Commitment Therapie). Totaal: 159 wiki-pagina's.*
 
 ---
 
@@ -52,18 +69,17 @@ Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 (geen nieuwe bestande
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen | 4 |
+| Nieuwe Wiki-pagina's | 3 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe verbindingen | 6 |
 | Nieuwe inzichten | 3 |
-| Gaps gedicht | 0 |
-| Nieuwe gaps gesignaleerd | 3 |
+| Gaps gedicht | 3 |
+| Queue resterend | 0 |
 
 ---
 
 ## Aandacht vereist
 
 - [ ] Geen kritieke issues gedetecteerd
-- [ ] Gap: ADOS-2 / Neuropsychologische diagnostiek ASS (Psychologie)
-- [ ] Gap: Adorno — Autoritaire Persoonlijkheid (Filosofie × Geschiedenis)
-- [ ] Gap: Acceptatie en Commitment Therapie / ACT (Psychologie — klinisch)
+- [ ] Suggestie: Adorno — Hannah Arendt verbinding nog niet uitgewerkt in vault
+- [ ] Suggestie: ACT bij neuropsychologische patiëntengroepen verdient eigen pagina op langere termijn

@@ -152,9 +152,9 @@ type: operationeel
 
 ---
 
-| ↓ | 2026-07-19T expansie | Agent 3 | Gap: Neuropsychologische Diagnostiek ASS (ADOS-2) | Pagina over diagnostische instrumenten voor ASS: ADOS-2, ADI-R, neuropsychologisch profiel — direct relevant voor MSc KNP |
-| ↓ | 2026-07-19T expansie | Agent 3 | Gap: Adorno Autoritaire Persoonlijkheid | Aanvulling op Fascisme-pagina: Adorno's F-schaal, Milgram, massapsychologie — Filosofie × Geschiedenis × Psychologie |
-| ↓ | 2026-07-19T expansie | Agent 3 | Gap: Acceptatie en Commitment Therapie (ACT) | Derde-generatie gedragstherapie; psychologische flexibiliteit; mindfulness; klinisch relevant voor MSc KNP |
+| ✓ | 2026-07-19T expansie | Agent 3 | Gap: Neuropsychologische Diagnostiek ASS (ADOS-2) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Neuropsychologische Diagnostiek ASS (ADOS-2).md — confidence 5 |
+| ✓ | 2026-07-19T expansie | Agent 3 | Gap: Adorno Autoritaire Persoonlijkheid | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Adorno en de Autoritaire Persoonlijkheid.md — confidence 5 |
+| ✓ | 2026-07-19T expansie | Agent 3 | Gap: Acceptatie en Commitment Therapie (ACT) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Acceptatie en Commitment Therapie.md — confidence 5 |
 
 ---
 

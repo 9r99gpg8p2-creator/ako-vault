@@ -1047,3 +1047,26 @@ type: operationeel
 | 2026-07-19 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-19 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps toegevoegd ↓ |
 | 2026-07-19 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% · 156 wiki-pagina's totaal |
+| 2026-07-19 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-19 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen bestanden zonder _ prefix — STAP 1.5 overgeslagen |
+| 2026-07-19 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence 5. |
+| 2026-07-19 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 queue ↓ items geselecteerd: Neuropsychologische Diagnostiek ASS/ADOS-2, Adorno Autoritaire Persoonlijkheid, ACT |
+| 2026-07-19 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Neuropsychologische Diagnostiek ASS (ADOS-2).md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-19 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Adorno en de Autoritaire Persoonlijkheid.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-19 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Acceptatie en Commitment Therapie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuropsychologische Diagnostiek ASS — Autisme Spectrum Stoornis.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuropsychologische Diagnostiek ASS — Klinische Neuropsychologie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Adorno en de Autoritaire Persoonlijkheid — Totalitarisme.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Adorno en de Autoritaire Persoonlijkheid — Morele Verantwoordelijkheid.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Acceptatie en Commitment Therapie — Cognitieve Gedragstherapie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Acceptatie en Commitment Therapie — Stoïcisme.md — sterkte ★7 — Psychologie × Filosofie |
+| 2026-07-19 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Filosoof als Therapeut.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-19 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Karakter dat de Geschiedenis Maakt.md — Filosofie × Geschiedenis × Psychologie — sterkte ★9 |
+| 2026-07-19 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Diagnose als Grenslijn.md — Psychologie → Filosofie — sterkte ★7 |
+| 2026-07-19 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-19 Dagrapport.md — consolidatiemodus — 3 gaps, 6 verbindingen, 3 inzichten |
+| 2026-07-19 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-19 Quiz.md — 3 vragen toegevoegd (ADOS-2, ACT, Adorno/Milgram) |
+| 2026-07-19 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Coverage 100%, Connectivity 100%, Orphan 0% — Psych 89%, Fil 92%, Gesch 91%, Beleg 91% |
+| 2026-07-19 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven: 159 wiki-pagina's totaal |
+| 2026-07-19 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Neuropsychologische Diagnostiek ASS, Acceptatie en Commitment Therapie) · Filosofie: +1 (Adorno en de Autoritaire Persoonlijkheid) |
+| 2026-07-19 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-19 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 91% · 159 wiki-pagina's totaal |
