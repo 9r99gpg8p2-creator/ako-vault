@@ -14,11 +14,11 @@ updated: 2026-07-19
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 74 | 100% | 100% | **89%** | → |
-| Filosofie | 31 | 100% | 100% | **93%** | ↑ |
-| Geschiedenis | 28 | 100% | 100% | **92%** | ↑ |
-| Beleggen | 26 | 100% | 100% | **92%** | ↑ |
-| **Overall** | **163** | 100% | ~100% | **91%** | ↑ |
+| Psychologie | 76 | 100% | 100% | **91%** | ↑ |
+| Filosofie | 33 | 100% | 100% | **94%** | ↑ |
+| Geschiedenis | 30 | 100% | 100% | **93%** | ↑ |
+| Beleggen | 27 | 100% | 100% | **92%** | → |
+| **Overall** | **166** | 100% | ~100% | **92%** | ↑ |
 
 *Alle vier disciplines: ≥ 20 pagina's · 100% coverage · hoge connectivity.*
 
@@ -28,32 +28,32 @@ updated: 2026-07-19
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 163 |
-| Relatie- en inzichtpagina's | 327 (inclusief nieuwe relatie- en inzichtpagina's) |
+| Totale Wiki-pagina's | 166 |
+| Relatie- en inzichtpagina's | 339 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-19 expansie-2-run)
+## Sessie-activiteit (2026-07-19 consolidatie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe relatiepagina's | 4 |
+| Nieuwe Wiki-pagina's | 3 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe relatiepagina's | 9 |
 | Nieuwe inzichtpagina's | 3 |
-| Gaps gedicht | 0 |
-| Nieuwe gaps gesignaleerd | 3 |
-| Queue resterend | 3 ↓ |
+| Gaps gedicht | 3 (David Hume, Schematherapie, Kapitalisme) |
+| Nieuwe gaps gesignaleerd | 0 |
+| Queue resterend | 0 ↓ |
 
 ---
 
 ## Hubs
 
-- [[Psychologie]] — 74 pagina's
-- [[Filosofie]] — 31 pagina's
-- [[Geschiedenis]] — 28 pagina's
-- [[Beleggen]] — 26 pagina's
+- [[Psychologie]] — 76 pagina's
+- [[Filosofie]] — 33 pagina's
+- [[Geschiedenis]] — 30 pagina's
+- [[Beleggen]] — 27 pagina's

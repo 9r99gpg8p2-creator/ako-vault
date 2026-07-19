@@ -45,3 +45,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Pragmatisme]]
 - [[Adorno en de Autoritaire Persoonlijkheid]]
 - [[John Locke]]
+- [[David Hume]]

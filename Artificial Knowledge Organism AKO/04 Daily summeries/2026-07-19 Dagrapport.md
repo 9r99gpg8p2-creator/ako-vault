@@ -2,38 +2,56 @@
 type: dagrapport
 date: 2026-07-19
 tags: [dagrapport]
-modus: expansie-2
+modus: consolidatie
 ---
-
-# 2026-07-19 Dagrapport
 
 ## Daily Briefing
 
-Nieuwe kennis: 7 · Inbox verwerkt: 0 · Verbindingen: 14 · Inzichten: 6 · Gaps: 3 nieuw · Leestijd: ~28 min
+Goedemorgen.
+
+Nieuwe kennis:          3 concepten (David Hume, Schematherapie, Kapitalisme)
+Nieuwe artikelen:       0 (Wikipedia API onbereikbaar — interne kennis gebruikt)
+Nieuwe verbindingen:    9 relaties · 3 inzichten
+Kennishiaten:           0 nieuwe gaps · queue leeg na deze run
+Aanbevolen leestijd:    12 minuten
 
 ---
 
-## Research Agenda
+## Pagina's Bijgewerkt via Inbox
 
-1. **David Hume** (Filosofie) — de andere grote empirist naast Locke; causaliteit, scepticisme, en de is-ought kloof zijn onmisbaar voor de filosofische canon en de epistemologische basis van de gedragseconomie
-2. **Schematherapie** (Psychologie) — gericht op vroegkinderlijk trauma en maladaptieve schema's; directe relevantie voor MSc Klinische Neuropsychologie; verbindt Hechtingstheorie met Traumabehandeling
-3. **Kapitalisme** (Geschiedenis/Beleggen) — slavernij, de Industriële Revolutie en de moderne beurzen roepen de vraag op naar de bredere economische systeemgeschiedenis; ontbreekt als expliciete pagina
+*(geen Inbox-bestanden verwerkt deze run — alle bestanden beginnen met _)*
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[David Hume]] ↔ [[Empirisme]] · ★9
+2. [[David Hume]] ↔ [[Immanuel Kant]] · ★9
+3. [[David Hume]] ↔ [[Gedragseconomie]] · ★8
+4. [[Schematherapie]] ↔ [[Hechtingstheorie]] · ★9
+5. [[Schematherapie]] ↔ [[Cognitieve Gedragstherapie]] · ★9
+6. [[Schematherapie]] ↔ [[PTSD]] · ★8
+7. [[Kapitalisme]] ↔ [[Industriële Revolutie]] · ★10
+8. [[Kapitalisme]] ↔ [[Slavernij]] · ★9
+9. [[Kapitalisme]] ↔ [[Gedragseconomie]] · ★8
 
 ---
 
 ## Insight Feed
 
-— "Slavernij liet niet alleen materiële ongelijkheid na, maar ook een psychologische wond die zonder naam geen behandeling vindt — en precies die naamloosheid is de diepste erfenis van dehumanisering." [Geschiedenis → Psychologie · ★9]
+— "Drie eeuwen voor de gedragseconomie beschreef Hume waarom markten niet rationeel zijn: passie bepaalt wat beleggers doen, niet wat ze zouden moeten doen." [Filosofie → Beleggen · ★9]
 
-— "John Lockes tabula rasa is niet alleen een epistemologische these — het is een politiek argument: als de geest bij geboorte leeg is, zijn er geen aangeboren hiërarchieën, geen voorbestemd genie, geen biologisch gedetermineerde inferioriteit." [Filosofie → Psychologie → Geschiedenis · ★8]
+— "Vroegkinderlijke schema's zijn geen herinneringen maar stille structuren — Hume's bundle theory in therapeutische praktijk: het zelf is geen kern maar een patroon van aangeleerde reacties." [Psychologie → Filosofie · ★8]
 
-— "Derivaten versterken niet alleen de financiële risico's — zij versterken ook de psychologische biases van de belegger: wat zonder hefboom een beheersbaar gevoel van verlies zou zijn, wordt met opties of futures een existentiële dreiging." [Beleggen → Psychologie · ★8]
+— "Kapitalisme is niet alleen een economisch systeem maar een historische structuur die psychologische littekens doorgeeft aan volgende generaties via slavernij en koloniale extractie." [Geschiedenis → Psychologie · ★8]
 
-— "Acceptatie en Commitment Therapie heeft de Stoïcijnse tweedeling — beheersbaar versus onbeheersbaar — in wetenschappelijk verfijnde therapievorm omgezet." [Filosofie → Psychologie · ★8]
+---
 
-— "De Holocaust was niet alleen een politiek project maar ook de uitkomst van miljoenen psychologische structuren die gehoorzaamheid, conformisme en agressie combineerden." [Filosofie × Geschiedenis × Psychologie · ★9]
+## Research Agenda
 
-— "Iedere diagnostische categorie is ook een morele categorie: de ADOS-2 definieert een grens tussen neuronormatief en neurodivers functioneren." [Psychologie → Filosofie · ★7]
+Prioriteit 1: Complexe PTSD en Schematherapie — directe MSc KNP-relevantie; verdieping na verdere praktijkliteratuur
+Prioriteit 2: Empirisme-cluster completeren — John Locke en David Hume aanwezig; Berkeley zou het triumviraat afsluiten
+Prioriteit 3: Kapitalisme × Kolonialisme cross-domein — verdere verdieping via Kolonialisme-pagina en dekolonisatie
 
 ---
 
@@ -41,11 +59,10 @@ Nieuwe kennis: 7 · Inbox verwerkt: 0 · Verbindingen: 14 · Inzichten: 6 · Gap
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 89% | → |
+| Psychologie | 91% | → |
 | Filosofie | 93% | ↑ |
-| Geschiedenis | 92% | ↑ |
-| Beleggen | 92% | ↑ |
-| **Algemeen** | **91%** | **↑** |
+| Geschiedenis | 92% | → |
+| Beleggen | 92% | → |
 
 ---
 
@@ -53,37 +70,15 @@ Nieuwe kennis: 7 · Inbox verwerkt: 0 · Verbindingen: 14 · Inzichten: 6 · Gap
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 7 |
-| Updates bestaande pagina's | 7 |
-| Nieuwe verbindingen | 14 |
-| Nieuwe inzichten | 6 |
-| Gaps gedicht | 3 |
-| Nieuwe gaps gesignaleerd | 3 |
-
-**Nieuwe pagina's (expansie-1):**
-- [[Pragmatisme]] · [[Fascisme]] · [[Duurzaam Beleggen]] · [[Autisme Spectrum Stoornis]]
-
-**Nieuwe pagina's (expansie-2):**
-- [[Derivaten]] (Beleggen)
-- [[John Locke]] (Filosofie)
-- [[Slavernij]] (Geschiedenis)
-- [[Traumabehandeling]] (Psychologie)
-
-**Nieuwe inzichtpagina's (expansie-2):**
-- De Wond die Geen Datum Heeft (Geschiedenis → Psychologie)
-- De Lege Lei als Politiek Argument (Filosofie → Psychologie → Geschiedenis)
-- Hefboom op de Emotie (Beleggen → Psychologie)
-
-**Gaps gesignaleerd → Task Queue:**
-- David Hume (Filosofie) ↓
-- Schematherapie (Psychologie) ↓
-- Kapitalisme (Geschiedenis/Beleggen) ↓
+| Nieuwe Wiki-pagina's | 3 |
+| Nieuwe sub-hubs | 0 |
+| Nieuwe verbindingen | 9 |
+| Gaps gedicht | 3 (David Hume, Schematherapie, Kapitalisme) |
+| Merges uitgevoerd | 0 |
 
 ---
 
 ## Aandacht vereist
 
-- [ ] David Hume ontbreekt als sleutelfiguur in het filosofisch empirisme (Locke-cluster incompleet)
-- [ ] Schematherapie verdient eigen pagina: direct relevant voor MSc KNP-doelstelling
-- [ ] Kapitalisme als historisch-economisch systeem is fundamenteel maar afwezig in vault
+- [ ] Wikipedia API nog steeds onbereikbaar (E-003) — confidence nieuwe pagina's: 5
+- [ ] Queue nu leeg — volgende run start nieuwe expansie of Inbox-scan

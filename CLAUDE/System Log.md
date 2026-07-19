@@ -1096,3 +1096,30 @@ type: operationeel
 | 2026-07-19 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-19 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps toegevoegd ↓: David Hume, Schematherapie, Kapitalisme |
 | 2026-07-19 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% · 163 wiki-pagina's totaal |
+| 2026-07-19 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-19 | consolidatie | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met _ prefix — STAP 1.5 overgeslagen |
+| 2026-07-19 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-19 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 queue ↓ items geselecteerd: David Hume (Fil), Schematherapie (Psych), Kapitalisme (Gesch×Beleg) |
+| 2026-07-19 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | David Hume.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-19 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Schematherapie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-19 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Kapitalisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | David Hume — Empirisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | David Hume — Immanuel Kant.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | David Hume — Gedragseconomie.md — sterkte ★8 — Filosofie × Beleggen |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Schematherapie — Hechtingstheorie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Schematherapie — Cognitieve Gedragstherapie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Schematherapie — PTSD.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Kapitalisme — Industriële Revolutie.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Kapitalisme — Slavernij.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-19 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Kapitalisme — Gedragseconomie.md — sterkte ★8 — Geschiedenis × Beleggen |
+| 2026-07-19 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Hume had Gelijk over de Markt.md — Filosofie → Beleggen — sterkte ★9 |
+| 2026-07-19 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Schema als Onzichtbare Kooi.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-19 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Kapitalisme Schrijft Zijn Slachtoffers in de Psyche.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-19 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-19 Dagrapport.md — consolidatiemodus — 3 gaps, 9 verbindingen, 3 inzichten, queue leeg |
+| 2026-07-19 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-19 Quiz.md — 3 vragen toegevoegd (David Hume/causaliteit, Schematherapie/borderline, Kapitalisme/EMH) |
+| 2026-07-19 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 92% — Psych 91% (76 pag's), Fil 94% (33 pag's), Gesch 93% (30 pag's), Beleg 92% (27 pag's) |
+| 2026-07-19 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven — 166 wiki-pagina's totaal |
+| 2026-07-19 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Schematherapie) · Filosofie: +1 (David Hume) · Geschiedenis: +1 (Kapitalisme) · Beleggen: +0 |
+| 2026-07-19 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-19 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue leeg (0 items ↓) |
+| 2026-07-19 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 9 verbindingen · 3 inzichten · Health: 92% · 166 wiki-pagina's totaal |
