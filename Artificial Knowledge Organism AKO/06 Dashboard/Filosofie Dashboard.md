@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, filosofie]
-updated: 2026-07-18
+updated: 2026-07-19
 ---
 
 # Filosofie Dashboard
@@ -14,28 +14,24 @@ updated: 2026-07-18
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 29 |
-| Coverage | 100% (29/20) |
+| Pagina's | 30 |
+| Coverage | 100% (30/20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
 | **Score** | **92%** |
-| Trend | ↑ |
+| Trend | → |
 
 ---
 
-## Nieuw deze sessie (2026-07-18 consolidatie-run 2)
+## Nieuw deze sessie (2026-07-19 expansie)
 
-- [[Historisch Materialisme]] — Marx's materialistische omzetting van Hegels dialectiek; basis/bovenbouw; klassenstrijd; aliënatie; historische stadia van productiewijzen
+- [[Pragmatisme]] — Amerikaanse filosofie van James, Peirce en Dewey; waarheid als bruikbaarheid; fallibilisme; instrumentalisme; grondslag voor behaviorisme en functionalisme
 
 ## Cross-domein bruggen
 
+- [[Pragmatisme]] → [[Behaviorisme]] (James' functionalisme als filosofisch fundament van behavioristische psychologie; ★8)
+- [[Pragmatisme]] → [[Epistemologie]] (pragmatisch waarheidsbegrip als alternatief voor correspondentietheorie; ★9)
+- [[Duurzaam Beleggen]] → [[Ethiek]] (normatieve ethiek toegepast op financiële besluitvorming; ★9)
+- [[Fascisme]] → [[Morele Verantwoordelijkheid]] (collectieve schuld en individuele toerekenbaarheid onder totalitaire druk; ★9)
 - [[Historisch Materialisme]] → [[Russische Revolutie]] (directe historische toepassing van marxistische theorie; ★9)
 - [[Historisch Materialisme]] → [[Gedragseconomie]] (systeem- vs. individueel-niveau van economische analyse; ★8)
-- [[Hegel]] → [[Immanuel Kant]] (dialectische opheffing van het Kantiaanse Ding-an-sich; ★9)
-- [[Hegel]] → [[Epistemologie]] (kennen en zijn vallen samen in de Absolute Geest; ★9)
-- [[Politieke Filosofie]] → [[Ethiek]] (deontologie en utilitarisme als grondslag voor politieke rechtvaardigheid; ★9)
-- [[Politieke Filosofie]] → [[Sociale Ontologie]] (ontologisch fundament van politieke instituties; ★8)
-- [[Functionalisme]] → [[Werkgeheugen]] (functionalistisch model van geheugenarchitectuur; ★7)
-- [[René Descartes]] → [[Filosofie van de Geest]] (cartesiaans dualisme als startpunt van de discipline; ★9)
-- [[Socrates]] → [[Cognitieve Gedragstherapie]] (socratisch bevragen als therapeutische techniek; ★8)
-- [[Nietzsche]] → [[Verliesaversie]] (ressentiment en verliesaversie als psychologisch verwante mechanismen; ★7)

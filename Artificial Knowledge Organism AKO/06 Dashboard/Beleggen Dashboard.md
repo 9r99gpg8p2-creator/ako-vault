@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, beleggen]
-updated: 2026-07-18
+updated: 2026-07-19
 ---
 
 # Beleggen Dashboard
@@ -14,24 +14,23 @@ updated: 2026-07-18
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 25 |
+| Pagina's | 26 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
 | **Score** | **91%** |
-| Trend | ↑ |
+| Trend | → |
 
 ---
 
-## Nieuw deze sessie (2026-07-18 consolidatie-run 2)
+## Nieuw deze sessie (2026-07-19 expansie)
 
-- [[Actief Beleggen]] — stock picking, market timing, alpha, disposition effect, Sharpe's rekenkundige tekortkoming; tegenhanger van Passief Beleggen
+- [[Duurzaam Beleggen]] — ESG-criteria (Environmental, Social, Governance); uitsluitingsbeleid; impact investing; engagement; green bonds; ethische financiële besluitvorming
 
 ## Cross-domein bruggen
 
+- [[Duurzaam Beleggen]] → [[Ethiek]] (normatieve ethiek in financiële besluitvorming; ★9)
+- [[Duurzaam Beleggen]] → [[Gedragseconomie]] (identiteitsconform gedrag en morele intuïties sturen ESG-keuzes; ★8)
+- [[Duurzaam Beleggen]] → [[Risicoperceptie]] (ESG-risico's als cognitief construct bij beleggingsbeslissingen; ★7)
 - [[Actief Beleggen]] → [[Verliesaversie]] (disposition effect als uitdrukking van verliesaversie bij actieve beleggers; ★8)
-- [[Actief Beleggen]] ← [[Efficiënte Markthypothese]] (EMH als theoretisch argument tégen actief beleggen; ★9)
-- [[Passief Beleggen]] → [[Gedragseconomie]] (gedragsbiases verklaren structurele onderperformance actieve beleggers; ★8)
-- [[Passief Beleggen]] → [[Prospect Theory]] (verliesaversie drijft actief handelen ondanks bewijs voor passieve superioriteit; ★7)
-- [[Rente]] → [[Verliesaversie]] (rentestijgingen activeren verliesaversie via koersdalingen; ★7)
 - [[Rente]] → [[Monetair Beleid]] (centrale bank stuurt beleidsrente als transmissiemechanisme; ★9)

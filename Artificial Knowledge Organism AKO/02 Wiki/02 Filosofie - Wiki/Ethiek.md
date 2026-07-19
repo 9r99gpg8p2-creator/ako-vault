@@ -60,6 +60,7 @@ In de hedendaagse context is toegepaste ethiek — met name **bio-medische ethie
 **Cross-domein:**
 - [[Morele Verantwoordelijkheid]] — deontologie, consequentialisme en deugdethiek bieden elk een ander oordeel over aansprakelijkheid bij neurologische stoornissen
 - [[Totalitarisme]] — totalitaire regimes zijn gekenmerkt door de systematische schending van ethische basisprincipes (autonomie, menswaardigheid); ethiek biedt het vocabulaire voor kritiek
+- [[Duurzaam Beleggen]] ★9 — ESG-beleggingsbeleid is de praktische toepassing van normatieve ethiek (deontologisch uitsluitingsbeleid, utilitaristisch impactdenken) op financiële markten
 
 ## Bronnen
 

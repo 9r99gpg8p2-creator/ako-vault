@@ -2,7 +2,7 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-07-17
+updated: 2026-07-19
 ---
 
 # Psychologie Dashboard
@@ -15,23 +15,21 @@ updated: 2026-07-17
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 71 |
+| Pagina's | 72 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
 | **Score** | **100%** |
-| Trend | ↑ |
+| Trend | → |
 
 ---
 
-## Nieuw deze sessie (2026-07-17 consolidatie)
+## Nieuw deze sessie (2026-07-19 expansie)
 
-- [[First Episode Psychosis]] — UHR-criteria (APS/BLIPS/FRFD), DUP, Critical Period Hypothesis, EIP-programma's, CGTp, neuropsychologisch assessment bij eerste psychose; direct MSc KNP-relevant
+- [[Autisme Spectrum Stoornis]] — neurobiologische ontwikkelingsstoornis; ASS-criteria (DSM-5), ToM-tekorten (Baron-Cohen), executieve functieproblemen, ADOS-2; direct MSc KNP-relevant
 
 ## Cross-domein bruggen
 
-- [[First Episode Psychosis]] → [[Ethiek]] (preventieve behandeling van UHR-individuen: autonomie vs. bescherming; ★7)
-- [[First Episode Psychosis]] → [[Klinische Neuropsychologie]] (assessment, CRT, functioneel herstel; ★9)
-- [[Psychose]] → [[First Episode Psychosis]] (FEP als klinisch kritiek tijdvenster; ★10)
-- [[Verslaving]] → [[Gedragseconomie]] (impulsiviteit en hyperbolische tijdsdiscontering; ★8)
-- [[Dopamine]] → [[Prospect Theory]] (beloningspredictie-fout = referentiepunt-gevoeligheid; ★9)
+- [[Autisme Spectrum Stoornis]] → [[Theory of Mind]] (mindblindness als kerntekort bij ASS; ★10)
+- [[Autisme Spectrum Stoornis]] → [[Klinische Neuropsychologie]] (neuropsychologische evaluatie en behandelplanning; ★9)
+- [[Autisme Spectrum Stoornis]] → [[Ethiek van Zorg]] (neurodiversiteit vs. zorgplicht; ★8)

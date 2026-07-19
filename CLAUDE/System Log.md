@@ -1022,3 +1022,28 @@ type: operationeel
 | 2026-07-18 | consolidatie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-18 | consolidatie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓: Historisch Materialisme, Actief Beleggen · Queue volledig leeg |
 | 2026-07-18 | consolidatie-2 | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · Health: 91% · 152 wiki-pagina's totaal |
+| 2026-07-19 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-19 | expansie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alle starten met _) — STAP 1.5 overgeslagen |
+| 2026-07-19 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-19 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Pragmatisme (Fil — laagste coverage), Fascisme (Gesch — expansie), Duurzaam Beleggen (Beleg — expansie), Autisme Spectrum Stoornis (Psych — MSc KNP-relevant) |
+| 2026-07-19 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Pragmatisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-19 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Fascisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-19 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Duurzaam Beleggen.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-19 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Autisme Spectrum Stoornis.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-19 | expansie | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: ADOS-2/Neuropsychologische Diagnostiek ASS (Psych), Adorno Autoritaire Persoonlijkheid (Fil×Gesch), ACT (Psych klinisch) |
+| 2026-07-19 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Pragmatisme — Behaviorisme.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-19 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Fascisme — Morele Verantwoordelijkheid.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-19 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Duurzaam Beleggen — Ethiek.md — sterkte ★9 — Beleggen × Filosofie |
+| 2026-07-19 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Autisme Spectrum Stoornis — Theory of Mind.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-19 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Brein dat Niet Kan Begrijpen wat het Niet Kan Begrijpen.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-19 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Gewone Menschen Doen het Kwaad.md — Geschiedenis → Filosofie — sterkte ★9 |
+| 2026-07-19 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Markt als Moreel Experiment.md — Beleggen → Filosofie — sterkte ★8 |
+| 2026-07-19 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-19 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-19 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-19 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-19 | expansie | Agent 6 | Weekreflectie | ↓ | Week 29 reflectie bestaat reeds (2026-29 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-19 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Coverage 100%, Connectivity 100%, Orphan 0% — Psych 100%, Fil 92%, Gesch 91%, Beleg 91% |
+| 2026-07-19 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (91%), Psychologie (100%), Filosofie (92%), Geschiedenis (91%), Beleggen (91%) |
+| 2026-07-19 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Autisme Spectrum Stoornis) · Filosofie: +1 (Pragmatisme) · Geschiedenis: +1 (Fascisme) · Beleggen: +1 (Duurzaam Beleggen) |
+| 2026-07-19 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-19 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps toegevoegd ↓ |
+| 2026-07-19 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% · 156 wiki-pagina's totaal |

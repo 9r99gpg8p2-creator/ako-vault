@@ -63,6 +63,7 @@ De term "Theory of Mind" werd geïntroduceerd door Premack en Woodruff (1978) in
 **Cross-domein:**
 - [[Morele Verantwoordelijkheid]] — attributie van intentie is kern van morele beoordeling
 - [[Epistemologie]] — ToM als vraag naar hoe we kennis over de geest van anderen verkrijgen
+- [[Autisme Spectrum Stoornis]] ★10 — Baron-Cohens mindblindness-hypothese stelt dat ASS primair een ToM-stoornis is; de relatie is wederzijds cruciaal voor begrip van beide concepten
 
 ## Bronnen
 

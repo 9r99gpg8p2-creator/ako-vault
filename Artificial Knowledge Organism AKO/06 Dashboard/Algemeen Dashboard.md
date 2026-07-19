@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, algemeen]
-updated: 2026-07-18
+updated: 2026-07-19
 ---
 
 # Algemeen Dashboard — AKO
@@ -14,11 +14,11 @@ updated: 2026-07-18
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 70 | 100% | 100% | **89%** | → |
-| Filosofie | 29 | 100% | 100% | **92%** | ↑ |
-| Geschiedenis | 25 | 100% | 100% | **91%** | → |
-| Beleggen | 25 | 100% | 100% | **91%** | ↑ |
-| **Overall** | **149** | 100% | ~100% | **91%** | ↑ |
+| Psychologie | 72 | 100% | 100% | **89%** | → |
+| Filosofie | 30 | 100% | 100% | **92%** | ↑ |
+| Geschiedenis | 28 | 100% | 100% | **91%** | ↑ |
+| Beleggen | 26 | 100% | 100% | **91%** | → |
+| **Overall** | **156** | 100% | ~100% | **91%** | → |
 
 *Alle vier disciplines: ≥ 20 pagina's · 100% coverage · hoge connectivity.*
 
@@ -28,31 +28,32 @@ updated: 2026-07-18
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 149 |
-| Relatie- en inzichtpagina's | 307 |
+| Totale Wiki-pagina's | 156 |
+| Relatie- en inzichtpagina's | 318 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-18 consolidatie-run 2)
+## Sessie-activiteit (2026-07-19 expansie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 2 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe relatiepagina's | 5 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 4 |
+| Nieuwe relatiepagina's | 4 |
 | Nieuwe inzichtpagina's | 3 |
-| Gaps gedicht | 2 |
-| Queue resterend | 0 ↓ |
+| Gaps gedicht | 0 |
+| Nieuwe gaps gesignaleerd | 3 |
+| Queue resterend | 3 ↓ |
 
 ---
 
 ## Hubs
 
-- [[Psychologie]] — 70 pagina's
-- [[Filosofie]] — 29 pagina's
-- [[Geschiedenis]] — 25 pagina's
-- [[Beleggen]] — 25 pagina's
+- [[Psychologie]] — 72 pagina's
+- [[Filosofie]] — 30 pagina's
+- [[Geschiedenis]] — 28 pagina's
+- [[Beleggen]] — 26 pagina's

@@ -2,7 +2,7 @@
 tags: [dashboard, geschiedenis]
 type: dashboard
 discipline: geschiedenis
-updated: 2026-07-18
+updated: 2026-07-19
 ---
 
 # Geschiedenis Dashboard
@@ -15,7 +15,7 @@ updated: 2026-07-18
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 27 |
+| Pagina's | 28 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
@@ -24,18 +24,15 @@ updated: 2026-07-18
 
 ---
 
-## Nieuw deze sessie (2026-07-18 expansie-2)
+## Nieuw deze sessie (2026-07-19 expansie)
 
-- [[Het Ottomaanse Rijk]] — zes eeuwen multicultureel imperium (1299–1922); millet-systeem; Tanzimat; erfenis Midden-Oosten
+- [[Fascisme]] — Mussolini en Hitler; palingenetisch nationalisme (Griffin); leiderscultus; geweldsverheelijking; corporatistische economie; Neurenbergprocessen
 
 ## Cross-domein bruggen
 
-- [[Het Ottomaanse Rijk]] → [[Eerste Wereldoorlog]] (deelname aan de Centrale Mogendheden; ineenstorting en territoriaal verval; ★9)
-- [[Het Ottomaanse Rijk]] → [[Politieke Filosofie]] (millet-systeem als historisch model voor religieus pluralisme; ★8)
+- [[Fascisme]] → [[Totalitarisme]] (fascisme als specifieke vorm van totalitarisme met nationale mythe; ★9)
+- [[Fascisme]] → [[Morele Verantwoordelijkheid]] (banaliteit van het kwaad; Arendt; ★9)
+- [[Fascisme]] → [[Eerste Wereldoorlog]] (nationaal trauma 1918 als voedingsbodem; ★9)
 - [[Grote Depressie]] → [[Gedragseconomie]] (kuddegedrag, paniek en irrationele marktdynamiek op maximale schaal; ★9)
-- [[Grote Depressie]] → [[Paradigmawisseling]] (Keynes' General Theory als economische paradigmawisseling; ★9)
 - [[Weimar Republiek]] → [[PTSD]] (onverwerkte oorlogstrauma's en psychiatrische verwaarlozing in een democratie in crisis; ★8)
-- [[Weimar Republiek]] → [[Monetair Beleid]] (hyperinflatie als institutioneel trauma; grondslag ECB-stabiliteitsdenken; ★8)
 - [[Kolonialisme]] → [[Postkoloniale Psychologie]] (historische grondoorzaak van psychologische identiteitsfragmentatie; ★9)
-- [[Interbellum]] → [[PTSD]] (shell shock → traumatische neurose → PTSD: institutionele evolutie tussen de oorlogen; ★8)
-- [[Stalinisme]] → [[Geschiedenis van de Psychiatrie]] (psikhushka-systeem: psychiatrie als staatsinstrument; ★9)
