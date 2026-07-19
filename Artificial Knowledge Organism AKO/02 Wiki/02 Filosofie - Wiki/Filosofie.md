@@ -46,3 +46,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Adorno en de Autoritaire Persoonlijkheid]]
 - [[John Locke]]
 - [[David Hume]]
+- [[George Berkeley]]

@@ -91,3 +91,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Schematherapie]]
 - [[Persoonlijkheidsstoornissen]]
 - [[Freud]]
+- [[Complexe PTSD]]
+- [[Traumatisch Hersenletsel]]

@@ -1149,3 +1149,26 @@ type: operationeel
 | 2026-07-19 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-19 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps toegevoegd ↓ · 4 expansies gesloten ✓ |
 | 2026-07-19 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: ~85% · 170 wiki-pagina's totaal |
+| 2026-07-19 | consolidatie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-19 | consolidatie-2 | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden beginnen met _ prefix — STAP 1.5 overgeslagen |
+| 2026-07-19 | consolidatie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-19 | consolidatie-2 | Agent 2 | Onderwerp selectie | ✓ | 3 queue ↓ items: George Berkeley (Fil — empirisme-trio), Complexe PTSD (Psych — ICD-11 · MSc KNP), Traumatisch Hersenletsel (Psych — klinische neuropsychologie) |
+| 2026-07-19 | consolidatie-2 | Agent 3 | Wiki aangemaakt | ✓ | George Berkeley.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-19 | consolidatie-2 | Agent 3 | Wiki aangemaakt | ✓ | Complexe PTSD.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-19 | consolidatie-2 | Agent 3 | Wiki aangemaakt | ✓ | Traumatisch Hersenletsel.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-19 | consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | George Berkeley — Empirisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-19 | consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | George Berkeley — David Hume.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-19 | consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Complexe PTSD — PTSD.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-19 | consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Traumatisch Hersenletsel — Neuropsychologische Rehabilitatie.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-19 | consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Traumatisch Hersenletsel — Executieve Functies.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-19 | consolidatie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Werkelijkheid als Hersenbouw.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-19 | consolidatie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Trauma Dat Zijn Eigen Behandeling Verhindert.md — Psychologie (intra) — sterkte ★8 |
+| 2026-07-19 | consolidatie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Twee Soorten Blindheid voor Zichzelf.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-19 | consolidatie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-19 Dagrapport.md — consolidatie-2 modus — 3 gaps, 5 verbindingen, 3 inzichten, queue leeg |
+| 2026-07-19 | consolidatie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-19 Quiz.md — 3 vragen toegevoegd (George Berkeley, Complexe PTSD/DSO, THL/anosognosie) |
+| 2026-07-19 | consolidatie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 86% — Psych 92% (80 pag's), Fil 85% (34 pag's), Gesch 84% (31 pag's), Beleg 83% (28 pag's) |
+| 2026-07-19 | consolidatie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (86%), Psychologie (92%), Filosofie (85%) |
+| 2026-07-19 | consolidatie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Complexe PTSD, Traumatisch Hersenletsel) · Filosofie: +1 (George Berkeley) · Geschiedenis: +0 · Beleggen: +0 |
+| 2026-07-19 | consolidatie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-19 | consolidatie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue volledig leeg (0 items ↓) |
+| 2026-07-19 | consolidatie-2 | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 5 verbindingen · 3 inzichten · Health: 86% · 173 wiki-pagina's totaal |

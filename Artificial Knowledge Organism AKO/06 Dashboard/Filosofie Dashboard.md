@@ -14,20 +14,20 @@ updated: 2026-07-19
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 32 |
+| Pagina's | 34 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **84%** |
+| **Score** | **85%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie (2026-07-19 expansie-run)
+## Nieuw deze sessie (2026-07-19 consolidatie-run)
 
-*(geen nieuwe Filosofie-pagina's — back-links toegevoegd aan Bewustzijn en Politieke Filosofie)*
+- [[George Berkeley]] — empirisme-trio voltooid (Locke, Hume, Berkeley); immaterialisme; *esse est percipi*; relatie met Filosofie van de Geest en neuropsychologie van perceptie
 
 ## Cross-domein bruggen
 
-- [[Imperialisme]] → [[Politieke Filosofie]] (zelfbeschikking, soevereiniteit en beschavingsparadox; ★8)
-- [[Freud]] → [[Bewustzijn]] (topografisch onbewuste-model als uitdaging voor filosofisch zelfbegrip; ★9)
+- [[George Berkeley]] → [[Filosofie van de Geest]] → [[Anosognosie]] (★9 — hersenen als constructeur van werkelijkheid)
+- [[George Berkeley]] → [[Neuropsychologische Rehabilitatie]] (perceptie als hersenbouw; ★7)

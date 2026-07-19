@@ -15,21 +15,21 @@ updated: 2026-07-19
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 77 |
+| Pagina's | 80 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **91%** |
-| Trend | → |
+| **Score** | **92%** |
+| Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie (2026-07-19 expansie-run)
+## Nieuw deze sessie (2026-07-19 consolidatie-run)
 
-- [[Persoonlijkheidsstoornissen]] — DSM-5 Cluster A/B/C; BPS, narcistische PS, antisociale PS; DBT en schematherapie; neurobiologie PFC/amygdala; direct MSc KNP-relevant
-- [[Freud]] — grondlegger psychoanalyse; onbewuste, id/ego/superego, verdedigingsmechanismen, overdracht; historisch scharnierfiguur
+- [[Complexe PTSD]] — ICD-11 C-PTSD; disturbances in self-organization (DSO); affectdysregulatie, negatief zelfconcept, relationele stoornissen; fasegerichte behandeling; MSc KNP kerndomein
+- [[Traumatisch Hersenletsel]] — THL mild/matig/ernstig; cognitief profiel (aandacht, werkgeheugen, executieve functies); neuroplasticiteit en revalidatie; forensische neuropsychologie
 
 ## Cross-domein bruggen
 
-- [[Persoonlijkheidsstoornissen]] → [[Emotieregulatie]] (verstoorde regulatie als neuropsychologisch kernmechanisme bij BPS; ★10)
-- [[Freud]] → [[Bewustzijn]] (topografisch model bewust/onbewust als vroege theorie van bewustzijnsstructuur; ★9)
+- [[Complexe PTSD]] → [[Morele Verantwoordelijkheid]] (juridische toerekeningsvraagstukken bij chronisch trauma; ★7)
+- [[Traumatisch Hersenletsel]] → [[Executieve Functies]] → [[Neuropsychologische Rehabilitatie]] (THL-keten; ★9–10)

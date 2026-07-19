@@ -2,38 +2,46 @@
 type: dagrapport
 date: 2026-07-19
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Goedemorgen.
-
-Nieuwe kennis:          4 concepten toegevoegd (expansie-run)
-Nieuwe artikelen:       0 (Wikipedia API onbereikbaar — interne kennis gebruikt)
-Nieuwe verbindingen:    4 relaties gelegd
-Nieuwe inzichten:       3 cross-domein inzichten gegenereerd
-Kennishiaten:           3 nieuwe gaps gesignaleerd
-Aanbevolen leestijd:    ~16 minuten
+Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 5 · Queue resterend: 0
 
 ---
 
-## Research Agenda
+## Pagina's Bijgewerkt via Inbox
 
-1. **Heuristieken** — Beleggen minste pagina's; Kahneman/Tversky vuistregels zijn fundamenteel voor behavioral finance en cross-link naar Dual Process Theorie
-2. **Persoonlijkheidsstoornissen** — Essentieel voor MSc Klinische Neuropsychologie-doel; Cluster A/B/C, borderline PS, DBT/schematherapie verbanden
-3. **Imperialisme** — Geschiedenis ondervertegenwoordigd; sleutelbegrip voor 19e–20e eeuwse wereldgeschiedenis en postkoloniale psychologie
-4. **Freud** — Grondlegger psychoanalyse ontbrak als persoonspagina; verbindt psychologie, bewustzijn en psychiatriegeschiedenis
+*(geen Inbox-bestanden verwerkt deze run)*
+
+---
+
+## Nieuwe Wiki-pagina's
+
+1. [[George Berkeley]] — empirisme-trio voltooid (Locke, Hume, Berkeley)
+2. [[Complexe PTSD]] — ICD-11 C-PTSD, DSO-componenten, fasegerichte behandeling
+3. [[Traumatisch Hersenletsel]] — THL-classificatie, cognitief profiel, revalidatie
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[George Berkeley]] ↔ [[Empirisme]] · ★9
+2. [[George Berkeley]] ↔ [[David Hume]] · ★9
+3. [[Complexe PTSD]] ↔ [[PTSD]] · ★10
+4. [[Traumatisch Hersenletsel]] ↔ [[Neuropsychologische Rehabilitatie]] · ★10
+5. [[Traumatisch Hersenletsel]] ↔ [[Executieve Functies]] · ★9
 
 ---
 
 ## Insight Feed
 
-— "Heuristieken zijn geen uitzonderingen maar de standaard van menselijk redeneren — de markt is het kristallisatiepunt van collectieve cognitive shortcuts, niet van rationele verwachtingen." [Psychologie → Beleggen · ★9]
+— "Berkeley's *esse est percipi* anticipeerde drie eeuwen voor de neurowetenschappen dat de werkelijkheid een mentale constructie is — wat THL-patiënten verliezen is niet de wereld maar het vermogen hun hersenbouwsel te corrigeren." [Filosofie → Psychologie · ★9]
 
-— "Freud's meest radicale claim — dat het bewuste ik niet de auteur is van zijn eigen gedachten — herschrijft het filosofisch bewustzijnsconcept en verankert anosognosie als neuropsychologisch bewijs van structurele zelfinzichtbeperkingen." [Psychologie → Filosofie · ★9]
+— "Complexe PTSD bevat een klinische paradox: de stoornis beschadigt precies de vermogens — vertrouwen, affect, zelfconcept — waarop elke psychotherapeutische behandeling steunt." [Psychologie · ★8]
 
-— "De imperiale 'beschavingsmissie' perverteerde de Verlichtingsethiek tot rechtvaardiging voor onderwerping — een paradox die postkoloniale psychologie dwong westerse classificatiesystemen als DSM te bevragen." [Geschiedenis → Filosofie · ★8]
+— "Anosognosie na THL en negatief zelfconcept bij C-PTSD zijn spiegelbeeldige stoornissen in zelfkennis: de één weet niet dat hij beschadigd is, de ander kan niets anders zien." [Psychologie → Filosofie · ★8]
 
 ---
 
@@ -41,10 +49,10 @@ Aanbevolen leestijd:    ~16 minuten
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | ~91% | → |
-| Filosofie | ~84% | ↑ |
-| Geschiedenis | ~84% | ↑ |
-| Beleggen | ~83% | ↑ |
+| Psychologie | ~92% | ↑ |
+| Filosofie | ~85% | ↑ |
+| Geschiedenis | ~84% | → |
+| Beleggen | ~83% | → |
 
 ---
 
@@ -53,16 +61,25 @@ Aanbevolen leestijd:    ~16 minuten
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 (geen bestanden na filtering) |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 2 (back-links in Dual Process Theorie, Emotieregulatie, Bewustzijn, Politieke Filosofie) |
-| Nieuwe verbindingen | 4 |
+| Nieuwe Wiki-pagina's | 3 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe verbindingen | 5 |
 | Nieuwe inzichten | 3 |
-| Gaps gedicht | 0 |
-| Nieuwe gaps gesignaleerd | 3 |
+| Gaps gedicht | 3 |
+| Nieuwe gaps gesignaleerd | 0 |
+| Queue resterend | 0 |
+
+---
+
+## Research Agenda
+
+Prioriteit 1: **Dissociatie** — ontbreekt als zelfstandige pagina; C-PTSD verwijst ernaar; essentieel voor MSc KNP
+Prioriteit 2: **Post-Concussion Syndrome** — subtype mTBI met klinisch belang; ontbreekt in vault
+Prioriteit 3: **Spinoza** — filosofisch empirisme/rationalisme aanvullen; relatie met Descartes en Hume is gap
 
 ---
 
 ## Aandacht vereist
 
 - [ ] Wikipedia API nog steeds onbereikbaar (E-003) — confidence nieuwe pagina's: 5
-- [ ] Nieuwe gaps in queue: Traumatisch Breinletsel, George Berkely (empirisme-cluster), Complexe PTSD
+- [ ] Queue volledig leeg na deze run — nieuwe gaps identificeren bij volgende expansie
