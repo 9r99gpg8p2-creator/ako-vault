@@ -94,3 +94,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Complexe PTSD]]
 - [[Traumatisch Hersenletsel]]
 - [[Kahneman]]
+- [[Amos Tversky]]

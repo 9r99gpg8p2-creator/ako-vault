@@ -2,31 +2,39 @@
 type: dagrapport
 date: 2026-07-20
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 # Dagrapport — 2026-07-20
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 5 · Inzichten: 3 · Gaps: 2 · Leestijd: 8 min
+Inbox verwerkt: 0 · Gaps gedicht: 2 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 4 · Queue resterend: 0
 
-*Eerdere runs vandaag: Taalfilosofie, Private Equity, diverse expansies*
-*Huidige run (expansie): Index Fondsen, Monetarisme, Mercantilisme, Kahneman*
+*Eerdere runs vandaag: Taalfilosofie, Private Equity, Index Fondsen, Monetarisme, Mercantilisme, Kahneman (expansie)*
+*Huidige run (consolidatie): Amos Tversky, Keynesiaanse Economie — 2 queue-items gesloten*
 
-## Research Agenda
+## Pagina's Bijgewerkt via Inbox
 
-1. **Amos Tversky** — Kahnemans onderzoekspartner ontbreekt; hun samenwerking is de kern van de gedragseconomische revolutie en moet als eigen pagina worden gedocumenteerd
-2. **Keynesiaanse Economie** — Monetarisme is nu gedekt; de intellectuele tegenhanger (Keynes) ontbreekt, waardoor de historische pendelbeweging in economisch beleid onvolledig blijft
-3. **Mercantilisme (verdieping)** — De commerciële revolutie en de rol van Italiaanse stadstaten als vroege kapitalistische centra sluiten aan bij de huidige Mercantilisme-pagina
+*Geen Inbox-bestand verwerkt deze run — geen updates via Inbox.*
+
+## Nieuwe Wiki-pagina's
+
+1. [[Amos Tversky]] — psych-tversky (confidence 5) · Kahnemans onderzoekspartner, co-auteur Prospect Theory
+2. [[Keynesiaanse Economie]] — beleg-keynesiaanse-economie (confidence 5) · Intellectuele tegenhanger van Monetarisme
+
+## Verbindingen Toegevoegd
+
+1. [[Amos Tversky]] ↔ [[Kahneman]] · ★10
+2. [[Keynesiaanse Economie]] ↔ [[Monetarisme]] · ★10
+3. [[Amos Tversky]] → [[Prospect Theory]] · ★10
+4. [[Financiële Crisis 2008]] → [[Keynesiaanse Economie]] · ★9
 
 ## Insight Feed
 
-— "Kahnemans verliesaversie verklaart waarom markten nooit volledig efficiënt zijn: verkoopgolven zijn heftiger dan rationele informatieverwerking zou voorschrijven, en index fondsen zijn de institutionele erkenning van die beperking." [Psychologie → Beleggen · ★9]
+— "Tversky en Kahneman toonden aan dat de homo economicus een empirisch onhoudbare fictie is — hun werk grondvestte de gedragseconomie als wetenschappelijk programma." [Amos Tversky → Kahneman → Prospect Theory → Gedragseconomie · ★9]
 
-— "Mercantilisten en monetaristen maakten dezelfde fundamentele fout: rijkdom verwarren met zijn symbool. Van goudstapeling tot kwantitatieve verruiming — de cyclus herhaalt zich in elke generatie." [Geschiedenis → Beleggen · ★8]
-
-— "Passief beleggen via index fondsen is cognitieve bescheidenheid: de institutionele erkenning dat het beste wat een belegger kan doen, is zijn eigen psychologie uitschakelen door System 1 geen kans te geven." [Psychologie → Beleggen · ★8]
+— "Elke grote economische crisis fungeert als empirische test van macroeconomische paradigma's: stagflatie brak Keynes, 2008 rehabiliteerde hem." [Financiële Crisis 2008 → Keynesiaanse Economie ↔ Monetarisme → Paradigmawisseling · ★8]
 
 ## Knowledge Health
 
@@ -34,16 +42,16 @@ Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 5 · Inzichten: 3 · Gaps
 |---|---|---|
 | Psychologie | ~99% | → |
 | Filosofie | ~85% | → |
-| Geschiedenis | ~84% | ↑ |
-| Beleggen | ~84% | ↑ |
+| Geschiedenis | ~84% | → |
+| Beleggen | ~85% | ↑ |
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe Wiki-pagina's | 2 |
 | Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 5 |
-| Nieuwe inzichten | 3 |
-| Gaps gedicht | 0 |
+| Nieuwe verbindingen | 4 |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 2 |

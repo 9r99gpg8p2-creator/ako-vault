@@ -14,11 +14,11 @@ updated: 2026-07-20
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 81 | 100% | 100% | **92%** | → |
-| Filosofie | 38 | 100% | 100% | **90%** | → |
-| Geschiedenis | 35 | 100% | 100% | **88%** | ↑ |
-| Beleggen | 34 | 100% | 100% | **88%** | ↑ |
-| **Overall** | **188** | 100% | 100% | **89%** | → |
+| Psychologie | 82 | 100% | 100% | **92%** | → |
+| Filosofie | 39 | 100% | 100% | **90%** | → |
+| Geschiedenis | 35 | 100% | 100% | **88%** | → |
+| Beleggen | 35 | 100% | 100% | **89%** | ↑ |
+| **Overall** | **191** | 100% | 100% | **90%** | ↑ |
 
 *Alle vier disciplines: ≥ 20 pagina's · 100% coverage · 100% connectivity · 0% orphans.*
 
@@ -28,32 +28,32 @@ updated: 2026-07-20
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 188 |
-| Relatie- en inzichtpagina's | 389 |
+| Totale Wiki-pagina's | 191 |
+| Relatie- en inzichtpagina's | 395 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-20 expansie-run)
+## Sessie-activiteit (2026-07-20 consolidatie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 (Index Fondsen, Monetarisme, Mercantilisme, Kahneman) |
+| Nieuwe Wiki-pagina's | 2 (Amos Tversky, Keynesiaanse Economie) |
 | Updates bestaande pagina's | 0 |
 | Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichtpagina's | 3 |
-| Gaps gedicht | 0 |
-| Nieuwe gaps gesignaleerd | 2 (Amos Tversky, Keynesiaanse Economie) |
-| Queue resterend | 2 ↓ |
+| Nieuwe inzichtpagina's | 2 |
+| Gaps gedicht | 2 |
+| Nieuwe gaps gesignaleerd | 0 |
+| Queue resterend | 0 ↓ |
 
 ---
 
 ## Hubs
 
-- [[Psychologie]] — 81 pagina's
-- [[Filosofie]] — 38 pagina's
+- [[Psychologie]] — 82 pagina's
+- [[Filosofie]] — 39 pagina's
 - [[Geschiedenis]] — 35 pagina's
-- [[Beleggen]] — 34 pagina's
+- [[Beleggen]] — 35 pagina's

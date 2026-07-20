@@ -187,8 +187,8 @@ type: operationeel
 | ✓ | 2026-07-20T expansie-3 | Agent 3 | Expansie: Monetarisme | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Monetarisme.md — confidence 5 |
 | ✓ | 2026-07-20T expansie-3 | Agent 3 | Expansie: Mercantilisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Mercantilisme.md — confidence 5 |
 | ✓ | 2026-07-20T expansie-3 | Agent 3 | Expansie: Kahneman | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Kahneman.md — confidence 5 |
-| ↓ | 2026-07-20T expansie-3 | Agent 3 | Gap: Amos Tversky | Kahnemans onderzoekspartner — ontbreekt als eigen pagina |
-| ↓ | 2026-07-20T expansie-3 | Agent 3 | Gap: Keynesiaanse Economie | Tegenhanger van Monetarisme — ontbreekt |
+| ✓ | 2026-07-20T consolidatie | Agent 3 | Gap: Amos Tversky | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Amos Tversky.md — confidence 5 |
+| ✓ | 2026-07-20T consolidatie | Agent 3 | Gap: Keynesiaanse Economie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Keynesiaanse Economie.md — confidence 5 |
 
 ---
 

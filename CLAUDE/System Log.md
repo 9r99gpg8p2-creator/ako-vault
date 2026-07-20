@@ -1288,3 +1288,23 @@ type: operationeel
 | 2026-07-20 | expansie-3 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-20 | expansie-3 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 2 nieuwe gaps ↓ (Amos Tversky, Keynesiaanse Economie) |
 | 2026-07-20 | expansie-3 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 5 verbindingen · 3 inzichten · Health: 89% · 188 wiki-pagina's totaal |
+| 2026-07-20 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-20 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden gevonden — STAP 1.5 overgeslagen |
+| 2026-07-20 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence 5. |
+| 2026-07-20 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 queue-items geselecteerd: Amos Tversky (Psych ↓), Keynesiaanse Economie (Beleg ↓) |
+| 2026-07-20 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Amos Tversky.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-20 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Keynesiaanse Economie.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Amos Tversky — Kahneman.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Keynesiaanse Economie — Monetarisme.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Amos Tversky — Prospect Theory.md — sterkte ★10 — Psychologie × Beleggen |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Keynesiaanse Economie — Financiële Crisis 2008.md — sterkte ★9 — Beleggen × Geschiedenis |
+| 2026-07-20 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Wetenschap die Zichzelf Weerlegde.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-20 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Crisis als Paradigmatoetssteen.md — Beleggen → Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-20 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-20 Dagrapport.md — consolidatiemodus — 2 concepten, 4 verbindingen, 2 inzichten, 2 gaps gedicht |
+| 2026-07-20 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-20 Quiz.md — 3 vragen toegevoegd (Tversky conjunctiefout, Keynesiaans vs Monetarisme, framing klinisch) |
+| 2026-07-20 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 90% — Psych 92% (82 pag's), Fil 90% (39 pag's), Gesch 88% (35 pag's), Beleg 89% (35 pag's) |
+| 2026-07-20 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven: 90% · 191 wiki-pagina's |
+| 2026-07-20 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Amos Tversky) · Beleggen: +1 (Keynesiaanse Economie) |
+| 2026-07-20 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-20 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · Queue leeg |
+| 2026-07-20 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps · Health: 90% · 191 wiki-pagina's totaal |
