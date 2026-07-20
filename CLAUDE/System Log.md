@@ -1243,3 +1243,23 @@ type: operationeel
 | 2026-07-20 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-20 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 2 nieuwe gaps toegevoegd ↓ (Taalfilosofie, Private Equity) |
 | 2026-07-20 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 5 verbindingen · 3 inzichten · Health: 89% · 183 wiki-pagina's totaal |
+| 2026-07-20 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-20 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alle beginnen met _) — STAP 1.5 overgeslagen |
+| 2026-07-20 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-20 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 onderwerpen geselecteerd: Taalfilosofie (queue ↓), Private Equity (queue ↓) |
+| 2026-07-20 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Taalfilosofie.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-20 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Private Equity.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Taalfilosofie — Analytische Filosofie.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Taalfilosofie — Sapir-Whorf Hypothese.md — sterkte ★9 — Filosofie × Psychologie |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Private Equity — Kapitaalmarkten.md — sterkte ★8 — Beleggen (intra) |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Private Equity — Actief Beleggen.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-20 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Taal Die de Werkelijkheid Schept.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-20 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Onzichtbare Markt als Systeemrisico.md — Beleggen → Geschiedenis — sterkte ★8 |
+| 2026-07-20 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-20 Dagrapport.md — consolidatiemodus — 2 gaps, 4 verbindingen, 2 inzichten |
+| 2026-07-20 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-20 Quiz.md — 3 vragen toegevoegd (Taalfilosofie/Frege, Private Equity J-curve, Wittgenstein vs Sapir-Whorf) |
+| 2026-07-20 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 89% — Psych 92% (80 pag's), Fil 90% (39 pag's), Gesch 87% (34 pag's), Beleg 87% (32 pag's) |
+| 2026-07-20 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven: 89% · 185 wiki-pagina's · 381 relatie-/inzichtpagina's |
+| 2026-07-20 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +1 (Taalfilosofie) · Beleggen: +1 (Private Equity) |
+| 2026-07-20 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-20 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Taalfilosofie, Private Equity) · Queue leeg |
+| 2026-07-20 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · Health: 89% · 185 wiki-pagina's totaal |

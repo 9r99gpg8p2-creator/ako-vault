@@ -15,10 +15,10 @@ updated: 2026-07-20
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
 | Psychologie | 80 | 100% | 100% | **92%** | → |
-| Filosofie | 38 | 100% | 100% | **89%** | ↑ |
-| Geschiedenis | 34 | 100% | 100% | **87%** | ↑ |
-| Beleggen | 31 | 100% | 100% | **86%** | ↑ |
-| **Overall** | **183** | 100% | 100% | **89%** | ↑ |
+| Filosofie | 39 | 100% | 100% | **90%** | ↑ |
+| Geschiedenis | 34 | 100% | 100% | **87%** | → |
+| Beleggen | 32 | 100% | 100% | **87%** | ↑ |
+| **Overall** | **185** | 100% | 100% | **89%** | → |
 
 *Alle vier disciplines: ≥ 20 pagina's · 100% coverage · 100% connectivity · 0% orphans.*
 
@@ -28,32 +28,32 @@ updated: 2026-07-20
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 183 |
-| Relatie- en inzichtpagina's | 375 |
+| Totale Wiki-pagina's | 185 |
+| Relatie- en inzichtpagina's | 381 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-20 expansie-run)
+## Sessie-activiteit (2026-07-20 consolidatie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 (Financiële Crisis 2008, Factor Investing, Het Byzantijnse Rijk, Analytische Filosofie) |
+| Nieuwe Wiki-pagina's | 2 (Taalfilosofie, Private Equity) |
 | Updates bestaande pagina's | 0 |
-| Nieuwe relatiepagina's | 5 |
-| Nieuwe inzichtpagina's | 3 |
-| Gaps gedicht | 0 |
-| Nieuwe gaps gesignaleerd | 2 |
-| Queue resterend | 2 ↓ |
+| Nieuwe relatiepagina's | 4 |
+| Nieuwe inzichtpagina's | 2 |
+| Gaps gedicht | 2 |
+| Nieuwe gaps gesignaleerd | 0 |
+| Queue resterend | 0 ↓ |
 
 ---
 
 ## Hubs
 
 - [[Psychologie]] — 80 pagina's
-- [[Filosofie]] — 38 pagina's
+- [[Filosofie]] — 39 pagina's
 - [[Geschiedenis]] — 34 pagina's
-- [[Beleggen]] — 31 pagina's
+- [[Beleggen]] — 32 pagina's
