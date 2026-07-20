@@ -183,6 +183,12 @@ type: operationeel
 | ✓ | 2026-07-20T expansie-2 | Agent 3 | Expansie: Analytische Filosofie | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Analytische Filosofie.md — confidence 5 |
 | ✓ | 2026-07-20T consolidatie | Agent 3 | Gap: Taalfilosofie | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Taalfilosofie.md — confidence 5 |
 | ✓ | 2026-07-20T consolidatie | Agent 3 | Gap: Private Equity | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Private Equity.md — confidence 5 |
+| ✓ | 2026-07-20T expansie-3 | Agent 3 | Expansie: Index Fondsen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Index Fondsen.md — confidence 5 |
+| ✓ | 2026-07-20T expansie-3 | Agent 3 | Expansie: Monetarisme | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Monetarisme.md — confidence 5 |
+| ✓ | 2026-07-20T expansie-3 | Agent 3 | Expansie: Mercantilisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Mercantilisme.md — confidence 5 |
+| ✓ | 2026-07-20T expansie-3 | Agent 3 | Expansie: Kahneman | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Kahneman.md — confidence 5 |
+| ↓ | 2026-07-20T expansie-3 | Agent 3 | Gap: Amos Tversky | Kahnemans onderzoekspartner — ontbreekt als eigen pagina |
+| ↓ | 2026-07-20T expansie-3 | Agent 3 | Gap: Keynesiaanse Economie | Tegenhanger van Monetarisme — ontbreekt |
 
 ---
 

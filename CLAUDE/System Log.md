@@ -1263,3 +1263,28 @@ type: operationeel
 | 2026-07-20 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-20 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Taalfilosofie, Private Equity) · Queue leeg |
 | 2026-07-20 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · Health: 89% · 185 wiki-pagina's totaal |
+| 2026-07-20 | expansie-3 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-20 | expansie-3 | Agent 1 | Inbox scan | ✓ | Geen bestanden zonder _ prefix — STAP 1.5 overgeslagen |
+| 2026-07-20 | expansie-3 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-20 | expansie-3 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Index Fondsen (Beleg — laagste coverage), Monetarisme (Beleg), Mercantilisme (Gesch — tweede laagste), Kahneman (Psych sleutelfiguur) |
+| 2026-07-20 | expansie-3 | Agent 3 | Wiki aangemaakt | ✓ | Index Fondsen.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-20 | expansie-3 | Agent 3 | Wiki aangemaakt | ✓ | Monetarisme.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-20 | expansie-3 | Agent 3 | Wiki aangemaakt | ✓ | Mercantilisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-20 | expansie-3 | Agent 3 | Wiki aangemaakt | ✓ | Kahneman.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-20 | expansie-3 | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Amos Tversky (Psych), Keynesiaanse Economie (Beleg) |
+| 2026-07-20 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Index Fondsen — Efficiënte Markthypothese.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-20 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Monetarisme — Inflatie.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-20 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Mercantilisme — Kolonialisme.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-20 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Kahneman — Prospect Theory.md — sterkte ★10 — Psychologie × Beleggen |
+| 2026-07-20 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Mercantilisme — Gedragseconomie.md — sterkte ★7 — Geschiedenis × Beleggen |
+| 2026-07-20 | expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Markt die Zichzelf Niet Ziet.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-20 | expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Goud dat Niet Bestaat.md — Geschiedenis → Beleggen — sterkte ★8 |
+| 2026-07-20 | expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Passiviteit als Strategie.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-20 | expansie-3 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-20 Dagrapport.md — expansiemodus — 4 concepten, 5 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-20 | expansie-3 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-20 Quiz.md — 3 vragen toegevoegd (Kahneman/Dual Process, Index Fondsen, Mercantilisme/Monetarisme) |
+| 2026-07-20 | expansie-3 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 89% — Psych 92% (81 pag's), Fil 90% (38 pag's), Gesch 88% (35 pag's), Beleg 88% (34 pag's) |
+| 2026-07-20 | expansie-3 | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven: 89% · 188 wiki-pagina's · 389 relatie-/inzichtpagina's |
+| 2026-07-20 | expansie-3 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Kahneman) · Geschiedenis: +1 (Mercantilisme) · Beleggen: +2 (Index Fondsen, Monetarisme) |
+| 2026-07-20 | expansie-3 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-20 | expansie-3 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 2 nieuwe gaps ↓ (Amos Tversky, Keynesiaanse Economie) |
+| 2026-07-20 | expansie-3 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 5 verbindingen · 3 inzichten · Health: 89% · 188 wiki-pagina's totaal |
