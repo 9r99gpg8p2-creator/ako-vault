@@ -46,3 +46,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Imperialisme]]
 - [[Het Romeinse Rijk]]
 - [[De Islamitische Gouden Eeuw]]
+- [[Het Byzantijnse Rijk]]

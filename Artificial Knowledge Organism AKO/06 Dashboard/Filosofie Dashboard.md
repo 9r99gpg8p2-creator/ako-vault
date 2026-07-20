@@ -4,7 +4,7 @@ tags: [dashboard, filosofie]
 updated: 2026-07-20
 ---
 
-# Filosofie Dashboard
+# Filosofie Dashboard — AKO
 
 **Systeemkoppelingen:** [[AKO]] · [[Filosofie]]
 
@@ -14,24 +14,15 @@ updated: 2026-07-20
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 36 |
-| Coverage | 100% (>20) |
+| Pagina's | 38 |
+| Coverage | 100% |
 | Connectivity | 100% |
-| Orphan% | 0% |
-| **Score** | **87%** |
+| Orphan nodes | 0 |
+| **Score** | **89%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie (2026-07-20 expansie-run)
+## Nieuwe pagina's (2026-07-20 expansie)
 
-- [[Postmodernisme]] — Lyotard, Derrida, Foucault; metanarratief; deconstructie; discours en macht; klinische relevantie voor diagnostiek als constructie
-- [[Spinoza]] — *Deus sive Natura*; conatus; passietheorie; vrijheid door begrip; Damasio-verbinding met emotieregulatie en neuropsychologie
-
-## Cross-domein bruggen
-
-- [[Postmodernisme]] → [[Geschiedenis van de Psychiatrie]] (DSM-categorieën als culturele constructies; ★9)
-- [[Postmodernisme]] → [[Klinische Neuropsychologie]] (epistemologische bescheidenheid in diagnostiek; ★8)
-- [[Spinoza]] → [[Emotieregulatie]] (passies beheersen via begrip = cognitieve herwaardering; ★8)
-- [[Spinoza]] → [[Neuropsychologische Rehabilitatie]] (Damasio's neurowetenschappelijke herinterpretatie; ★7)
-- [[Het Romeinse Rijk]] → [[Stoïcisme]] (Stoïcisme als bestuurlijke ideologie van het keizerrijk; ★9)
+- [[Analytische Filosofie]] — confidence 5

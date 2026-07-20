@@ -50,3 +50,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Postmodernisme]]
 - [[Spinoza]]
 - [[Marxisme]]
+- [[Analytische Filosofie]]

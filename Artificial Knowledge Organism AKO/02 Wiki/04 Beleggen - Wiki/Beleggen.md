@@ -42,3 +42,5 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Derivaten]]
 - [[Heuristieken]]
 - [[Kapitaalmarkten]]
+- [[Financiële Crisis 2008]]
+- [[Factor Investing]]

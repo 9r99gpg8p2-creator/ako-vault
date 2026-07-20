@@ -177,6 +177,12 @@ type: operationeel
 | ✓ | 2026-07-20T expansie | Agent 3 | Expansie: Spinoza | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Spinoza.md — confidence 5 |
 | ✓ | 2026-07-20T consolidatie | Agent 3 | Gap: Marxisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Marxisme.md — confidence 5 |
 | ✓ | 2026-07-20T consolidatie | Agent 3 | Gap: De Islamitische Gouden Eeuw | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Islamitische Gouden Eeuw.md — confidence 5 |
+| ✓ | 2026-07-20T expansie-2 | Agent 3 | Expansie: Financiële Crisis 2008 | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Financiële Crisis 2008.md — confidence 5 |
+| ✓ | 2026-07-20T expansie-2 | Agent 3 | Expansie: Factor Investing | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Factor Investing.md — confidence 5 |
+| ✓ | 2026-07-20T expansie-2 | Agent 3 | Expansie: Het Byzantijnse Rijk | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Byzantijnse Rijk.md — confidence 5 |
+| ✓ | 2026-07-20T expansie-2 | Agent 3 | Expansie: Analytische Filosofie | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Analytische Filosofie.md — confidence 5 |
+| ↓ | 2026-07-20T expansie-2 | Agent 3 | Gap: Taalfilosofie | Analytische Filosofie signaleert Taalfilosofie als ontbrekend kerngebied (Frege, Kripke, Searle) |
+| ↓ | 2026-07-20T expansie-2 | Agent 3 | Gap: Private Equity | Factor Investing signaleert Private Equity als ontbrekend beleggingsconcept |
 
 ---
 

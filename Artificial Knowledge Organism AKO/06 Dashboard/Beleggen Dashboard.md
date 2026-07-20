@@ -4,7 +4,7 @@ tags: [dashboard, beleggen]
 updated: 2026-07-20
 ---
 
-# Beleggen Dashboard
+# Beleggen Dashboard — AKO
 
 **Systeemkoppelingen:** [[AKO]] · [[Beleggen]]
 
@@ -14,21 +14,16 @@ updated: 2026-07-20
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 29 |
-| Coverage | 100% (>20) |
+| Pagina's | 31 |
+| Coverage | 100% |
 | Connectivity | 100% |
-| Orphan% | 0% |
-| **Score** | **84%** |
+| Orphan nodes | 0 |
+| **Score** | **86%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie (2026-07-20 expansie-run)
+## Nieuwe pagina's (2026-07-20 expansie)
 
-- [[Kapitaalmarkten]] — primaire en secundaire markt; aandelenmarkt; obligatiemarkt; liquiditeit; financiering van bedrijven en overheden; verbinding met macroeconomie en rente
-
-## Cross-domein bruggen
-
-- [[Kapitaalmarkten]] → [[Gedragseconomie]] (biases en emoties verstoren efficiënte prijsvorming; ★9)
-- [[Kapitaalmarkten]] → [[Industriële Revolutie]] (vraag naar kapitaalfinanciering als drijver van vroege aandelenmarkten; ★7)
-- [[Kapitaalmarkten]] → [[Spinoza]] (zelfkennis als beleggerscompetentie; passietheorie en marktpsychologie; ★8)
+- [[Financiële Crisis 2008]] — confidence 5
+- [[Factor Investing]] — confidence 5

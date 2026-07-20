@@ -1217,3 +1217,29 @@ type: operationeel
 | 2026-07-20 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-20 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Marxisme, De Islamitische Gouden Eeuw) · Queue leeg |
 | 2026-07-20 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps · Health: 88% · 179 wiki-pagina's totaal |
+| 2026-07-20 | expansie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-20 | expansie-2 | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met _ — STAP 1.5 overgeslagen |
+| 2026-07-20 | expansie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-20 | expansie-2 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Financiële Crisis 2008 (Beleg — minste pag's), Factor Investing (Beleg), Het Byzantijnse Rijk (Gesch — geen eigen pagina), Analytische Filosofie (Fil — methodologische gap) |
+| 2026-07-20 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Financiële Crisis 2008.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-20 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Factor Investing.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-20 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Het Byzantijnse Rijk.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-20 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Analytische Filosofie.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-20 | expansie-2 | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Taalfilosofie (Fil), Private Equity (Beleg) |
+| 2026-07-20 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Financiële Crisis 2008 — Herding.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-20 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Het Byzantijnse Rijk — De Renaissance.md — sterkte ★8 — Geschiedenis (intra) |
+| 2026-07-20 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Analytische Filosofie — Filosofie van de Geest.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-20 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Financiële Crisis 2008 — Grote Depressie.md — sterkte ★9 — Beleggen × Geschiedenis |
+| 2026-07-20 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Factor Investing — Gedragseconomie.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-20 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Prijs van Vergeten.md — Beleggen → Geschiedenis — sterkte ★9 |
+| 2026-07-20 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Geheugen van de Beschaving.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-20 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Taal als Spiegel van Denken.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-20 | expansie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-20 Dagrapport.md — expansiemodus — 4 concepten, 5 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-20 | expansie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-20 Quiz.md — 3 vragen toegevoegd (Factor Investing, Financiële Crisis 2008, Byzantijnse Rijk vergelijking) |
+| 2026-07-20 | expansie-2 | Agent 6 | Weekreflectie | ↓ | Week 30 reflectie bestaat reeds (2026-30 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-20 | expansie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 89% — Psych 92% (80 pag's), Fil 89% (38 pag's), Gesch 87% (34 pag's), Beleg 86% (31 pag's) |
+| 2026-07-20 | expansie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven: 89% · 183 wiki-pagina's · 375 relatie-/inzichtpagina's |
+| 2026-07-20 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Beleggen: +2 (Financiële Crisis 2008, Factor Investing) · Filosofie: +1 (Analytische Filosofie) · Geschiedenis: +1 (Het Byzantijnse Rijk) |
+| 2026-07-20 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-20 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 2 nieuwe gaps toegevoegd ↓ (Taalfilosofie, Private Equity) |
+| 2026-07-20 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 5 verbindingen · 3 inzichten · Health: 89% · 183 wiki-pagina's totaal |
