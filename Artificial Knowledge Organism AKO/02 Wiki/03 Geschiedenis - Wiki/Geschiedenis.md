@@ -45,3 +45,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Kapitalisme]]
 - [[Imperialisme]]
 - [[Het Romeinse Rijk]]
+- [[De Islamitische Gouden Eeuw]]

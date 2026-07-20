@@ -1197,3 +1197,23 @@ type: operationeel
 | 2026-07-20 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-20 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ (Marxisme, De Islamitische Gouden Eeuw) |
 | 2026-07-20 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 87% · 177 wiki-pagina's totaal |
+| 2026-07-20 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-20 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alle beginnen met _) — STAP 1.5 overgeslagen |
+| 2026-07-20 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-20 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 gaps uit queue: Marxisme (Filosofie), De Islamitische Gouden Eeuw (Geschiedenis) |
+| 2026-07-20 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Marxisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-20 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | De Islamitische Gouden Eeuw.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Marxisme — Historisch Materialisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Marxisme — Russische Revolutie.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Islamitische Gouden Eeuw — Antiek Griekenland.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-20 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Islamitische Gouden Eeuw — De Renaissance.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-20 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Kennisoverdracht als Beschavingsfactor.md — Geschiedenis → Filosofie — sterkte ★9 |
+| 2026-07-20 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Vervreemding als Gedeeld Mechanisme.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-20 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-20 Dagrapport.md — consolidatiemodus — 6 concepten totaal, 8 verbindingen, 5 inzichten, 2 gaps gedicht |
+| 2026-07-20 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-20 Quiz.md — 3 vragen toegevoegd (Marxisme, De Islamitische Gouden Eeuw, vergelijking) |
+| 2026-07-20 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 88% — Psych 92% (80 pag's), Fil 88% (37 pag's), Gesch 86% (33 pag's), Beleg 84% (29 pag's) |
+| 2026-07-20 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven: 88% · 179 wiki-pagina's · 367 relatie-/inzichtpagina's |
+| 2026-07-20 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +1 (Marxisme) · Geschiedenis: +1 (De Islamitische Gouden Eeuw) |
+| 2026-07-20 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-20 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Marxisme, De Islamitische Gouden Eeuw) · Queue leeg |
+| 2026-07-20 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps · Health: 88% · 179 wiki-pagina's totaal |

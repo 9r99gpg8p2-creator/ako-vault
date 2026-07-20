@@ -175,8 +175,8 @@ type: operationeel
 | ✓ | 2026-07-20T expansie | Agent 3 | Expansie: Postmodernisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Postmodernisme.md — confidence 5 |
 | ✓ | 2026-07-20T expansie | Agent 3 | Expansie: Het Romeinse Rijk | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Romeinse Rijk.md — confidence 5 |
 | ✓ | 2026-07-20T expansie | Agent 3 | Expansie: Spinoza | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Spinoza.md — confidence 5 |
-| ↓ | 2026-07-20T expansie | Agent 3 | Gap: Marxisme | Filosofie — ontbreekt; complement op Historisch Materialisme, Hegel, Russische Revolutie |
-| ↓ | 2026-07-20T expansie | Agent 3 | Gap: De Islamitische Gouden Eeuw | Geschiedenis — brug Antiek Griekenland → Renaissance; wetenschapsgeschiedkundige relevantie |
+| ✓ | 2026-07-20T consolidatie | Agent 3 | Gap: Marxisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Marxisme.md — confidence 5 |
+| ✓ | 2026-07-20T consolidatie | Agent 3 | Gap: De Islamitische Gouden Eeuw | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Islamitische Gouden Eeuw.md — confidence 5 |
 
 ---
 

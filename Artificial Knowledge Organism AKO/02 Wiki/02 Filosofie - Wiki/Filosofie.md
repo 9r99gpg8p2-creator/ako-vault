@@ -49,3 +49,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[George Berkeley]]
 - [[Postmodernisme]]
 - [[Spinoza]]
+- [[Marxisme]]
