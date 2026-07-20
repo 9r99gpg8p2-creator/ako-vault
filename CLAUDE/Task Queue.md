@@ -171,6 +171,12 @@ type: operationeel
 | ✓ | 2026-07-19T expansie-2 | Agent 3 | Gap: George Berkeley (empirisme-cluster) | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/George Berkeley.md — confidence 5 |
 | ✓ | 2026-07-19T expansie-2 | Agent 3 | Gap: Complexe PTSD (C-PTSD) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Complexe PTSD.md — confidence 5 |
 | ✓ | 2026-07-19T expansie-2 | Agent 3 | Gap: Traumatisch Hersenletsel (THL) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Traumatisch Hersenletsel.md — confidence 5 |
+| ✓ | 2026-07-20T expansie | Agent 3 | Expansie: Kapitaalmarkten | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Kapitaalmarkten.md — confidence 5 |
+| ✓ | 2026-07-20T expansie | Agent 3 | Expansie: Postmodernisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Postmodernisme.md — confidence 5 |
+| ✓ | 2026-07-20T expansie | Agent 3 | Expansie: Het Romeinse Rijk | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Romeinse Rijk.md — confidence 5 |
+| ✓ | 2026-07-20T expansie | Agent 3 | Expansie: Spinoza | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Spinoza.md — confidence 5 |
+| ↓ | 2026-07-20T expansie | Agent 3 | Gap: Marxisme | Filosofie — ontbreekt; complement op Historisch Materialisme, Hegel, Russische Revolutie |
+| ↓ | 2026-07-20T expansie | Agent 3 | Gap: De Islamitische Gouden Eeuw | Geschiedenis — brug Antiek Griekenland → Renaissance; wetenschapsgeschiedkundige relevantie |
 
 ---
 

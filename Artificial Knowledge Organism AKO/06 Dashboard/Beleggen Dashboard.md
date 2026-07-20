@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, beleggen]
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Beleggen Dashboard
@@ -14,20 +14,21 @@ updated: 2026-07-19
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 27 |
+| Pagina's | 29 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **83%** |
+| **Score** | **84%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie (2026-07-19 expansie-run)
+## Nieuw deze sessie (2026-07-20 expansie-run)
 
-- [[Heuristieken]] — Kahneman/Tversky mentale vuistregels; beschikbaarheid, representativiteit, ankering; behavioral finance; cross-link Dual Process Theorie
+- [[Kapitaalmarkten]] — primaire en secundaire markt; aandelenmarkt; obligatiemarkt; liquiditeit; financiering van bedrijven en overheden; verbinding met macroeconomie en rente
 
 ## Cross-domein bruggen
 
-- [[Heuristieken]] → [[Dual Process Theorie]] (Systeem 1 als bron van heuristieken in financiële beslissingen; ★9)
-- [[Heuristieken]] → [[Gedragseconomie]] (Kahneman/Tversky heuristieken als fundering van behavioral finance; ★10)
+- [[Kapitaalmarkten]] → [[Gedragseconomie]] (biases en emoties verstoren efficiënte prijsvorming; ★9)
+- [[Kapitaalmarkten]] → [[Industriële Revolutie]] (vraag naar kapitaalfinanciering als drijver van vroege aandelenmarkten; ★7)
+- [[Kapitaalmarkten]] → [[Spinoza]] (zelfkennis als beleggerscompetentie; passietheorie en marktpsychologie; ★8)

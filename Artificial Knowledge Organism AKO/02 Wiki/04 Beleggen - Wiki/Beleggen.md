@@ -41,3 +41,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Duurzaam Beleggen]]
 - [[Derivaten]]
 - [[Heuristieken]]
+- [[Kapitaalmarkten]]

@@ -47,3 +47,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[John Locke]]
 - [[David Hume]]
 - [[George Berkeley]]
+- [[Postmodernisme]]
+- [[Spinoza]]

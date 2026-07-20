@@ -1172,3 +1172,28 @@ type: operationeel
 | 2026-07-19 | consolidatie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-19 | consolidatie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue volledig leeg (0 items ↓) |
 | 2026-07-19 | consolidatie-2 | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 5 verbindingen · 3 inzichten · Health: 86% · 173 wiki-pagina's totaal |
+| 2026-07-20 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-20 | expansie | Agent 1 | Inbox scan | ✓ | Geen te verwerken bestanden — STAP 1.5 overgeslagen |
+| 2026-07-20 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-20 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Kapitaalmarkten (Beleg — minste pagina's), Postmodernisme (Fil), Het Romeinse Rijk (Gesch), Spinoza (Fil) |
+| 2026-07-20 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Kapitaalmarkten.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-20 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Postmodernisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-20 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Het Romeinse Rijk.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-20 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Spinoza.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-20 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Marxisme (Fil), De Islamitische Gouden Eeuw (Gesch) |
+| 2026-07-20 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Postmodernisme — Epistemologisch Relativisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-20 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Spinoza — Emotieregulatie.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-20 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Het Romeinse Rijk — Stoïcisme.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-20 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Kapitaalmarkten — Gedragseconomie.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-20 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Filosoof in de Markt.md — Filosofie → Beleggen — sterkte ★8 |
+| 2026-07-20 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Waarheid als Machtsspel.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-20 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Rome als Spiegel van de Moderniteit.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-20 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-20 Dagrapport.md — 4 concepten, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-20 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-20 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-20 | expansie | Agent 6 | Weekreflectie aangemaakt | ✓ | 2026-30 Reflectie.md — week 30 van 2026 |
+| 2026-07-20 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 87% — Psych 92% (80 pag's), Fil 87% (36 pag's), Gesch 85% (32 pag's), Beleg 84% (29 pag's) |
+| 2026-07-20 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (87%), Filosofie (87%), Geschiedenis (85%), Beleggen (84%) |
+| 2026-07-20 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +2 (Postmodernisme, Spinoza) · Geschiedenis: +1 (Het Romeinse Rijk) · Beleggen: +1 (Kapitaalmarkten) |
+| 2026-07-20 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-20 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ (Marxisme, De Islamitische Gouden Eeuw) |
+| 2026-07-20 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 87% · 177 wiki-pagina's totaal |

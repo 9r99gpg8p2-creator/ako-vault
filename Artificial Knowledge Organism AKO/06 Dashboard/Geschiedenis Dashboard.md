@@ -2,7 +2,7 @@
 tags: [dashboard, geschiedenis]
 type: dashboard
 discipline: geschiedenis
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Geschiedenis Dashboard
@@ -15,21 +15,21 @@ updated: 2026-07-19
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 30 |
+| Pagina's | 32 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **84%** |
+| **Score** | **85%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuw deze sessie (2026-07-19 expansie-run)
+## Nieuw deze sessie (2026-07-20 expansie-run)
 
-- [[Imperialisme]] — Europese expansie 1870–1914; Scramble for Africa; Hobson/Lenin economische these; Said's cultureel imperialisme; postkoloniale erfenis
+- [[Het Romeinse Rijk]] — Pax Romana; Romeins recht; romanisering; val 476 n.Chr.; brug naar Stoïcisme en Politieke Filosofie
 
 ## Cross-domein bruggen
 
-- [[Imperialisme]] → [[Politieke Filosofie]] (soevereiniteit, zelfbeschikking en morele paradox van beschavingsmissie; ★8)
-- [[Imperialisme]] → [[Kapitalisme]] (Hobson/Lenin-these: imperialisme als gevolg van kapitalistische overaccumulatie; ★9)
-- [[Imperialisme]] → [[Dekolonisatie]] (historische causaliteit: koloniale onderwerping als voorwaarde voor dekolonisatiebeweging; ★10)
+- [[Het Romeinse Rijk]] → [[Stoïcisme]] (Marcus Aurelius en Seneca als stoïsche keizers; Stoïcisme als bestuurlijke ethiek; ★9)
+- [[Het Romeinse Rijk]] → [[Politieke Filosofie]] (Cicero en het concept van *res publica*; Verlichtingsdenkers putten uit Rome; ★8)
+- [[Het Romeinse Rijk]] → [[Postmodernisme]] (interpretaties van Rome's val als spiegelprojectie van het heden; ★7)
