@@ -14,16 +14,16 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 38 |
+| Pagina's | 40 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **87%** |
+| **Score** | **88%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuwe pagina's (2026-07-21 expansie-run 2)
+## Nieuwe pagina's (2026-07-21 expansie-run)
 
-- [[Cryptocurrency en Blockchain]] — confidence 5
-- [[Benjamin Graham]] — confidence 5
+- [[Groei Investeren]] — Growth Investing, PEG-ratio, scalable business models; verbonden met Waarde Investeren, Prospect Theory; confidence 5
+- [[Warren Buffett]] — waarde-belegger, Berkshire Hathaway, emotionele discipline; verbonden met Benjamin Graham, Emotieregulatie; confidence 5

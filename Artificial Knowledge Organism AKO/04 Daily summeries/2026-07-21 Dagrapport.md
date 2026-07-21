@@ -2,62 +2,30 @@
 type: dagrapport
 date: 2026-07-21
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Goedemorgen.
-
-Nieuwe kennis:          3 concepten toegevoegd (consolidatie-run)
-Nieuwe artikelen:       0 (Wikipedia-API geblokkeerd — E-003)
-Nieuwe verbindingen:    5
-Nieuwe inzichten:       3
-Kennishiaten gedicht:   3
-Queue resterend:        0
-Aanbevolen leestijd:    ~12 minuten
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-Geen Inbox-bestanden verwerkt deze run (alle bestanden gefilterd op `_`-prefix).
-
----
-
-## Nieuwe Wiki-pagina's (Consolidatie-run)
-
-1. [[Keizerlijk China]] — Geschiedenis · confidence 5
-2. [[Thomas Hobbes]] — Filosofie · confidence 5
-3. [[Stress en de HPA-as]] — Psychologie · confidence 5
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[Keizerlijk China]] ↔ [[Het Mongoolse Rijk]] · ★10
-2. [[Thomas Hobbes]] ↔ [[Maatschappelijk Contract]] · ★10
-3. [[Stress en de HPA-as]] ↔ [[PTSD]] · ★10
-4. [[Stress en de HPA-as]] ↔ [[Depressie]] · ★9
-5. [[Thomas Hobbes]] ↔ [[Totalitarisme]] · ★7
-
----
-
-## Insight Feed
-
-— "Net zoals Hobbes' Leviathan een rem nodig heeft op de soeverein, heeft de HPA-as een negatieve terugkoppeling nodig op cortisol — zonder die rem eindigen beide systemen in destructieve escalatie." [Filosofie → Psychologie · ★9]
-
-— "Keizerlijk China overleefde tweeduizend jaar dynastieke cycli, maar niet de HPA-as van het imperium: extern opgelegde vernedering (Opiumoorlogen) beschadigde de zelfregulatiecapaciteit van de staat — net zoals chronische stress de terugkoppelingsmechanismen van het brein corrumpeert." [Geschiedenis → Psychologie · ★8]
-
-— "Hobbes' absolute soeverein werd in de 20e eeuw belichaamd door totalitaire regimes — en bewees daarmee zijn eigen tekortkoming: absolute macht zonder rem is niet de oplossing voor chaos, maar een nieuwe, gecentraliseerde vorm ervan." [Filosofie → Geschiedenis · ★8]
+Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 2 · Leestijd: 8 min
 
 ---
 
 ## Research Agenda
 
-Prioriteit 1: Keizerlijk China verdiepen — Ming-dynastie maritieme expansie en vergelijking met Europees imperialisme
-Prioriteit 2: HPA-as en vroegkinderlijk trauma — verbinding naar Hechtingstheorie en vroegkinderlijke stressrespons-programmering
-Prioriteit 3: Hobbes en Adorno — filosofisch precedent voor de Autoritaire Persoonlijkheid en fascistische staatslegitimatie
+1. **Groei Investeren** — Beleggen mist nog een systematische behandeling van groei vs. waarde als duaal paradigma; follow-up: GARP (Growth At a Reasonable Price) als synthese
+2. **De Kruistochten** — Nieuwe pagina aangemaakt; logische vervolgstappen zijn individuele kruistochten (Eerste, Derde) en de Reconquista als Europees equivalent
+3. **Feodalisme & Kapitalisme** — De overgang van feodalisme naar vroegmodern kapitalisme verdient verdieping; de Enclosure-beweging in Engeland is een concreet ontbrekend concept
+
+---
+
+## Insight Feed
+
+— "Warren Buffett's halve eeuw aan uitzonderlijk rendement bewijst dat de meeste beleggingswinst voortkomt uit emotionele discipline, niet uit superieure rekenvaardigheid — een neuropsychologisch argument voor de klinische relevantie van executieve controle." [Beleggen → Psychologie · ★9]
+
+— "Het verval van het feodalisme schiep het filosofische vacuüm dat de contracttheorie invulde: toen loyaliteit ophield de basis van politieke autoriteit te zijn, moest de rede het overnemen." [Geschiedenis → Filosofie · ★8]
+
+— "Groeibeleggers zijn systematisch kwetsbaar voor optimisme-bias bij instap en verliesaversie bij uitstap — de cognitieve architectuur die groei-zeepbellen aandrijft, is dezelfde die Prospect Theory beschrijft." [Beleggen → Psychologie · ★7]
 
 ---
 
@@ -65,25 +33,21 @@ Prioriteit 3: Hobbes en Adorno — filosofisch precedent voor de Autoritaire Per
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | ~90% | → |
-| Filosofie | ~90% | ↑ |
-| Geschiedenis | ~88% | ↑ |
-| Beleggen | 87% | → |
+| Psychologie | 99% | → |
+| Filosofie | 83% | → |
+| Geschiedenis | 85% | ↑ |
+| Beleggen | 84% | ↑ |
 
 ---
 
-## Activiteit (gecombineerde dag)
+## Activiteit
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 3 (consolidatie) + 4 (expansie) = 7 |
-| Nieuwe verbindingen | 5 (consolidatie) + 4 (expansie) = 9 |
-| Nieuwe inzichten | 3 (consolidatie) + 3 (expansie) = 6 |
-| Gaps gedicht | 3 |
-| Queue resterend | 0 |
-
----
-
-## Aandacht vereist
-
-- [ ] Wikipedia API nog steeds geblokkeerd (E-003) — confidence beperkt tot 5 voor nieuwe pagina's
+| Inbox verwerkt | 0 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe verbindingen | 4 |
+| Nieuwe inzichten | 3 |
+| Gaps gedicht | 0 |
+| Quiz vragen toegevoegd | 3 |

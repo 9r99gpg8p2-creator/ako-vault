@@ -51,3 +51,5 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Risicobeheer]]
 - [[Cryptocurrency en Blockchain]]
 - [[Benjamin Graham]]
+- [[Groei Investeren]]
+- [[Warren Buffett]]

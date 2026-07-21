@@ -203,6 +203,12 @@ type: operationeel
 | ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: Keizerlijk China | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Keizerlijk China.md — confidence 5 |
 | ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: Thomas Hobbes | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Thomas Hobbes.md — confidence 5 |
 | ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: Stress en de HPA-as | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Stress en de HPA-as.md — confidence 5 |
+| ✓ | 2026-07-21T expansie-3 | Agent 3 | Expansie: Groei Investeren | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Groei Investeren.md — confidence 5 |
+| ✓ | 2026-07-21T expansie-3 | Agent 3 | Expansie: Warren Buffett | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Warren Buffett.md — confidence 5 |
+| ✓ | 2026-07-21T expansie-3 | Agent 3 | Expansie: De Kruistochten | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Kruistochten.md — confidence 5 |
+| ✓ | 2026-07-21T expansie-3 | Agent 3 | Expansie: Feodalisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Feodalisme.md — confidence 5 |
+| ↓ | 2026-07-21T expansie-3 | Agent 3 | Gap: De Reconquista | Gedetecteerd in De Kruistochten — religieuze herovering Iberisch schiereiland 711–1492 |
+| ↓ | 2026-07-21T expansie-3 | Agent 3 | Gap: GARP (Growth At a Reasonable Price) | Gedetecteerd in Groei Investeren — synthese van groei- en waardebeleggen |
 
 ---
 

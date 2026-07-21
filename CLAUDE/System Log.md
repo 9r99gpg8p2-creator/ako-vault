@@ -1399,3 +1399,27 @@ type: operationeel
 | 2026-07-21 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-21 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · 0 nieuwe gaps · Queue leeg |
 | 2026-07-21 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 88% · 205 wiki-pagina's totaal |
+| 2026-07-21 | expansie-3 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-21 | expansie-3 | Agent 1 | Inbox scan | ✓ | Alleen _-bestanden gevonden — STAP 1.5 overgeslagen |
+| 2026-07-21 | expansie-3 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-21 | expansie-3 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Groei Investeren (Beleg — ontbrekend), Warren Buffett (Beleg — sleutelfiguur), De Kruistochten (Gesch — ontbrekend), Feodalisme (Gesch — ontbrekend) |
+| 2026-07-21 | expansie-3 | Agent 3 | Wiki aangemaakt | ✓ | Groei Investeren.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-21 | expansie-3 | Agent 3 | Wiki aangemaakt | ✓ | Warren Buffett.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-21 | expansie-3 | Agent 3 | Wiki aangemaakt | ✓ | De Kruistochten.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-21 | expansie-3 | Agent 3 | Wiki aangemaakt | ✓ | Feodalisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-21 | expansie-3 | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps: De Reconquista (Gesch), GARP (Beleg) |
+| 2026-07-21 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Warren Buffett — Emotieregulatie.md — sterkte ★9 — Beleggen × Psychologie |
+| 2026-07-21 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Groei Investeren — Prospect Theory.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-21 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | De Kruistochten — Ethiek.md — sterkte ★8 — Geschiedenis × Filosofie |
+| 2026-07-21 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Feodalisme — Maatschappelijk Contract.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-21 | expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Belegger die Zichzelf Kent Wint.md — Beleggen → Psychologie — sterkte ★9 |
+| 2026-07-21 | expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Einde van de Eed is het Begin van het Contract.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-21 | expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Groeiverwachting als Projectie van Optimisme-bias.md — Beleggen → Psychologie — sterkte ★7 |
+| 2026-07-21 | expansie-3 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-21 Dagrapport.md — expansie-3 modus |
+| 2026-07-21 | expansie-3 | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-21 Quiz.md — 3 vragen toegevoegd (totaal 17): Groei Investeren, Warren Buffett + Emotieregulatie, De Kruistochten + Ethiek |
+| 2026-07-21 | expansie-3 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 89% — Psychologie: 90% · Filosofie: 89% · Geschiedenis: 88% · Beleggen: 88% |
+| 2026-07-21 | expansie-3 | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (89%), Geschiedenis (88%), Beleggen (88%) |
+| 2026-07-21 | expansie-3 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Geschiedenis: +2 (De Kruistochten, Feodalisme) · Beleggen: +2 (Groei Investeren, Warren Buffett) |
+| 2026-07-21 | expansie-3 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-21 | expansie-3 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
+| 2026-07-21 | expansie-3 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 89% · 209 wiki-pagina's totaal |
