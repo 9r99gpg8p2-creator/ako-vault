@@ -60,6 +60,7 @@ Thomas Kuhn publiceerde *The Structure of Scientific Revolutions* in 1962 als bi
 - [[Efficiënte Markthypothese]] ★8 — geval: de val van de EMH ten gunste van behavioral finance is een paradigmawisseling in de financiële economie
 - [[Epistemologie]] ★9 — fundering: epistemologie biedt het theoretisch kader waarom paradigmawisselingen onvermijdelijk zijn — de criteria voor wat als kennis telt veranderen mee met het paradigma
 - [[Macroeconomie]] ★8 — grote macro-economische crises (Grote Depressie, stagflatie 1970s, crisis 2008) zijn historische katalysatoren voor paradigmawisselingen in economisch denken
+- [[Filosofie van de Wetenschap]] ★10 — Kuhns paradigmaconcept IS een product van de wetenschapsfilosofie; de relatie is constitutief, niet analoog
 
 ## Bronnen
 

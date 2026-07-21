@@ -1308,3 +1308,28 @@ type: operationeel
 | 2026-07-20 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-20 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · Queue leeg |
 | 2026-07-20 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps · Health: 90% · 191 wiki-pagina's totaal |
+| 2026-07-21 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-21 | expansie | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden starten met `_` — STAP 1.5 overgeslagen |
+| 2026-07-21 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence 5. |
+| 2026-07-21 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Risicobeheer (Beleg — minste pagina's), Filosofie van de Wetenschap (Fil), Maatschappelijk Contract (Fil), Oude Egypte (Gesch) |
+| 2026-07-21 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Risicobeheer.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-21 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Filosofie van de Wetenschap.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-21 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Maatschappelijk Contract.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-21 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Oude Egypte.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-21 | expansie | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Falsifiabilisme (Fil), John Rawls (Fil), Mesopotamië (Gesch) |
+| 2026-07-21 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Risicobeheer — Executieve Functies.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-21 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Maatschappelijk Contract — De Verlichting.md — sterkte ★10 — Filosofie × Geschiedenis |
+| 2026-07-21 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Filosofie van de Wetenschap — Paradigmawisseling.md — sterkte ★10 — Filosofie × Geschiedenis |
+| 2026-07-21 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Oude Egypte — Antiek Griekenland.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-21 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Prefrontale Cortex als Risicocalculator.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-21 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Revolutie als Filosofisch Experiment.md — Filosofie → Geschiedenis — sterkte ★9 |
+| 2026-07-21 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Kennis Heeft Altijd een Tijdstempel.md — Filosofie → Geschiedenis → Epistemologie — sterkte ★9 |
+| 2026-07-21 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-21 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-21 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-21 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-21 | expansie | Agent 6 | Weekreflectie | ↓ | 2026-30 Reflectie.md bestaat reeds — geen nieuwe aanmaak vereist |
+| 2026-07-21 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Psych 92% (81 pag's), Fil 91% (40 pag's), Gesch 89% (35 pag's), Beleg 90% (35 pag's) |
+| 2026-07-21 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (91%), Filosofie (91%), Geschiedenis (89%), Beleggen (90%) |
+| 2026-07-21 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +2 (Filosofie van de Wetenschap, Maatschappelijk Contract) · Geschiedenis: +1 (Oude Egypte) · Beleggen: +1 (Risicobeheer) |
+| 2026-07-21 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-21 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 3 nieuwe gaps toegevoegd ↓ |
+| 2026-07-21 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% · 195 wiki-pagina's totaal |

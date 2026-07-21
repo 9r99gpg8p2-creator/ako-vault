@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, beleggen]
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # Beleggen Dashboard — AKO
@@ -14,16 +14,15 @@ updated: 2026-07-20
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 31 |
+| Pagina's | 35 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **86%** |
+| **Score** | **90%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuwe pagina's (2026-07-20 expansie)
+## Nieuwe pagina's (2026-07-21 expansie)
 
-- [[Financiële Crisis 2008]] — confidence 5
-- [[Factor Investing]] — confidence 5
+- [[Risicobeheer]] — confidence 5

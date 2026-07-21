@@ -189,6 +189,13 @@ type: operationeel
 | ✓ | 2026-07-20T expansie-3 | Agent 3 | Expansie: Kahneman | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Kahneman.md — confidence 5 |
 | ✓ | 2026-07-20T consolidatie | Agent 3 | Gap: Amos Tversky | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Amos Tversky.md — confidence 5 |
 | ✓ | 2026-07-20T consolidatie | Agent 3 | Gap: Keynesiaanse Economie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Keynesiaanse Economie.md — confidence 5 |
+| ✓ | 2026-07-21T expansie | Agent 3 | Expansie: Risicobeheer | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Risicobeheer.md — confidence 5 |
+| ✓ | 2026-07-21T expansie | Agent 3 | Expansie: Filosofie van de Wetenschap | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Filosofie van de Wetenschap.md — confidence 5 |
+| ✓ | 2026-07-21T expansie | Agent 3 | Expansie: Maatschappelijk Contract | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Maatschappelijk Contract.md — confidence 5 |
+| ✓ | 2026-07-21T expansie | Agent 3 | Expansie: Oude Egypte | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Oude Egypte.md — confidence 5 |
+| ↓ | 2026-07-21T expansie | Agent 3 | Gap: Falsifiabilisme | Popper's falsificeerbaarheidscriterium — 02 Wiki/02 Filosofie - Wiki/ |
+| ↓ | 2026-07-21T expansie | Agent 3 | Gap: John Rawls | Politiek filosoof — Theorie van rechtvaardigheid — 02 Wiki/02 Filosofie - Wiki/ |
+| ↓ | 2026-07-21T expansie | Agent 3 | Gap: Mesopotamië | Vroege beschaving (Sumerisch, Babylonisch) — 02 Wiki/03 Geschiedenis - Wiki/ |
 
 ---
 

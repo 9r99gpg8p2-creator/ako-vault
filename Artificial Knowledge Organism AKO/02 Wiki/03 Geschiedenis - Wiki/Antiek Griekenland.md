@@ -56,6 +56,7 @@ De invloed van het antieke Griekenland op latere beschavingen is ongekend: het R
 - [[De Renaissance]] — de Renaissance was in essentie een rehabilitatie van Grieks-Romein erfgoed
 - [[Wetenschappelijke Revolutie]] — de wetenschappelijke revolutie brak tegelijk met en bouwde op de Aristotelische wetenschapsopvatting
 - [[Paradigmawisseling]] — de Griekse overgang van mythologisch naar rationeel denken was een paradigmawisseling avant la lettre
+- [[Oude Egypte]] ★9 — Griekenland stond diep in de schuld aan Egypte: van wiskunde en geneeskunde tot religieuze syncretisme; Alexander veroverde Egypte en stichtte Alexandrië
 
 **Cross-domein:**
 - [[Socrates]] — de meest invloedrijke Griekse filosoof; grondlegger van de Westerse ethiek (Filosofie × Geschiedenis)

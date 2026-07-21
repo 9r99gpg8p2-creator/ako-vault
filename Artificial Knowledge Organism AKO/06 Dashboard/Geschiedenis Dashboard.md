@@ -2,7 +2,7 @@
 tags: [dashboard, geschiedenis]
 type: dashboard
 discipline: geschiedenis
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # Geschiedenis Dashboard — AKO
@@ -15,15 +15,15 @@ updated: 2026-07-20
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 34 |
+| Pagina's | 35 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **87%** |
+| **Score** | **89%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuwe pagina's (2026-07-20 expansie)
+## Nieuwe pagina's (2026-07-21 expansie)
 
-- [[Het Byzantijnse Rijk]] — confidence 5
+- [[Oude Egypte]] — confidence 5

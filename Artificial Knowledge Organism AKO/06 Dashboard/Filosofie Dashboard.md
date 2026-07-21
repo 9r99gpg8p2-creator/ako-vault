@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, filosofie]
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # Filosofie Dashboard — AKO
@@ -14,15 +14,16 @@ updated: 2026-07-20
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 38 |
+| Pagina's | 40 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **89%** |
+| **Score** | **91%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuwe pagina's (2026-07-20 expansie)
+## Nieuwe pagina's (2026-07-21 expansie)
 
-- [[Analytische Filosofie]] — confidence 5
+- [[Filosofie van de Wetenschap]] — confidence 5
+- [[Maatschappelijk Contract]] — confidence 5

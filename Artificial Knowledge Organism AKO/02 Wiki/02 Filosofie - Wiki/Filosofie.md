@@ -52,3 +52,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Marxisme]]
 - [[Analytische Filosofie]]
 - [[Taalfilosofie]]
+- [[Filosofie van de Wetenschap]]
+- [[Maatschappelijk Contract]]

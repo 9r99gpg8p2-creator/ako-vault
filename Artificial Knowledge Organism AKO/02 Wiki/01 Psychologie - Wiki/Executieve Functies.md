@@ -61,6 +61,7 @@ Alexander Luria legde in de jaren 1960–1970 de neurologische basis voor het be
 - [[Vrije Wil]] ★9 — executieve functies vormen de neurowetenschappelijke basis voor intentioneel, deliberatief handelen dat filosofen 'vrije wil' noemen
 - [[Risicoperceptie]] ★8 — neurobiologische basis: de prefrontale cortex (executieve functies) is het neurale substraat voor rationele risicobeoordeling; schade leidt tot systematisch gestoorde risicoperceptie
 - [[Vygotsky]] ★9 — culturele oorsprong: EF zijn voor Vygotsky geïnternaliseerde sociale regulatieprocessen; scaffolding in revalidatie is directe toepassing van zijn principe
+- [[Risicobeheer]] ★8 — toepassing: effectief risicobeheer vereist inhibitie van impulsieve reacties, werkgeheugen en cognitieve flexibiliteit — kernfuncties van het executieve systeem
 
 ## Bronnen
 
