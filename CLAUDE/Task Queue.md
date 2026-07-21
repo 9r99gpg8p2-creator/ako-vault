@@ -200,9 +200,9 @@ type: operationeel
 | ✓ | 2026-07-21T expansie-2 | Agent 3 | Expansie: Benjamin Graham | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Benjamin Graham.md — confidence 5 |
 | ✓ | 2026-07-21T expansie-2 | Agent 3 | Expansie: Het Mongoolse Rijk | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Mongoolse Rijk.md — confidence 5 |
 | ✓ | 2026-07-21T expansie-2 | Agent 3 | Expansie: Jean-Jacques Rousseau | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Jean-Jacques Rousseau.md — confidence 5 |
-| ↓ | 2026-07-21T expansie-2 | Agent 3 | Gap: Keizerlijk China | Grote beschaving onvertegenwoordigd in Geschiedenis; verbinding naar Het Mongoolse Rijk en De Islamitische Gouden Eeuw via Zijderoute |
-| ↓ | 2026-07-21T expansie-2 | Agent 3 | Gap: Thomas Hobbes | Derde grote sociale-contracttheoreticus naast Locke en Rousseau; ontbreekt in Filosofie |
-| ↓ | 2026-07-21T expansie-2 | Agent 3 | Gap: Stress en de HPA-as | Fysiologische stressrespons ontbreekt in Psychologie; relevant voor klinische neuropsychologie en verbinding naar PTSD, Depressie, Verslaving |
+| ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: Keizerlijk China | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Keizerlijk China.md — confidence 5 |
+| ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: Thomas Hobbes | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Thomas Hobbes.md — confidence 5 |
+| ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: Stress en de HPA-as | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Stress en de HPA-as.md — confidence 5 |
 
 ---
 

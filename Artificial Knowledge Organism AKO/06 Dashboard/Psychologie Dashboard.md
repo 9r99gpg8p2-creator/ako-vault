@@ -2,7 +2,7 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-07-19
+updated: 2026-07-21
 ---
 
 # Psychologie Dashboard
@@ -15,21 +15,20 @@ updated: 2026-07-19
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 80 |
+| Pagina's | 83 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
-| Orphan% | 0% |
-| **Score** | **92%** |
-| Trend | ↑ |
+| Orphan% | ~10% |
+| **Score** | **90%** |
+| Trend | → |
 
 ---
 
-## Nieuw deze sessie (2026-07-19 consolidatie-run)
+## Nieuwe pagina's (2026-07-21 consolidatie-run)
 
-- [[Complexe PTSD]] — ICD-11 C-PTSD; disturbances in self-organization (DSO); affectdysregulatie, negatief zelfconcept, relationele stoornissen; fasegerichte behandeling; MSc KNP kerndomein
-- [[Traumatisch Hersenletsel]] — THL mild/matig/ernstig; cognitief profiel (aandacht, werkgeheugen, executieve functies); neuroplasticiteit en revalidatie; forensische neuropsychologie
+- [[Stress en de HPA-as]] — HPA-as cortisolrespons; chronische stress; PTSD, Depressie, Verslaving; klinisch relevant voor MSc KNP
 
 ## Cross-domein bruggen
 
-- [[Complexe PTSD]] → [[Morele Verantwoordelijkheid]] (juridische toerekeningsvraagstukken bij chronisch trauma; ★7)
-- [[Traumatisch Hersenletsel]] → [[Executieve Functies]] → [[Neuropsychologische Rehabilitatie]] (THL-keten; ★9–10)
+- [[Stress en de HPA-as]] → [[PTSD]] (HPA-as dysregulatie als kernmechanisme; ★10)
+- [[Stress en de HPA-as]] → [[Depressie]] (hippocampale atrofie; ★9)

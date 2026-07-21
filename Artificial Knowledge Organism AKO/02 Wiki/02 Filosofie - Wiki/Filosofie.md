@@ -57,3 +57,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Falsifiabilisme]]
 - [[John Rawls]]
 - [[Jean-Jacques Rousseau]]
+- [[Thomas Hobbes]]

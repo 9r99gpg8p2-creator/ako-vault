@@ -95,3 +95,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Traumatisch Hersenletsel]]
 - [[Kahneman]]
 - [[Amos Tversky]]
+- [[Stress en de HPA-as]]

@@ -14,15 +14,15 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 44 |
+| Pagina's | 45 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
 | **Score** | **89%** |
-| Trend | ↑ |
+| Trend | → |
 
 ---
 
-## Nieuwe pagina's (2026-07-21 expansie-run 2)
+## Nieuwe pagina's (2026-07-21 consolidatie-run)
 
-- [[Jean-Jacques Rousseau]] — confidence 5
+- [[Thomas Hobbes]] — Leviathan, absolute soevereiniteit, sociale-contracttheorie; grondlegger politieke filosofie; confidence 5

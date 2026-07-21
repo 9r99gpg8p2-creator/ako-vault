@@ -1376,3 +1376,26 @@ type: operationeel
 | 2026-07-21 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-21 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 pagina's toegevoegd · 3 nieuwe gaps: Keizerlijk China, Thomas Hobbes, Stress en HPA-as |
 | 2026-07-21 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 88% · 202 wiki-pagina's totaal |
+| 2026-07-21 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-21 | consolidatie | Agent 1 | Inbox scan | ✓ | Alle bestanden gefilterd op _-prefix — STAP 1.5 overgeslagen |
+| 2026-07-21 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-21 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 onderwerpen geselecteerd (alle queue ↓): Keizerlijk China (Gesch), Thomas Hobbes (Fil), Stress en de HPA-as (Psych) |
+| 2026-07-21 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Keizerlijk China.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-21 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Thomas Hobbes.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-21 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Stress en de HPA-as.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-21 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Keizerlijk China — Het Mongoolse Rijk.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-21 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Thomas Hobbes — Maatschappelijk Contract.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-21 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Stress en de HPA-as — PTSD.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-21 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Thomas Hobbes — Totalitarisme.md — sterkte ★7 — Filosofie × Geschiedenis |
+| 2026-07-21 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Stress en de HPA-as — Depressie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-21 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Lichaam als Politiek Systeem.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-21 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Zijderoute van het Trauma.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-21 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Absolute Macht Corrumpeert Altijd.md — Filosofie → Geschiedenis — sterkte ★8 |
+| 2026-07-21 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-21 Dagrapport.md — consolidatiemodus — 3 concepten, 5 verbindingen, 3 inzichten, 0 nieuwe gaps |
+| 2026-07-21 | consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-21 Quiz.md — 3 vragen toegevoegd (totaal 14): Stress en HPA-as, Hobbes + Keizerlijk China, HPA PTSD vs Depressie |
+| 2026-07-21 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 88% — Psychologie: 90% · Filosofie: 89% · Geschiedenis: 87% · Beleggen: 87% |
+| 2026-07-21 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (88%), Psychologie (90%), Filosofie (89%), Geschiedenis (87%) |
+| 2026-07-21 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Stress en de HPA-as) · Filosofie: +1 (Thomas Hobbes) · Geschiedenis: +1 (Keizerlijk China) |
+| 2026-07-21 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-21 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · 0 nieuwe gaps · Queue leeg |
+| 2026-07-21 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 88% · 205 wiki-pagina's totaal |

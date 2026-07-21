@@ -15,15 +15,15 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 38 |
+| Pagina's | 39 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
 | **Score** | **87%** |
-| Trend | ↑ |
+| Trend | → |
 
 ---
 
-## Nieuwe pagina's (2026-07-21 expansie-run 2)
+## Nieuwe pagina's (2026-07-21 consolidatie-run)
 
-- [[Het Mongoolse Rijk]] — confidence 5
+- [[Keizerlijk China]] — dynastieke cyclus, Hemels Mandaat, Zijderoute, examensysteem; verbonden met Het Mongoolse Rijk en De Islamitische Gouden Eeuw; confidence 5
