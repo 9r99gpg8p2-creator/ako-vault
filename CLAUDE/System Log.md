@@ -1423,3 +1423,21 @@ type: operationeel
 | 2026-07-21 | expansie-3 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-21 | expansie-3 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
 | 2026-07-21 | expansie-3 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 89% · 209 wiki-pagina's totaal |
+| 2026-07-21 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-21 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen bestanden te verwerken — Inbox leeg na filtering |
+| 2026-07-21 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | API geblokkeerd — interne kennis gebruikt, confidence max 5 |
+| 2026-07-21 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 gaps uit Task Queue: De Reconquista (Gesch), GARP (Beleg) |
+| 2026-07-21 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | De Reconquista.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-21 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | GARP.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-21 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Reconquista — De Kruistochten.md — sterkte ★9 — Geschiedenis |
+| 2026-07-21 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Reconquista — De Islamitische Gouden Eeuw.md — sterkte ★8 — Geschiedenis |
+| 2026-07-21 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | GARP — Groei Investeren.md — sterkte ★9 — Beleggen |
+| 2026-07-21 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | GARP — Waarde Investeren.md — sterkte ★8 — Beleggen |
+| 2026-07-21 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Herovering als Kennisoverdracht.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-21 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | PEG-ratio als Systeem 2 Anker.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-21 | consolidatie | Agent 6 | Dagrapport bijgewerkt | ✓ | 2026-07-21 Dagrapport.md overschreven — modus: consolidatie |
+| 2026-07-21 | consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-21 Quiz.md — 3 nieuwe vragen toegevoegd (18, 19, 20) |
+| 2026-07-21 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Geschiedenis Dashboard: 42 pag's ★88% · Beleggen Dashboard: 41 pag's ★88% |
+| 2026-07-21 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Geschiedenis: +1 (De Reconquista) · Beleggen: +1 (GARP) |
+| 2026-07-21 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · Queue resterend: 0 |
+| 2026-07-21 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 pag's · 4 verbindingen · 2 inzichten · Health: 88% · 211 wiki-pagina's totaal |

@@ -54,3 +54,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Keizerlijk China]]
 - [[De Kruistochten]]
 - [[Feodalisme]]
+- [[De Reconquista]]

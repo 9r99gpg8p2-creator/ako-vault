@@ -2,24 +2,28 @@
 type: dagrapport
 date: 2026-07-21
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 2 · Leestijd: 8 min
+Nieuwe kennis: 6 · Inbox verwerkt: 0 · Verbindingen: 8 · Inzichten: 5 · Gaps gedicht: 2 · Leestijd: 12 min
 
 ---
 
 ## Research Agenda
 
-1. **Groei Investeren** — Beleggen mist nog een systematische behandeling van groei vs. waarde als duaal paradigma; follow-up: GARP (Growth At a Reasonable Price) als synthese
-2. **De Kruistochten** — Nieuwe pagina aangemaakt; logische vervolgstappen zijn individuele kruistochten (Eerste, Derde) en de Reconquista als Europees equivalent
-3. **Feodalisme & Kapitalisme** — De overgang van feodalisme naar vroegmodern kapitalisme verdient verdieping; de Enclosure-beweging in Engeland is een concreet ontbrekend concept
+1. **GARP als beleggingsstrategie** — Vandaag aangemaakt; logische verdieping: Factor Investing (kwaliteitsfactor), Peter Lynch's sectoranalyse, en vergelijking met kwantitatieve screeningmethoden
+2. **De Reconquista** — Vandaag aangemaakt; vervolgstap: de *Convivencia* als concept (islamitisch-christelijk-joods samenleven in Al-Andalus) en de Spaanse Inquisitie als directe consequentie
+3. **Enclosure-beweging** — Ontbrekend schakelconcept tussen Feodalisme en Kapitalisme; belangrijk voor begrip van vroegmodern eigendomsrecht en arbeidsmarkt
 
 ---
 
 ## Insight Feed
+
+— "De Reconquista illustreert een historische paradox: de herovering van Toledo bracht islamitische wetenschap naar christelijk Europa — de veroveraars creëerden onbedoeld de voedingsbodem voor de Renaissance." [Geschiedenis → Filosofie · ★8]
+
+— "De PEG-ratio in GARP-beleggen is een geïnstitutionaliseerd Systeem 2-mechanisme dat Systeem 1-heuristieken corrigeert — een cognitief hulpmiddel dat bewust emotionele impulsiviteit tempert." [Beleggen → Psychologie · ★8]
 
 — "Warren Buffett's halve eeuw aan uitzonderlijk rendement bewijst dat de meeste beleggingswinst voortkomt uit emotionele discipline, niet uit superieure rekenvaardigheid — een neuropsychologisch argument voor de klinische relevantie van executieve controle." [Beleggen → Psychologie · ★9]
 
@@ -29,14 +33,29 @@ Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps
 
 ---
 
+## Pagina's Bijgewerkt via Inbox
+
+*(Geen inbox-bestanden verwerkt deze run)*
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[De Reconquista]] ↔ [[De Kruistochten]] · ★9
+2. [[De Reconquista]] → [[De Islamitische Gouden Eeuw]] · ★8
+3. [[GARP]] → [[Groei Investeren]] · ★9
+4. [[GARP]] ↔ [[Waarde Investeren]] · ★8
+
+---
+
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 99% | → |
 | Filosofie | 83% | → |
-| Geschiedenis | 85% | ↑ |
-| Beleggen | 84% | ↑ |
+| Geschiedenis | 87% | ↑ |
+| Beleggen | 86% | ↑ |
 
 ---
 
@@ -45,9 +64,19 @@ Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe Wiki-pagina's (totaal vandaag) | 6 |
+| — Expansie-run | 4 |
+| — Consolidatie-run | 2 (De Reconquista, GARP) |
 | Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 4 |
-| Nieuwe inzichten | 3 |
-| Gaps gedicht | 0 |
+| Nieuwe verbindingen (totaal vandaag) | 8 |
+| Nieuwe inzichten (totaal vandaag) | 5 |
+| Gaps gedicht (consolidatie) | 2 |
+| Queue resterend | 0 |
 | Quiz vragen toegevoegd | 3 |
+
+---
+
+## Aandacht vereist
+
+- [ ] Overweeg Convivencia toe te voegen als concept (Al-Andalus als coëxistentiemodel)
+- [ ] Enclosure-beweging: brug tussen Feodalisme en Kapitalisme nog niet gedicht

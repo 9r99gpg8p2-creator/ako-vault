@@ -53,3 +53,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Benjamin Graham]]
 - [[Groei Investeren]]
 - [[Warren Buffett]]
+- [[GARP]]
