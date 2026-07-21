@@ -2,6 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-21
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -14,11 +15,11 @@ updated: 2026-07-21
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 81 | 100% | 100% | **92%** | → |
-| Filosofie | 40 | 100% | 100% | **91%** | ↑ |
-| Geschiedenis | 35 | 100% | 100% | **89%** | ↑ |
-| Beleggen | 35 | 100% | 100% | **90%** | ↑ |
-| **Overall** | **191** | 100% | 100% | **91%** | ↑ |
+| Psychologie | 82 | 100% | 100% | **92%** | → |
+| Filosofie | 43 | 100% | 100% | **93%** | ↑ |
+| Geschiedenis | 37 | 100% | 100% | **91%** | ↑ |
+| Beleggen | 36 | 100% | 100% | **90%** | → |
+| **Overall** | **198** | 100% | 100% | **92%** | ↑ |
 
 *Alle vier disciplines: ≥ 20 pagina's · 100% coverage · 100% connectivity · 0% orphans.*
 
@@ -28,32 +29,32 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 191 |
-| Relatie- en inzichtpagina's | 402 |
+| Totale Wiki-pagina's | 198 |
+| Relatie- en inzichtpagina's | 406 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-21 expansie-run)
+## Sessie-activiteit (2026-07-21 consolidatie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 (Risicobeheer, Filosofie van de Wetenschap, Maatschappelijk Contract, Oude Egypte) |
-| Updates bestaande pagina's | 4 (Executieve Functies, Antiek Griekenland, De Verlichting, Paradigmawisseling) |
-| Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichtpagina's | 3 |
-| Gaps gedicht | 0 |
-| Nieuwe gaps gesignaleerd | 3 (Falsifiabilisme, John Rawls, Mesopotamië) |
-| Queue resterend | 3 ↓ |
+| Nieuwe Wiki-pagina's | 3 (Falsifiabilisme, John Rawls, Mesopotamië) |
+| Updates bestaande pagina's | 0 |
+| Nieuwe relatiepagina's | 2 |
+| Nieuwe inzichtpagina's | 2 |
+| Gaps gedicht | 3 |
+| Nieuwe gaps gesignaleerd | 0 |
+| Queue resterend | 0 ↓ |
 
 ---
 
 ## Hubs
 
-- [[Psychologie]] — 81 pagina's
-- [[Filosofie]] — 40 pagina's
-- [[Geschiedenis]] — 35 pagina's
-- [[Beleggen]] — 35 pagina's
+- [[Psychologie]] — 82 pagina's
+- [[Filosofie]] — 43 pagina's
+- [[Geschiedenis]] — 37 pagina's
+- [[Beleggen]] — 36 pagina's

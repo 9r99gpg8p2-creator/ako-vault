@@ -1333,3 +1333,21 @@ type: operationeel
 | 2026-07-21 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-21 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 3 nieuwe gaps toegevoegd ↓ |
 | 2026-07-21 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% · 195 wiki-pagina's totaal |
+| 2026-07-21 | 00:00Z | Orchestrator | Consolidatie-run gestart | ✓ | Context geladen · 3 gaps (↓) in queue: Falsifiabilisme, John Rawls, Mesopotamië |
+| 2026-07-21 | 00:01Z | Agent 1 | Inbox scan | ✓ | 0 bestanden te verwerken (alle bestanden beginnen met _) — STAP 1.5 overgeslagen |
+| 2026-07-21 | 00:01Z | Agent 2 | Wikipedia API | FOUT E-003 | HTTP 403 geblokkeerd — interne kennis gebruikt · confidence max 5 |
+| 2026-07-21 | 00:02Z | Agent 3 | Wiki aangemaakt | ✓ | Falsifiabilisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-21 | 00:02Z | Agent 3 | Wiki aangemaakt | ✓ | John Rawls.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-21 | 00:02Z | Agent 3 | Wiki aangemaakt | ✓ | Mesopotamië.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-21 | 00:03Z | Agent 4 | Relatiepagina aangemaakt | ✓ | Falsifiabilisme — Paradigmawisseling.md — sterkte ★8 — Filosofie × Geschiedenis |
+| 2026-07-21 | 00:03Z | Agent 4 | Relatiepagina aangemaakt | ✓ | John Rawls — Kohlberg.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-21 | 00:04Z | Agent 5 | Inzichtpagina aangemaakt | ✓ | Falsifiabilisme als Fundament van Evidence-Based Psychologie.md — ★8 |
+| 2026-07-21 | 00:04Z | Agent 5 | Inzichtpagina aangemaakt | ✓ | Mesopotamische Wetten als Oorsprong van Marktinstituten.md — ★7 |
+| 2026-07-21 | 00:05Z | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-21 Dagrapport.md — modus: consolidatie |
+| 2026-07-21 | 00:05Z | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-21 Quiz.md — 3 vragen toegevoegd (totaal 8) |
+| 2026-07-21 | 00:06Z | Agent 7 | Knowledge Health berekend | ✓ | Overall: 92% — Psychologie: 92% · Filosofie: 93% · Geschiedenis: 91% · Beleggen: 90% |
+| 2026-07-21 | 00:06Z | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md — 198 wiki-pagina's · 406 graph-pagina's |
+| 2026-07-21 | 00:07Z | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +2 (Falsifiabilisme, John Rawls) · Geschiedenis: +1 (Mesopotamië) |
+| 2026-07-21 | 00:07Z | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-21 | 00:08Z | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gedicht (Falsifiabilisme, John Rawls, Mesopotamië) · 0 gaps open |
+| 2026-07-21 | 00:08Z | Orchestrator | Consolidatie-run voltooid | ✓ | 3 pag's · 2 verbindingen · 2 inzichten · Health: 92% · 198 wiki-pagina's totaal |

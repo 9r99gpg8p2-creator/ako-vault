@@ -193,9 +193,9 @@ type: operationeel
 | ✓ | 2026-07-21T expansie | Agent 3 | Expansie: Filosofie van de Wetenschap | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Filosofie van de Wetenschap.md — confidence 5 |
 | ✓ | 2026-07-21T expansie | Agent 3 | Expansie: Maatschappelijk Contract | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Maatschappelijk Contract.md — confidence 5 |
 | ✓ | 2026-07-21T expansie | Agent 3 | Expansie: Oude Egypte | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Oude Egypte.md — confidence 5 |
-| ↓ | 2026-07-21T expansie | Agent 3 | Gap: Falsifiabilisme | Popper's falsificeerbaarheidscriterium — 02 Wiki/02 Filosofie - Wiki/ |
-| ↓ | 2026-07-21T expansie | Agent 3 | Gap: John Rawls | Politiek filosoof — Theorie van rechtvaardigheid — 02 Wiki/02 Filosofie - Wiki/ |
-| ↓ | 2026-07-21T expansie | Agent 3 | Gap: Mesopotamië | Vroege beschaving (Sumerisch, Babylonisch) — 02 Wiki/03 Geschiedenis - Wiki/ |
+| ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: Falsifiabilisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Falsifiabilisme.md — confidence 5 |
+| ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: John Rawls | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/John Rawls.md — confidence 5 |
+| ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: Mesopotamië | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Mesopotamië.md — confidence 5 |
 
 ---
 
