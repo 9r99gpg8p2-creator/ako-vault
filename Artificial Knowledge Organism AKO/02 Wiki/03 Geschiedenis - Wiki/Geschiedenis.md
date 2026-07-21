@@ -50,3 +50,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Mercantilisme]]
 - [[Oude Egypte]]
 - [[Mesopotamië]]
+- [[Het Mongoolse Rijk]]

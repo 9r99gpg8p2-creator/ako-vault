@@ -63,6 +63,7 @@ In 2002 ontving Kahneman de Nobelprijs voor de Economie — als psycholoog, niet
 
 **Cross-domein:**
 - [[Prospect Theory]] → [[Beleggen]]: directe toepassing op irrationele marktbewegingen
+- [[Benjamin Graham]] ★8 — Graham's Mr. Market-metafoor anticipeerde empirisch op wat Kahneman bewees over irrationeel marktgedrag
 
 ## Bronnen
 

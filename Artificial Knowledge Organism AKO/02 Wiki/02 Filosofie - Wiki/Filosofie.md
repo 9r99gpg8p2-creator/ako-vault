@@ -56,3 +56,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Maatschappelijk Contract]]
 - [[Falsifiabilisme]]
 - [[John Rawls]]
+- [[Jean-Jacques Rousseau]]

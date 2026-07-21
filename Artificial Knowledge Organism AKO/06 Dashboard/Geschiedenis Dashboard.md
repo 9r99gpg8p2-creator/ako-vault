@@ -15,15 +15,15 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 35 |
+| Pagina's | 38 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **89%** |
+| **Score** | **87%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuwe pagina's (2026-07-21 expansie)
+## Nieuwe pagina's (2026-07-21 expansie-run 2)
 
-- [[Oude Egypte]] — confidence 5
+- [[Het Mongoolse Rijk]] — confidence 5

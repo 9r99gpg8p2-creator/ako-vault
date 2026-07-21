@@ -62,6 +62,7 @@ Wetenschapshistorici debatteren over de mate van "revolutionaire" versus "cumula
 - [[Wetenschappelijke Revolutie]] — islamitische bijdragen aan astronomie, optiek en wiskunde waren directe voorlopers van de Wetenschappelijke Revolutie
 - [[Paradigmawisseling]] — de introductie van Aristotelische filosofie in Europa via Averroës veroorzaakte een paradigmawisseling in de scholastieke theologie
 - [[De Middeleeuwen]] — de Islamitische Gouden Eeuw was de tegenhanger van de Europese Middeleeuwen; terwijl Europa fragmenteerde, floreerde de islamitische wereld
+- [[Het Mongoolse Rijk]] ★9 — Mongoolse verwoesting van Bagdad (1258) beëindigde de Gouden Eeuw; Pax Mongolica verspreidde tegelijk de islamitische kennis via de Zijderoute
 
 **Cross-domein:**
 - [[Aristoteles]] — Aristoteles' filosofie en wetenschap bereikte Europa via de Arabische commentaren van Averroës (Ibn Rushd); Arabisch Aristotelisme transformeerde de scholastieke filosofie (Filosofie × Geschiedenis)

@@ -63,6 +63,7 @@ Na de instorting weigerde de Hollandse overheid ingrijpend te reguleren; de mees
 **Cross-domein:**
 - [[Gouden Eeuw]] — de Tulpenmanie was ingebed in de financiële en culturele bloei van de Republiek; de beurs was het institutionele kader
 - [[Paradigmawisseling]] — elke grote zeepbelinstorting herstructureert het economische denken; Tulpenmanie beïnvloedde vroeg denken over speculatieregulering
+- [[Cryptocurrency en Blockchain]] ★8 — structurele gelijkenis: FOMO-gedreven zeepbellen met abrupte instorting gescheiden door vier eeuwen
 
 ## Bronnen
 

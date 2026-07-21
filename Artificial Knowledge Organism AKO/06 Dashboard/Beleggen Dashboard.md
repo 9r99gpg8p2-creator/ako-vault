@@ -14,15 +14,16 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 35 |
+| Pagina's | 38 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **90%** |
+| **Score** | **87%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuwe pagina's (2026-07-21 expansie)
+## Nieuwe pagina's (2026-07-21 expansie-run 2)
 
-- [[Risicobeheer]] — confidence 5
+- [[Cryptocurrency en Blockchain]] — confidence 5
+- [[Benjamin Graham]] — confidence 5

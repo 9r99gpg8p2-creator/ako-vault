@@ -1351,3 +1351,28 @@ type: operationeel
 | 2026-07-21 | 00:07Z | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-21 | 00:08Z | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gedicht (Falsifiabilisme, John Rawls, Mesopotamië) · 0 gaps open |
 | 2026-07-21 | 00:08Z | Orchestrator | Consolidatie-run voltooid | ✓ | 3 pag's · 2 verbindingen · 2 inzichten · Health: 92% · 198 wiki-pagina's totaal |
+| 2026-07-21 | expansie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-21 | expansie-2 | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alle bestanden beginnen met _) — STAP 1.5 overgeslagen |
+| 2026-07-21 | expansie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-21 | expansie-2 | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Cryptocurrency en Blockchain (Beleg — fewest pages), Benjamin Graham (Beleg — sleutelfiguur), Het Mongoolse Rijk (Gesch — grote beschaving ontbrekend), Jean-Jacques Rousseau (Fil — sociale-contracttheoreticus) |
+| 2026-07-21 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Cryptocurrency en Blockchain.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-21 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Benjamin Graham.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-21 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Het Mongoolse Rijk.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-21 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Jean-Jacques Rousseau.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-21 | expansie-2 | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps: Keizerlijk China (Gesch), Thomas Hobbes (Fil), Stress en de HPA-as (Psych) |
+| 2026-07-21 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Benjamin Graham — Kahneman.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-21 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Jean-Jacques Rousseau — De Franse Revolutie.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-21 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Cryptocurrency en Blockchain — Tulpenmanie.md — sterkte ★8 — Beleggen (intra) |
+| 2026-07-21 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Het Mongoolse Rijk — De Islamitische Gouden Eeuw.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-21 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Markt als Psychologisch Experiment.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-21 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Wil van het Volk als Wapen.md — Filosofie → Geschiedenis → Psychologie — sterkte ★9 |
+| 2026-07-21 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Vier Eeuwen Zeepbel.md — Beleggen → Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-21 | expansie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-21 Dagrapport.md — modus: expansie — 4 concepten, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-21 | expansie-2 | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-21 Quiz.md — 3 vragen toegevoegd (totaal 11): Benjamin Graham, Cryptocurrency + Tulpenmanie, Rousseau vs Locke |
+| 2026-07-21 | expansie-2 | Agent 6 | Weekreflectie | ↓ | Week 30 reflectie bestaat reeds (2026-30 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-21 | expansie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 88% — Psychologie: 90% · Filosofie: 89% · Geschiedenis: 87% · Beleggen: 87% |
+| 2026-07-21 | expansie-2 | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (88%), Filosofie (89%), Geschiedenis (87%), Beleggen (87%) |
+| 2026-07-21 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +1 (Jean-Jacques Rousseau) · Geschiedenis: +1 (Het Mongoolse Rijk) · Beleggen: +2 (Cryptocurrency en Blockchain, Benjamin Graham) |
+| 2026-07-21 | expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-21 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 pagina's toegevoegd · 3 nieuwe gaps: Keizerlijk China, Thomas Hobbes, Stress en HPA-as |
+| 2026-07-21 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 88% · 202 wiki-pagina's totaal |

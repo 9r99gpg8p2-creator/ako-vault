@@ -14,16 +14,15 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 40 |
+| Pagina's | 44 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **91%** |
+| **Score** | **89%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuwe pagina's (2026-07-21 expansie)
+## Nieuwe pagina's (2026-07-21 expansie-run 2)
 
-- [[Filosofie van de Wetenschap]] — confidence 5
-- [[Maatschappelijk Contract]] — confidence 5
+- [[Jean-Jacques Rousseau]] — confidence 5

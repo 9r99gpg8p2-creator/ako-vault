@@ -59,6 +59,7 @@ De Vergadering van de Staten-Generaal (1789) escaleert naar de Nationale Assembl
 **Cross-domein:**
 - [[Utilitarisme]] — Bentham en Mill reageerden op de uitdagingen van de Revolutie; utilitarisme bood een rationele grondslag voor wetgeving zonder goddelijk gezag
 - [[Morele Verantwoordelijkheid]] — de Terreur stelt vragen over collectieve en individuele verantwoordelijkheid bij politiek geweld
+- [[Jean-Jacques Rousseau]] ★9 — Rousseaus volkssoevereiniteitsidee was de directe ideologische grondslag voor de revolutionaire rechtvaardiging van macht
 
 ## Bronnen
 

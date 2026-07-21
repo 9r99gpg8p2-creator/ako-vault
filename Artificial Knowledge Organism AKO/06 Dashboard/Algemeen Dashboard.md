@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-21
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -15,11 +15,11 @@ sessie: consolidatie
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 82 | 100% | 100% | **92%** | → |
-| Filosofie | 43 | 100% | 100% | **93%** | ↑ |
-| Geschiedenis | 37 | 100% | 100% | **91%** | ↑ |
-| Beleggen | 36 | 100% | 100% | **90%** | → |
-| **Overall** | **198** | 100% | 100% | **92%** | ↑ |
+| Psychologie | 82 | 100% | 100% | **90%** | → |
+| Filosofie | 44 | 100% | 100% | **89%** | ↑ |
+| Geschiedenis | 38 | 100% | 100% | **87%** | ↑ |
+| Beleggen | 38 | 100% | 100% | **87%** | ↑ |
+| **Overall** | **202** | 100% | 100% | **88%** | ↑ |
 
 *Alle vier disciplines: ≥ 20 pagina's · 100% coverage · 100% connectivity · 0% orphans.*
 
@@ -29,32 +29,32 @@ sessie: consolidatie
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 198 |
-| Relatie- en inzichtpagina's | 406 |
+| Totale Wiki-pagina's | 202 |
+| Relatie- en inzichtpagina's | 413 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-21 consolidatie-run)
+## Sessie-activiteit (2026-07-21 expansie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 3 (Falsifiabilisme, John Rawls, Mesopotamië) |
-| Updates bestaande pagina's | 0 |
-| Nieuwe relatiepagina's | 2 |
-| Nieuwe inzichtpagina's | 2 |
-| Gaps gedicht | 3 |
-| Nieuwe gaps gesignaleerd | 0 |
-| Queue resterend | 0 ↓ |
+| Nieuwe Wiki-pagina's | 4 (Cryptocurrency en Blockchain, Benjamin Graham, Het Mongoolse Rijk, Jean-Jacques Rousseau) |
+| Updates bestaande pagina's | 4 |
+| Nieuwe relatiepagina's | 4 |
+| Nieuwe inzichtpagina's | 3 |
+| Gaps gedicht | 0 |
+| Nieuwe gaps gesignaleerd | 3 |
+| Queue resterend | 3 ↓ |
 
 ---
 
 ## Hubs
 
 - [[Psychologie]] — 82 pagina's
-- [[Filosofie]] — 43 pagina's
-- [[Geschiedenis]] — 37 pagina's
-- [[Beleggen]] — 36 pagina's
+- [[Filosofie]] — 44 pagina's
+- [[Geschiedenis]] — 38 pagina's
+- [[Beleggen]] — 38 pagina's

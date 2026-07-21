@@ -49,3 +49,5 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Monetarisme]]
 - [[Keynesiaanse Economie]]
 - [[Risicobeheer]]
+- [[Cryptocurrency en Blockchain]]
+- [[Benjamin Graham]]

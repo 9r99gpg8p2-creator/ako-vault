@@ -2,78 +2,41 @@
 type: dagrapport
 date: 2026-07-21
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
-
-Goedemorgen.
-
-Nieuwe kennis:          3 concepten toegevoegd
-Nieuwe artikelen:       0 (Wikipedia API geblokkeerd — interne kennis gebruikt)
-Nieuwe verbindingen:    2 relaties gelegd
-Nieuwe inzichten:       2 cross-domein inzichten gegenereerd
-Kennishiaten:           0 nieuwe gaps (alle ↓-items gedicht)
-Aanbevolen leestijd:    6 minuten
-
----
+Nieuwe kennis: 7 · Inbox verwerkt: 0 · Verbindingen: 6 · Inzichten: 5 · Gaps: 3 · Leestijd: 18 min
 
 ## Research Agenda
-
-Prioriteit 1: **Falsifiabilisme verdiepen** — Lakatos' onderzoeksprogramma's en Feyerabends 'anything goes' als vervolgdebat; verbinding met klinische methodologie
-Prioriteit 2: **John Rawls in klinische context** — differentieprincipe en rechtvaardigheid in de verdeling van gezondheidszorg; relevant voor MSc Klinische Neuropsychologie
-Prioriteit 3: **Mesopotamië en vroeg handelsrecht** — Babylonische contracten als voorlopers van vermogensrecht; relatie met Kapitalisme en Mercantilisme
-
----
+1. **Keizerlijk China** — Geschiedenis heeft 38 pagina's; grote beschaving volledig onvertegenwoordigd; directe verbinding naar Het Mongoolse Rijk (Yuan-dynastie) en De Islamitische Gouden Eeuw (Zijderoute)
+2. **Thomas Hobbes** — Filosofie mist de derde grote sociale-contracttheoreticus naast Locke en Rousseau; verbinding met Politieke Filosofie, Maatschappelijk Contract en Totalitarisme
+3. **Stress en de HPA-as** — Psychologie heeft geen pagina over de fysiologische stressrespons; direct relevant voor klinische neuropsychologie (MSc-doel gebruiker) en verband met PTSD, Depressie
 
 ## Insight Feed
-
-— "De eis dat psychologische theorieën falsifieerbaar moeten zijn bepaalt tot op de dag van vandaag welke therapievormen in de klinische praktijk worden erkend als evidence-based." [Filosofie → Psychologie · ★8]
-
-— "De eerste gecodificeerde wetgeving van Mesopotamië — eigendomsrecht, contracten, schuldenrecht — creëerde de institutionele basis waarop alle latere markteconomieën zijn gebouwd." [Geschiedenis → Beleggen · ★7]
-
----
-
-## Pagina's Aangemaakt via Consolidatie
-
-1. [[Falsifiabilisme]] — Popper's demarcatiecriterium voor wetenschap vs. pseudo-wetenschap — gap gedicht
-2. [[John Rawls]] — politiek filosoof; sluier van onwetendheid; theorie van rechtvaardigheid — gap gedicht
-3. [[Mesopotamië]] — vroegste beschaving; spijkerschrift; Hammurabi's wetboek — gap gedicht
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[Falsifiabilisme]] ↔ [[Paradigmawisseling]] · ★8 — Popper vs. Kuhn: normatieve vs. descriptieve wetenschapsfilosofie
-2. [[John Rawls]] ↔ [[Kohlberg]] · ★8 — rechtvaardigheidstheorie als fundament van morele ontwikkelingspsychologie
-
----
+— "De irrationele markt die Graham beschreef als 'Mr. Market' bewees Kahneman empirisch: systematische biases maken markten structureel inefficiënt." [Beleggen → Psychologie · ★8]
+— "Rousseaus bevrijdende volkssoevereiniteit droeg de kiem van zijn eigen pervertering: wie de Algemene Wil claimt te belichamen, legitimeert dwang in naam van vrijheid." [Filosofie → Geschiedenis → Psychologie · ★9]
+— "Cryptocurrency-markten zijn het reinste hedendaagse laboratorium voor de zeepbelmechanismen die de Tulpenmanie aandreven — vier eeuwen later, dezelfde menselijke psychologie." [Beleggen → Geschiedenis · ★8]
 
 ## Knowledge Health
-
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 90% | → |
-| Filosofie | 88% | ↑ |
-| Geschiedenis | 86% | ↑ |
-| Beleggen | 85% | → |
-
----
+| Filosofie | 89% | ↑ |
+| Geschiedenis | 87% | ↑ |
+| Beleggen | 87% | ↑ |
 
 ## Activiteit
-
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 3 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 2 |
-| Nieuwe inzichten | 2 |
-| Gaps gedicht | 3 |
-| Gaps gesignaleerd | 0 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 4 |
+| Nieuwe verbindingen | 4 |
+| Nieuwe inzichten | 3 |
+| Gaps gedicht | 0 |
+| Gaps gesignaleerd | 3 |
 
 ---
 
-## Aandacht vereist
-
-- [ ] Wikipedia API blijft geblokkeerd (E-003) — confidence voor nieuwe pagina's beperkt tot 5; prioriteer Inbox-content voor hogere confidence
+*(Inclusief eerdere consolidatierun: 3 extra pagina's, 2 verbindingen, 2 inzichten)*
