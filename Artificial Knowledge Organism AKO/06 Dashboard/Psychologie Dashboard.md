@@ -15,18 +15,19 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 83 |
+| Pagina's | 85 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | ~10% |
-| **Score** | **90%** |
-| Trend | → |
+| **Score** | **91%** |
+| Trend | ↑ |
 
 ---
 
-## Nieuwe pagina's (2026-07-21 consolidatie-run)
+## Nieuwe pagina's (2026-07-22 expansie-run)
 
-- [[Stress en de HPA-as]] — HPA-as cortisolrespons; chronische stress; PTSD, Depressie, Verslaving; klinisch relevant voor MSc KNP
+- [[Default Mode Network]] — rust-toestand hersennetwerk; ruminatie, depressie, ADHD, Alzheimer; cruciaal voor MSc KNP
+- [[Hippocampus]] — geheugenconsolidatie, ruimtelijke navigatie; Alzheimer, PTSD, Korsakoff; casus H.M.
 
 ## Cross-domein bruggen
 

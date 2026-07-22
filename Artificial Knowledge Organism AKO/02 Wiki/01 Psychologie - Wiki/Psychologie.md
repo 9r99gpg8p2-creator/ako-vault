@@ -96,3 +96,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Kahneman]]
 - [[Amos Tversky]]
 - [[Stress en de HPA-as]]
+- [[Default Mode Network]]
+- [[Hippocampus]]

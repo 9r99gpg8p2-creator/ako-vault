@@ -14,7 +14,7 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 45 |
+| Pagina's | 46 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
@@ -23,6 +23,6 @@ updated: 2026-07-21
 
 ---
 
-## Nieuwe pagina's (2026-07-21 consolidatie-run)
+## Nieuwe pagina's (2026-07-22 expansie-run)
 
-- [[Thomas Hobbes]] — Leviathan, absolute soevereiniteit, sociale-contracttheorie; grondlegger politieke filosofie; confidence 5
+- [[Wittgenstein]] — vroege Tractatus vs. late Philosophical Investigations; taalspelen, vormen van leven, privé-taalargument; grondlegger taalfilosofie 20e eeuw; confidence 5

@@ -1441,3 +1441,28 @@ type: operationeel
 | 2026-07-21 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Geschiedenis: +1 (De Reconquista) · Beleggen: +1 (GARP) |
 | 2026-07-21 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · Queue resterend: 0 |
 | 2026-07-21 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 pag's · 4 verbindingen · 2 inzichten · Health: 88% · 211 wiki-pagina's totaal |
+| 2026-07-22 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-22 | expansie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _-bestanden) — STAP 1.5 overgeslagen |
+| 2026-07-22 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-22 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Default Mode Network (Psych), Hippocampus (Psych), Pensioen en Sparen (Beleg), Wittgenstein (Fil) |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Default Mode Network.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Hippocampus.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Pensioen en Sparen.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Wittgenstein.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Amygdala (Psych), Prefrontale Cortex (Psych) |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Pensioen en Sparen — Verliesaversie.md — sterkte ★9 — Beleggen × Psychologie |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Wittgenstein — Sapir-Whorf Hypothese.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Default Mode Network — Depressie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Hippocampus — Geheugenconsolidatie.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-22 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Rusteloze Brein Vindt Geen Rust.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-22 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Angst voor Morgen Verarmt Overmorgen.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-22 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Geheugen is de Bodem van het Zelf.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-22 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-22 Dagrapport.md — 4 concepten, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-22 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-22 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-22 | expansie | Agent 6 | Weekreflectie | ↓ | Week 30 reflectie bestaat reeds (2026-30 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-22 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 89% — Coverage 100%, Connectivity 100% — Psych 91%, Fil 89%, Gesch 88%, Beleg 89% |
+| 2026-07-22 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (89%), Psychologie (91%), Beleggen (89%), Filosofie (89%) |
+| 2026-07-22 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Default Mode Network, Hippocampus) · Filosofie: +1 (Wittgenstein) · Beleggen: +1 (Pensioen en Sparen) |
+| 2026-07-22 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:11 (≥ 1:5 ✓) |
+| 2026-07-22 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 nieuwe gaps toegevoegd ↓ |
+| 2026-07-22 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 89% · 215 wiki-pagina's totaal |

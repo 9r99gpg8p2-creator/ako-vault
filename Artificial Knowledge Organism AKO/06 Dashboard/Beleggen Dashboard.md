@@ -14,19 +14,18 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 41 |
+| Pagina's | 42 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **88%** |
+| **Score** | **89%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuwe pagina's (2026-07-21 expansie-run)
+## Nieuwe pagina's (2026-07-22 expansie-run)
 
-- [[Groei Investeren]] — Growth Investing, PEG-ratio, scalable business models; verbonden met Waarde Investeren, Prospect Theory; confidence 5
-- [[Warren Buffett]] — waarde-belegger, Berkshire Hathaway, emotionele discipline; verbonden met Benjamin Graham, Emotieregulatie; confidence 5
+- [[Pensioen en Sparen]] — 4%-regel, pijler 3, samengestelde rente, FIRE, verliesaversie als pensioensbarrière; cross-domein Psychologie
 
 ## Nieuwe pagina's (2026-07-21 consolidatie-run)
 

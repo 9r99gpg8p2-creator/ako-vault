@@ -59,6 +59,7 @@ Verliesaversie is het centrale mechanisme achter Prospect Theory, gepubliceerd i
 - [[Diversificatie]] ★9 — verliesaversie ondermijnt rationele portfoliospreiding via het disposition effect en concentratie in geïdealiseerde posities
 - [[Rente]] ★7 — rentestijgingen activeren verliesaversie via koersdalingen in obligaties en aandelen; asymmetrische respons versterkt paniekverkoop
 - [[Derivaten]] ★8 — verliesaversie beïnvloedt hoe beleggers opties en futures gebruiken: te dure putopties, disposition effect in derivatenposities
+- [[Pensioen en Sparen]] ★9 — verliesaversie is een primaire psychologische barrière voor effectief pensioenbeleggen; angst voor koersdalingen leidt tot onderbelegging en suboptimale pensioenopbouw
 
 ## Bronnen
 

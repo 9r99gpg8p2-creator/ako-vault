@@ -60,6 +60,7 @@ Decennialang werd de hypothese als te radicaal beschouwd. Vanaf de jaren 1990 le
 
 **Cross-domein:**
 - [[Filosofie van de Geest]] — de relatie taal–denken is een centraal probleem in de taalfilosofie (Wittgenstein: grenzen van mijn taal zijn grenzen van mijn wereld)
+- [[Wittgenstein]] ★8 — Wittgensteins taalspelconcept en de these dat betekenis gebruik is, bieden de filosofische grondslag voor linguïstisch relativisme
 
 ## Bronnen
 

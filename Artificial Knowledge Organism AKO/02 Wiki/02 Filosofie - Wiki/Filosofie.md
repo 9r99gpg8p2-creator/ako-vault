@@ -58,3 +58,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[John Rawls]]
 - [[Jean-Jacques Rousseau]]
 - [[Thomas Hobbes]]
+- [[Wittgenstein]]

@@ -55,6 +55,7 @@ In de klinische neuropsychologie zijn cognitieve stoornissen bij depressie — m
 
 **Cross-domein:**
 - [[Klinische Neuropsychologie]] — depressie veroorzaakt cognitieve stoornissen die centraal staan in de klinische neuropsychologiepraktijk
+- [[Default Mode Network]] ★9 — hyperconnectiviteit in het DMN is het neurobiologische substraat van ruminatie, het kerncognitieve kenmerk van depressie
 
 ## Bronnen
 

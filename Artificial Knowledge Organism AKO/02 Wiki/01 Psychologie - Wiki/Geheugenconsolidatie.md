@@ -55,6 +55,7 @@ Slaaponderzoek door Stickgold en Walker heeft aangetoond dat slaapgebrek de cons
 
 **Cross-domein:**
 - [[Prospect Theory]] — verbinding: financiële besluitvorming wordt beïnvloed door hoe herinneringen aan winst en verlies geconsolideerd worden
+- [[Hippocampus]] ★10 — de hippocampus is het onmisbare neurale substraat van geheugenconsolidatie; zonder functionerende hippocampus is consolidatie van declaratief geheugen onmogelijk
 
 ## Bronnen
 
