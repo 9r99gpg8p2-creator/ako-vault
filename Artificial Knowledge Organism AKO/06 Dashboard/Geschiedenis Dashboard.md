@@ -15,25 +15,30 @@ updated: 2026-07-22
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 44 |
+| Pagina's | 45 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **90%** |
+| **Score** | **91%** |
 | Trend | ↑ |
 
 ---
 
+## Nieuwe pagina's (2026-07-22 consolidatie-run)
+
+- [[Aztekenbeschaving]] — Triple Alliantie, Tenochtitlan, tributair systeem, chinampas, mensenoffers, Spaanse verovering 1521; verbonden met Maya-beschaving, Tijdperk van Ontdekkingen, Imperialisme; cross-domein Postkoloniale Psychologie; confidence 5
+
 ## Nieuwe pagina's (2026-07-22 expansie-run)
 
-- [[De Maya-beschaving]] — stadsstaatssysteem, schrift, kalender, klassieke ineenstorting, Spaanse verovering; verbonden met Oude Egypte, Mesopotamië, Kolonialisme; cross-domein Postkoloniale Psychologie; confidence 5
+- [[De Maya-beschaving]] — stadsstaatssysteem, schrift, kalender, klassieke ineenstorting, Spaanse verovering; verbonden met Aztekenbeschaving, Tijdperk van Ontdekkingen; cross-domein Postkoloniale Psychologie; confidence 5
 
 ## Nieuwe pagina's (2026-07-22 eerdere consolidatie-run)
 
-- [[Tijdperk van Ontdekkingen]] — Europese zeëxploratie 15e–17e eeuw; Colombiaanse uitwisseling, Vasco da Gama, Columbus; verbonden met Kolonialisme, Mercantilisme, De Renaissance; cross-domein Postkoloniale Psychologie; confidence 5
+- [[Tijdperk van Ontdekkingen]] — Europese zeëxploratie 15e–17e eeuw; Colombiaanse uitwisseling, Vasco da Gama, Columbus; verbonden met Kolonialisme, Mercantilisme; confidence 5
 
-## Nieuwe pagina's (2026-07-21 expansie-run)
+## Cross-domein bruggen
 
-- [[De Kruistochten]] — religieuze militaire expedities 1096–1291; verbonden met De Middeleeuwen, Het Ottomaanse Rijk, Ethiek; confidence 5
-- [[Feodalisme]] — politiek-economisch systeem middeleeuwen; verbonden met Kapitalisme, Maatschappelijk Contract, Historisch Materialisme; confidence 5
-- [[De Reconquista]] — herovering Iberisch schiereiland 718–1492; verbonden met De Kruistochten, De Islamitische Gouden Eeuw, Humanisme; confidence 5
+- [[Aztekenbeschaving]] → [[Postkoloniale Psychologie]] (transgenerationeel koloniaal trauma; ★8)
+- [[Aztekenbeschaving]] → [[Tijdperk van Ontdekkingen]] (Spaanse verovering als expansiehoogtepunt; ★9)
+- [[De Maya-beschaving]] ↔ [[Aztekenbeschaving]] (gedeelde Meso-Amerikaanse cultuur; ★8)
+- [[Eerste Wereldoorlog]] → [[PTSD]] (geboorte van de moderne traumapsychologie; ★8)

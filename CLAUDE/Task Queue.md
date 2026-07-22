@@ -223,8 +223,8 @@ type: operationeel
 | ✓ | 2026-07-22T expansie | Agent 3 | Gap: Libertair Paternalisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Libertair Paternalisme.md — confidence 5 |
 | ✓ | 2026-07-22T expansie | Agent 3 | Expansie: Big Five Persoonlijkheidsmodel | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Big Five Persoonlijkheidsmodel.md — confidence 8 |
 | ✓ | 2026-07-22T expansie | Agent 3 | Expansie: De Maya-beschaving | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Maya-beschaving.md — confidence 5 |
-| ↓ | 2026-07-22T expansie | Agent 3 | Gap: Big Five — klinische validering NEO-PI-R | Neuropsychologische testbatterijen koppelen aan persoonlijkheidsprofiel; relevant voor diagnostische workflow |
-| ↓ | 2026-07-22T expansie | Agent 3 | Gap: Aztekenbeschaving | Pre-Columbiaanse tegenhanger van Maya; ontbreekt in Geschiedenis |
+| ✓ | 2026-07-22T expansie | Agent 3 | Gap: Big Five — klinische validering NEO-PI-R | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/NEO-PI-R.md — confidence 8 |
+| ✓ | 2026-07-22T expansie | Agent 3 | Gap: Aztekenbeschaving | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Aztekenbeschaving.md — confidence 5 |
 
 ---
 

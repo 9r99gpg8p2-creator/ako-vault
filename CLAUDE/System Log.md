@@ -1560,3 +1560,23 @@ type: operationeel
 | 2026-07-22 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-22 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
 | 2026-07-22 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% |
+| 2026-07-22 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-22 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen bestanden — alle Inbox-bestanden beginnen met _ (templatebestanden) — STAP 1.5 overgeslagen |
+| 2026-07-22 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade via proxy — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-22 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 onderwerpen uit queue ↓: Big Five klinische validering NEO-PI-R (Psych), Aztekenbeschaving (Gesch) |
+| 2026-07-22 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | NEO-PI-R.md — 01 Psychologie - Wiki — confidence 8 (Costa & McCrae 1992 + Hoekstra et al. 1996 + Widiger & Trull 2007) |
+| 2026-07-22 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Aztekenbeschaving.md — 03 Geschiedenis - Wiki — confidence 5 (Berdan 2014 + Townsend 2009) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | NEO-PI-R — Big Five Persoonlijkheidsmodel.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | NEO-PI-R — Klinische Neuropsychologie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Aztekenbeschaving — De Maya-beschaving.md — sterkte ★8 — Geschiedenis (intra) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Aztekenbeschaving — Tijdperk van Ontdekkingen.md — sterkte ★9 — Geschiedenis × Beleggen |
+| 2026-07-22 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Persoonlijkheid als Lens op Cognitie.md — Psychologie (intra) — sterkte ★9 |
+| 2026-07-22 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Verovering als Psychologisch Trauma.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-22 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-22 Dagrapport.md — consolidatiemodus — 2 concepten, 4 verbindingen, 2 inzichten, 0 nieuwe gaps |
+| 2026-07-22 | consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-22 Quiz.md — 3 vragen toegevoegd (totaal 20): NEO-PI-R Form R, NEO-PI-R diagnostisch scenario, Aztekenbeschaving × Maya-beschaving |
+| 2026-07-22 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Psychologie: 93% · Filosofie: 91% · Geschiedenis: 91% · Beleggen: 90% |
+| 2026-07-22 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (91%), Psychologie (93%), Geschiedenis (91%) |
+| 2026-07-22 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (NEO-PI-R) · Geschiedenis: +1 (Aztekenbeschaving) |
+| 2026-07-22 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-22 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (NEO-PI-R, Aztekenbeschaving) · 0 nieuwe gaps |
+| 2026-07-22 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · Health: 91% |
