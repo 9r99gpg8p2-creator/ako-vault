@@ -62,3 +62,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Hermeneutiek]]
 - [[John Stuart Mill]]
 - [[Structuralisme]]
+- [[Poststructuralisme]]
+- [[Libertair Paternalisme]]

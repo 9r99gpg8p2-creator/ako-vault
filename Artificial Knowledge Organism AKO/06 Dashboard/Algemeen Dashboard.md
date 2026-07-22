@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-22
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -15,11 +15,11 @@ sessie: consolidatie
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 89 | 100% | 100% | **92%** | → |
-| Filosofie | 49 | 100% | 100% | **91%** | ↑ |
-| Geschiedenis | 43 | 100% | 100% | **89%** | → |
+| Psychologie | 90 | 100% | 100% | **93%** | → |
+| Filosofie | 51 | 100% | 100% | **91%** | ↑ |
+| Geschiedenis | 44 | 100% | 100% | **90%** | ↑ |
 | Beleggen | 43 | 100% | 100% | **90%** | → |
-| **Overall** | **224** | 100% | 100% | **91%** | ↑ |
+| **Overall** | **228** | 100% | 100% | **91%** | ↑ |
 
 *Alle vier disciplines: ≥ 20 pagina's · 100% coverage · 100% connectivity · orphan% = 0.*
 
@@ -29,30 +29,30 @@ sessie: consolidatie
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 224 |
-| Relatie- en inzichtpagina's | 462 |
+| Totale Wiki-pagina's | 228 |
+| Relatie- en inzichtpagina's | 469 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-22 consolidatie-run)
+## Sessie-activiteit (2026-07-22 expansie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 3 (Insula, John Stuart Mill, Structuralisme) |
+| Nieuwe Wiki-pagina's | 4 (Poststructuralisme, Libertair Paternalisme, Big Five Persoonlijkheidsmodel, De Maya-beschaving) |
 | Updates bestaande pagina's | 0 |
-| Nieuwe relatiepagina's | 5 |
+| Nieuwe relatiepagina's | 4 |
 | Nieuwe inzichtpagina's | 3 |
-| Gaps gedicht | 3 |
+| Gaps gedicht | 2 |
 
 ---
 
 ## Hubs
 
-- [[Psychologie]] — 89 pagina's
-- [[Filosofie]] — 49 pagina's
-- [[Geschiedenis]] — 43 pagina's
+- [[Psychologie]] — 90 pagina's
+- [[Filosofie]] — 51 pagina's
+- [[Geschiedenis]] — 44 pagina's
 - [[Beleggen]] — 43 pagina's

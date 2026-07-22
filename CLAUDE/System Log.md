@@ -1536,3 +1536,27 @@ type: operationeel
 | 2026-07-22 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-22 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
 | 2026-07-22 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 91% |
+| 2026-07-22 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-22 | expansie | Agent 1 | Inbox scan | ✓ | Geen bestanden — alle Inbox-bestanden beginnen met _ (templatebestanden) — STAP 1.5 overgeslagen |
+| 2026-07-22 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade via proxy — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-22 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Poststructuralisme (queue ↓ PRIORITEIT), Libertair Paternalisme (queue ↓ PRIORITEIT), Big Five Persoonlijkheidsmodel (Psych gap — klinisch neuropsych relevant), De Maya-beschaving (Gesch expansie — pre-Columbiaans ontbreekt) |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Poststructuralisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Libertair Paternalisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Big Five Persoonlijkheidsmodel.md — 01 Psychologie - Wiki — confidence 8 |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | De Maya-beschaving.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Big Five klinische validering (Psych), Aztekenbeschaving (Gesch) |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Poststructuralisme — Structuralisme.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Libertair Paternalisme — Gedragseconomie.md — sterkte ★9 — Filosofie × Beleggen |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Big Five — Persoonlijkheidsstoornissen.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Maya-beschaving — Kolonialisme.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-22 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Taal Maakt Macht Onzichtbaar.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-22 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Een Kleine Duw Verandert Alles.md — Filosofie × Beleggen × Psychologie — sterkte ★8 |
+| 2026-07-22 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Wie Je Bent Bepaalt Hoe Je Belegt.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-22 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-22 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 2 nieuwe gaps |
+| 2026-07-22 | expansie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-22 Quiz.md — 3 vragen toegevoegd (totaal 17): Poststructuralisme, Libertair Paternalisme, Big Five risicofactoren |
+| 2026-07-22 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Psychologie: 93% · Filosofie: 91% · Geschiedenis: 90% · Beleggen: 90% |
+| 2026-07-22 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (91%), Psychologie (93%), Filosofie (91%), Geschiedenis (90%) |
+| 2026-07-22 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +2 (Poststructuralisme, Libertair Paternalisme) · Psychologie: +1 (Big Five Persoonlijkheidsmodel) · Geschiedenis: +1 (De Maya-beschaving) |
+| 2026-07-22 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-22 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
+| 2026-07-22 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 91% |

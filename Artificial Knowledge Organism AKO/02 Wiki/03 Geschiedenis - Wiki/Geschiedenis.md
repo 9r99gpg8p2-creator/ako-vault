@@ -56,3 +56,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Feodalisme]]
 - [[De Reconquista]]
 - [[Tijdperk van Ontdekkingen]]
+- [[De Maya-beschaving]]

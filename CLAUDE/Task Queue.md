@@ -219,8 +219,12 @@ type: operationeel
 | ✓ | 2026-07-22T consolidatie | Agent 3 | Gap: Insula | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Insula.md — confidence 8 |
 | ✓ | 2026-07-22T consolidatie | Agent 3 | Gap: John Stuart Mill | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/John Stuart Mill.md — confidence 5 |
 | ✓ | 2026-07-22T consolidatie | Agent 3 | Gap: Structuralisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Structuralisme.md — confidence 5 |
-| ↓ | 2026-07-22T consolidatie | Agent 3 | Gap: Poststructuralisme | Directe opvolger van Structuralisme (Derrida, Foucault, Deleuze); ontbreekt nog |
-| ↓ | 2026-07-22T consolidatie | Agent 3 | Gap: Libertair Paternalisme | Brug tussen Mill en gedragseconomie (Thaler & Sunstein); klinisch-ethisch relevant |
+| ✓ | 2026-07-22T expansie | Agent 3 | Gap: Poststructuralisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Poststructuralisme.md — confidence 5 |
+| ✓ | 2026-07-22T expansie | Agent 3 | Gap: Libertair Paternalisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Libertair Paternalisme.md — confidence 5 |
+| ✓ | 2026-07-22T expansie | Agent 3 | Expansie: Big Five Persoonlijkheidsmodel | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Big Five Persoonlijkheidsmodel.md — confidence 8 |
+| ✓ | 2026-07-22T expansie | Agent 3 | Expansie: De Maya-beschaving | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Maya-beschaving.md — confidence 5 |
+| ↓ | 2026-07-22T expansie | Agent 3 | Gap: Big Five — klinische validering NEO-PI-R | Neuropsychologische testbatterijen koppelen aan persoonlijkheidsprofiel; relevant voor diagnostische workflow |
+| ↓ | 2026-07-22T expansie | Agent 3 | Gap: Aztekenbeschaving | Pre-Columbiaanse tegenhanger van Maya; ontbreekt in Geschiedenis |
 
 ---
 
