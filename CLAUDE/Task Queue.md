@@ -216,9 +216,11 @@ type: operationeel
 | ✓ | 2026-07-22T expansie | Agent 3 | Expansie: Hermeneutiek | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Hermeneutiek.md — confidence 5 |
 | ✓ | 2026-07-22T expansie | Agent 3 | Expansie: Capital Asset Pricing Model | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Capital Asset Pricing Model.md — confidence 5 |
 | ✓ | 2026-07-22T expansie | Agent 3 | Duplicaat verwijderd | Moderne Portefeuilletheorie.md (spellingsvariant) samengevallen met bestaande Moderne Portefeuille Theorie.md |
-| ↓ | 2026-07-22T expansie | Agent 3 | Gap: Insula | Derde sleutelstructuur in emotioneel bewustzijn naast Amygdala en PFC; nog niet aangemaakt |
-| ↓ | 2026-07-22T expansie | Agent 3 | Gap: John Stuart Mill | Sluit de filosofische traditie via personen — ontbreekt nog |
-| ↓ | 2026-07-22T expansie | Agent 3 | Gap: Structuralisme | Filosofische beweging; cross-domein met Taalfilosofie en Hermeneutiek |
+| ✓ | 2026-07-22T consolidatie | Agent 3 | Gap: Insula | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Insula.md — confidence 8 |
+| ✓ | 2026-07-22T consolidatie | Agent 3 | Gap: John Stuart Mill | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/John Stuart Mill.md — confidence 5 |
+| ✓ | 2026-07-22T consolidatie | Agent 3 | Gap: Structuralisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Structuralisme.md — confidence 5 |
+| ↓ | 2026-07-22T consolidatie | Agent 3 | Gap: Poststructuralisme | Directe opvolger van Structuralisme (Derrida, Foucault, Deleuze); ontbreekt nog |
+| ↓ | 2026-07-22T consolidatie | Agent 3 | Gap: Libertair Paternalisme | Brug tussen Mill en gedragseconomie (Thaler & Sunstein); klinisch-ethisch relevant |
 
 ---
 

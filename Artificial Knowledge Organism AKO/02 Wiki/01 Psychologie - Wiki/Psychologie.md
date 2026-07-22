@@ -101,3 +101,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Amygdala]]
 - [[Prefrontale Cortex]]
 - [[Neuroimaging]]
+- [[Insula]]

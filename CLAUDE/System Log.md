@@ -1512,3 +1512,27 @@ type: operationeel
 | 2026-07-22 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-22 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 expansies gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
 | 2026-07-22 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 90% |
+| 2026-07-22 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-22 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden — alle bestanden beginnen met _ of zijn al verwerkt; STAP 1.5 overgeslagen |
+| 2026-07-22 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5 (confidence 8 voor bekende bronnen). |
+| 2026-07-22 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 queue-items geselecteerd: Insula (queue ↓), John Stuart Mill (queue ↓), Structuralisme (queue ↓) |
+| 2026-07-22 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Insula.md — 01 Psychologie - Wiki — confidence 8 (Craig 2009, Damasio 1994, Paulus 2006) |
+| 2026-07-22 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | John Stuart Mill.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-22 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Structuralisme.md — 02 Filosofie - Wiki — confidence 5 (Saussure 1916, Lévi-Strauss 1958, Piaget 1968) |
+| 2026-07-22 | consolidatie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps gesignaleerd: Poststructuralisme (Fil), Libertair Paternalisme (Fil/Beleg) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Insula — Amygdala.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Insula — Prefrontale Cortex.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | John Stuart Mill — Utilitarisme.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Structuralisme — Taalfilosofie.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Structuralisme — Hermeneutiek.md — sterkte ★8 — Filosofie (intra) |
+| 2026-07-22 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Gevoel dat Zichzelf Voelt.md — Insula → Bewustzijn → Filosofie van de Geest — sterkte ★9 |
+| 2026-07-22 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Homo Economicus die Niet Bestaat.md — John Stuart Mill → Utilitarisme → Gedragseconomie — sterkte ★8 |
+| 2026-07-22 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Kind als Structuralist.md — Structuralisme → Piaget → Zone of Proximal Development — sterkte ★8 |
+| 2026-07-22 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-22 Dagrapport.md — consolidatiemodus — 3 concepten, 5 verbindingen, 3 inzichten |
+| 2026-07-22 | consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-22 Quiz.md — 3 vragen toegevoegd (totaal 14): Insula interoceptie, Mill schadebeginsel, Structuralisme-Hermeneutiek vergelijking |
+| 2026-07-22 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Psychologie: 92% · Filosofie: 91% · Geschiedenis: 89% · Beleggen: 90% |
+| 2026-07-22 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (91%), Psychologie (92%), Filosofie (91%) |
+| 2026-07-22 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Insula) · Filosofie: +2 (John Stuart Mill, Structuralisme) |
+| 2026-07-22 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-22 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd ↓ |
+| 2026-07-22 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 91% |

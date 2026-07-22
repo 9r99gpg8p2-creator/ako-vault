@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-22
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -15,13 +15,13 @@ sessie: expansie
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
-| Psychologie | 87 | 100% | 100% | **92%** | → |
-| Filosofie | 46 | 100% | 100% | **90%** | ↑ |
-| Geschiedenis | 42 | 100% | 100% | **89%** | ↑ |
-| Beleggen | 42 | 100% | 100% | **90%** | ↑ |
-| **Overall** | **217** | 100% | 100% | **90%** | ↑ |
+| Psychologie | 89 | 100% | 100% | **92%** | → |
+| Filosofie | 49 | 100% | 100% | **91%** | ↑ |
+| Geschiedenis | 43 | 100% | 100% | **89%** | → |
+| Beleggen | 43 | 100% | 100% | **90%** | → |
+| **Overall** | **224** | 100% | 100% | **91%** | ↑ |
 
-*Alle vier disciplines: ≥ 20 pagina's · 100% coverage · 100% connectivity · lage orphan%.*
+*Alle vier disciplines: ≥ 20 pagina's · 100% coverage · 100% connectivity · orphan% = 0.*
 
 ---
 
@@ -29,23 +29,22 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 217 |
-| Relatie- en inzichtpagina's | 454 |
+| Totale Wiki-pagina's | 224 |
+| Relatie- en inzichtpagina's | 462 |
 | Geïsoleerde nodes | 0 |
 | Hub-to-hub links | 0 |
 | Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-22 expansie-run)
+## Sessie-activiteit (2026-07-22 consolidatie-run)
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 (Neuroimaging, Tijdperk van Ontdekkingen, Hermeneutiek, Capital Asset Pricing Model) |
-| Duplicaat verwijderd | 1 (Moderne Portefeuilletheorie — samengevallen met bestaande pagina) |
+| Nieuwe Wiki-pagina's | 3 (Insula, John Stuart Mill, Structuralisme) |
 | Updates bestaande pagina's | 0 |
-| Nieuwe relatiepagina's | 4 |
+| Nieuwe relatiepagina's | 5 |
 | Nieuwe inzichtpagina's | 3 |
 | Gaps gedicht | 3 |
 
@@ -53,7 +52,7 @@ sessie: expansie
 
 ## Hubs
 
-- [[Psychologie]] — 87 pagina's
-- [[Filosofie]] — 46 pagina's
-- [[Geschiedenis]] — 42 pagina's
-- [[Beleggen]] — 42 pagina's
+- [[Psychologie]] — 89 pagina's
+- [[Filosofie]] — 49 pagina's
+- [[Geschiedenis]] — 43 pagina's
+- [[Beleggen]] — 43 pagina's

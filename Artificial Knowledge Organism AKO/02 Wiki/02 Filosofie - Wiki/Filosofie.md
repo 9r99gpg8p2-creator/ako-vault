@@ -60,3 +60,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Thomas Hobbes]]
 - [[Wittgenstein]]
 - [[Hermeneutiek]]
+- [[John Stuart Mill]]
+- [[Structuralisme]]
