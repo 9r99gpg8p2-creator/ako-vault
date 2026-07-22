@@ -100,3 +100,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Hippocampus]]
 - [[Amygdala]]
 - [[Prefrontale Cortex]]
+- [[Neuroimaging]]

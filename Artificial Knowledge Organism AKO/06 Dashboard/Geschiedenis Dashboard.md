@@ -19,10 +19,14 @@ updated: 2026-07-21
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **88%** |
+| **Score** | **89%** |
 | Trend | ↑ |
 
 ---
+
+## Nieuwe pagina's (2026-07-22 expansie-run)
+
+- [[Tijdperk van Ontdekkingen]] — Europese zeëxploratie 15e–17e eeuw; Colombiaanse uitwisseling, Vasco da Gama, Columbus; verbonden met Kolonialisme, Mercantilisme, De Renaissance; cross-domein Postkoloniale Psychologie; confidence 5
 
 ## Nieuwe pagina's (2026-07-21 expansie-run)
 

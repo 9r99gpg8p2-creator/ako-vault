@@ -55,3 +55,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Kruistochten]]
 - [[Feodalisme]]
 - [[De Reconquista]]
+- [[Tijdperk van Ontdekkingen]]

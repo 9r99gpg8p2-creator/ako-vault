@@ -211,6 +211,14 @@ type: operationeel
 | ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: GARP (Growth At a Reasonable Price) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/GARP.md — confidence 5 |
 | ✓ | 2026-07-22T consolidatie | Agent 3 | Gap: Amygdala | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Amygdala.md — confidence 8 |
 | ✓ | 2026-07-22T consolidatie | Agent 3 | Gap: Prefrontale Cortex | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Prefrontale Cortex.md — confidence 8 |
+| ✓ | 2026-07-22T expansie | Agent 3 | Expansie: Neuroimaging | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Neuroimaging.md — confidence 5 |
+| ✓ | 2026-07-22T expansie | Agent 3 | Expansie: Tijdperk van Ontdekkingen | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Tijdperk van Ontdekkingen.md — confidence 5 |
+| ✓ | 2026-07-22T expansie | Agent 3 | Expansie: Hermeneutiek | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Hermeneutiek.md — confidence 5 |
+| ✓ | 2026-07-22T expansie | Agent 3 | Expansie: Capital Asset Pricing Model | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Capital Asset Pricing Model.md — confidence 5 |
+| ✓ | 2026-07-22T expansie | Agent 3 | Duplicaat verwijderd | Moderne Portefeuilletheorie.md (spellingsvariant) samengevallen met bestaande Moderne Portefeuille Theorie.md |
+| ↓ | 2026-07-22T expansie | Agent 3 | Gap: Insula | Derde sleutelstructuur in emotioneel bewustzijn naast Amygdala en PFC; nog niet aangemaakt |
+| ↓ | 2026-07-22T expansie | Agent 3 | Gap: John Stuart Mill | Sluit de filosofische traditie via personen — ontbreekt nog |
+| ↓ | 2026-07-22T expansie | Agent 3 | Gap: Structuralisme | Filosofische beweging; cross-domein met Taalfilosofie en Hermeneutiek |
 
 ---
 

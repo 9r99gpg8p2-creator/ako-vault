@@ -18,10 +18,15 @@ updated: 2026-07-21
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **89%** |
+| **Score** | **90%** |
 | Trend | ↑ |
 
 ---
+
+## Nieuwe pagina's (2026-07-22 expansie-run-2)
+
+- [[Capital Asset Pricing Model]] — CAPM (Sharpe 1964); bèta, efficiënte frontier, Security Market Line; verbonden met Moderne Portefeuille Theorie, EMH, Factor Investing; cross-domein Prospect Theory; confidence 5
+- Duplicaat verwijderd: Moderne Portefeuilletheorie (samengevoegd met Moderne Portefeuille Theorie)
 
 ## Nieuwe pagina's (2026-07-22 expansie-run)
 

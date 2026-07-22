@@ -55,3 +55,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Warren Buffett]]
 - [[GARP]]
 - [[Pensioen en Sparen]]
+- [[Capital Asset Pricing Model]]

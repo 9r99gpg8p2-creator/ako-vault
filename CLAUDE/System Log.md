@@ -1486,3 +1486,29 @@ type: operationeel
 | 2026-07-22 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-22 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · Queue resterend: 0 |
 | 2026-07-22 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · Health: 90% · 217 wiki-pagina's totaal |
+| 2026-07-22 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-22 | expansie | Agent 1 | Inbox scan | ✓ | 4 bestanden gevonden — alle beginnen met `_` → STAP 1.5 overgeslagen |
+| 2026-07-22 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-22 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Neuroimaging (Psych — MSc doel), Tijdperk van Ontdekkingen (Gesch — minste pagina's), Hermeneutiek (Fil — nieuw), Capital Asset Pricing Model (Beleg — gap) |
+| 2026-07-22 | expansie | Agent 2 | Duplicaat gedetecteerd | ✓ | Moderne Portefeuilletheorie.md (nieuw aangemaakt) duplicaat van bestaande Moderne Portefeuille Theorie.md — duplicaat verwijderd per Wet 14 |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Neuroimaging.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Tijdperk van Ontdekkingen.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Hermeneutiek.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Capital Asset Pricing Model.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-22 | expansie | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Insula (Psych), John Stuart Mill (Fil), Structuralisme (Fil) |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Tijdperk van Ontdekkingen — Postkoloniale Psychologie.md — sterkte ★9 — Geschiedenis × Psychologie |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuroimaging — Klinische Neuropsychologie.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Capital Asset Pricing Model — Gedragseconomie.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-22 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Hermeneutiek — Culturele Psychologie.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-22 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Schip dat de Geest Verscheepte.md — Geschiedenis → Psychologie — sterkte ★9 |
+| 2026-07-22 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Brein Zichtbaar Gemaakt.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-22 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Rationele Belegger die Nooit Bestond.md — Beleggen → Psychologie — sterkte ★9 |
+| 2026-07-22 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-22 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-22 | expansie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-22 Quiz.md — 3 vragen toegevoegd (totaal 11): Neuroimaging BOLD, Tijdperk van Ontdekkingen × Postkoloniale Psychologie, CAPM × Prospect Theory |
+| 2026-07-22 | expansie | Agent 6 | Weekreflectie | ↓ | Week 30 reflectie bestaat reeds (2026-30 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-07-22 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 90% — Psychologie: 92% · Filosofie: 90% · Geschiedenis: 89% · Beleggen: 90% |
+| 2026-07-22 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (90%), Filosofie (90%), Geschiedenis (89%), Beleggen (90%) |
+| 2026-07-22 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Neuroimaging) · Filosofie: +1 (Hermeneutiek) · Geschiedenis: +1 (Tijdperk van Ontdekkingen) · Beleggen: +1 (Capital Asset Pricing Model) |
+| 2026-07-22 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-22 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 expansies gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
+| 2026-07-22 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 90% |
