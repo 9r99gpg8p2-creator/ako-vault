@@ -209,8 +209,8 @@ type: operationeel
 | ✓ | 2026-07-21T expansie-3 | Agent 3 | Expansie: Feodalisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Feodalisme.md — confidence 5 |
 | ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: De Reconquista | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Reconquista.md — confidence 5 |
 | ✓ | 2026-07-21T consolidatie | Agent 3 | Gap: GARP (Growth At a Reasonable Price) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/GARP.md — confidence 5 |
-| ↓ | 2026-07-22T expansie | Agent 3 | Gap: Amygdala | Psych — angst, emotie, PTSD-circuitry; kerngebied voor MSc Klinische Neuropsychologie |
-| ↓ | 2026-07-22T expansie | Agent 3 | Gap: Prefrontale Cortex | Psych — executieve controle, inhibitie, decision making; verbindt ADHD, Dual Process Theorie, Werkgeheugen |
+| ✓ | 2026-07-22T consolidatie | Agent 3 | Gap: Amygdala | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Amygdala.md — confidence 8 |
+| ✓ | 2026-07-22T consolidatie | Agent 3 | Gap: Prefrontale Cortex | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Prefrontale Cortex.md — confidence 8 |
 
 ---
 

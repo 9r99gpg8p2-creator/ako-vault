@@ -1466,3 +1466,23 @@ type: operationeel
 | 2026-07-22 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:11 (≥ 1:5 ✓) |
 | 2026-07-22 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 nieuwe gaps toegevoegd ↓ |
 | 2026-07-22 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 89% · 215 wiki-pagina's totaal |
+| 2026-07-22 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-22 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alle bestanden beginnen met _) — STAP 1.5 overgeslagen |
+| 2026-07-22 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence 8 voor queue-items. |
+| 2026-07-22 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 queue ↓ items geselecteerd: Amygdala (Psych), Prefrontale Cortex (Psych) |
+| 2026-07-22 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Amygdala.md — 01 Psychologie - Wiki — confidence 8 (LeDoux 1998, Phelps 2004, DSM-5) |
+| 2026-07-22 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Prefrontale Cortex.md — 01 Psychologie - Wiki — confidence 8 (Miller & Cohen 2001, Fuster 2008, Diamond 2013) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Amygdala — PTSD.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Amygdala — Prefrontale Cortex.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Prefrontale Cortex — Executieve Functies.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-22 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Amygdala — Verliesaversie.md — sterkte ★8 — Psychologie × Beleggen |
+| 2026-07-22 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Brein als Slagveld Tussen Angst en Rede.md — Psychologie → Filosofie — sterkte ★10 |
+| 2026-07-22 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Angst Beslist Voor de Rede Klaar Is.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-22 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-22 Dagrapport.md — consolidatiemodus — 2 concepten, 4 verbindingen, 2 inzichten, 0 nieuwe gaps |
+| 2026-07-22 | consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-22 Quiz.md — 3 vragen toegevoegd (totaal 8): Amygdala low/high road, Amygdala-PFC-PTSD, PFC Dual Process |
+| 2026-07-22 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 90% — Psychologie: 92% · Filosofie: 89% · Geschiedenis: 88% · Beleggen: 89% |
+| 2026-07-22 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 2 dashboards overschreven: Algemeen (90%), Psychologie (92%) |
+| 2026-07-22 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Amygdala, Prefrontale Cortex) |
+| 2026-07-22 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-22 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ · Queue resterend: 0 |
+| 2026-07-22 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · Health: 90% · 217 wiki-pagina's totaal |

@@ -98,3 +98,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Stress en de HPA-as]]
 - [[Default Mode Network]]
 - [[Hippocampus]]
+- [[Amygdala]]
+- [[Prefrontale Cortex]]

@@ -2,43 +2,52 @@
 type: dagrapport
 date: 2026-07-22
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 0 · Leestijd: 8 min
+Inbox verwerkt: 0 · Gaps gedicht: 2 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 4 · Queue resterend: 0
 
-## Research Agenda
+## Pagina's Bijgewerkt via Inbox
 
-1. **Amygdala** — klinisch kerngebied voor angst, PTSD en emotieregulatiestoornissen; directe aanvulling op Hippocampus en Default Mode Network
-2. **Prefrontale Cortex** — executief controlecentrum; verbindt ADHD, Dual Process Theorie en inhibitie in één neuroanatomisch knooppunt
-3. **Behaviorisme (verdieping)** — de overgang van Klassieke Conditionering naar Cognitieve Gedragstherapie heeft een historische brug nodig via de cognitieve revolutie
-4. **John Stuart Mill** — sluit de lijn Filosofie (Utilitarisme, Ethiek, Aristoteles) en maakt de filosofische traditie ook via personen navigeerbaar
+*Geen inbox-bestanden verwerkt deze run.*
+
+## Verbindingen Toegevoegd
+
+1. [[Amygdala]] ↔ [[PTSD]] · ★10
+2. [[Amygdala]] ↔ [[Prefrontale Cortex]] · ★10
+3. [[Prefrontale Cortex]] → [[Executieve Functies]] · ★10
+4. [[Amygdala]] → [[Verliesaversie]] · ★8
 
 ## Insight Feed
 
-— "Het brein dat niet nadenkt over de buitenwereld, denkt harder over zichzelf: ruminatie is geen zwakte maar een ongereguleerd netwerk — het Default Mode Network." [Psychologie → Filosofie · ★9]
+— "Het eeuwenoude filosofische debat tussen rede en passie heeft een neurobiologisch substraat: de prefrontale cortex en de amygdala strijden om controle, en bij PTSD, angststoornissen en chronische stress wint de amygdala." [Psychologie → Filosofie · ★10]
 
-— "De psychologische angst voor verlies — ooit een overlevingsvoordeel — saboteert systematisch de opbouw van pensioenkapitaal als men haar niet bewust tempert." [Psychologie → Beleggen · ★9]
-
-— "Zonder consolidatie van herinneringen bestaat er geen continuïteit van het zelf: Alzheimer toont hoe een persoon verdwijnt terwijl het lichaam intact blijft." [Psychologie → Filosofie · ★8]
+— "Verliesaversie is geen cognitieve bias maar een amygdala-reflex: het brein verwerkt dreigend verlies op dezelfde low-road circuits als fysiek gevaar — met alle irrationele beleggingsbeslissingen van dien." [Psychologie → Beleggen · ★9]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 95% | → |
-| Filosofie | 83% | ↑ |
+| Psychologie | 96% | ↑ |
+| Filosofie | 83% | → |
 | Geschiedenis | 83% | → |
-| Beleggen | 82% | ↑ |
+| Beleggen | 82% | → |
+
+## Research Agenda
+
+Prioriteit 1: **Hippocampus ↔ Amygdala interactie** — de geheugenconsolidatie van emotioneel relevante ervaringen vereist een aparte verbindingspagina
+Prioriteit 2: **Insula** — derde sleutelstructuur in emotioneel bewustzijn naast amygdala en PFC; ontbreekt nog
+Prioriteit 3: **John Stuart Mill** — sluit de filosofische traditie via personen (Aristoteles, Plato, Kant, Mill)
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 2 |
+| Nieuwe Wiki-pagina's | 2 |
+| Updates bestaande pagina's | 0 |
 | Nieuwe verbindingen | 4 |
-| Gaps gedicht | 0 |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 2 |

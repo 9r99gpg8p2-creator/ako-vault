@@ -2,7 +2,7 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
 # Psychologie Dashboard
@@ -15,21 +15,21 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 85 |
+| Pagina's | 87 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
-| Orphan% | ~10% |
-| **Score** | **91%** |
+| Orphan% | ~8% |
+| **Score** | **92%** |
 | Trend | ↑ |
 
 ---
 
-## Nieuwe pagina's (2026-07-22 expansie-run)
+## Nieuwe pagina's (2026-07-22 consolidatie-run)
 
-- [[Default Mode Network]] — rust-toestand hersennetwerk; ruminatie, depressie, ADHD, Alzheimer; cruciaal voor MSc KNP
-- [[Hippocampus]] — geheugenconsolidatie, ruimtelijke navigatie; Alzheimer, PTSD, Korsakoff; casus H.M.
+- [[Amygdala]] — angstcircuits, LeDoux low/high road, amygdala-PFC interactie; kerngebied voor PTSD, angststoornissen en emotieregulatie
+- [[Prefrontale Cortex]] — dlPFC/vmPFC/OFC/ACC; executieve functies, top-down inhibitie, langzame rijping; ADHD, CGT, TMS
 
 ## Cross-domein bruggen
 
-- [[Stress en de HPA-as]] → [[PTSD]] (HPA-as dysregulatie als kernmechanisme; ★10)
-- [[Stress en de HPA-as]] → [[Depressie]] (hippocampale atrofie; ★9)
+- [[Amygdala]] → [[Verliesaversie]] (neurobiologie van verliesaversie; ★8)
+- [[Prefrontale Cortex]] ↔ [[Amygdala]] (rede vs. emotie circuit; ★10)
