@@ -50,6 +50,7 @@ Verliesaversie is het centrale mechanisme achter Prospect Theory, gepubliceerd i
 - [[Prospect Theory]] — onderdeel van: verliesaversie is het kernmechanisme dat Prospect Theory onderscheidt van de verwachte-nutsleer
 - [[Gedragseconomie]] — domein: verliesaversie is het meest geciteerde principe binnen de gedragseconomie
 - [[Neuropsychologische Rehabilitatie]] — cross-domein: verliesaversie belemmert therapietrouw bij patiënten die mislukking vermijden
+- [[Short Selling]] ★7 — short sellers buiten de verliesaversie van andere beleggers uit, maar zijn zelf extra kwetsbaar voor verliesaversie bij short squeezes
 
 **Cross-domein:**
 - [[Neuropsychologische Rehabilitatie]] — patiënten met hersenletsel vermijden revalidatieopdrachten die falen impliciteren; framing als herstel i.p.v. verliescompensatie verbetert motivatie

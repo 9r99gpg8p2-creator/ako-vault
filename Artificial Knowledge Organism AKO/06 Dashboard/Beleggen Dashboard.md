@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, beleggen]
-updated: 2026-07-21
+updated: 2026-07-23
 ---
 
 # Beleggen Dashboard — AKO
@@ -14,12 +14,18 @@ updated: 2026-07-21
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 42 |
+| Pagina's | 44 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **90%** |
+| **Score** | **91%** |
 | Trend | ↑ |
+
+---
+
+## Nieuwe pagina's (2026-07-23 expansie-run)
+
+- [[Short Selling]] — shorting mechanisme, short squeeze, naked short, theoretisch onbeperkt verlies; verbonden met EMH, Derivaten, Risicobeheer, Verliesaversie; cross-domein Prospect Theory, Herding; confidence 5
 
 ---
 

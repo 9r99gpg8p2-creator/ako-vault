@@ -62,6 +62,7 @@ De studie van de Middeleeuwen is relevant voor het begrijpen van:
 - [[Reformatie]] — gevolg: de religieuze crises van de Late Middeleeuwen maakten de bodem gereed voor Luthers breuk met Rome
 - [[Wetenschappelijke Revolutie]] — gevolg: de middeleeuwse scholastiek en universiteiten boden het institutionele fundament voor de latere wetenschappelijke revolutie
 - [[De Verlichting]] — oorzaak: de Verlichting definieerde zichzelf deels door afwijzing van het middeleeuwse bijgeloof en kerkgezag
+- [[De Vikingen]] ★9 — de Vikingen waren een van de krachtigste destabiliserende én structurerende krachten in de vroege Middeleeuwen
 
 **Cross-domein:**
 - [[Deontologie]] — aanvulling: Thomas van Aquino's verbinding van christelijke ethiek met Aristoteles legt de basis voor moderne plichtethiek

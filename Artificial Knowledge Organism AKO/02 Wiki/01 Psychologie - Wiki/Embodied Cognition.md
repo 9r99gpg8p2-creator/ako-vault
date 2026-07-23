@@ -49,6 +49,7 @@ Binnen de klinische neuropsychologie heeft embodied cognition directe implicatie
 - [[Filosofie van de Geest]] — tegenstelling/aanvulling: embodied cognition betwist het cartesiaans dualisme dat Filosofie van de Geest historisch domineerde
 - [[Neuropsychologische Rehabilitatie]] — toepassing: revalidatiepraktijk integreert steeds vaker embodied principes
 - [[Affordances]] ★10 — Gibsons affordance-concept is het empirische fundament van embodied cognition: perceptie is direct gekoppeld aan handelingsmogelijkheden van het lichaam
+- [[Merleau-Ponty]] ★10 — directe filosofische grondlegger: zijn *corps propre*-these en motorisch schema vormen de fenomenologische basis van embodied cognition
 
 **Cross-domein:**
 - [[Fenomenologie]] — de filosofische fenomenologie van Merleau-Ponty vormt de directe intellectuele voorloper

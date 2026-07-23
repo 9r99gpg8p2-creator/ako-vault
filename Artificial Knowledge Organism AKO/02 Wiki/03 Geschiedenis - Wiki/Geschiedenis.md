@@ -58,3 +58,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Tijdperk van Ontdekkingen]]
 - [[De Maya-beschaving]]
 - [[Aztekenbeschaving]]
+- [[De Vikingen]]

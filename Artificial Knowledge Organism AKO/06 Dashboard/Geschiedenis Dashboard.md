@@ -2,7 +2,7 @@
 tags: [dashboard, geschiedenis]
 type: dashboard
 discipline: geschiedenis
-updated: 2026-07-22
+updated: 2026-07-23
 ---
 
 # Geschiedenis Dashboard — AKO
@@ -15,12 +15,18 @@ updated: 2026-07-22
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 45 |
+| Pagina's | 46 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **91%** |
+| **Score** | **92%** |
 | Trend | ↑ |
+
+---
+
+## Nieuwe pagina's (2026-07-23 expansie-run)
+
+- [[De Vikingen]] — Vikingperiode 793–1100, drakkar/longship, Varjagen, Normandië, Kievse Rijk, Vinland; verbonden met De Middeleeuwen, Feodalisme, Mercantilisme, Kolonialisme; cross-domein Risicoperceptie ★6, Sociale Ontologie ★5; confidence 5
 
 ---
 

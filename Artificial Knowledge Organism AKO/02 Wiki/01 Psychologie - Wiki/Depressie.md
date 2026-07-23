@@ -52,6 +52,7 @@ In de klinische neuropsychologie zijn cognitieve stoornissen bij depressie — m
 - [[Cognitieve Gedragstherapie]] — CGT is de meest evidence-based psychologische behandeling voor depressie
 - [[Neuroplasticiteit]] — depressie reduceert hippocampale neuroplasticiteit; behandeling herstelt dit deels
 - [[Slaap en Geheugenconsolidatie]] — slaapstoornissen zijn een centraal symptoom van depressie en beïnvloeden geheugenconsolidatie
+- [[Bipolaire Stoornis]] ★9 — depressieve episodes zijn het meest belastende aspect van bipolaire stoornis; differentiaaldiagnose is klinisch cruciaal
 
 **Cross-domein:**
 - [[Klinische Neuropsychologie]] — depressie veroorzaakt cognitieve stoornissen die centraal staan in de klinische neuropsychologiepraktijk

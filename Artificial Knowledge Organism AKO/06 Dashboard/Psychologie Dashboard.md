@@ -2,7 +2,7 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-07-22
+updated: 2026-07-23
 ---
 
 # Psychologie Dashboard
@@ -15,12 +15,18 @@ updated: 2026-07-22
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 91 |
+| Pagina's | 92 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
 | **Score** | **93%** |
 | Trend | → |
+
+---
+
+## Nieuwe pagina's (2026-07-23 expansie-run)
+
+- [[Bipolaire Stoornis]] — DSM-5-TR type I/II, manie vs. hypomanie, kindling-hypothese, lithium, neurobiologie; verbonden met Depressie, Schizofrenie, Neuroplasticiteit, Dopamine, CGT; cross-domein Vrije Wil ★6, Risicoperceptie ★7, Stress en de HPA-as ★8; confidence 5
 
 ---
 

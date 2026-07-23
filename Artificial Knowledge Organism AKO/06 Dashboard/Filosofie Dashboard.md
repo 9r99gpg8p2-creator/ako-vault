@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, filosofie]
-updated: 2026-07-22
+updated: 2026-07-23
 ---
 
 # Filosofie Dashboard — AKO
@@ -14,12 +14,18 @@ updated: 2026-07-22
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 51 |
+| Pagina's | 52 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **91%** |
+| **Score** | **92%** |
 | Trend | ↑ |
+
+---
+
+## Nieuwe pagina's (2026-07-23 expansie-run)
+
+- [[Merleau-Ponty]] — corps propre, motorisch schema, chiasme, primaat waarneming; verbonden met Fenomenologie, Existentialisme, Bewustzijn, Filosofie van de Geest; cross-domein Embodied Cognition ★10, Neuropsychologische Rehabilitatie ★8, Anosognosie ★7, Affordances ★9; confidence 5
 
 ---
 

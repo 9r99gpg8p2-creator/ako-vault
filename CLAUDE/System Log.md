@@ -1580,3 +1580,29 @@ type: operationeel
 | 2026-07-22 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-22 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (NEO-PI-R, Aztekenbeschaving) · 0 nieuwe gaps |
 | 2026-07-22 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · Health: 91% |
+| 2026-07-23 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-23 | expansie | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden beginnen met `_` — STAP 1.5 overgeslagen |
+| 2026-07-23 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-23 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Short Selling (Beleg — minste pagina's), De Vikingen (Gesch), Bipolaire Stoornis (Psych — MSc relevantie), Merleau-Ponty (Fil — cross-domein Embodied Cognition) |
+| 2026-07-23 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Short Selling.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-23 | expansie | Agent 3 | Wiki aangemaakt | ✓ | De Vikingen.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-23 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Bipolaire Stoornis.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-23 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Merleau-Ponty.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-23 | expansie | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Alzheimer en Dementie (Psych), Karel de Grote (Gesch), Black-Scholes Model (Beleg) |
+| 2026-07-23 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Merleau-Ponty — Embodied Cognition.md — sterkte ★10 — Filosofie × Psychologie |
+| 2026-07-23 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Bipolaire Stoornis — Depressie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-23 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Short Selling — Verliesaversie.md — sterkte ★7 — Beleggen × Psychologie |
+| 2026-07-23 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Vikingen — De Middeleeuwen.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-23 | expansie | Agent 4 | Backlinks bijgewerkt | ✓ | Embodied Cognition, Depressie, Verliesaversie, De Middeleeuwen — nieuwe links toegevoegd |
+| 2026-07-23 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Lichaam Denkt Altijd Al Mee.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-23 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Stemming Stuurt Risico.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-23 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Vrijgevochten Netwerkers Bouwen Beschavingen.md — Geschiedenis → Beleggen — sterkte ★7 |
+| 2026-07-23 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-23 Dagrapport.md — 4 concepten, 4 verbindingen, 3 inzichten, 3 nieuwe gaps |
+| 2026-07-23 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-23 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-07-23 | expansie | Agent 6 | Weekreflectie | ↓ | 2026-30 Reflectie.md bestaat reeds — geen nieuwe aanmaak vereist |
+| 2026-07-23 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 92% — Psychologie: 93% · Filosofie: 92% · Geschiedenis: 92% · Beleggen: 91% |
+| 2026-07-23 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen (92%), Filosofie (92%), Geschiedenis (92%), Beleggen (91%) |
+| 2026-07-23 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Bipolaire Stoornis) · Filosofie: +1 (Merleau-Ponty) · Geschiedenis: +1 (De Vikingen) · Beleggen: +1 (Short Selling) |
+| 2026-07-23 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-23 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps toegevoegd ↓ (Alzheimer, Karel de Grote, Black-Scholes Model) |
+| 2026-07-23 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 92%

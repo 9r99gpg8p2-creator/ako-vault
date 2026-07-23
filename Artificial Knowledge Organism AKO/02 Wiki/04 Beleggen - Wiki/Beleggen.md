@@ -56,3 +56,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[GARP]]
 - [[Pensioen en Sparen]]
 - [[Capital Asset Pricing Model]]
+- [[Short Selling]]

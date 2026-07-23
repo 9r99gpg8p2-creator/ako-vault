@@ -225,6 +225,13 @@ type: operationeel
 | ✓ | 2026-07-22T expansie | Agent 3 | Expansie: De Maya-beschaving | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Maya-beschaving.md — confidence 5 |
 | ✓ | 2026-07-22T expansie | Agent 3 | Gap: Big Five — klinische validering NEO-PI-R | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/NEO-PI-R.md — confidence 8 |
 | ✓ | 2026-07-22T expansie | Agent 3 | Gap: Aztekenbeschaving | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Aztekenbeschaving.md — confidence 5 |
+| ✓ | 2026-07-23T expansie | Agent 3 | Expansie: Short Selling | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Short Selling.md — confidence 5 |
+| ✓ | 2026-07-23T expansie | Agent 3 | Expansie: De Vikingen | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Vikingen.md — confidence 5 |
+| ✓ | 2026-07-23T expansie | Agent 3 | Expansie: Bipolaire Stoornis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Bipolaire Stoornis.md — confidence 5 |
+| ✓ | 2026-07-23T expansie | Agent 3 | Expansie: Merleau-Ponty | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Merleau-Ponty.md — confidence 5 |
+| ↓ | 2026-07-23T expansie | Agent 3 | Gap: Alzheimer en Dementie | Aanmaken: 02 Wiki/01 Psychologie - Wiki/Alzheimer en Dementie.md |
+| ↓ | 2026-07-23T expansie | Agent 3 | Gap: Karel de Grote | Aanmaken: 02 Wiki/03 Geschiedenis - Wiki/Karel de Grote.md |
+| ↓ | 2026-07-23T expansie | Agent 3 | Gap: Black-Scholes Model | Aanmaken: 02 Wiki/04 Beleggen - Wiki/Black-Scholes Model.md |
 
 ---
 

@@ -104,3 +104,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Insula]]
 - [[Big Five Persoonlijkheidsmodel]]
 - [[NEO-PI-R]]
+- [[Bipolaire Stoornis]]
