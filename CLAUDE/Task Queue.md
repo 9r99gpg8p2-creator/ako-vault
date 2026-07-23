@@ -243,10 +243,10 @@ type: operationeel
 | ✓ | 2026-07-23T expansie-3 | Agent 3 | Expansie: Alexander de Grote | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Alexander de Grote.md — confidence 5 |
 | ✓ | 2026-07-23T expansie-3 | Agent 3 | Expansie: Epilepsie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Epilepsie.md — confidence 5 |
 | ✓ | 2026-07-23T expansie-3 | Agent 3 | Expansie: Ziekte van Parkinson | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Ziekte van Parkinson.md — confidence 5 |
-| ↓ | 2026-07-23T expansie-3 | Agent 3 | Gap: Kritische Theorie (Frankfurter Schule) | Habermas verwijst ernaar; ontbreekt als wiki-pagina |
-| ↓ | 2026-07-23T expansie-3 | Agent 3 | Gap: Hellenisme | Cultureel tijdperk na Alexander de Grote; ontbreekt als eigen pagina |
-| ↓ | 2026-07-23T expansie-3 | Agent 3 | Gap: Ziekte van Huntington | Neurodegeneratie cluster — complement Parkinson/Alzheimer; klinische neuropsychologie relevant |
-| ↓ | 2026-07-23T expansie-3 | Agent 3 | Gap: Het Perzische Rijk (Achaemenidisch) | Context voor Alexander de Grote; ontbreekt als eigen pagina |
+| ✓ | 2026-07-23T consolidatie | Agent 3 | Gap: Kritische Theorie (Frankfurter Schule) | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Kritische Theorie.md — confidence 5 |
+| ✓ | 2026-07-23T consolidatie | Agent 3 | Gap: Hellenisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Hellenisme.md — confidence 5 |
+| ✓ | 2026-07-23T consolidatie | Agent 3 | Gap: Ziekte van Huntington | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Ziekte van Huntington.md — confidence 5 |
+| ✓ | 2026-07-23T consolidatie | Agent 3 | Gap: Het Perzische Rijk (Achaemenidisch) | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Perzische Rijk (Achaemenidisch).md — confidence 5 |
 
 ---
 

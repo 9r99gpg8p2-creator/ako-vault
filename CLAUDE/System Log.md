@@ -1694,3 +1694,23 @@ type: operationeel
 | 2026-07-23 | expansie-3 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ · 248 wiki-pagina's totaal |
 | 2026-07-23 | expansie-3 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 4 nieuwe gaps toegevoegd (↓): Kritische Theorie, Hellenisme, Huntington, Perzisch Rijk |
 | 2026-07-23 | expansie-3 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · Health: 92% |
+| 2026-07-23 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden — alle beginnen met `_` |
+| 2026-07-23 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Kritische Theorie.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-23 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Hellenisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-23 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Ziekte van Huntington.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-23 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Het Perzische Rijk (Achaemenidisch).md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Kritische Theorie — Jürgen Habermas.md ★9 |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Kritische Theorie — Marxisme.md ★8 |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Hellenisme — Alexander de Grote.md ★10 |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Hellenisme — Stoïcisme.md ★8 |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Het Perzische Rijk (Achaemenidisch) — Alexander de Grote.md ★10 |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Ziekte van Huntington — Executieve Functies.md ★8 |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Ziekte van Huntington — Ziekte van Parkinson.md ★7 |
+| 2026-07-23 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Macht en Cognitie als Spiegelbeelden.md — Filosofie → Psychologie ★8 |
+| 2026-07-23 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Culturele Synthese als Motor van Beschaving.md — Geschiedenis → Filosofie ★9 |
+| 2026-07-23 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-23 Dagrapport.md — consolidatie-modus |
+| 2026-07-23 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | +3 vragen (13-15) toegevoegd aan 2026-07-23 Quiz.md |
+| 2026-07-23 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Psychologie 100% · Filosofie 100% · Geschiedenis 100% |
+| 2026-07-23 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Huntington · Filosofie: +Kritische Theorie · Geschiedenis: +Hellenisme +Perzisch Rijk |
+| 2026-07-23 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · Queue nu leeg |
+| 2026-07-23 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps · Health: 100% |

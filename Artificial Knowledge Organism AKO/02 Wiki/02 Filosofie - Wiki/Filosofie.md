@@ -67,3 +67,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Merleau-Ponty]]
 - [[Michel Foucault]]
 - [[Jürgen Habermas]]
+- [[Kritische Theorie]]

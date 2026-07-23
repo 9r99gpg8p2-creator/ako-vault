@@ -62,3 +62,5 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Karel de Grote]]
 - [[Het Britse Rijk]]
 - [[Alexander de Grote]]
+- [[Hellenisme]]
+- [[Het Perzische Rijk (Achaemenidisch)]]

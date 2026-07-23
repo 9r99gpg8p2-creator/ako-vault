@@ -2,37 +2,68 @@
 type: dagrapport
 date: 2026-07-23
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 18 concepten · Inbox verwerkt: 0 · Verbindingen: 20 · Inzichten: 14 · Gaps gedicht: 7 · Leestijd: ~36 min
+Goedemorgen.
+
+Nieuwe kennis:          4 concepten toegevoegd
+Nieuwe artikelen:       0 (externe API geblokkeerd)
+Nieuwe verbindingen:    7 relatiepagina's
+Nieuwe inzichten:       2 cross-domein inzichten
+Kennishiaten:           0 nieuw (queue volledig geleegd)
+Aanbevolen leestijd:    8 minuten
 
 ---
 
-## Research Agenda
+## Inbox verwerkt: 0
 
-1. **Kritische Theorie** — Habermas verwijst naar Frankfurter Schule; ontbreekt als eigen pagina; cross-domein filosofie-geschiedenis
-2. **Ziekte van Huntington** — neurologische degeneratieve stoornis; complement op Parkinson/Alzheimer cluster voor klinische neuropsychologie
-3. **Hellenisme** — cultureel tijdperk na Alexander de Grote; ontbreekt als eigen pagina bij Geschiedenis
-4. **Dividendbelasting & Tax Efficiency** — praktische aanvulling op Dividendbeleggen voor Nederlandse context
+Geen inbox-bestanden beschikbaar voor verwerking (alle bestanden beginnen met `_`).
+
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+Geen inbox-updates deze run.
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Kritische Theorie]] ↔ [[Jürgen Habermas]] · ★9
+2. [[Kritische Theorie]] ↔ [[Marxisme]] · ★8
+3. [[Hellenisme]] ↔ [[Alexander de Grote]] · ★10
+4. [[Hellenisme]] ↔ [[Stoïcisme]] · ★8
+5. [[Het Perzische Rijk (Achaemenidisch)]] ↔ [[Alexander de Grote]] · ★10
+6. [[Ziekte van Huntington]] ↔ [[Executieve Functies]] · ★8
+7. [[Ziekte van Huntington]] ↔ [[Ziekte van Parkinson]] · ★7
+
+---
+
+## Gaps gedicht
+
+1. [[Kritische Theorie]] — Filosofie-wiki (Frankfurter Schule; Horkheimer, Adorno, Habermas)
+2. [[Hellenisme]] — Geschiedenis-wiki (culturele periode na Alexander de Grote, 323–30 v.Chr.)
+3. [[Ziekte van Huntington]] — Psychologie-wiki (neurodegeneratie; klinische neuropsychologie relevant)
+4. [[Het Perzische Rijk (Achaemenidisch)]] — Geschiedenis-wiki (context voor Alexander de Grote)
 
 ---
 
 ## Insight Feed
 
-— "Neurodegeneratie en financiële crises delen een gemeenschappelijke logica: onzichtbare erosie van een systeem, gevolgd door een onherstelbaar omslagpunt." [Psychologie → Beleggen · ★7]
+— "Kritische Theorie en cognitieve psychologie ontmoeten elkaar in de vraag hoe machtsstructuren het denken van individuen onzichtbaar vormen — bewustwording is zowel een filosofisch als een psychologisch project." [Filosofie → Psychologie · ★8]
 
-— "Alexander de Grootes veroveringen tonen dat filosofische vorming direct invloed uitoefent op politiek-militaire strategieën — Aristoteles' empirisme en deugdethiek waren geen academische luxe maar operationele leidraden." [Filosofie → Geschiedenis · ★8]
+— "Het Hellenisme toont dat de meest vruchtbare intellectuele periodes ontstaan wanneer culturen gedwongen worden te versmelten — een les die doorloopt van het Perzische Rijk via de Islamitische Gouden Eeuw tot de Europese Renaissance." [Geschiedenis → Filosofie · ★9]
 
-— "Dividendbeleggen is niet alleen een financiële strategie maar een cognitieve coping-strategie: het regelmatige inkomen vermindert de emotionele last van koersvolatiliteit door verliesaversie te neutraliseren." [Beleggen → Psychologie · ★8]
+---
 
-— "Morele taal als draagvlak van democratie: Habermas en Kohlberg wijzen samen op argumentatiecompetentie als hoogste morele en politieke vaardigheid." [Filosofie → Psychologie · ★9]
+## Research Agenda
 
-— "Vastgoedmarkten zijn structureel rigide aan de neerwaartse kant: de tastbaarheid van onroerend goed vergroot verliesaversie en vertraagt rationele prijscorrectie." [Beleggen → Psychologie · ★8]
-
-— "Foucaults genealogie van de psychiatrie onthult dat diagnostische categorieën nooit neutraal zijn maar machtsrelaties reproduceren." [Filosofie → Geschiedenis → Psychologie · ★9]
+Prioriteit 1: Neopythagorisme / Neoplatonisme — Hellenistische filosofische scholen nog niet uitgewerkt
+Prioriteit 2: Zoroastrisme — staatsgodsdienst Perzisch Rijk; invloed op monotheïsme
+Prioriteit 3: Herbert Marcuse — derde grote Frankfurter Schule-figuur naast Adorno en Habermas
 
 ---
 
@@ -40,43 +71,25 @@ Nieuwe kennis: 18 concepten · Inbox verwerkt: 0 · Verbindingen: 20 · Inzichte
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 94% | ↑ |
-| Filosofie | 92% | → |
-| Geschiedenis | 89% | ↑ |
-| Beleggen | 92% | ↑ |
-
-**Overall: 92%**
+| Psychologie | 69% | ↑ |
+| Filosofie | 68% | ↑ |
+| Geschiedenis | 60% | ↑ |
+| Beleggen | 72% | → |
 
 ---
 
-## Activiteit (volledige dag 2026-07-23)
+## Activiteit
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 18 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen | 20 |
-| Nieuwe inzichten | 14 |
-| Gaps gedicht | 7 |
-
-### Nieuwe pagina's deze run (expansie)
-- [[Dividendbeleggen]] (Beleggen)
-- [[Alexander de Grote]] (Geschiedenis)
-- [[Epilepsie]] (Psychologie — klinische neuropsychologie)
-- [[Ziekte van Parkinson]] (Psychologie — klinische neuropsychologie)
-
-### Verbindingen toegevoegd deze run
-1. [[Epilepsie]] ↔ [[Hippocampus]] · ★9
-2. [[Ziekte van Parkinson]] ↔ [[Dopamine]] · ★10
-3. [[Dividendbeleggen]] → [[Verliesaversie]] · ★7
-4. [[Alexander de Grote]] → [[Aristoteles]] · ★8
+| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe relatiepagina's | 7 |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 4 |
+| Queue resterend | 0 |
 
 ---
 
 ## Aandacht vereist
 
-- [ ] **Kritische Theorie** (Adorno/Horkheimer/Frankfurter Schule) ontbreekt als wiki-pagina — Habermas verwijst ernaar
-- [ ] **Hellenisme** ontbreekt als eigen pagina — Alexander de Grote verwijst ernaar
-- [ ] **Ziekte van Huntington** — neuropsychologisch relevant, cluster met Parkinson/Alzheimer
-- [ ] Psychologie-wiki heeft 97 pagina's; overwegen subcategorieën zodra ≥ 3 pagina's per thematisch cluster (Wet 11)
+- [ ] Queue volledig leeg na run — volgende run zal nieuwe gaps signaleren of lage-connectivity pagina's verdichten
