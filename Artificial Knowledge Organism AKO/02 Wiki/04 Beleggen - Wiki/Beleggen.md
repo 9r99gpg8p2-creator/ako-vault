@@ -59,3 +59,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Short Selling]]
 - [[Black-Scholes Model]]
 - [[Hedgefondsen]]
+- [[Vastgoedbeleggen]]

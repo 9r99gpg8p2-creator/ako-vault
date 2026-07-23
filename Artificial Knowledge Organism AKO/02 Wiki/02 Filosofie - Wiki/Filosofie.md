@@ -66,3 +66,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Libertair Paternalisme]]
 - [[Merleau-Ponty]]
 - [[Michel Foucault]]
+- [[Jürgen Habermas]]

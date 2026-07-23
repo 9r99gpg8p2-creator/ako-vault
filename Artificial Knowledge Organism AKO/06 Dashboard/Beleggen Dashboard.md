@@ -10,26 +10,25 @@ updated: 2026-07-23
 
 ---
 
-## Health Score: 87%
+## Health Score: 91%
 
 | Metric | Score |
 |---|---|
-| Coverage | 100% (46 pagina's / target 20 ✓) |
+| Coverage | 100% (47 pagina's / target 20 ✓) |
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (+1 pagina deze run: Hedgefondsen)
+Trend: ↑ (+1 pagina deze run: Vastgoedbeleggen)
 
 ---
 
-## Pagina-overzicht (46)
+## Pagina-overzicht (47)
 
-Prospect Theory · Verliesaversie · Gedragseconomie · Efficiënte Markthypothese · Cognitieve Biases · Herding · Risicoperceptie · Asset Allocatie · Diversificatie · Moderne Portefeuille Theorie · Capital Asset Pricing Model · Factor Investing · Index Fondsen · Passief Beleggen · Actief Beleggen · Waarde Investeren · Groei Investeren · GARP · Benjamin Graham · Warren Buffett · Aandelen · Obligaties · Derivaten · Short Selling · Kapitaalmarkten · Private Equity · Risicobeheer · Marktcycli · Inflatie · Rente · Monetair Beleid · Monetarisme · Keynesiaanse Economie · Macroeconomie · Financiële Crisis 2008 · Grote Depressie (cross) · Tulpenmanie · Cryptocurrency en Blockchain · Black-Scholes Model · Intrinsieke Waarde en DCF-modellen · Fundamentele Analyse · Technische Analyse · Heuristieken · Duurzaam Beleggen · Pensioen en Sparen · Hedgefondsen
+Prospect Theory · Verliesaversie · Gedragseconomie · Efficiënte Markthypothese · Cognitieve Biases · Herding · Risicoperceptie · Asset Allocatie · Diversificatie · Moderne Portefeuille Theorie · Capital Asset Pricing Model · Factor Investing · Index Fondsen · Passief Beleggen · Actief Beleggen · Waarde Investeren · Groei Investeren · GARP · Benjamin Graham · Warren Buffett · Aandelen · Obligaties · Derivaten · Short Selling · Kapitaalmarkten · Private Equity · Risicobeheer · Marktcycli · Inflatie · Rente · Monetair Beleid · Monetarisme · Keynesiaanse Economie · Macroeconomie · Financiële Crisis 2008 · Grote Depressie (cross) · Tulpenmanie · Cryptocurrency en Blockchain · Black-Scholes Model · Intrinsieke Waarde en DCF-modellen · Fundamentele Analyse · Technische Analyse · Heuristieken · Duurzaam Beleggen · Pensioen en Sparen · Hedgefondsen · Vastgoedbeleggen
 
 ---
 
 ## Gesignaleerde gaps
 
-- Vastgoedbeleggen (REIT, directe vastgoedinvestering — fundamentele asset class)
 - Stochastische Volatiliteitsmodellen (Heston-model, uitbreiding na Black-Scholes)
 - Fusies en Overnames / M&A (event-driven beleggingsstrategie)

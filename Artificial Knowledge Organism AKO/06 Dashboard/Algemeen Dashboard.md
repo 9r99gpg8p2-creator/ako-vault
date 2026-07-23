@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-23
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -15,12 +15,12 @@ sessie: expansie
 
 | Metric | Score |
 |---|---|
-| **Overall Score** | **89%** |
+| **Overall Score** | **91%** |
 | Coverage | 100% (≥ 20 pagina's per discipline ✓) |
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: → (stabiel hoog plateau)
+Trend: ↑ (stijging door 3 gedichte gaps)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: → (stabiel hoog plateau)
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 94 | 92% | → |
-| Filosofie | 53 | 89% | ↑ |
-| Geschiedenis | 48 | 88% | ↑ |
-| Beleggen | 46 | 87% | ↑ |
-| **Totaal** | **241** | **89%** | ↑ |
+| Psychologie | 95 | 93% | ↑ |
+| Filosofie | 54 | 92% | ↑ |
+| Geschiedenis | 48 | 88% | → |
+| Beleggen | 47 | 91% | ↑ |
+| **Totaal** | **244** | **91%** | ↑ |
 
 ---
 
@@ -40,8 +40,8 @@ Trend: → (stabiel hoog plateau)
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's | 60+ |
-| Inzichtpagina's | 40+ |
+| Relatiepagina's | 66+ |
+| Inzichtpagina's | 42+ |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
@@ -52,13 +52,14 @@ Trend: → (stabiel hoog plateau)
 | Run | Nieuwe pagina's | Verbindingen | Inzichten |
 |---|---|---|---|
 | Expansie (vroeg) | 4 | 4 | 3 |
-| Consolidatie | 3 | 6 | 3 |
-| Expansie (huidig) | 4 | 4 | 3 |
-| **Totaal** | **11** | **14** | **9** |
+| Consolidatie (ochtend) | 3 | 6 | 3 |
+| Expansie-2 | 4 | 4 | 3 |
+| Consolidatie (huidig) | 3 | 6 | 2 |
+| **Totaal** | **14** | **20** | **11** |
 
 ---
 
 ## Aandacht vereist
 
-- Dysartrie, Habermas, Vastgoedbeleggen → nieuwe gaps in Task Queue
-- Psychologie heeft 94 pagina's: subcategorie-evaluatie aanbevolen bij ≥ 3 per cluster
+- Kritische Theorie (Adorno/Horkheimer) ontbreekt als wiki-pagina — aanbevolen als volgende gap
+- Psychologie heeft 95 pagina's: subcategorie-evaluatie aanbevolen bij ≥ 3 per thematisch cluster

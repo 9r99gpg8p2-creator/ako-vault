@@ -1649,3 +1649,26 @@ type: operationeel
 | 2026-07-23 | 2026-07-23T expansie-2 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 4:241 (≥ 1:5 ✓) |
 | 2026-07-23 | 2026-07-23T expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps toegevoegd ↓ (Dysartrie, Habermas, Vastgoedbeleggen) |
 | 2026-07-23 | 2026-07-23T expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 89%
+| 2026-07-23 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-23 | consolidatie | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden beginnen met `_` — STAP 1.5 overgeslagen |
+| 2026-07-23 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-23 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 queue-gaps: Dysartrie (Psych), Jürgen Habermas (Fil), Vastgoedbeleggen (Beleg) |
+| 2026-07-23 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Dysartrie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-23 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Jürgen Habermas.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-23 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Vastgoedbeleggen.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Dysartrie — Afasie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Habermas — Michel Foucault.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Vastgoedbeleggen — Asset Allocatie.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Vastgoedbeleggen — Inflatie.md — sterkte ★8 — Beleggen (intra) |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Habermas — Kohlberg.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-23 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Dysartrie — Neuropsychologische Rehabilitatie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-23 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Taal die Ons Eerlijk Maakt.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-23 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Steen die Niet Daalt.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-23 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-23 Dagrapport.md (modus: consolidatie) |
+| 2026-07-23 | consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 3 vragen toegevoegd aan 2026-07-23 Quiz.md (vragen 11–13) |
+| 2026-07-23 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 91% — Coverage 100%, Connectivity 100%, Orphan 0% — Psych 93%, Fil 92%, Gesch 88%, Beleg 91% |
+| 2026-07-23 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (91%), Psychologie (93%), Filosofie (92%), Beleggen (91%) |
+| 2026-07-23 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Dysartrie · Filosofie: +Jürgen Habermas · Beleggen: +Vastgoedbeleggen |
+| 2026-07-23 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-23 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Dysartrie, Jürgen Habermas, Vastgoedbeleggen) |
+| 2026-07-23 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 91%
