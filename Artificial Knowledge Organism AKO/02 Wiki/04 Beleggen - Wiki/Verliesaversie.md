@@ -47,6 +47,7 @@ Verliesaversie is het centrale mechanisme achter Prospect Theory, gepubliceerd i
 **Hub:** [[Beleggen]]
 
 **Gerelateerd:**
+- [[Dividendbeleggen]] ★7 — dividendaandelen als emotioneel anker bij verliesaversie; dividendinkomsten verminderen verkoopdrang bij koersdalingen
 - [[Prospect Theory]] — onderdeel van: verliesaversie is het kernmechanisme dat Prospect Theory onderscheidt van de verwachte-nutsleer
 - [[Gedragseconomie]] — domein: verliesaversie is het meest geciteerde principe binnen de gedragseconomie
 - [[Neuropsychologische Rehabilitatie]] — cross-domein: verliesaversie belemmert therapietrouw bij patiënten die mislukking vermijden

@@ -2,47 +2,31 @@
 type: dagrapport
 date: 2026-07-23
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 14 concepten vandaag (totaaldag) · deze run (consolidatie): 3
-Inbox verwerkt: 0
-Nieuwe verbindingen: 16 vandaag · deze run: 6
-Nieuwe inzichten: 11 vandaag · deze run: 2
-Gaps gedicht: 3 (Dysartrie · Jürgen Habermas · Vastgoedbeleggen)
-Aanbevolen leestijd: ~35 minuten (volledige dag) / ~12 minuten (deze run)
+Nieuwe kennis: 18 concepten · Inbox verwerkt: 0 · Verbindingen: 20 · Inzichten: 14 · Gaps gedicht: 7 · Leestijd: ~36 min
 
 ---
 
 ## Research Agenda
 
-1. **Dysartrie** — motorische spraakstoornis; aanvulling op Afasie; essentieel voor assessment in Klinische Neuropsychologie ✓ aangemaakt
-2. **Jürgen Habermas** — communicatieve rationaliteit als tegenwicht voor Foucaults machtsanalyse ✓ aangemaakt
-3. **Vastgoedbeleggen** — fundamentele asset class nu aanwezig in Beleggen-wiki ✓ aangemaakt
-4. **Kritische Theorie** — Habermas verwijst naar Adorno/Horkheimer; ontbreekt als eigen pagina (toekomstige gap)
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-*(Geen Inbox-verwerking deze run — alle bestanden hebben `_`-prefix)*
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[Dysartrie]] ↔ [[Afasie]] · ★9
-2. [[Jürgen Habermas]] ↔ [[Michel Foucault]] · ★9
-3. [[Vastgoedbeleggen]] → [[Asset Allocatie]] · ★9
-4. [[Vastgoedbeleggen]] → [[Inflatie]] · ★8
-5. [[Jürgen Habermas]] → [[Kohlberg]] · ★8
-6. [[Dysartrie]] → [[Neuropsychologische Rehabilitatie]] · ★8
+1. **Kritische Theorie** — Habermas verwijst naar Frankfurter Schule; ontbreekt als eigen pagina; cross-domein filosofie-geschiedenis
+2. **Ziekte van Huntington** — neurologische degeneratieve stoornis; complement op Parkinson/Alzheimer cluster voor klinische neuropsychologie
+3. **Hellenisme** — cultureel tijdperk na Alexander de Grote; ontbreekt als eigen pagina bij Geschiedenis
+4. **Dividendbelasting & Tax Efficiency** — praktische aanvulling op Dividendbeleggen voor Nederlandse context
 
 ---
 
 ## Insight Feed
+
+— "Neurodegeneratie en financiële crises delen een gemeenschappelijke logica: onzichtbare erosie van een systeem, gevolgd door een onherstelbaar omslagpunt." [Psychologie → Beleggen · ★7]
+
+— "Alexander de Grootes veroveringen tonen dat filosofische vorming direct invloed uitoefent op politiek-militaire strategieën — Aristoteles' empirisme en deugdethiek waren geen academische luxe maar operationele leidraden." [Filosofie → Geschiedenis · ★8]
+
+— "Dividendbeleggen is niet alleen een financiële strategie maar een cognitieve coping-strategie: het regelmatige inkomen vermindert de emotionele last van koersvolatiliteit door verliesaversie te neutraliseren." [Beleggen → Psychologie · ★8]
 
 — "Morele taal als draagvlak van democratie: Habermas en Kohlberg wijzen samen op argumentatiecompetentie als hoogste morele en politieke vaardigheid." [Filosofie → Psychologie · ★9]
 
@@ -50,20 +34,18 @@ Aanbevolen leestijd: ~35 minuten (volledige dag) / ~12 minuten (deze run)
 
 — "Foucaults genealogie van de psychiatrie onthult dat diagnostische categorieën nooit neutraal zijn maar machtsrelaties reproduceren." [Filosofie → Geschiedenis → Psychologie · ★9]
 
-— "Alzheimer en dementie vormen het scherpste testgeval voor de ethiek van zorg: progressieve wilsonbekwaamheid vraagt navigatie tussen vroegere wensen en actueel welzijn." [Psychologie → Filosofie · ★9]
-
 ---
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 93% | ↑ |
-| Filosofie | 92% | ↑ |
-| Geschiedenis | 88% | → |
-| Beleggen | 91% | ↑ |
+| Psychologie | 94% | ↑ |
+| Filosofie | 92% | → |
+| Geschiedenis | 89% | ↑ |
+| Beleggen | 92% | ↑ |
 
-**Overall: 91%**
+**Overall: 92%**
 
 ---
 
@@ -72,16 +54,29 @@ Aanbevolen leestijd: ~35 minuten (volledige dag) / ~12 minuten (deze run)
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 14 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen (dag totaal) | 16 |
-| Nieuwe inzichten (dag totaal) | 11 |
-| Gaps gedicht | 3 |
+| Nieuwe Wiki-pagina's | 18 |
+| Updates bestaande pagina's | 4 |
+| Nieuwe verbindingen | 20 |
+| Nieuwe inzichten | 14 |
+| Gaps gedicht | 7 |
+
+### Nieuwe pagina's deze run (expansie)
+- [[Dividendbeleggen]] (Beleggen)
+- [[Alexander de Grote]] (Geschiedenis)
+- [[Epilepsie]] (Psychologie — klinische neuropsychologie)
+- [[Ziekte van Parkinson]] (Psychologie — klinische neuropsychologie)
+
+### Verbindingen toegevoegd deze run
+1. [[Epilepsie]] ↔ [[Hippocampus]] · ★9
+2. [[Ziekte van Parkinson]] ↔ [[Dopamine]] · ★10
+3. [[Dividendbeleggen]] → [[Verliesaversie]] · ★7
+4. [[Alexander de Grote]] → [[Aristoteles]] · ★8
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Kritische Theorie (Adorno/Horkheimer/Frankfurter Schule) ontbreekt als wiki-pagina — Habermas verwijst ernaar
-- [ ] Vastgoedbeleggen confidence 5 — uitbreiding mogelijk als gebruiker materiaal aanlevert
-- [ ] Psychologie-wiki heeft 94 pagina's; overwegen subcategorieën zodra ≥ 3 pagina's per thematisch cluster
+- [ ] **Kritische Theorie** (Adorno/Horkheimer/Frankfurter Schule) ontbreekt als wiki-pagina — Habermas verwijst ernaar
+- [ ] **Hellenisme** ontbreekt als eigen pagina — Alexander de Grote verwijst ernaar
+- [ ] **Ziekte van Huntington** — neuropsychologisch relevant, cluster met Parkinson/Alzheimer
+- [ ] Psychologie-wiki heeft 97 pagina's; overwegen subcategorieën zodra ≥ 3 pagina's per thematisch cluster (Wet 11)

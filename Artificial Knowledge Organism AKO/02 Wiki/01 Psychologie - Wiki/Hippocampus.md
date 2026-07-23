@@ -61,6 +61,7 @@ In de **klinische neuropsychologie** is de hippocampus van grote relevantie:
 
 **Cross-domein:**
 - [[Stress en de HPA-as]] — cortisol als uitkomst van HPA-activering tast hippocampusstructuur en -functie aan bij chronische stress
+- [[Epilepsie]] ★9 — temporaalkwabepilepsie en hippocampussclerose zijn nauw verweven; casus H.M. als scharnierpunt
 
 ## Bronnen
 

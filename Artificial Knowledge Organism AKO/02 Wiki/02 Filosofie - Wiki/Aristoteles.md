@@ -63,6 +63,7 @@ Aristoteles studeerde aan Plato's Academie in Athene en stichtte later zijn eige
 **Cross-domein:**
 - [[Wetenschappelijke Revolutie]] — de moderne wetenschap definieerde zichzelf deels als breuk met aristotelisch denken
 - [[Humanisme]] — de Renaissance herontdekte Aristoteles en maakte hem centraal in het humanistisch onderwijs
+- [[Alexander de Grote]] ★8 — leerling van Aristoteles; verbinding tussen filosofisch denken en politiek-militaire macht
 
 ## Bronnen
 

@@ -61,3 +61,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Vikingen]]
 - [[Karel de Grote]]
 - [[Het Britse Rijk]]
+- [[Alexander de Grote]]

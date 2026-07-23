@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-23
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -15,12 +15,12 @@ sessie: consolidatie
 
 | Metric | Score |
 |---|---|
-| **Overall Score** | **91%** |
+| **Overall Score** | **92%** |
 | Coverage | 100% (≥ 20 pagina's per discipline ✓) |
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (stijging door 3 gedichte gaps)
+Trend: ↑ (stijging door 4 gedichte gaps, 4 back-link updates)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (stijging door 3 gedichte gaps)
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 95 | 93% | ↑ |
-| Filosofie | 54 | 92% | ↑ |
-| Geschiedenis | 48 | 88% | → |
-| Beleggen | 47 | 91% | ↑ |
-| **Totaal** | **244** | **91%** | ↑ |
+| Psychologie | 97 | 94% | ↑ |
+| Filosofie | 54 | 92% | → |
+| Geschiedenis | 49 | 89% | ↑ |
+| Beleggen | 48 | 92% | ↑ |
+| **Totaal** | **248** | **92%** | ↑ |
 
 ---
 
@@ -40,26 +40,35 @@ Trend: ↑ (stijging door 3 gedichte gaps)
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's | 66+ |
-| Inzichtpagina's | 42+ |
+| Relatiepagina's | 70+ |
+| Inzichtpagina's | 45+ |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-23)
+## Sessieoverzicht (2026-07-23 — volledige dag)
 
 | Run | Nieuwe pagina's | Verbindingen | Inzichten |
 |---|---|---|---|
-| Expansie (vroeg) | 4 | 4 | 3 |
-| Consolidatie (ochtend) | 3 | 6 | 3 |
-| Expansie-2 | 4 | 4 | 3 |
-| Consolidatie (huidig) | 3 | 6 | 2 |
-| **Totaal** | **14** | **20** | **11** |
+| Eerdere runs (dag) | 14 | 16 | 11 |
+| Expansie (huidig) | 4 | 4 | 3 |
+| **Totaal dag** | **18** | **20** | **14** |
+
+---
+
+## Nieuwe pagina's (laatste run)
+
+- [[Dividendbeleggen]] (Beleggen — inkomensstrategie)
+- [[Alexander de Grote]] (Geschiedenis — hellenisme)
+- [[Epilepsie]] (Psychologie — klinische neuropsychologie)
+- [[Ziekte van Parkinson]] (Psychologie — klinische neuropsychologie)
 
 ---
 
 ## Aandacht vereist
 
-- Kritische Theorie (Adorno/Horkheimer) ontbreekt als wiki-pagina — aanbevolen als volgende gap
-- Psychologie heeft 95 pagina's: subcategorie-evaluatie aanbevolen bij ≥ 3 per thematisch cluster
+- **Kritische Theorie** (Frankfurter Schule) ontbreekt als wiki-pagina
+- **Hellenisme** ontbreekt als eigen pagina — verwijzing vanuit Alexander de Grote
+- **Ziekte van Huntington** — klinisch neuropsychologisch relevant cluster
+- Psychologie heeft 97 pagina's: subcategorie-evaluatie aanbevolen bij ≥ 3 per thematisch cluster (Wet 11)

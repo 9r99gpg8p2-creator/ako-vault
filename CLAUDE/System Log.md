@@ -1672,3 +1672,25 @@ type: operationeel
 | 2026-07-23 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-23 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Dysartrie, Jürgen Habermas, Vastgoedbeleggen) |
 | 2026-07-23 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 91%
+| 2026-07-23 | expansie-3 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-23 | expansie-3 | Agent 1 | Inbox verwerkt | ✓ | Geen bestanden — alle bestanden beginnen met `_` (templates) — stap overgeslagen |
+| 2026-07-23 | expansie-3 | Agent 2 | Research uitgevoerd | ✓ | Wikipedia geblokkeerd — intern kennismodel gebruikt — 4 onderwerpen: Dividendbeleggen, Alexander de Grote, Epilepsie, Ziekte van Parkinson |
+| 2026-07-23 | expansie-3 | Agent 3 | Wiki-pagina aangemaakt | ✓ | Dividendbeleggen.md — Beleggen — confidence 5 |
+| 2026-07-23 | expansie-3 | Agent 3 | Wiki-pagina aangemaakt | ✓ | Alexander de Grote.md — Geschiedenis — confidence 5 |
+| 2026-07-23 | expansie-3 | Agent 3 | Wiki-pagina aangemaakt | ✓ | Epilepsie.md — Psychologie — confidence 5 |
+| 2026-07-23 | expansie-3 | Agent 3 | Wiki-pagina aangemaakt | ✓ | Ziekte van Parkinson.md — Psychologie — confidence 5 |
+| 2026-07-23 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Epilepsie — Hippocampus.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-23 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Ziekte van Parkinson — Dopamine.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-23 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Dividendbeleggen — Verliesaversie.md — sterkte ★7 — Beleggen-Psychologie (cross) |
+| 2026-07-23 | expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Alexander de Grote — Aristoteles.md — sterkte ★8 — Geschiedenis-Filosofie (cross) |
+| 2026-07-23 | expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Neurodegeneratie als Economische Metafoor.md — Psychologie → Beleggen — sterkte ★7 |
+| 2026-07-23 | expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Filosofie als Militaire Strategie.md — Filosofie → Geschiedenis — sterkte ★8 |
+| 2026-07-23 | expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Inkomen als Cognitieve Buffer.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-23 | expansie-3 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-23 Dagrapport.md — expansiemodus — 18 concepten dag-totaal, 20 verbindingen, 14 inzichten |
+| 2026-07-23 | expansie-3 | Agent 6 | Quiz uitgebreid | ✓ | 3 vragen toegevoegd aan 2026-07-23 Quiz.md (Epilepsie, Alexander, Dividendbeleggen) |
+| 2026-07-23 | expansie-3 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 92% — Coverage 100%, Connectivity 100%, Orphan 0% — Psych 94%, Fil 92%, Gesch 89%, Beleg 92% |
+| 2026-07-23 | expansie-3 | Agent 7 | Dashboards bijgewerkt | ✓ | 4 dashboards overschreven: Algemeen (92%), Psychologie (94%), Geschiedenis (89%), Beleggen (92%) |
+| 2026-07-23 | expansie-3 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Epilepsie +Ziekte van Parkinson · Geschiedenis: +Alexander de Grote · Beleggen: +Dividendbeleggen |
+| 2026-07-23 | expansie-3 | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ · 248 wiki-pagina's totaal |
+| 2026-07-23 | expansie-3 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 4 nieuwe gaps toegevoegd (↓): Kritische Theorie, Hellenisme, Huntington, Perzisch Rijk |
+| 2026-07-23 | expansie-3 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · Health: 92% |

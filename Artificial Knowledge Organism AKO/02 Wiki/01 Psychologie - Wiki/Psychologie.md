@@ -108,3 +108,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Alzheimer en Dementie]]
 - [[Afasie]]
 - [[Dysartrie]]
+- [[Epilepsie]]
+- [[Ziekte van Parkinson]]
