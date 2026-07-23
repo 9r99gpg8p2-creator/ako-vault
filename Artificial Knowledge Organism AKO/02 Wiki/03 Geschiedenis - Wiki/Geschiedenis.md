@@ -59,3 +59,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Maya-beschaving]]
 - [[Aztekenbeschaving]]
 - [[De Vikingen]]
+- [[Karel de Grote]]

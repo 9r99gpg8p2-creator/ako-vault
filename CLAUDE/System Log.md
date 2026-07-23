@@ -1606,3 +1606,22 @@ type: operationeel
 | 2026-07-23 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-23 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps toegevoegd ↓ (Alzheimer, Karel de Grote, Black-Scholes Model) |
 | 2026-07-23 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 92%
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerking — alle bestanden beginnen met _ |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Alzheimer en Dementie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Karel de Grote.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Black-Scholes Model.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Alzheimer en Dementie — Klinische Neuropsychologie.md — sterkte ★9 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Alzheimer en Dementie — Neuroplasticiteit.md — sterkte ★8 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Karel de Grote — De Middeleeuwen.md — sterkte ★9 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Karel de Grote — Feodalisme.md — sterkte ★8 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Black-Scholes Model — Derivaten.md — sterkte ★9 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Black-Scholes Model — Efficiënte Markthypothese.md — sterkte ★8 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Anomalie als Motor van Wetenschap.md — Beleggen → Filosofie — ★8 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Autonomie Onder Druk bij Dementie.md — Psychologie → Filosofie — ★9 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Religieuze Legitimatie als Maatschappelijk Contract.md — Geschiedenis → Filosofie — ★7 |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-23 Dagrapport.md (modus: consolidatie) |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 3 vragen toegevoegd aan 2026-07-23 Quiz.md (vragen 6–8) |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Psychologie (98%↑), Geschiedenis (98%↑), Beleggen (98%↑) |
+| 2026-07-23 | 2026-07-23T consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Alzheimer en Dementie · Geschiedenis: +Karel de Grote · Beleggen: +Black-Scholes Model |
+| 2026-07-23 | 2026-07-23T consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gedicht: Alzheimer en Dementie, Karel de Grote, Black-Scholes Model |
+| 2026-07-23 | 2026-07-23T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 pag's · 6 verbindingen · 3 inzichten · Health: 98%

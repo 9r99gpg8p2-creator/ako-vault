@@ -105,3 +105,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Big Five Persoonlijkheidsmodel]]
 - [[NEO-PI-R]]
 - [[Bipolaire Stoornis]]
+- [[Alzheimer en Dementie]]

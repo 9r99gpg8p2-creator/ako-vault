@@ -229,9 +229,9 @@ type: operationeel
 | ✓ | 2026-07-23T expansie | Agent 3 | Expansie: De Vikingen | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Vikingen.md — confidence 5 |
 | ✓ | 2026-07-23T expansie | Agent 3 | Expansie: Bipolaire Stoornis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Bipolaire Stoornis.md — confidence 5 |
 | ✓ | 2026-07-23T expansie | Agent 3 | Expansie: Merleau-Ponty | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Merleau-Ponty.md — confidence 5 |
-| ↓ | 2026-07-23T expansie | Agent 3 | Gap: Alzheimer en Dementie | Aanmaken: 02 Wiki/01 Psychologie - Wiki/Alzheimer en Dementie.md |
-| ↓ | 2026-07-23T expansie | Agent 3 | Gap: Karel de Grote | Aanmaken: 02 Wiki/03 Geschiedenis - Wiki/Karel de Grote.md |
-| ↓ | 2026-07-23T expansie | Agent 3 | Gap: Black-Scholes Model | Aanmaken: 02 Wiki/04 Beleggen - Wiki/Black-Scholes Model.md |
+| ✓ | 2026-07-23T consolidatie | Agent 3 | Gap: Alzheimer en Dementie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Alzheimer en Dementie.md — confidence 5 |
+| ✓ | 2026-07-23T consolidatie | Agent 3 | Gap: Karel de Grote | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Karel de Grote.md — confidence 5 |
+| ✓ | 2026-07-23T consolidatie | Agent 3 | Gap: Black-Scholes Model | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Black-Scholes Model.md — confidence 5 |
 
 ---
 

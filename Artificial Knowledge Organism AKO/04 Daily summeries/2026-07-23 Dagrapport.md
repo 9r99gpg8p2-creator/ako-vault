@@ -2,42 +2,49 @@
 type: dagrapport
 date: 2026-07-23
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 3 · Leestijd: ~16 min
+Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 6 · Queue resterend: 0
 
-## Research Agenda
+## Pagina's Bijgewerkt via Inbox
 
-1. **Alzheimer en Dementie** (Psychologie) — kerngebied klinische neuropsychologie; ontbreekt nog in de vault ondanks directe relevantie voor MSc Klinische Neuropsychologie
-2. **Karel de Grote / Het Frankische Rijk** (Geschiedenis) — Midden-Middeleeuwen zijn nu beter belichaamd met de Vikingen; Karel de Grote en het Karolingische Rijk ontbreken nog als tegenhanger
-3. **Black-Scholes Model** (Beleggen) — fundamenteel prijsmodel voor derivaten; gap gesignaleerd vanuit Short Selling-pagina
+*Geen Inbox-bestanden verwerkt deze run.*
+
+## Verbindingen Toegevoegd
+
+1. [[Alzheimer en Dementie]] ↔ [[Klinische Neuropsychologie]] · ★9
+2. [[Alzheimer en Dementie]] ↔ [[Neuroplasticiteit]] · ★8
+3. [[Karel de Grote]] ↔ [[De Middeleeuwen]] · ★9
+4. [[Karel de Grote]] ↔ [[Feodalisme]] · ★8
+5. [[Black-Scholes Model]] ↔ [[Derivaten]] · ★9
+6. [[Black-Scholes Model]] ↔ [[Efficiënte Markthypothese]] · ★8
 
 ## Insight Feed
 
-— "Merleau-Ponty's lichaamsfilosofie en moderne neuropsychologie van het lichaamschema bevestigen elkaar: het lichaam denkt altijd al mee." [Filosofie → Psychologie · ★9]
+— "Het Black-Scholes model bewijst dat een wiskundig elegant model het meest vruchtbaar is niet wanneer het klopt, maar wanneer het op een falsifieerbare manier faalt." [Beleggen → Filosofie · ★8]
 
-— "Verstoorde risicoperceptie bij bipolaire manie en het irrationele verliesgedrag van short sellers hebben dezelfde neurobiologische wortel: stemming stuurt risico." [Psychologie → Beleggen · ★8]
+— "Alzheimer en dementie vormen het scherpste testgeval voor de ethiek van zorg: wanneer progressieve cognitieve achteruitgang de patiënt wilsonbekwaam maakt, moet de zorgverlener navigeren tussen de vroegere autonome wensen en het actuele welzijn." [Psychologie → Filosofie · ★9]
 
-— "De Vikingen tonen hoe risicobereidheid en mobiliteit primaire drijvers zijn van economische netwerkontwikkeling — een patroon dat in kapitaalmarkten herkenbaar blijft." [Geschiedenis → Beleggen · ★7]
+— "De keizerlijke kroning van Karel de Grote in 800 toont een vroegmiddeleeuws maatschappelijk contract waarin gezag wordt ontleend aan goddelijke sanctie via de paus — een tegenpool van de seculiere contracttheorieën van Hobbes, Locke en Rousseau." [Geschiedenis → Filosofie · ★7]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 93% | → |
-| Filosofie | 92% | ↑ |
-| Geschiedenis | 91% | ↑ |
-| Beleggen | 90% | → |
+| Psychologie | 98% | ↑ |
+| Filosofie | 98% | → |
+| Geschiedenis | 98% | ↑ |
+| Beleggen | 98% | ↑ |
 
-## Activiteit
+## Research Agenda
 
-| Metric | Aantal |
-|---|---|
-| Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen | 4 |
-| Gaps gedicht | 0 |
+Prioriteit 1: Cognitieve reserve en preventie van Alzheimer — reden: nieuwe Alzheimer-pagina opent vragen over beschermfactoren en neuroplasticiteit als buffer
+Prioriteit 2: Stochastische volatiliteitsmodellen (Heston-model) — reden: Black-Scholes limitations signaleren een gap in de Beleggen-wiki (volatility smile)
+Prioriteit 3: Karolingische erfenis en middeleeuwse staatsvorming — reden: Karel de Grote is een cruciale schakel tussen Antieke wereld, Middeleeuwen en Renaissance
+
+## Aandacht Vereist
+
+*Geen kritische issues gesignaleerd. Queue volledig leeg na deze run.*

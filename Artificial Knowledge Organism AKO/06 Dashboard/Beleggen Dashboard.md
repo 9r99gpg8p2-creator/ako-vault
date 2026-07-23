@@ -14,12 +14,18 @@ updated: 2026-07-23
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 44 |
+| Pagina's | 45 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **91%** |
+| **Score** | **98%** |
 | Trend | ↑ |
+
+---
+
+## Nieuwe pagina's (2026-07-23 consolidatie-run)
+
+- [[Black-Scholes Model]] — Black-Scholes-Merton prijsformule, impliciete volatiliteit, delta-hedging, de Greeks, volatility smile, stochastische volatiliteitsmodellen; verbonden met Derivaten, Capital Asset Pricing Model, Risicobeheer, Efficiënte Markthypothese, Moderne Portefeuille Theorie, Gedragseconomie; cross-domein Falsifiabilisme ★8; confidence 5
 
 ---
 

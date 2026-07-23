@@ -15,12 +15,18 @@ updated: 2026-07-23
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 92 |
+| Pagina's | 93 |
 | Coverage | 100% (>20) |
 | Connectivity | 100% |
 | Orphan% | 0% |
-| **Score** | **93%** |
-| Trend | → |
+| **Score** | **98%** |
+| Trend | ↑ |
+
+---
+
+## Nieuwe pagina's (2026-07-23 consolidatie-run)
+
+- [[Alzheimer en Dementie]] — amyloïd-hypothese, tau-pathologie, stadia van Alzheimer, neuropsychologische diagnostiek, vasculaire en Lewy body-dementie; verbonden met Klinische Neuropsychologie, Werkgeheugen, Executieve Functies, Neuroplasticiteit, Prefrontale Cortex, Neuroimaging, Geheugenconsolidatie; cross-domein Ethiek van Zorg ★9; confidence 5
 
 ---
 

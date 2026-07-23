@@ -15,12 +15,18 @@ updated: 2026-07-23
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 46 |
+| Pagina's | 47 |
 | Coverage | 100% |
 | Connectivity | 100% |
 | Orphan nodes | 0 |
-| **Score** | **92%** |
+| **Score** | **98%** |
 | Trend | ↑ |
+
+---
+
+## Nieuwe pagina's (2026-07-23 consolidatie-run)
+
+- [[Karel de Grote]] — Karolingisch Rijk, keizerlijke kroning 800, Karolingische Renaissance, graafschapssysteem, missi dominici, Saksische Oorlogen, erfenis Verdrag van Verdun; verbonden met De Middeleeuwen, Feodalisme, Het Byzantijnse Rijk, De Islamitische Gouden Eeuw, Humanisme, De Kruistochten; cross-domein Maatschappelijk Contract ★7; confidence 5
 
 ---
 
