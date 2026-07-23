@@ -11,48 +11,25 @@ updated: 2026-07-23
 
 ---
 
-## Knowledge Health
+## Health Score: 92%
 
-| Metric | Waarde |
+| Metric | Score |
 |---|---|
-| Pagina's | 93 |
-| Coverage | 100% (>20) |
+| Coverage | 100% (94 pagina's / target 20 ✓) |
 | Connectivity | 100% |
-| Orphan% | 0% |
-| **Score** | **98%** |
-| Trend | ↑ |
+| Orphan % | 0% |
+
+Trend: → (stabiel — hoogste dekking van alle disciplines)
 
 ---
 
-## Nieuwe pagina's (2026-07-23 consolidatie-run)
+## Pagina-overzicht (94)
 
-- [[Alzheimer en Dementie]] — amyloïd-hypothese, tau-pathologie, stadia van Alzheimer, neuropsychologische diagnostiek, vasculaire en Lewy body-dementie; verbonden met Klinische Neuropsychologie, Werkgeheugen, Executieve Functies, Neuroplasticiteit, Prefrontale Cortex, Neuroimaging, Geheugenconsolidatie; cross-domein Ethiek van Zorg ★9; confidence 5
-
----
-
-## Nieuwe pagina's (2026-07-23 expansie-run)
-
-- [[Bipolaire Stoornis]] — DSM-5-TR type I/II, manie vs. hypomanie, kindling-hypothese, lithium, neurobiologie; verbonden met Depressie, Schizofrenie, Neuroplasticiteit, Dopamine, CGT; cross-domein Vrije Wil ★6, Risicoperceptie ★7, Stress en de HPA-as ★8; confidence 5
+Neuropsychologische Rehabilitatie · Werkgeheugen · Executieve Functies · Anosognosie · Geheugenconsolidatie · Reconsolidatie · PTSD · Embodied Cognition · EMDR · Hechtingstheorie · Slaap en Geheugenconsolidatie · Piaget · Vygotsky · Culturele Psychologie · Niche Constructie · Behaviorisme · Klassieke Conditionering · Sociale Leertheorie · Emotieregulatie · Synaptogenese · Culturele Ontwikkelingspaden · Interactieve Specialisatie · Precursor Emoties · Geleid Participeren · Affordances · Semiotische Functie · Sapir-Whorf Hypothese · Zelf-evaluatieve Emoties · Collectieve Intentionaliteit · Spiegelzelfherkenning · Familimodellen · Preoperationeel Denken · Zone of Proximal Development · Hogere Psychologische Functies · Meta-emotie · Intent Participatie · Kohlberg · Fuzzy Trace Theory · Dual Process Theorie · Erikson · Situated Learning · Adolescent Peergroepen · Scaffolding · Intersubjectiviteit · Activiteitstheorie · Etnische Identiteit · Postkoloniale Psychologie · Klinische Neuropsychologie · Neuropsychologische Diagnostiek ASS (ADOS-2) · Acceptatie en Commitment Therapie · Schematherapie · Kahneman · Amos Tversky · Depressie · Schizofrenie · ADHD · Dopamine · Verslaving · Psychose · First Episode Psychosis · Neuroplasticiteit · Cognitieve Gedragstherapie · Dialectische Gedragstherapie · Angststoornissen · Persoonlijkheidsstoornissen · Freud · Big Five Persoonlijkheidsmodel · NEO-PI-R · Bipolaire Stoornis · Alzheimer en Dementie · Amygdala · Prefrontale Cortex · Neuroimaging · Stress en de HPA-as · Complexe PTSD · Traumatisch Hersenletsel · Insula · Afasie
 
 ---
 
-## Nieuwe pagina's (2026-07-22 consolidatie-run)
+## Gesignaleerde gaps
 
-- [[NEO-PI-R]] — Revised NEO Personality Inventory; 240 items, 30 facetten; Form S en Form R; klinische validering in neuropsychologie; diagnostische workflow; confidence 8
-
-## Nieuwe pagina's (2026-07-22 expansie-run)
-
-- [[Big Five Persoonlijkheidsmodel]] — OCEAN-dimensies, NEO-PI-R, Costa & McCrae; neuroticisme als risicofactor; klinische diagnostiek; cross-domein Prospect Theory; confidence 8
-
-## Nieuwste pagina's (2026-07-22 eerdere consolidatie-run)
-
-- [[Insula]] — interoceptie, anteriore insula, subjectief gevoel, bewustzijn; confidence 8
-
-## Cross-domein bruggen
-
-- [[NEO-PI-R]] → [[Klinische Neuropsychologie]] (persoonlijkheidsprofiel als diagnostische context; ★9)
-- [[NEO-PI-R]] → [[Anosognosie]] (Form R bij verminderd ziekte-inzicht; ★8)
-- [[Big Five Persoonlijkheidsmodel]] → [[Prospect Theory]] (neuroticisme & verliesaversie; ★8)
-- [[Insula]] → [[Bewustzijn]] → [[Filosofie van de Geest]] (qualia en interoceptie; ★9)
-- [[Amygdala]] → [[Verliesaversie]] (neurobiologie van verliesaversie; ★8)
-- [[Prefrontale Cortex]] ↔ [[Amygdala]] (rede vs. emotie circuit; ★10)
+- Dysartrie (verworven motorische spraakstoornis — aanvulling op Afasie)
+- Neglect (ruimtelijke aandachtsstoornis — essentieel voor klinische neuropsychologie)

@@ -232,6 +232,13 @@ type: operationeel
 | ✓ | 2026-07-23T consolidatie | Agent 3 | Gap: Alzheimer en Dementie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Alzheimer en Dementie.md — confidence 5 |
 | ✓ | 2026-07-23T consolidatie | Agent 3 | Gap: Karel de Grote | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Karel de Grote.md — confidence 5 |
 | ✓ | 2026-07-23T consolidatie | Agent 3 | Gap: Black-Scholes Model | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Black-Scholes Model.md — confidence 5 |
+| ✓ | 2026-07-23T expansie-2 | Agent 3 | Expansie: Hedgefondsen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Hedgefondsen.md — confidence 5 |
+| ✓ | 2026-07-23T expansie-2 | Agent 3 | Expansie: Het Britse Rijk | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Britse Rijk.md — confidence 5 |
+| ✓ | 2026-07-23T expansie-2 | Agent 3 | Expansie: Michel Foucault | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Michel Foucault.md — confidence 5 |
+| ✓ | 2026-07-23T expansie-2 | Agent 3 | Expansie: Afasie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Afasie.md — confidence 5 |
+| ↓ | 2026-07-23T expansie-2 | Agent 3 | Gap: Dysartrie | Verworven motorische spraakstoornis — aanvulling op Afasie (Psychologie) |
+| ↓ | 2026-07-23T expansie-2 | Agent 3 | Gap: Jürgen Habermas | Communicatieve rationaliteit als tegenwicht voor Foucaults machtsanalyse (Filosofie) |
+| ↓ | 2026-07-23T expansie-2 | Agent 3 | Gap: Vastgoedbeleggen | REIT en directe vastgoedinvestering — fundamentele asset class ontbreekt (Beleggen) |
 
 ---
 

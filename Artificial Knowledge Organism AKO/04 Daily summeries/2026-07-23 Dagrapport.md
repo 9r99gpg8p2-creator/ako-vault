@@ -2,49 +2,72 @@
 type: dagrapport
 date: 2026-07-23
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 6 · Queue resterend: 0
+Goedemorgen.
 
-## Pagina's Bijgewerkt via Inbox
+Nieuwe kennis: 11 concepten vandaag (totaaldag) · deze run: 4
+Inbox verwerkt: 0
+Nieuwe verbindingen: 10 vandaag · deze run: 4
+Nieuwe inzichten: 9 vandaag · deze run: 3
+Gaps gesignaleerd: 3 (deze run)
+Aanbevolen leestijd: ~30 minuten (volledige dag) / ~12 minuten (deze run)
 
-*Geen Inbox-bestanden verwerkt deze run.*
+---
 
-## Verbindingen Toegevoegd
+## Research Agenda
 
-1. [[Alzheimer en Dementie]] ↔ [[Klinische Neuropsychologie]] · ★9
-2. [[Alzheimer en Dementie]] ↔ [[Neuroplasticiteit]] · ★8
-3. [[Karel de Grote]] ↔ [[De Middeleeuwen]] · ★9
-4. [[Karel de Grote]] ↔ [[Feodalisme]] · ★8
-5. [[Black-Scholes Model]] ↔ [[Derivaten]] · ★9
-6. [[Black-Scholes Model]] ↔ [[Efficiënte Markthypothese]] · ★8
+1. **Dysartrie** — logopedische tegenhanger van Afasie; essentieel voor volledig begrip van verworven spraak- en taalstoornissen (MSc Klinische Neuropsychologie)
+2. **Jürgen Habermas** — kritische tegenpool van Foucault; debat over communicatieve rationaliteit vs. machtsanalyse sluit aan op Filosofie-cluster
+3. **Vastgoedbeleggen** — fundamentele asset class ontbrekend in Beleggen-wiki; aanvulling op Hedgefondsen en Asset Allocatie
+4. **Stochastische Volatiliteitsmodellen** — Black-Scholes limitations signaleren een gap in de Beleggen-wiki (volatility smile, Heston-model)
+
+---
 
 ## Insight Feed
 
+— "Foucaults genealogie van de psychiatrie onthult dat diagnostische categorieën nooit neutraal zijn maar machtsrelaties reproduceren — een reflectie die klinisch neuropsychologen zou moeten begeleiden bij elke classificatiekeuze." [Filosofie → Geschiedenis → Psychologie · ★9]
+
+— "Afasiepatiënten die hun taal verliezen maar niet hun denkvermogen weerleggen empirisch het linguïstisch determinisme en bewijzen dat taal instrument is van gedachte, niet haar fundament." [Psychologie → Filosofie · ★8]
+
+— "De high water mark-structuur van hedgefondsen bevestigt Prospect Theory: managers die 'onder water' staan nemen systematisch irrationeel meer risico om verlies te vermijden." [Beleggen → Psychologie · ★8]
+
 — "Het Black-Scholes model bewijst dat een wiskundig elegant model het meest vruchtbaar is niet wanneer het klopt, maar wanneer het op een falsifieerbare manier faalt." [Beleggen → Filosofie · ★8]
 
-— "Alzheimer en dementie vormen het scherpste testgeval voor de ethiek van zorg: wanneer progressieve cognitieve achteruitgang de patiënt wilsonbekwaam maakt, moet de zorgverlener navigeren tussen de vroegere autonome wensen en het actuele welzijn." [Psychologie → Filosofie · ★9]
+— "Alzheimer en dementie vormen het scherpste testgeval voor de ethiek van zorg: wanneer progressieve cognitieve achteruitgang de patiënt wilsonbekwaam maakt, navigeert de zorgverlener tussen vroegere autonome wensen en actueel welzijn." [Psychologie → Filosofie · ★9]
 
-— "De keizerlijke kroning van Karel de Grote in 800 toont een vroegmiddeleeuws maatschappelijk contract waarin gezag wordt ontleend aan goddelijke sanctie via de paus — een tegenpool van de seculiere contracttheorieën van Hobbes, Locke en Rousseau." [Geschiedenis → Filosofie · ★7]
+---
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 98% | ↑ |
-| Filosofie | 98% | → |
-| Geschiedenis | 98% | ↑ |
-| Beleggen | 98% | ↑ |
+| Psychologie | 92% | → |
+| Filosofie | 89% | ↑ |
+| Geschiedenis | 88% | ↑ |
+| Beleggen | 87% | ↑ |
 
-## Research Agenda
+**Overall: 89%**
 
-Prioriteit 1: Cognitieve reserve en preventie van Alzheimer — reden: nieuwe Alzheimer-pagina opent vragen over beschermfactoren en neuroplasticiteit als buffer
-Prioriteit 2: Stochastische volatiliteitsmodellen (Heston-model) — reden: Black-Scholes limitations signaleren een gap in de Beleggen-wiki (volatility smile)
-Prioriteit 3: Karolingische erfenis en middeleeuwse staatsvorming — reden: Karel de Grote is een cruciale schakel tussen Antieke wereld, Middeleeuwen en Renaissance
+---
 
-## Aandacht Vereist
+## Activiteit (volledige dag 2026-07-23)
 
-*Geen kritische issues gesignaleerd. Queue volledig leeg na deze run.*
+| Metric | Aantal |
+|---|---|
+| Inbox verwerkt | 0 |
+| Nieuwe Wiki-pagina's | 11 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe verbindingen | 10 |
+| Nieuwe inzichten | 9 |
+| Gaps gedicht | 0 |
+
+---
+
+## Aandacht vereist
+
+- [ ] Dysartrie, Habermas en Vastgoedbeleggen zijn nieuwe gaps — toegevoegd aan Task Queue
+- [ ] Psychologie-wiki heeft 94 pagina's; overwegen subcategorieën zodra ≥ 3 pagina's per cluster

@@ -60,3 +60,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Aztekenbeschaving]]
 - [[De Vikingen]]
 - [[Karel de Grote]]
+- [[Het Britse Rijk]]

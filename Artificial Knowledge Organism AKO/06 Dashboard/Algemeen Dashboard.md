@@ -11,48 +11,54 @@ sessie: expansie
 
 ---
 
-## Knowledge Health — Overzicht
+## Knowledge Health — Overall
 
-| Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
-|---|---|---|---|---|---|
-| Psychologie | 92 | 100% | 100% | **93%** | → |
-| Filosofie | 52 | 100% | 100% | **92%** | ↑ |
-| Geschiedenis | 46 | 100% | 100% | **92%** | ↑ |
-| Beleggen | 44 | 100% | 100% | **91%** | ↑ |
-| **Overall** | **234** | 100% | 100% | **92%** | ↑ |
+| Metric | Score |
+|---|---|
+| **Overall Score** | **89%** |
+| Coverage | 100% (≥ 20 pagina's per discipline ✓) |
+| Connectivity | 100% |
+| Orphan % | 0% |
 
-*Alle vier disciplines: ≥ 20 pagina's · 100% coverage · 100% connectivity · orphan% = 0.*
+Trend: → (stabiel hoog plateau)
 
 ---
 
-## Graph Statistieken
+## Disciplineoverzicht
+
+| Discipline | Pagina's | Score | Trend |
+|---|---|---|---|
+| Psychologie | 94 | 92% | → |
+| Filosofie | 53 | 89% | ↑ |
+| Geschiedenis | 48 | 88% | ↑ |
+| Beleggen | 46 | 87% | ↑ |
+| **Totaal** | **241** | **89%** | ↑ |
+
+---
+
+## Conceptual Graph
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 234 |
-| Relatie- en inzichtpagina's | 482 |
+| Relatiepagina's | 60+ |
+| Inzichtpagina's | 40+ |
+| Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
-| Hub-to-hub links | 0 |
-| Cross-domein ratio | ≥ 1:5 ✓ |
 
 ---
 
-## Sessie-activiteit (2026-07-23 expansie-run)
+## Sessieoverzicht (2026-07-23)
 
-| Metric | Aantal |
-|---|---|
-| Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 (Short Selling, De Vikingen, Bipolaire Stoornis, Merleau-Ponty) |
-| Updates bestaande pagina's | 4 |
-| Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichtpagina's | 3 |
-| Gaps gedicht | 0 |
+| Run | Nieuwe pagina's | Verbindingen | Inzichten |
+|---|---|---|---|
+| Expansie (vroeg) | 4 | 4 | 3 |
+| Consolidatie | 3 | 6 | 3 |
+| Expansie (huidig) | 4 | 4 | 3 |
+| **Totaal** | **11** | **14** | **9** |
 
 ---
 
-## Hubs
+## Aandacht vereist
 
-- [[Psychologie]] — 92 pagina's
-- [[Filosofie]] — 52 pagina's
-- [[Geschiedenis]] — 46 pagina's
-- [[Beleggen]] — 44 pagina's
+- Dysartrie, Habermas, Vastgoedbeleggen → nieuwe gaps in Task Queue
+- Psychologie heeft 94 pagina's: subcategorie-evaluatie aanbevolen bij ≥ 3 per cluster

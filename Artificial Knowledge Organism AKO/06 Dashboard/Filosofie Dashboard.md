@@ -4,46 +4,31 @@ tags: [dashboard, filosofie]
 updated: 2026-07-23
 ---
 
-# Filosofie Dashboard — AKO
+# Filosofie Dashboard
 
 **Systeemkoppelingen:** [[AKO]] · [[Filosofie]]
 
 ---
 
-## Knowledge Health
+## Health Score: 89%
 
-| Metric | Waarde |
+| Metric | Score |
 |---|---|
-| Pagina's | 52 |
-| Coverage | 100% |
+| Coverage | 100% (53 pagina's / target 20 ✓) |
 | Connectivity | 100% |
-| Orphan nodes | 0 |
-| **Score** | **92%** |
-| Trend | ↑ |
+| Orphan % | 0% |
+
+Trend: ↑ (+1 pagina deze run: Michel Foucault)
 
 ---
 
-## Nieuwe pagina's (2026-07-23 expansie-run)
+## Pagina-overzicht (53)
 
-- [[Merleau-Ponty]] — corps propre, motorisch schema, chiasme, primaat waarneming; verbonden met Fenomenologie, Existentialisme, Bewustzijn, Filosofie van de Geest; cross-domein Embodied Cognition ★10, Neuropsychologische Rehabilitatie ★8, Anosognosie ★7, Affordances ★9; confidence 5
+Bewustzijn · Vrije Wil · Morele Verantwoordelijkheid · Epistemologie · Fenomenologie · Psychoanalyse · Ethiek · Totalitarisme (cross) · Sociale Ontologie · Ethiek van Zorg · Epistemologisch Relativisme · Utilitarisme · Rationalisme · Immanuel Kant · Logisch Positivisme · Deontologie · Aristoteles · Plato · Socrates · Stoïcisme · Nietzsche · Functionalisme · Historisch Materialisme · Postmodernisme · Marxisme · Analytische Filosofie · Taalfilosofie · Poststructuralisme · Structuralisme · Libertair Paternalisme · Adorno en de Autoritaire Persoonlijkheid · David Hume · George Berkeley · John Locke · John Stuart Mill · Maatschappelijk Contract · Falsifiabilisme · John Rawls · Jean-Jacques Rousseau · Thomas Hobbes · Spinoza · Hermeneutiek · René Descartes · Hegel · Wittgenstein · Empirisme · Pragmatisme · Merleau-Ponty · Existentialisme · Politieke Filosofie · Filosofie van de Wetenschap · Filosofie van de Geest · Michel Foucault
 
 ---
 
-## Nieuwe pagina's (2026-07-22 expansie-run)
+## Gesignaleerde gaps
 
-- [[Poststructuralisme]] — Derrida, Foucault, Deleuze; différance, deconstruktie, discours-macht; verbonden met Structuralisme, Postmodernisme, Geschiedenis van de Psychiatrie; confidence 5
-- [[Libertair Paternalisme]] — Thaler & Sunstein; nudges, keuzearchitectuur, defaults; cross-domein Filosofie × Beleggen × Psychologie; confidence 5
-
-## Nieuwe pagina's (2026-07-22 consolidatie-run)
-
-- [[John Stuart Mill]] — kwalitatief utilisme, schadebeginsel, On Liberty; liberalisme, feminisme; brug naar gedragseconomie; confidence 5
-- [[Structuralisme]] — Saussure, Lévi-Strauss, binaire opposities, dieptestructuur; taal, cultuur, psychologie; confidence 5
-
-## Cross-domein bruggen
-
-- [[Poststructuralisme]] → [[Geschiedenis van de Psychiatrie]] (Foucault: psychiatrie als macht-kennis construct; ★9)
-- [[Libertair Paternalisme]] → [[Gedragseconomie]] (empirische basis van nudge-theorie; ★9)
-- [[Libertair Paternalisme]] → [[Dual Process Theorie]] (nudges werken via Systeem 1; ★8)
-- [[John Stuart Mill]] → [[Gedragseconomie]] (homo economicus vs. gedragsirrationeel; ★8)
-- [[Structuralisme]] → [[Piaget]] (cognitieve structuren als ontwikkelingspsychologisch principe; ★8)
-- [[Hermeneutiek]] ↔ [[Culturele Psychologie]] (cultuur als interpretatief systeem; ★8)
+- Jürgen Habermas (communicatieve rationaliteit als tegenwicht voor Foucaults machtsanalyse)
+- Deconstructie/Derrida (eigen pagina ontbreekt, nu enkel in Poststructuralisme)

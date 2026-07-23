@@ -4,46 +4,32 @@ tags: [dashboard, beleggen]
 updated: 2026-07-23
 ---
 
-# Beleggen Dashboard — AKO
+# Beleggen Dashboard
 
 **Systeemkoppelingen:** [[AKO]] · [[Beleggen]]
 
 ---
 
-## Knowledge Health
+## Health Score: 87%
 
-| Metric | Waarde |
+| Metric | Score |
 |---|---|
-| Pagina's | 45 |
-| Coverage | 100% |
+| Coverage | 100% (46 pagina's / target 20 ✓) |
 | Connectivity | 100% |
-| Orphan nodes | 0 |
-| **Score** | **98%** |
-| Trend | ↑ |
+| Orphan % | 0% |
+
+Trend: ↑ (+1 pagina deze run: Hedgefondsen)
 
 ---
 
-## Nieuwe pagina's (2026-07-23 consolidatie-run)
+## Pagina-overzicht (46)
 
-- [[Black-Scholes Model]] — Black-Scholes-Merton prijsformule, impliciete volatiliteit, delta-hedging, de Greeks, volatility smile, stochastische volatiliteitsmodellen; verbonden met Derivaten, Capital Asset Pricing Model, Risicobeheer, Efficiënte Markthypothese, Moderne Portefeuille Theorie, Gedragseconomie; cross-domein Falsifiabilisme ★8; confidence 5
-
----
-
-## Nieuwe pagina's (2026-07-23 expansie-run)
-
-- [[Short Selling]] — shorting mechanisme, short squeeze, naked short, theoretisch onbeperkt verlies; verbonden met EMH, Derivaten, Risicobeheer, Verliesaversie; cross-domein Prospect Theory, Herding; confidence 5
+Prospect Theory · Verliesaversie · Gedragseconomie · Efficiënte Markthypothese · Cognitieve Biases · Herding · Risicoperceptie · Asset Allocatie · Diversificatie · Moderne Portefeuille Theorie · Capital Asset Pricing Model · Factor Investing · Index Fondsen · Passief Beleggen · Actief Beleggen · Waarde Investeren · Groei Investeren · GARP · Benjamin Graham · Warren Buffett · Aandelen · Obligaties · Derivaten · Short Selling · Kapitaalmarkten · Private Equity · Risicobeheer · Marktcycli · Inflatie · Rente · Monetair Beleid · Monetarisme · Keynesiaanse Economie · Macroeconomie · Financiële Crisis 2008 · Grote Depressie (cross) · Tulpenmanie · Cryptocurrency en Blockchain · Black-Scholes Model · Intrinsieke Waarde en DCF-modellen · Fundamentele Analyse · Technische Analyse · Heuristieken · Duurzaam Beleggen · Pensioen en Sparen · Hedgefondsen
 
 ---
 
-## Nieuwe pagina's (2026-07-22 expansie-run-2)
+## Gesignaleerde gaps
 
-- [[Capital Asset Pricing Model]] — CAPM (Sharpe 1964); bèta, efficiënte frontier, Security Market Line; verbonden met Moderne Portefeuille Theorie, EMH, Factor Investing; cross-domein Prospect Theory; confidence 5
-- Duplicaat verwijderd: Moderne Portefeuilletheorie (samengevoegd met Moderne Portefeuille Theorie)
-
-## Nieuwe pagina's (2026-07-22 expansie-run)
-
-- [[Pensioen en Sparen]] — 4%-regel, pijler 3, samengestelde rente, FIRE, verliesaversie als pensioensbarrière; cross-domein Psychologie
-
-## Nieuwe pagina's (2026-07-21 consolidatie-run)
-
-- [[GARP]] — Growth At a Reasonable Price; PEG-ratio ≤ 1; synthese groei- en waardebeleggen (Peter Lynch); verbonden met Groei Investeren, Waarde Investeren, Benjamin Graham; confidence 5
+- Vastgoedbeleggen (REIT, directe vastgoedinvestering — fundamentele asset class)
+- Stochastische Volatiliteitsmodellen (Heston-model, uitbreiding na Black-Scholes)
+- Fusies en Overnames / M&A (event-driven beleggingsstrategie)

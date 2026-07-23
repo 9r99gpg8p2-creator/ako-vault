@@ -65,3 +65,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Poststructuralisme]]
 - [[Libertair Paternalisme]]
 - [[Merleau-Ponty]]
+- [[Michel Foucault]]
