@@ -70,3 +70,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Kritische Theorie]]
 - [[Metafysica]]
 - [[Neurodiversiteit]]
+- [[Deugdethiek]]

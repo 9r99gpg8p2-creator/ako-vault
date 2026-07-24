@@ -254,6 +254,13 @@ type: operationeel
 | ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Minsky Moment | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Minsky Moment.md — confidence 5 |
 | ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Tokugawa Shogunaat | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Tokugawa Shogunaat.md — confidence 5 |
 | ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Neurodiversiteit | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Neurodiversiteit.md — confidence 5 |
+| ✓ | 2026-07-24T expansie | Agent 3 | Expansie: Venture Capital | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Venture Capital.md — confidence 5 |
+| ✓ | 2026-07-24T expansie | Agent 3 | Expansie: Nationaal Socialisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Nationaal Socialisme.md — confidence 5 |
+| ✓ | 2026-07-24T expansie | Agent 3 | Expansie: Deugdethiek | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Deugdethiek.md — confidence 5 |
+| ✓ | 2026-07-24T expansie | Agent 3 | Expansie: Kwantitatief Beleggen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Kwantitatief Beleggen.md — confidence 5 |
+| ↓ | 2026-07-24T expansie | Agent 3 | Gap: Propaganda | Gesignaleerd vanuit Nationaal Socialisme — massamedia en indoctrinatie |
+| ↓ | 2026-07-24T expansie | Agent 3 | Gap: Hannah Arendt | Sleutelfiguur totalitarisme-analyse — "banaliteit van het kwaad" |
+| ↓ | 2026-07-24T expansie | Agent 3 | Gap: Statistical Arbitrage | Kernstrategie kwantitatief beleggen — verdieping Kwantitatief Beleggen |
 
 ---
 

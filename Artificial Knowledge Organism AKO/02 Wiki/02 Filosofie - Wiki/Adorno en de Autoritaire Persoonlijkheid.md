@@ -57,6 +57,7 @@ Adorno schreef *The Authoritarian Personality* (1950) als onderdeel van het *Stu
 - [[Bewustzijn]] — de rol van zelfbewustzijn en kritisch denken bij weerstand tegen autoriteit
 
 **Cross-domein:**
+- [[Nationaal Socialisme]] ★9 — het nazisme was de directe historische aanleiding voor Adorno's onderzoek naar de psychologische wortels van autoritarisme
 - [[Tweede Wereldoorlog]] — Adorno's werk was een directe reactie op de Holocaust en het nationaal-socialisme
 - [[PTSD]] — trauma als gevolg van getuige zijn of slachtoffer zijn van autoritair geweld
 - [[Emotieregulatie]] — onderdrukking van agressie en omleiding naar outgroups als kern van het autoritaire karakter

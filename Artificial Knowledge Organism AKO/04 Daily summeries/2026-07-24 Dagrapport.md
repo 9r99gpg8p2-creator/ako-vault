@@ -2,68 +2,26 @@
 type: dagrapport
 date: 2026-07-24
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
-
-# Dagrapport — 2026-07-24
 
 ## Daily Briefing
 
-Goedemorgen.
-
-Nieuwe kennis: 3 concepten toegevoegd (consolidatie-run)
-Nieuwe artikelen: 0 (Wikipedia-API onbereikbaar; interne kennis gebruikt)
-Nieuwe verbindingen: 4 relatiepagina's
-Nieuwe inzichten: 2 cross-domein inzichten
-Kennishiaten: 0 (alle ↓-gaps gedicht)
-Aanbevolen leestijd: 12 minuten
-
----
+Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 5 · Inzichten: 3 · Gaps: 3 · Leestijd: 6 min
 
 ## Research Agenda
 
-Prioriteit 1: **Neuro-economie** — verbindingsgebied tussen Gedragseconomie, Minsky Moment en Neuroimaging; essentieel voor MSc KNP-context
-Prioriteit 2: **Edo-periode kunst en cultuur** — verdieping op Tokugawa Shogunaat; culturele continuïteit naar modern Japan
-Prioriteit 3: **Zelfadvocacy en ableisme** — uitbreiding van Neurodiversiteit naar rechten- en maatschappijdiscours
-
----
-
-## Inbox verwerkt
-
-— geen Inbox-bestanden beschikbaar (alle beginnen met `_`)
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-— geen (geen geschikte Inbox-bestanden)
-
----
-
-## Nieuwe Wiki-pagina's (consolidatie-run)
-
-1. [[Minsky Moment]] — Beleggen — confidence 5
-2. [[Tokugawa Shogunaat]] — Geschiedenis — confidence 5
-3. [[Neurodiversiteit]] — Filosofie — confidence 5
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[Minsky Moment]] ↔ [[Speculatieve Bubbels]] · ★10
-2. [[Tokugawa Shogunaat]] ↔ [[Meiji Japan]] · ★10
-3. [[Neurodiversiteit]] ↔ [[Autismespectrumstoornis]] · ★9
-4. [[Minsky Moment]] ↔ [[Gedragseconomie]] · ★8
-
----
+1. **Propaganda** (Geschiedenis) — geïdentificeerd als gap vanuit Nationaal Socialisme: de rol van media-manipulatie en massamobilisatie is een cruciale component die apart behandeling verdient
+2. **Hannah Arendt** (Filosofie) — sleutelfiguur voor de analyse van totalitarisme en de "banaliteit van het kwaad"; sterk verwant aan Adorno maar ontbreekt als zelfstandige pagina
+3. **Statistical Arbitrage** (Beleggen) — kernstrategie binnen kwantitatief beleggen die verdient uitgewerkt te worden als zelfstandig concept
 
 ## Insight Feed
 
-— "Stabiliteit in complexe systemen is geen evenwichtstoestand maar een accumulatiefase van kwetsbaarheid — zichtbaar in zowel financiële markten (Minsky) als feodale regimes (Tokugawa)." [Beleggen → Geschiedenis · ★9]
+— "Aristoteles' habituation-concept en modern emotieregulatieonderzoek zijn empirisch convergente theorieën over hoe karakter gevormd wordt door gewoonte — deugdethiek is in essentie een pre-empirische psychologie van zelfbeheersing." [Filosofie → Psychologie · ★8]
 
-— "De diagnostische grens tussen normaal en abnormaal is geen neutrale wetenschappelijke bevinding maar een cultureel-politieke constructie — neurodiversiteit en Foucaults machtskritiek zijn twee stemmen in hetzelfde debat." [Filosofie → Psychologie · ★8]
+— "Het Nationaal Socialisme demonstreert dat totalitarisme niet primair ideologisch maar psychologisch-structureel is: economische crisis en nationale vernedering creëren het klimaat waarin de autoritaire persoonlijkheidsstructuur dominant wordt." [Geschiedenis → Filosofie/Psychologie · ★9]
 
----
+— "Kwantitatief beleggen is de meest consequente institutionele toepassing van Kahneman's dual-process-inzicht: door beslissingen aan algoritmen te delegeren elimineert het de System 1-fouten die de menselijke belegger systematisch maakt." [Psychologie → Beleggen · ★8]
 
 ## Knowledge Health
 
@@ -72,24 +30,14 @@ Prioriteit 3: **Zelfadvocacy en ableisme** — uitbreiding van Neurodiversiteit 
 | Psychologie | 100% | → |
 | Filosofie | 100% | ↑ |
 | Geschiedenis | 100% | ↑ |
-| Beleggen | 95% | ↑ |
-
-*Scores gebaseerd op vorige run (expansie 2026-07-24, 255 pagina's). Na deze consolidatie: ~258 pagina's totaal.*
-
----
+| Beleggen | 100% | ↑ |
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 3 |
-| Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichtpagina's | 2 |
-| Gaps gedicht | 3 |
-| Queue resterend | 0 |
-
----
-
-## Aandacht vereist
-
-- [ ] Wikipedia-API blijft onbereikbaar (FOUT E-003). Confidence gemaximeerd op 5. Overweeg netwerkconfiguratie controleren.
+| Inbox verwerkt | 0 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 4 |
+| Nieuwe verbindingen | 5 |
+| Gaps gedicht | 4 |

@@ -1757,3 +1757,27 @@ type: operationeel
 | 2026-07-24 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Beleggen: +Minsky Moment · Filosofie: +Neurodiversiteit · Geschiedenis: +Tokugawa Shogunaat |
 | 2026-07-24 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue nu leeg |
 | 2026-07-24 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps · Health: 100% |
+| 2026-07-24 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-24 | expansie | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden beginnen met _ — STAP 1.5 overgeslagen |
+| 2026-07-24 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — Wikipedia onbereikbaar. Interne kennis gebruikt. Confidence 5 voor alle onderwerpen. |
+| 2026-07-24 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 expansie-onderwerpen geselecteerd: Venture Capital, Nationaal Socialisme, Deugdethiek, Kwantitatief Beleggen |
+| 2026-07-24 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Venture Capital.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-24 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Nationaal Socialisme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-24 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Deugdethiek.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-24 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Kwantitatief Beleggen.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-24 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Nationaal Socialisme — Adorno en de Autoritaire Persoonlijkheid.md ★9 |
+| 2026-07-24 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Deugdethiek — Emotieregulatie.md ★7 |
+| 2026-07-24 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Kwantitatief Beleggen — Dual Process Theorie.md ★8 |
+| 2026-07-24 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Nationaal Socialisme — Weimar Republiek.md ★10 |
+| 2026-07-24 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Venture Capital — Speculatieve Bubbels.md ★8 |
+| 2026-07-24 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Deugd als Psychologische Technologie.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-24 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Crisis als Conditie voor Totalitarisme.md — Geschiedenis → Filosofie/Psychologie — sterkte ★9 |
+| 2026-07-24 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Algoritmen als Cognitieve Prothese.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-24 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-24 Dagrapport.md — expansiemodus |
+| 2026-07-24 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | +3 vragen (9-11) toegevoegd aan 2026-07-24 Quiz.md |
+| 2026-07-24 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven — Beleggen: 51 pag · Filosofie: 57 pag · Geschiedenis: 53 pag · Psych: 97 pag |
+| 2026-07-24 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — alle disciplines op 100% |
+| 2026-07-24 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Deugdethiek · Geschiedenis: +Nationaal Socialisme · Beleggen: +Venture Capital +Kwantitatief Beleggen |
+| 2026-07-24 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-24 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 taken gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
+| 2026-07-24 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 5 verbindingen · 3 inzichten · Health: 100% |

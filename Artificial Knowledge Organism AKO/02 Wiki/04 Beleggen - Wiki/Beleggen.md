@@ -63,3 +63,5 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Dividendbeleggen]]
 - [[Speculatieve Bubbels]]
 - [[Minsky Moment]]
+- [[Venture Capital]]
+- [[Kwantitatief Beleggen]]

@@ -57,6 +57,7 @@ Het bestuderen van de Weimar Republiek biedt inzichten in hoe democratische syst
 - [[Totalitarisme]] — gevolg: het falen van de Weimar Republiek opende de weg voor het nationaalsocialisme
 - [[Eerste Wereldoorlog]] — oorzaak: de Weimar Republiek werd geboren uit de nederlaagscrisis van WWI
 - [[Tweede Wereldoorlog]] — gevolg: de val van Weimar leidde direct tot de condities voor WWII
+- [[Nationaal Socialisme]] ★10 — gevolg: de structurele zwakte van Weimar maakte de machtsovername van de NSDAP mogelijk
 
 **Cross-domein:**
 - [[PTSD]] — aanvulling: de Weimar-periode als context voor de vroege, onbenoemde psychiatrische naweeën van WWI bij veteranen en burgerbevolking (Psychologie)

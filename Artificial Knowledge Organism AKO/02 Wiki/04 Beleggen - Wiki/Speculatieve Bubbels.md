@@ -60,6 +60,7 @@ Bekende bubbels: Tulpenmanie (1637), Mississippi Company (1720), Japanse vastgoe
 - [[Herding]] — sociale besmetting als centrale aanjager
 - [[Marktcycli]] — bubbels als extreme fase van de conjunctuurcyclus
 - [[Efficiënte Markthypothese]] — bubbels als empirisch tegenbewijs
+- [[Venture Capital]] ★8 — VC-markten zijn bijzonder kwetsbaar voor speculatieve bubbels (dotcom 2000)
 
 **Cross-domein:**
 - [[Paradigmawisseling]] — een bubbel knappen kan een epistemologische crisis in het beleggersdenken veroorzaken (Filosofie/Geschiedenis → Beleggen)
