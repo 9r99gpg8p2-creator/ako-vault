@@ -112,3 +112,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Ziekte van Parkinson]]
 - [[Ziekte van Huntington]]
 - [[Sociale Psychologie]]
+- [[Groepsdynamica]]
+- [[Existentiële Psychiatrie]]

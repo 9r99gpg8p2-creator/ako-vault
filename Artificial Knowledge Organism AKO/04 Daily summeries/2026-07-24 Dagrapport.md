@@ -2,22 +2,35 @@
 type: dagrapport
 date: 2026-07-24
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 6 nieuw + 6 updates · Inzichten: 2 · Gaps: 4 → queue · Leestijd: ~8 min
+Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 8 nieuw · Inzichten: 2 · Gaps gedicht: 4 · Queue resterend: 0 · Leestijd: ~10 min
+
+## Pagina's Bijgewerkt via Inbox
+*(geen inbox verwerkt deze run — alle bestanden beginnen met `_`)*
 
 ## Research Agenda
-1. **Groepsdynamica** — kernsubveld van Sociale Psychologie nog niet uitgewerkt; aanhaking bij Sociale Identiteitstheorie en Hechtingstheorie
-2. **Existentiële Psychiatrie** — koppeling tussen Heidegger/Existentialisme en klinische neuropsychologie nog onvoldoende uitgewerkt; relevant voor MSc KNP
-3. **Yieldcurve-inversie en recessiemodellen** — verdieping Rentecurve met empirische data over voorspelkracht (Harvey 1988, Fed modellen)
-4. **Dekolonisatie van Vietnam** — verdieping van de Vietnamese onafhankelijkheidsbeweging als antikoloniale casus naast India en Algerije
+1. **Groepsdynamica** — subveld Sociale Psychologie nu uitgewerkt; mogelijke verdieping: Yalom's groepstherapie als klinische toepassing
+2. **Existentiële Psychiatrie** — koppeling Heidegger–KNP gelegd; verdieping richting logotherapie (Frankl) en existentieel assessment
+3. **ETFs en Factor Investing** — ETF-pagina aangemaakt; smart-beta ETFs koppelen nog aan Factor Investing
+4. **Koreaoorlog en dekolonisatie** — proxy-conflicten cluster compleet; volgende stap: Suezcrisis of Cubacrisis voor verdere Koude Oorlog dekking
+
+## Verbindingen Toegevoegd
+1. [[Groepsdynamica]] ↔ [[Sociale Psychologie]] · ★9
+2. [[Groepsdynamica]] ↔ [[Propaganda]] · ★8 (cross-domein Psychologie × Geschiedenis)
+3. [[Koreaoorlog]] ↔ [[Koude Oorlog]] · ★10
+4. [[Koreaoorlog]] ↔ [[Vietnam Oorlog]] · ★8
+5. [[ETFs]] ↔ [[Index Fondsen]] · ★9
+6. [[ETFs]] ↔ [[Efficiënte Markthypothese]] · ★8
+7. [[Existentiële Psychiatrie]] ↔ [[Heidegger]] · ★9 (cross-domein Filosofie × Psychologie)
+8. [[Existentiële Psychiatrie]] ↔ [[Klinische Neuropsychologie]] · ★7
 
 ## Insight Feed
 — "Dezelfde sociale invloedsmechanismen die Milgram en Asch beschreven zijn de psychologische infrastructuur van financiële bubbels: conformiteit in het lab is kuddegedrag op de beurs." [Psychologie → Beleggen · ★9]
 
-— "Oorlog fungeert historisch als onvrijwillig massamaatschappelijk experiment: elke grote oorlog heeft de klinische traumakunde een generatie vooruitgeholpen — van shell shock tot PTSD." [Geschiedenis → Psychologie · ★8]
+— "Herstelprocessen na hersenletsel worden niet alleen bepaald door cognitief herstel maar door de mate waarin de patiënt een coherente betekenis construeert voor zijn nieuwe situatie — een variabele die standaard neuropsychologisch assessment systematisch mist." [Filosofie → Psychologie · ★8]
 
 ## Knowledge Health
 | Discipline | Score | Trend |
@@ -27,21 +40,22 @@ Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 6 nieuw + 6 updates · In
 | Geschiedenis | 100% | → |
 | Beleggen | 100% | → |
 
+## Nieuwe pagina's deze run
+- [[Groepsdynamica]] — Psychologie · confidence 5
+- [[Koreaoorlog]] — Geschiedenis · confidence 5
+- [[ETFs]] — Beleggen · confidence 5
+- [[Existentiële Psychiatrie]] — Psychologie · confidence 5
+
+## Inzichten aangemaakt
+- [[Kuddegedrag als Groepsdynamisch Fenomeen]] ★9 — Psychologie → Beleggen
+- [[Zingeving als Klinische Variabele]] ★8 — Filosofie → Psychologie
+
 ## Activiteit
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
 | Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 6 |
-| Nieuwe verbindingen | 6 |
+| Nieuwe verbindingen | 8 |
 | Gaps gedicht | 4 |
-
-## Nieuwe pagina's deze run
-- [[Sociale Psychologie]] — Psychologie · confidence 5
-- [[Vietnam Oorlog]] — Geschiedenis · confidence 5
-- [[Rentecurve]] — Beleggen · confidence 5
-- [[Heidegger]] — Filosofie · confidence 5
-
-## Inzichten aangemaakt
-- [[Sociale Invloed als Marktmechanisme]] ★9 — Psychologie → Beleggen
-- [[Oorlog als Laboratorium voor Traumakennis]] ★8 — Geschiedenis → Psychologie
+| Inzichten | 2 |
+| Queue resterend | 0 |

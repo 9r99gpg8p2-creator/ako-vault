@@ -265,10 +265,10 @@ type: operationeel
 | ✓ | 2026-07-24T expansie-2 | Agent 3 | Expansie: Vietnam Oorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Vietnam Oorlog.md — confidence 5 |
 | ✓ | 2026-07-24T expansie-2 | Agent 3 | Expansie: Rentecurve | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Rentecurve.md — confidence 5 |
 | ✓ | 2026-07-24T expansie-2 | Agent 3 | Expansie: Heidegger | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Heidegger.md — confidence 5 |
-| ↓ | 2026-07-24T expansie-2 | Agent 3 | Gap: Groepsdynamica | Subveld Sociale Psychologie — Tajfel SIT, Lewin, groepsvorming |
-| ↓ | 2026-07-24T expansie-2 | Agent 3 | Gap: Koreaoorlog | Proxy-conflict Koude Oorlog naast Vietnam — ontbreekt in Geschiedenis |
-| ↓ | 2026-07-24T expansie-2 | Agent 3 | Gap: ETFs | Exchange Traded Funds — praktische implementatie passief beleggen |
-| ↓ | 2026-07-24T expansie-2 | Agent 3 | Gap: Existentiële Psychiatrie | Koppeling Heidegger/Binswanger aan klinische neuropsychologische zorg |
+| ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Groepsdynamica | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Groepsdynamica.md — confidence 5 |
+| ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Koreaoorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Koreaoorlog.md — confidence 5 |
+| ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: ETFs | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/ETFs.md — confidence 5 |
+| ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Existentiële Psychiatrie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Existentiële Psychiatrie.md — confidence 5 |
 
 ---
 

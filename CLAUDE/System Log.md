@@ -1821,3 +1821,28 @@ type: operationeel
 | 2026-07-24 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Sociale Psychologie · Filosofie: +Heidegger · Geschiedenis: +Vietnam Oorlog · Beleggen: +Rentecurve |
 | 2026-07-24 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 taken gesloten ✓ · 4 nieuwe gaps ↓ |
 | 2026-07-24 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 6 verbindingen · 2 inzichten · Health: 100% |
+| 2026-07-24 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-24 | consolidatie | Agent 1 | Inbox scan | ✓ | 4 bestanden gevonden — alle beginnen met `_` → overgeslagen per filter — STAP 1.5 overgeslagen |
+| 2026-07-24 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — Wikipedia onbereikbaar. Interne kennis gebruikt. Confidence 5 voor alle onderwerpen. |
+| 2026-07-24 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 4 queue-items geselecteerd: Groepsdynamica, Koreaoorlog, ETFs, Existentiële Psychiatrie |
+| 2026-07-24 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Groepsdynamica.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-24 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Koreaoorlog.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-24 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | ETFs.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-24 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Existentiële Psychiatrie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Groepsdynamica — Sociale Psychologie.md ★9 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Groepsdynamica — Propaganda.md ★8 — cross-domein Psychologie × Geschiedenis |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Koreaoorlog — Koude Oorlog.md ★10 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Koreaoorlog — Vietnam Oorlog.md ★8 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | ETFs — Index Fondsen.md ★9 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | ETFs — Efficiënte Markthypothese.md ★8 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Existentiële Psychiatrie — Heidegger.md ★9 — cross-domein Filosofie × Psychologie |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Existentiële Psychiatrie — Klinische Neuropsychologie.md ★7 |
+| 2026-07-24 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Kuddegedrag als Groepsdynamisch Fenomeen.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-24 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Zingeving als Klinische Variabele.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-24 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-24 Dagrapport.md — modus: consolidatie |
+| 2026-07-24 | consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-24 Quiz.md — 3 vragen toegevoegd (18-20: Groepsdynamica, Koreaoorlog, ETFs) |
+| 2026-07-24 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych: 101 pag · Filos: 60 pag · Gesch: 57 pag · Beleg: 55 pag · Totaal: 273 pag |
+| 2026-07-24 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Groepsdynamica +Existentiële Psychiatrie · Geschiedenis: +Koreaoorlog · Beleggen: +ETFs |
+| 2026-07-24 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Cross-domein ratio: ≥ 1:5 ✓ · Queue: 0 items resterend |
+| 2026-07-24 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · Queue leeg |
+| 2026-07-24 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 pag's · 8 verbindingen · 2 inzichten · Health: 100% · Queue: 0 resterend |

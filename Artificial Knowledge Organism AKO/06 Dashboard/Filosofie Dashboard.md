@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, filosofie]
 updated: 2026-07-24
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Filosofie Dashboard
@@ -32,5 +32,5 @@ Bewustzijn · Vrije Wil · Morele Verantwoordelijkheid · Epistemologie · Fenom
 ## Gesignaleerde gaps
 
 - **Deconstructie/Derrida** (eigen pagina ontbreekt, nu enkel in Poststructuralisme)
-- **Existentiële Psychiatrie** (koppeling Heidegger/Binswanger naar klinische neuropsychologie)
+- **Logotherapie** (Viktor Frankl — aanvulling op Existentialisme; Existentiële Psychiatrie aangemaakt in Psychologie-wiki)
 - **Fenomenologie van het Lichaam** (verdieping Merleau-Ponty — relevant voor klinische neuropsychologie)

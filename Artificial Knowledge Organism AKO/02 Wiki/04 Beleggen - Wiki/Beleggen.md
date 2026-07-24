@@ -67,3 +67,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Kwantitatief Beleggen]]
 - [[Statistical Arbitrage]]
 - [[Rentecurve]]
+- [[ETFs]]
