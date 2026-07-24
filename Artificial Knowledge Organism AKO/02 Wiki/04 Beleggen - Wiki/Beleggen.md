@@ -61,3 +61,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Hedgefondsen]]
 - [[Vastgoedbeleggen]]
 - [[Dividendbeleggen]]
+- [[Speculatieve Bubbels]]

@@ -51,6 +51,7 @@ De klassieke economie baseerde zich op het axioma van de rationele beslisser die
 - [[Verliesaversie]] — kernprincipe: verliesaversie is het meest onderzochte mechanisme binnen de gedragseconomie
 - [[Prospect Theory]] — theorie: Prospect Theory is het formele model dat gedragseconomische beslissing onder risico beschrijft
 - [[Paradigmawisseling]] — wetenschapshistorisch: gedragseconomie voltooide een Kuhniaanse paradigmawisseling van homo economicus naar bounded rationality
+- [[Speculatieve Bubbels]] ★9 — gevolg: speculatieve bubbels zijn de extreme marktmanifestatie van de biases die de gedragseconomie bestudeert
 
 **Cross-domein:**
 - [[Werkgeheugen]] — cognitieve basis: begrensde werkgeheugencapaciteit IS de cognitieve grondslag van bounded rationality; minder werkgeheugencapaciteit → meer heuristieken

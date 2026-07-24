@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, beleggen]
-updated: 2026-07-23
+updated: 2026-07-24
 ---
 
 # Beleggen Dashboard
@@ -10,21 +10,21 @@ updated: 2026-07-23
 
 ---
 
-## Health Score: 92%
+## Health Score: 93%
 
 | Metric | Score |
 |---|---|
-| Coverage | 100% (48 pagina's / target 20 ✓) |
+| Coverage | 100% (49 pagina's / target 20 ✓) |
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (+1 pagina deze run: Dividendbeleggen)
+Trend: ↑ (+1 pagina deze run: Speculatieve Bubbels)
 
 ---
 
-## Pagina-overzicht (48)
+## Pagina-overzicht (49)
 
-Prospect Theory · Verliesaversie · Gedragseconomie · Efficiënte Markthypothese · Cognitieve Biases · Herding · Risicoperceptie · Asset Allocatie · Diversificatie · Moderne Portefeuille Theorie · Capital Asset Pricing Model · Factor Investing · Index Fondsen · Passief Beleggen · Actief Beleggen · Waarde Investeren · Groei Investeren · GARP · Benjamin Graham · Warren Buffett · Aandelen · Obligaties · Derivaten · Short Selling · Kapitaalmarkten · Private Equity · Risicobeheer · Marktcycli · Inflatie · Rente · Monetair Beleid · Monetarisme · Keynesiaanse Economie · Macroeconomie · Financiële Crisis 2008 · Tulpenmanie · Cryptocurrency en Blockchain · Black-Scholes Model · Intrinsieke Waarde en DCF-modellen · Fundamentele Analyse · Technische Analyse · Heuristieken · Duurzaam Beleggen · Pensioen en Sparen · Hedgefondsen · Vastgoedbeleggen · Dividendbeleggen
+Prospect Theory · Verliesaversie · Gedragseconomie · Efficiënte Markthypothese · Cognitieve Biases · Herding · Risicoperceptie · Asset Allocatie · Diversificatie · Moderne Portefeuille Theorie · Capital Asset Pricing Model · Factor Investing · Index Fondsen · Passief Beleggen · Actief Beleggen · Waarde Investeren · Groei Investeren · GARP · Benjamin Graham · Warren Buffett · Aandelen · Obligaties · Derivaten · Short Selling · Kapitaalmarkten · Private Equity · Risicobeheer · Marktcycli · Inflatie · Rente · Monetair Beleid · Monetarisme · Keynesiaanse Economie · Macroeconomie · Financiële Crisis 2008 · Tulpenmanie · Cryptocurrency en Blockchain · Black-Scholes Model · Intrinsieke Waarde en DCF-modellen · Fundamentele Analyse · Technische Analyse · Heuristieken · Duurzaam Beleggen · Pensioen en Sparen · Hedgefondsen · Vastgoedbeleggen · Dividendbeleggen · Speculatieve Bubbels
 
 ---
 
@@ -32,4 +32,4 @@ Prospect Theory · Verliesaversie · Gedragseconomie · Efficiënte Markthypothe
 
 - **Stochastische Volatiliteitsmodellen** (Heston-model, uitbreiding na Black-Scholes)
 - **Fusies en Overnames / M&A** (event-driven beleggingsstrategie)
-- **Dividendbelasting & Tax Efficiency** (praktische aanvulling op Dividendbeleggen voor NL-context)
+- **Minsky Moment** (verdieping Speculatieve Bubbels — Hyman Minsky's crisismodel)

@@ -68,3 +68,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Michel Foucault]]
 - [[Jürgen Habermas]]
 - [[Kritische Theorie]]
+- [[Metafysica]]

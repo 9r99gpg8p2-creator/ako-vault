@@ -11,7 +11,7 @@ sources:
   - "American Psychiatric Association (2013). DSM-5: Diagnostic and Statistical Manual of Mental Disorders (5th ed.). APA."
 hub: "[[Psychologie]]"
 related:
-  - "[[Autisme Spectrum Stoornis]]"
+  - "[[Autismespectrumstoornis]]"
   - "[[Klinische Neuropsychologie]]"
   - "[[Executieve Functies]]"
   - "[[Theory of Mind]]"
@@ -51,7 +51,7 @@ De ADOS werd ontwikkeld in de jaren 1980–1990 door Catherine Lord en Michael R
 **Hub:** [[Psychologie]]
 
 **Gerelateerd:**
-- [[Autisme Spectrum Stoornis]] — ADOS-2 is het primaire diagnostische instrument voor ASS-diagnostiek
+- [[Autismespectrumstoornis]] — ADOS-2 is het primaire diagnostische instrument voor ASS-diagnostiek
 - [[Klinische Neuropsychologie]] — neuropsychologische diagnostiek vormt de kern van ASS-evaluatie
 - [[Executieve Functies]] — executieve functieproblemen zijn een centraal neuropsychologisch kenmerk bij ASS
 - [[Theory of Mind]] — False Belief-taken zijn standaardonderdeel van neuropsychologisch ASS-onderzoek

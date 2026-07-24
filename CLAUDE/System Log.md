@@ -1714,3 +1714,27 @@ type: operationeel
 | 2026-07-23 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Huntington · Filosofie: +Kritische Theorie · Geschiedenis: +Hellenisme +Perzisch Rijk |
 | 2026-07-23 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · Queue nu leeg |
 | 2026-07-23 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps · Health: 100% |
+| 2026-07-24 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-24 | expansie | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden beginnen met _ — STAP 1.5 overgeslagen |
+| 2026-07-24 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — Wikipedia + arXiv onbereikbaar. Interne kennis gebruikt. Confidence 5 voor alle onderwerpen. |
+| 2026-07-24 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Speculatieve Bubbels (Beleggen P2), Meiji Japan (Geschiedenis P2), Metafysica (Filosofie P3), Autismespectrumstoornis (Psychologie P3) |
+| 2026-07-24 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Speculatieve Bubbels.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-24 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Meiji Japan.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-24 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Metafysica.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-24 | expansie | Agent 3 | Duplicaat samengevoegd | ✓ | Autismespectrumstoornis.md (nieuw, uitgebreid) vervangt Autisme Spectrum Stoornis.md (2026-07-19) — Wet 14 |
+| 2026-07-24 | expansie | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps: Minsky Moment (Beleggen), Tokugawa Shogunaat (Geschiedenis), Neurodiversiteit (Filosofie) |
+| 2026-07-24 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Speculatieve Bubbels — Gedragseconomie.md — sterkte ★9 — Beleggen × Psychologie |
+| 2026-07-24 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Meiji Japan — Industriële Revolutie.md — sterkte ★8 — Geschiedenis × Beleggen |
+| 2026-07-24 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Autismespectrumstoornis — Theory of Mind.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-24 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Metafysica — Filosofie van de Geest.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-24 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Markt als Brein met Bubbels.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-24 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Naties Leren Zoals Individuen Leren.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-24 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Filosofie Maakt Diagnoses Mogelijk.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-24 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-24 Dagrapport.md — expansiemodus — 3 concepten (netto), 4 verbindingen, 3 inzichten, 3 gaps |
+| 2026-07-24 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-24 Quiz.md — 5 vragen (Speculatieve Bubbels, Meiji Japan, ASS diagnostiek, ToM vs Centrale Coherentie, Metafysica) |
+| 2026-07-24 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 92% — Psych 100% (98 pag), Fil 100% (56 pag), Gesch 100% (52 pag), Beleg 93% (49 pag) |
+| 2026-07-24 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven — totaal 255 pagina's |
+| 2026-07-24 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Beleggen: +Speculatieve Bubbels · Filosofie: +Metafysica · Geschiedenis: +Meiji Japan · Psychologie: Autismespectrumstoornis (vervangen) |
+| 2026-07-24 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-24 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 taken gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
+| 2026-07-24 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 3 pag's (netto) · 4 verbindingen · 3 inzichten · Health: 92% |

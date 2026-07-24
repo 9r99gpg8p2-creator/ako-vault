@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, algemeen]
-updated: 2026-07-23
+updated: 2026-07-24
 sessie: expansie
 ---
 
@@ -20,7 +20,7 @@ sessie: expansie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (stijging door 4 gedichte gaps, 4 back-link updates)
+Trend: → (stabiel; 3 nieuwe pagina's, 1 duplicaat samengevoegd)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (stijging door 4 gedichte gaps, 4 back-link updates)
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 97 | 94% | ↑ |
-| Filosofie | 54 | 92% | → |
-| Geschiedenis | 49 | 89% | ↑ |
-| Beleggen | 48 | 92% | ↑ |
-| **Totaal** | **248** | **92%** | ↑ |
+| Psychologie | 98 | 100% | → |
+| Filosofie | 56 | 100% | ↑ |
+| Geschiedenis | 52 | 100% | ↑ |
+| Beleggen | 49 | 93% | ↑ |
+| **Totaal** | **255** | **92%** | → |
 
 ---
 
@@ -40,35 +40,37 @@ Trend: ↑ (stijging door 4 gedichte gaps, 4 back-link updates)
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's | 70+ |
-| Inzichtpagina's | 45+ |
+| Relatiepagina's | 74+ |
+| Inzichtpagina's | 48+ |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-23 — volledige dag)
+## Sessieoverzicht (2026-07-24 — expansie)
 
-| Run | Nieuwe pagina's | Verbindingen | Inzichten |
-|---|---|---|---|
-| Eerdere runs (dag) | 14 | 16 | 11 |
-| Expansie (huidig) | 4 | 4 | 3 |
-| **Totaal dag** | **18** | **20** | **14** |
+| Metric | Aantal |
+|---|---|
+| Nieuwe Wiki-pagina's | 3 (netto, na merge) |
+| Updates bestaande pagina's | 4 |
+| Nieuwe verbindingen | 4 |
+| Nieuwe inzichten | 3 |
+| Duplicaten samengevoegd | 1 (Autismespectrumstoornis) |
+| Gaps gesignaleerd | 3 |
 
 ---
 
-## Nieuwe pagina's (laatste run)
+## Nieuwe pagina's (deze run)
 
-- [[Dividendbeleggen]] (Beleggen — inkomensstrategie)
-- [[Alexander de Grote]] (Geschiedenis — hellenisme)
-- [[Epilepsie]] (Psychologie — klinische neuropsychologie)
-- [[Ziekte van Parkinson]] (Psychologie — klinische neuropsychologie)
+- [[Speculatieve Bubbels]] (Beleggen — bubbeltheorie en gedragseconomie)
+- [[Meiji Japan]] (Geschiedenis — Aziatische modernisering)
+- [[Metafysica]] (Filosofie — fundamentele ontologie)
+- [[Autismespectrumstoornis]] (Psychologie — merge van Autisme Spectrum Stoornis)
 
 ---
 
 ## Aandacht vereist
 
-- **Kritische Theorie** (Frankfurter Schule) ontbreekt als wiki-pagina
-- **Hellenisme** ontbreekt als eigen pagina — verwijzing vanuit Alexander de Grote
-- **Ziekte van Huntington** — klinisch neuropsychologisch relevant cluster
-- Psychologie heeft 97 pagina's: subcategorie-evaluatie aanbevolen bij ≥ 3 per thematisch cluster (Wet 11)
+- **Neglect** (Psychologie) — klinisch neuropsychologisch kernbegrip, nog geen eigen pagina
+- **Tokugawa Shogunaat** (Geschiedenis) — context voor Meiji Japan ontbreekt
+- **Minsky Moment** (Beleggen) — verdieping Speculatieve Bubbels aanbevolen

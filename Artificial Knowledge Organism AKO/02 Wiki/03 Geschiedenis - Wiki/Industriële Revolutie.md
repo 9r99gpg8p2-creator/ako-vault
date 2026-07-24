@@ -53,6 +53,7 @@ De sociale kosten waren immens: kinderarbeid, werktijden van 12–16 uur per dag
 **Gerelateerd:**
 - [[Wetenschappelijke Revolutie]] — oorzaak/gevolg: de wetenschappelijke methode en empirische kenniscultuur van de 17e eeuw legden de intellectuele basis voor technologische innovatie
 - [[Paradigmawisseling]] — aanvulling: de industrialisatie vertegenwoordigt een paradigmawisseling in de economische en sociale organisatie van samenlevingen
+- [[Meiji Japan]] ★8 — gevolg: Japan importeerde bewust het Europese industriële model als staatsstrategie tegen koloniale dreiging
 
 **Cross-domein:**
 - [[Gedragseconomie]] — verbinding: de overgang naar markteconomie creëerde nieuwe psychologische uitdagingen rond besluitvorming onder economische onzekerheid

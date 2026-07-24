@@ -64,3 +64,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Alexander de Grote]]
 - [[Hellenisme]]
 - [[Het Perzische Rijk (Achaemenidisch)]]
+- [[Meiji Japan]]

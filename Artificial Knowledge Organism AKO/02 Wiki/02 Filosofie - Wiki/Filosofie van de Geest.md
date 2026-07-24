@@ -56,6 +56,7 @@ In de twintigste eeuw werd de discipline hervormd door de opkomst van de cogniti
 - [[Neuropsychologische Rehabilitatie]] ★7 — aanvulling: vragen over zelfbesef, identiteit en bewustzijn raken direct aan klinische neuropsychologische stoornissen zoals anosognosie en amnesie
 - [[Wetenschappelijke Revolutie]] ★8 — oorzaak: het mechanistische wereldbeeld van de Wetenschappelijke Revolutie schiep het lichaam-geest probleem in zijn moderne vorm
 - [[Prospect Theory]] ★5 — aanvulling: rationele keuzetheorie veronderstelt een geest die beslissingen neemt — de filosofie van de geest ondervraagt deze aanname
+- [[Metafysica]] ★9 — overkoepelend: de filosofie van de geest is de toegepaste metafysica van het mentale domein
 
 **Cross-domein:**
 - [[Neuropsychologische Rehabilitatie]] — psychologisch mechanisme: klinische observaties van hersenletselpatiënten leveren empirisch bewijs voor filosofische theorieën over bewustzijn
