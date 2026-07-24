@@ -2,61 +2,46 @@
 type: dagrapport
 date: 2026-07-24
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
-
-Nieuwe kennis: 3 · Inbox verwerkt: 0 · Verbindingen: 7 · Inzichten: 2 · Gaps gedicht: 3 · Queue resterend: 0 · Leestijd: 12 min
+Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 6 nieuw + 6 updates · Inzichten: 2 · Gaps: 4 → queue · Leestijd: ~8 min
 
 ## Research Agenda
-
-1. **Statistical Arbitrage** (Beleggen) — kernstrategie kwantitatief beleggen; verdiept de bestaande Kwantitatief Beleggen-pagina
-2. **Hannah Arendt** (Filosofie) — sleutelfiguur voor ethiek-curriculum; verbindt Totalitarisme met Morele Verantwoordelijkheid en Dual Process Theorie
-3. **Propaganda** (Geschiedenis) — cruciaal knooppunt Nationaal Socialisme / Stalinisme / cognitieve psychologie
-
-## Pagina's Bijgewerkt via Inbox
-
-Geen Inbox-bestanden verwerkt deze run (alle bestanden beginnen met `_`).
-
-## Verbindingen Toegevoegd
-
-1. [[Hannah Arendt]] ↔ [[Totalitarisme]] · ★9
-2. [[Hannah Arendt]] ↔ [[Morele Verantwoordelijkheid]] · ★8
-3. [[Propaganda]] ↔ [[Totalitarisme]] · ★9
-4. [[Statistical Arbitrage]] ↔ [[Kwantitatief Beleggen]] · ★9
-5. [[Statistical Arbitrage]] ↔ [[Efficiënte Markthypothese]] · ★7
-6. [[Hannah Arendt]] → [[Dual Process Theorie]] (inzicht) · ★8
-7. [[Propaganda]] → [[Cognitieve Biases]] (inzicht) · ★8
+1. **Groepsdynamica** — kernsubveld van Sociale Psychologie nog niet uitgewerkt; aanhaking bij Sociale Identiteitstheorie en Hechtingstheorie
+2. **Existentiële Psychiatrie** — koppeling tussen Heidegger/Existentialisme en klinische neuropsychologie nog onvoldoende uitgewerkt; relevant voor MSc KNP
+3. **Yieldcurve-inversie en recessiemodellen** — verdieping Rentecurve met empirische data over voorspelkracht (Harvey 1988, Fed modellen)
+4. **Dekolonisatie van Vietnam** — verdieping van de Vietnamese onafhankelijkheidsbeweging als antikoloniale casus naast India en Algerije
 
 ## Insight Feed
+— "Dezelfde sociale invloedsmechanismen die Milgram en Asch beschreven zijn de psychologische infrastructuur van financiële bubbels: conformiteit in het lab is kuddegedrag op de beurs." [Psychologie → Beleggen · ★9]
 
-— "Arendts 'banaliteit van het kwaad' is het falen van System 2-denken op historische schaal: bureaucratische routine schakelt kritisch moreel redeneren uit." [Filosofie → Psychologie · ★8]
-
-— "Propaganda werkt niet ondanks, maar dankzij menselijke cognitieve architectuur: herhaling en angstbeelden exploiteren cognitieve biases bij rationele burgers." [Geschiedenis → Psychologie · ★8]
+— "Oorlog fungeert historisch als onvrijwillig massamaatschappelijk experiment: elke grote oorlog heeft de klinische traumakunde een generatie vooruitgeholpen — van shell shock tot PTSD." [Geschiedenis → Psychologie · ★8]
 
 ## Knowledge Health
-
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 87% | → |
-| Filosofie | 83% | ↑ |
-| Geschiedenis | 82% | ↑ |
-| Beleggen | 81% | ↑ |
+| Psychologie | 100% | → |
+| Filosofie | 100% | → |
+| Geschiedenis | 100% | → |
+| Beleggen | 100% | → |
 
 ## Activiteit
-
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 3 |
-| Nieuwe relatiepagina's | 5 |
-| Nieuwe inzichtpagina's | 2 |
-| Gaps gedicht | 3 |
-| Queue resterend | 0 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 6 |
+| Nieuwe verbindingen | 6 |
+| Gaps gedicht | 4 |
 
-## Aandacht vereist
+## Nieuwe pagina's deze run
+- [[Sociale Psychologie]] — Psychologie · confidence 5
+- [[Vietnam Oorlog]] — Geschiedenis · confidence 5
+- [[Rentecurve]] — Beleggen · confidence 5
+- [[Heidegger]] — Filosofie · confidence 5
 
-- [ ] Queue is leeg na deze run — Propaganda, Hannah Arendt en Statistical Arbitrage gedicht
-- [ ] Kandidaat voor volgende gap: Hannah Arendt → Jürgen Habermas (communicatieve rationaliteit vs. pluralisme)
-- [ ] Kandidaat voor volgende gap: LTCM als historische casestudy Statistical Arbitrage
+## Inzichten aangemaakt
+- [[Sociale Invloed als Marktmechanisme]] ★9 — Psychologie → Beleggen
+- [[Oorlog als Laboratorium voor Traumakennis]] ★8 — Geschiedenis → Psychologie

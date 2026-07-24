@@ -60,6 +60,7 @@ De Neys (2006) toonde aan dat mensen met hoge cognitieve capaciteiten conflicten
 - [[Fuzzy Trace Theory]] — aanvullend model: gist-redeneren (fuzzy) vs verbatim-redeneren (analoog aan System 1 vs System 2)
 - [[Prospect Theory]] — Kahneman's Prospect Theory is deels gefundeerd in dual-process-denken
 - [[Cognitieve Biases]] — System 1-fouten zijn de basis van cognitieve biases
+- [[Sociale Psychologie]] ★8 — sociale oordelen en gedragingen worden grotendeels aangestuurd door System 1; gecontroleerde correctie via System 2
 
 **Cross-domein:**
 - [[Filosofie van de Geest]] — de grens tussen bewuste en onbewuste cognitie is een centraal filosofisch vraagstuk

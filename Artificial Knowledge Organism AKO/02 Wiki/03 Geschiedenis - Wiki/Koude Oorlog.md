@@ -57,6 +57,7 @@ Historici als John Lewis Gaddis (*The Cold War*, 2005) beschouwen de Koude Oorlo
 - [[Eerste Wereldoorlog]] — bredere context van 20e-eeuwse Europese machtsstrijd
 - [[De Verlichting]] — de ideologische wortels van het kapitalisme en liberale democratie
 - [[Russische Revolutie]] ★10 — de Russische Revolutie (1917) schiep de Sovjet-Unie en legde daarmee de ideologische basis voor de Koude Oorlog
+- [[Vietnam Oorlog]] ★9 — de grootste proxy-oorlog van de Koude Oorlog; bepalend voor de strategische en morele grenzen van de domino-theorie
 
 **Cross-domein:**
 - [[Morele Verantwoordelijkheid]] — ethische vragen rondom nucleaire afschrikking (Filosofie)

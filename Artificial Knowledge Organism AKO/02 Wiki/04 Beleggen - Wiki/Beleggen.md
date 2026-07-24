@@ -66,3 +66,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Venture Capital]]
 - [[Kwantitatief Beleggen]]
 - [[Statistical Arbitrage]]
+- [[Rentecurve]]

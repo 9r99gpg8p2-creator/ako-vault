@@ -53,6 +53,7 @@ Binnen de klinische neuropsychologie heeft embodied cognition directe implicatie
 
 **Cross-domein:**
 - [[Fenomenologie]] — de filosofische fenomenologie van Merleau-Ponty vormt de directe intellectuele voorloper
+- [[Heidegger]] ★7 — Heideggers Zeug-analyse en zijn-in-de-wereld geldt als filosofische voorloper: begrip is primair lichamelijk-praktisch, niet computationeel
 
 ## Bronnen
 

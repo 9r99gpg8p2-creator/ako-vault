@@ -1799,3 +1799,25 @@ type: operationeel
 | 2026-07-24 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Hannah Arendt · Geschiedenis: +Propaganda · Beleggen: +Statistical Arbitrage |
 | 2026-07-24 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue leeg |
 | 2026-07-24 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 pag's · 7 verbindingen · 2 inzichten · Health: 100% · Queue: 0 resterend |
+| 2026-07-24 | expansie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-24 | expansie-2 | Agent 1 | Inbox scan | ✓ | 4 bestanden gevonden — alle beginnen met `_` → overgeslagen per filter — STAP 1.5 overgeslagen |
+| 2026-07-24 | expansie-2 | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — Wikipedia onbereikbaar. Interne kennis gebruikt. Confidence 5 voor alle onderwerpen. |
+| 2026-07-24 | expansie-2 | Agent 2 | Onderwerp selectie | ✓ | 4 expansie-onderwerpen: Sociale Psychologie (psych), Vietnam Oorlog (gesch), Rentecurve (beleg), Heidegger (filos) |
+| 2026-07-24 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Sociale Psychologie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-24 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Vietnam Oorlog.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-24 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Rentecurve.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-24 | expansie-2 | Agent 3 | Wiki aangemaakt | ✓ | Heidegger.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-24 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Sociale Psychologie — Dual Process Theorie.md ★8 |
+| 2026-07-24 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Heidegger — Existentialisme.md ★9 |
+| 2026-07-24 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Rentecurve — Obligaties.md ★9 |
+| 2026-07-24 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Vietnam Oorlog — Koude Oorlog.md ★9 |
+| 2026-07-24 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Sociale Psychologie — Propaganda.md ★8 — cross-domein Psychologie × Geschiedenis |
+| 2026-07-24 | expansie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Heidegger — Embodied Cognition.md ★7 — cross-domein Filosofie × Psychologie |
+| 2026-07-24 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Sociale Invloed als Marktmechanisme.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-24 | expansie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Oorlog als Laboratorium voor Traumakennis.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-24 | expansie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-24 Dagrapport.md — modus: expansie-2 |
+| 2026-07-24 | expansie-2 | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-24 Quiz.md — 3 vragen toegevoegd (Heidegger, Rentecurve, Sociale Psychologie) |
+| 2026-07-24 | expansie-2 | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych: 99 pag · Filos: 60 pag · Gesch: 56 pag · Beleg: 54 pag · Totaal: 269 pag |
+| 2026-07-24 | expansie-2 | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Sociale Psychologie · Filosofie: +Heidegger · Geschiedenis: +Vietnam Oorlog · Beleggen: +Rentecurve |
+| 2026-07-24 | expansie-2 | Orchestrator | Task Queue bijgewerkt | ✓ | 4 taken gesloten ✓ · 4 nieuwe gaps ↓ |
+| 2026-07-24 | expansie-2 | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 6 verbindingen · 2 inzichten · Health: 100% |

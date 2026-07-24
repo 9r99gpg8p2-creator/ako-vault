@@ -64,6 +64,7 @@ Tijdens de Koude Oorlog voerden zowel de VS (via Voice of America, CIA-publicati
 **Cross-domein:**
 - [[Cognitieve Biases]] — psychologisch mechanisme: propaganda exploiteert systematisch cognitieve biases zoals bevestigingsvertekening en beschikbaarheidsheuristiek
 - [[Herding]] — psychologisch mechanisme: groepsdruk en conformiteitsgedrag versterken de effectiviteit van propaganda in massamaatschappijen
+- [[Sociale Psychologie]] ★8 — sociale beïnvloedingsprincipes (conformiteit, autoriteitsgehoorzaamheid, in-group/out-group) vormen het mechanistisch kader voor propagandawerking
 
 ## Bronnen
 

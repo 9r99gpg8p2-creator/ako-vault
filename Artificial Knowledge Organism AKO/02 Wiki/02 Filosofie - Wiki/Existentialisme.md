@@ -57,6 +57,7 @@ Simone de Beauvoir paste existentialistische categorieën toe op de situatie van
 - [[Vrije Wil]] — existentialisme radicaliseert het vrije wil debat: vrijheid is niet optioneel maar onvermijdelijk
 - [[Morele Verantwoordelijkheid]] — vrijheid impliceert totale morele verantwoordelijkheid voor eigen keuzes
 - [[Fenomenologie]] — Heidegger en Sartre bouwen voort op Husserls fenomenologische methode
+- [[Heidegger]] ★9 — Heideggers *Sein und Zeit* leverde de ontologische grondbegrippen (Dasein, authenticiteit, Angst) voor het existentialisme
 
 **Cross-domein:**
 - [[Neuropsychologische Rehabilitatie]] — existentiële vragen (zingeving, identiteit na hersenletsel) zijn klinisch relevant in neuropsychologische revalidatie
