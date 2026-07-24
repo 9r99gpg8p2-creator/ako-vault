@@ -71,3 +71,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Metafysica]]
 - [[Neurodiversiteit]]
 - [[Deugdethiek]]
+- [[Hannah Arendt]]

@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-24
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -20,7 +20,7 @@ sessie: expansie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (4 nieuwe pagina's, 5 verbindingen, 3 inzichten — expansie-run)
+Trend: ↑ (3 nieuwe pagina's, 7 verbindingen, 2 inzichten — consolidatie-run)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (4 nieuwe pagina's, 5 verbindingen, 3 inzichten — expansie-run)
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 97 | 100% | → |
-| Filosofie | 57 | 100% | ↑ |
-| Geschiedenis | 53 | 100% | ↑ |
-| Beleggen | 51 | 100% | ↑ |
-| **Totaal** | **258** | **100%** | ↑ |
+| Psychologie | 98 | 100% | → |
+| Filosofie | 59 | 100% | ↑ |
+| Geschiedenis | 55 | 100% | ↑ |
+| Beleggen | 53 | 100% | ↑ |
+| **Totaal** | **265** | **100%** | ↑ |
 
 ---
 
@@ -40,38 +40,37 @@ Trend: ↑ (4 nieuwe pagina's, 5 verbindingen, 3 inzichten — expansie-run)
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's | 83+ |
-| Inzichtpagina's | 53+ |
+| Relatiepagina's | 88+ |
+| Inzichtpagina's | 55+ |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-24 — expansie)
+## Sessieoverzicht (2026-07-24 — consolidatie)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
+| Nieuwe Wiki-pagina's | 3 |
+| Updates bestaande pagina's | 0 |
 | Nieuwe verbindingen | 5 |
-| Nieuwe inzichten | 3 |
+| Nieuwe inzichten | 2 |
 | Inbox verwerkt | 0 (lege inbox) |
-| Gaps gedicht | 4 |
-| Queue resterend | 3 (Propaganda, Hannah Arendt, Statistical Arbitrage) |
+| Gaps gedicht | 3 |
+| Queue resterend | 0 |
 
 ---
 
 ## Nieuwe pagina's (deze run)
 
-- [[Venture Capital]] (Beleggen — vroegfase-investering)
-- [[Nationaal Socialisme]] (Geschiedenis — totalitarisme-cluster uitgebreid)
-- [[Deugdethiek]] (Filosofie — normatieve ethiek volledig)
-- [[Kwantitatief Beleggen]] (Beleggen — systematisch handelen)
+- [[Propaganda]] (Geschiedenis — massamedia en indoctrinatie, totalitarisme-cluster)
+- [[Hannah Arendt]] (Filosofie — banaliteit van het kwaad, politiek pluralisme)
+- [[Statistical Arbitrage]] (Beleggen — kwantitatieve pairs trading / mean reversion)
 
 ---
 
 ## Aandacht vereist
 
-- **Propaganda** (Geschiedenis) — gap geïdentificeerd vanuit Nationaal Socialisme
-- **Hannah Arendt** (Filosofie) — sleutelfiguur voor totalitarisme-analyse
-- **Wikipedia-API onbereikbaar** (FOUT E-003) — confidence gemaximeerd op 5
+- Queue volledig leeg na deze run
+- Kandidaat volgende gap: Hannah Arendt → Jürgen Habermas (communicatieve rationaliteit)
+- Kandidaat volgende gap: LTCM als casestudy Statistical Arbitrage

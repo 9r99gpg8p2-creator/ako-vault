@@ -1781,3 +1781,21 @@ type: operationeel
 | 2026-07-24 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-24 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 taken gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
 | 2026-07-24 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 5 verbindingen · 3 inzichten · Health: 100% |
+| 2026-07-24 | consolidatie | Orchestrator | Git pull + config | ✓ | Remote URL gezet; up-to-date met origin/main |
+| 2026-07-24 | consolidatie | Agent 1 | Inbox scan | ✓ | 4 bestanden gevonden — alle beginnen met `_` → overgeslagen per filter |
+| 2026-07-24 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Propaganda.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-24 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Hannah Arendt.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-24 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Statistical Arbitrage.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Hannah Arendt — Totalitarisme.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Hannah Arendt — Morele Verantwoordelijkheid.md — sterkte ★8 — Filosofie (intra) |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Propaganda — Totalitarisme.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Statistical Arbitrage — Kwantitatief Beleggen.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Statistical Arbitrage — Efficiënte Markthypothese.md — sterkte ★7 — Beleggen (intra) |
+| 2026-07-24 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Gedachteloosheid als Gevaar — Arendt en Dual Process.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-24 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Propagandatechnieken en Cognitieve Biases.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-24 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-24 Dagrapport.md — modus: consolidatie |
+| 2026-07-24 | consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-24 Quiz.md — 3 vragen toegevoegd (Arendt, Propaganda, Stat Arb) |
+| 2026-07-24 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — alle disciplines op 100%; 265 pagina's totaal |
+| 2026-07-24 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Hannah Arendt · Geschiedenis: +Propaganda · Beleggen: +Statistical Arbitrage |
+| 2026-07-24 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue leeg |
+| 2026-07-24 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 pag's · 7 verbindingen · 2 inzichten · Health: 100% · Queue: 0 resterend |

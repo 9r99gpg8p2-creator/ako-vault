@@ -258,9 +258,9 @@ type: operationeel
 | ✓ | 2026-07-24T expansie | Agent 3 | Expansie: Nationaal Socialisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Nationaal Socialisme.md — confidence 5 |
 | ✓ | 2026-07-24T expansie | Agent 3 | Expansie: Deugdethiek | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Deugdethiek.md — confidence 5 |
 | ✓ | 2026-07-24T expansie | Agent 3 | Expansie: Kwantitatief Beleggen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Kwantitatief Beleggen.md — confidence 5 |
-| ↓ | 2026-07-24T expansie | Agent 3 | Gap: Propaganda | Gesignaleerd vanuit Nationaal Socialisme — massamedia en indoctrinatie |
-| ↓ | 2026-07-24T expansie | Agent 3 | Gap: Hannah Arendt | Sleutelfiguur totalitarisme-analyse — "banaliteit van het kwaad" |
-| ↓ | 2026-07-24T expansie | Agent 3 | Gap: Statistical Arbitrage | Kernstrategie kwantitatief beleggen — verdieping Kwantitatief Beleggen |
+| ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Propaganda | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Propaganda.md — confidence 5 |
+| ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Hannah Arendt | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Hannah Arendt.md — confidence 5 |
+| ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Statistical Arbitrage | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Statistical Arbitrage.md — confidence 5 |
 
 ---
 

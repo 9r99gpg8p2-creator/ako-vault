@@ -65,3 +65,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Minsky Moment]]
 - [[Venture Capital]]
 - [[Kwantitatief Beleggen]]
+- [[Statistical Arbitrage]]
