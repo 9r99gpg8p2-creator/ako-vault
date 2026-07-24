@@ -65,3 +65,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Hellenisme]]
 - [[Het Perzische Rijk (Achaemenidisch)]]
 - [[Meiji Japan]]
+- [[Tokugawa Shogunaat]]

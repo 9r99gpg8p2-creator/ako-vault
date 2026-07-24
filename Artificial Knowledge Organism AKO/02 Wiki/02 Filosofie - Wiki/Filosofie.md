@@ -69,3 +69,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Jürgen Habermas]]
 - [[Kritische Theorie]]
 - [[Metafysica]]
+- [[Neurodiversiteit]]

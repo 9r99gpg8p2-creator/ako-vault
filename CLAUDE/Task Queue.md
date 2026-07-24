@@ -251,9 +251,9 @@ type: operationeel
 | ✓ | 2026-07-24T expansie | Agent 3 | Expansie: Meiji Japan | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Meiji Japan.md — confidence 5 |
 | ✓ | 2026-07-24T expansie | Agent 3 | Expansie: Metafysica | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Metafysica.md — confidence 5 |
 | ✓ | 2026-07-24T expansie | Agent 3 | Merge: Autismespectrumstoornis | Autisme Spectrum Stoornis.md samengevoegd met Autismespectrumstoornis.md (Wet 14) — confidence 5 |
-| ↓ | 2026-07-24T expansie | Agent 3 | Gap: Minsky Moment | Kernbegrip in bubbel- en crisistheorie (Hyman Minsky) — aanvulling op Speculatieve Bubbels |
-| ↓ | 2026-07-24T expansie | Agent 3 | Gap: Tokugawa Shogunaat | Feodale context voor Meiji Japan — essentieel voor begrip van modernisering |
-| ↓ | 2026-07-24T expansie | Agent 3 | Gap: Neurodiversiteit | Filosofisch-klinisch kader voor ASS, ADHD, dyslexie als varianten in plaats van stoornissen |
+| ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Minsky Moment | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Minsky Moment.md — confidence 5 |
+| ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Tokugawa Shogunaat | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Tokugawa Shogunaat.md — confidence 5 |
+| ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Neurodiversiteit | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Neurodiversiteit.md — confidence 5 |
 
 ---
 

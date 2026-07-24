@@ -1738,3 +1738,22 @@ type: operationeel
 | 2026-07-24 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-24 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 taken gesloten ✓ · 3 nieuwe gaps toegevoegd ↓ |
 | 2026-07-24 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 3 pag's (netto) · 4 verbindingen · 3 inzichten · Health: 92% |
+| 2026-07-24 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-24 | consolidatie | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden beginnen met _ — STAP 1.5 overgeslagen |
+| 2026-07-24 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — Wikipedia onbereikbaar. Interne kennis gebruikt. Confidence 5 voor alle onderwerpen. |
+| 2026-07-24 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 gaps geselecteerd uit Task Queue: Minsky Moment, Tokugawa Shogunaat, Neurodiversiteit |
+| 2026-07-24 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Minsky Moment.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-24 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Tokugawa Shogunaat.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-24 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Neurodiversiteit.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Minsky Moment — Speculatieve Bubbels.md ★10 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Tokugawa Shogunaat — Meiji Japan.md ★10 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Neurodiversiteit — Autismespectrumstoornis.md ★9 |
+| 2026-07-24 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Minsky Moment — Gedragseconomie.md ★8 |
+| 2026-07-24 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Stabiliteit als Illusie in Markten en Systemen.md — Beleggen → Geschiedenis ★9 |
+| 2026-07-24 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Norm als Machtsinstrument.md — Filosofie → Psychologie ★8 |
+| 2026-07-24 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-24 Dagrapport.md — consolidatie-modus |
+| 2026-07-24 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | +3 vragen (6-8) toegevoegd aan 2026-07-24 Quiz.md |
+| 2026-07-24 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Beleggen: 50 pag 100% · Filosofie: 57 pag 100% · Geschiedenis: 53 pag 100% · Totaal 258 pag |
+| 2026-07-24 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Beleggen: +Minsky Moment · Filosofie: +Neurodiversiteit · Geschiedenis: +Tokugawa Shogunaat |
+| 2026-07-24 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue nu leeg |
+| 2026-07-24 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps · Health: 100% |
