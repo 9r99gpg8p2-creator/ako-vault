@@ -2,79 +2,40 @@
 type: dagrapport
 date: 2026-07-25
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Goedemorgen.
-
-Nieuwe kennis: 2 concepten toegevoegd (John Locke, Neuropsychologische Testbatterijen)
-Nieuwe verbindingen: 4 relatiepagina's aangemaakt
-Nieuwe inzichten: 2 cross-domein inzichten gegenereerd
-Kennishiaten: 0 nieuw · 2 gedicht
-Aanbevolen leestijd: 8 minuten
-
----
+Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 5 · Inzichten: 2 · Gaps: 0 · Leestijd: 5 min
 
 ## Research Agenda
 
-Prioriteit 1: Empirisme — John Locke verbindt met David Hume, George Berkeley en Kant; empirisme-cluster nog niet volledig verbonden
-Prioriteit 2: Klinische neuropsychologische testpraktijk — WAIS, RBMT, TMT en WCST in klinische context verdiepen (relevant voor MSc Klinische Neuropsychologie)
-Prioriteit 3: Verlichtingsdenken en politieke filosofie — Lockes invloed op De Franse Revolutie en Maatschappelijk Contract verder uitwerken
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-Geen Inbox-bestanden verwerkt deze run (alle bestanden beginnen met `_`).
-
----
-
-## Pagina's Aangemaakt
-
-1. [[John Locke]] — Filosofie — empirisme, tabula rasa, sociaal contract · confidence 5
-2. [[Neuropsychologische Testbatterijen]] — Psychologie — WAIS, RBMT, TMT, WCST · confidence 5
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[John Locke]] ↔ [[René Descartes]] · ★9 — rationalisme vs. empirisme
-2. [[Neuropsychologische Testbatterijen]] → [[Executieve Functies]] · ★9 — WCST/TMT als primaire meting
-3. [[Neuropsychologische Testbatterijen]] → [[Werkgeheugen]] · ★8 — WAIS-IV werkgeheugenindex
-4. [[John Locke]] → [[Maatschappelijk Contract]] · ★8 — Two Treatises of Government
-
----
+1. **Agnosie** — neuropsychologische stoornis in objectherkenning; frequent samen met apraxie, nog geen eigen wikipagina
+2. **Neuropsychologische Revalidatie** — revalidatieprotocollen na hersenletsel; kerncompetentie MSc Klinische Neuropsychologie, nog geen eigen pagina
+3. **De Industriële Revolutie (Sociale Gevolgen)** — sociale en economische gevolgen van industrialisatie zijn nog onderbelicht in de Geschiedenis-cluster
 
 ## Insight Feed
 
-— "Lockes tabula rasa anticipeerde met drie eeuwen voorsprong het neuropsychologische inzicht dat cognitieve architectuur plastisch is en gevormd door leerervaringen." [Filosofie → Psychologie · ★9]
+— "De Holocaust als empirisch referentiepunt voor de banaliteit van het kwaad — gewone bureaucraten als daders — vindt een neuropsychologische verankering in executieve disfunctie: verminderde frontale inhibitie maakt mensen gevoeliger voor gehoorzaamheid aan autoriteit." [Geschiedenis → Psychologie · ★8]
 
-— "Neuropsychologische testbatterijen vertalen de onzichtbare architectuur van de hersenen naar een meetbaar cognitief profiel — het testprofiel is een functionele kaart van de hersenen." [Psychologie · ★8]
-
----
+— "Leibniz' monadenleer — gesloten eenheden die intern de werkelijkheid modelleren zonder externe invoer — anticipeert verrassend op de Efficiënte Markthypothese: een markt die alle beschikbare informatie heeft verwerkt is informatief gesloten voor verdere exploitatie." [Filosofie → Beleggen · ★6]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 78% | → |
-| Filosofie | 72% | ↑ |
-| Geschiedenis | 70% | → |
-| Beleggen | 71% | → |
+| Psychologie | 100% | → |
+| Filosofie | 97% | ↑ |
+| Geschiedenis | 97% | ↑ |
+| Beleggen | 96% | → |
 
----
+## Activiteit
 
-## Queue Status
-
-Wacht (↓): 0 items — beide gaps gedicht (John Locke ✓, Neuropsychologische Testbatterijen ✓)
-
-Totaal Wiki-pagina's: Psychologie 106 · Filosofie 61 · Geschiedenis 58 · Beleggen 59
-Conceptual graph: 597 bestanden (relaties + inzichten)
-
----
-
-## Aandacht vereist
-
-- Empirisme-cluster: John Locke, David Hume, George Berkeley zijn aangemaakt maar de driehoeksverbinding (Locke → Hume → Berkeley als empiristische traditie) verdient een expliciete relatiepagina.
+| Metric | Aantal |
+|---|---|
+| Inbox verwerkt | 0 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 4 |
+| Nieuwe verbindingen | 5 |
+| Gaps gedicht | 0 |

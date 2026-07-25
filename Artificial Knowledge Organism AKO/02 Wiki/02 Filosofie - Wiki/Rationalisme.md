@@ -58,6 +58,7 @@ Het rationalisme staat in directe spanning met het Britse empirisme van Locke, H
 - [[Epistemologie]] — onderdeel van: Rationalisme is een epistemologische positie
 - [[Deontologie]] — aanvulling: Kants deontologie is geworteld in rationalistisch denken
 - [[Bewustzijn]] — aanvulling: De rationalistische vraag naar het denkende subject raakt aan bewustzijnsfilosofie
+- [[Leibniz]] ★9 — kernfiguur: Leibniz is samen met Descartes en Spinoza een van de drie grondleggers van het continentale rationalisme
 
 **Cross-domein:**
 - [[Dual Process Theorie]] — verbinding: De nadruk op rationeel, bewust denken (Systeem 2) weerspiegelt rationalistische aannames

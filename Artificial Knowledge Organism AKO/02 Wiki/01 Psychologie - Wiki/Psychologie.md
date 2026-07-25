@@ -119,3 +119,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Cognitieve Reserve]]
 - [[Neuropsychologie]]
 - [[Neuropsychologische Testbatterijen]]
+- [[Apraxie]]

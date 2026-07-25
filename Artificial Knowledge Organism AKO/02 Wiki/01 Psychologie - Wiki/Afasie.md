@@ -60,6 +60,7 @@ Afasie treft in Nederland circa 15.000 tot 20.000 nieuwe gevallen per jaar. Klin
 - [[Werkgeheugen]] — fonologische lus is essentieel voor taalproductie en begrip; dit systeem is bij afasie vaak aangedaan
 - [[Neuroimaging]] — fMRI en DTI zijn onmisbaar voor laesiemapping en prognose bij afasie
 - [[Neuroplasticiteit]] — basis voor herstel en de effectiviteit van logopedie
+- [[Apraxie]] ★8 — aanverwante verworven stoornis; apraxie van de spraak wordt onderscheiden van afasie maar treedt frequent samen op
 
 **Cross-domein:**
 - [[Vygotsky]] — zijn nadruk op taal als cognitief instrument maakt afasie relevant voor de filosofie van cognitie en leren

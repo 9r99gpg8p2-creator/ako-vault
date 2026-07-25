@@ -20,7 +20,7 @@ sessie: expansie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (11 nieuwe pagina's vandaag, 14 verbindingen, 9 inzichten — expansie-run 2026-07-25)
+Trend: ↑ (4 nieuwe pagina's, 5 verbindingen, 2 inzichten — expansie-run 2026-07-25 avond)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (11 nieuwe pagina's vandaag, 14 verbindingen, 9 inzichten — expansi
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 105 | 100% | → |
-| Filosofie | 62 | 100% | ↑ |
-| Geschiedenis | 58 | 100% | → |
-| Beleggen | 59 | 100% | ↑ |
-| **Totaal** | **284** | **100%** | ↑ |
+| Psychologie | 107 | 100% | → |
+| Filosofie | 62 | 97% | ↑ |
+| Geschiedenis | 59 | 97% | ↑ |
+| Beleggen | 60 | 96% | → |
+| **Totaal** | **288** | **97%** | ↑ |
 
 ---
 
@@ -40,35 +40,34 @@ Trend: ↑ (11 nieuwe pagina's vandaag, 14 verbindingen, 9 inzichten — expansi
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's | 112+ |
-| Inzichtpagina's | 65+ |
+| Relatiepagina's + inzichtpagina's | 604 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-25 — expansie)
+## Sessieoverzicht (2026-07-25 — expansie-run 2)
 
 | Metric | Aantal |
 |---|---|
 | Nieuwe Wiki-pagina's | 4 |
-| Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichten | 3 |
+| Nieuwe relatiepagina's | 5 |
+| Nieuwe inzichten | 2 |
 | Inbox verwerkt | 0 (geen bestanden beschikbaar) |
 | Gaps gedicht | 0 |
 | Queue resterend | 0 |
 
 ---
 
-## Nieuwe pagina's (expansie-run)
+## Nieuwe pagina's (expansie-run 2)
 
-- [[Behavioral Finance]] (Beleggen — cross-domein met Psychologie, Kahneman/Thaler/Shiller)
-- [[Neuropsychologie]] (Psychologie — fundament voor MSc Klinische Neuropsychologie)
-- [[Descartes]] (Filosofie — grondlegger modern rationalisme, cogito ergo sum)
-- [[ESG Beleggen]] (Beleggen — duurzaam beleggen, cross-domein met Deugdethiek)
+- [[Apraxie]] (Psychologie — motorische programmering, relevant MSc Klinische Neuropsychologie)
+- [[De Holocaust]] (Geschiedenis — genocide, Tweede Wereldoorlog, cross-domein Filosofie/Psychologie)
+- [[Leibniz]] (Filosofie — rationalist, monadenleer, calculus)
+- [[Monte Carlo Simulatie]] (Beleggen — kwantitatief, VaR-methode, optiewaardering)
 
 ---
 
 ## Aandacht vereist
 
-*(Wikipedia API onbereikbaar via proxy E-003 — interne kennis gebruikt, confidence 5)*
+*(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5)*

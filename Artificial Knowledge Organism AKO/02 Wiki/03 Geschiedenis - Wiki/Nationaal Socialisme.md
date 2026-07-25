@@ -51,6 +51,7 @@ Nationaal Socialisme is een cruciaal studieobject in de politieke wetenschap, hi
 - [[Totalitarisme]] — onderdeel van: nazisme als specifieke variant van totalitarisme
 - [[Fascisme]] — aanvulling: nazisme is verwant aan fascisme maar met uniek rassenideologisch karakter
 - [[Stalinisme]] — vergelijking: beide zijn totalitaire systemen met massamoord, maar fundamenteel verschillende ideologie
+- [[De Holocaust]] ★9 — gevolg: het nationaal-socialisme was de ideologische en institutionele basis voor de Holocaust
 
 **Cross-domein:**
 - [[Adorno en de Autoritaire Persoonlijkheid]] — het nazisme inspireerde Adorno's psychologisch onderzoek naar autoritaire persoonlijkheidsstructuren

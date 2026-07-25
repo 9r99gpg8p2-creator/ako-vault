@@ -278,6 +278,12 @@ type: operationeel
 | ✓ | 2026-07-25T expansie | Agent 3 | Expansie: ESG Beleggen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/ESG Beleggen.md — confidence 5 (Eccles 2019, Friede 2015) |
 | ✓ | 2026-07-25T expansie | Agent 3 | Gap: John Locke | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/John Locke.md — confidence 5 |
 | ✓ | 2026-07-25T expansie | Agent 3 | Gap: Neuropsychologische Testbatterijen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Neuropsychologische Testbatterijen.md — confidence 5 |
+| ✓ | 2026-07-25T expansie-2 | Agent 3 | Expansie: Apraxie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Apraxie.md — confidence 5 |
+| ✓ | 2026-07-25T expansie-2 | Agent 3 | Expansie: De Holocaust | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Holocaust.md — confidence 5 |
+| ✓ | 2026-07-25T expansie-2 | Agent 3 | Expansie: Leibniz | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Leibniz.md — confidence 5 |
+| ✓ | 2026-07-25T expansie-2 | Agent 3 | Expansie: Monte Carlo Simulatie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Monte Carlo Simulatie.md — confidence 5 |
+| ↓ | 2026-07-25T expansie-2 | Agent 3 | Gap: Agnosie | Neuropsychologische stoornis in objectherkenning — frequent samen met apraxie, geen eigen pagina |
+| ↓ | 2026-07-25T expansie-2 | Agent 3 | Gap: Neuropsychologische Revalidatie | Revalidatieprotocollen na hersenletsel — kerncompetentie MSc Klinische Neuropsychologie |
 
 ---
 

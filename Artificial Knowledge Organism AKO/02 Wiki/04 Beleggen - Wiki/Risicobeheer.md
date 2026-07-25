@@ -53,6 +53,7 @@ Het moderne risicobeheer is sterk beïnvloed door de portefeuilletheorie van Har
 - [[Risicoperceptie]] — psychologische dimensie van hoe beleggers risico ervaren
 - [[Asset Allocatie]] — strategische verdeling als operationeel risicobeheer
 - [[Verliesaversie]] — cognitieve bias die risicobeheersbeslissingen systematisch verstoort
+- [[Monte Carlo Simulatie]] ★8 — kwantitatieve methode voor VaR-berekening en scenarioanalyse
 
 **Cross-domein:**
 - [[Executieve Functies]] — risicobeheer vereist doelbewuste regulering van impulsieve beslissingen (Psychologie)

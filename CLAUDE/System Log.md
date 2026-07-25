@@ -1932,3 +1932,25 @@ type: operationeel
 | 2026-07-25T consolidatie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-25 Quiz.md — 3 nieuwe vragen toegevoegd (vraag 4-6) |
 | 2026-07-25T consolidatie | | Agent 8 | Hub bijgewerkt | ✓ | Psychologie.md: +1 (Neuropsychologische Testbatterijen) · Filosofie: John Locke al aanwezig |
 | 2026-07-25T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 2 pag's aangemaakt · 4 verbindingen · 2 inzichten · Connectivity: 100% |
+| 2026-07-25T expansie-2 | | Agent 1 | Inbox scan | ✓ | Geen te verwerken bestanden (alle beginnen met `_`) — STAP 1.5 overgeslagen |
+| 2026-07-25T expansie-2 | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt. Confidence 5. |
+| 2026-07-25T expansie-2 | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Apraxie (Psychologie NIEUW), De Holocaust (Geschiedenis NIEUW), Leibniz (Filosofie NIEUW), Monte Carlo Simulatie (Beleggen NIEUW) |
+| 2026-07-25T expansie-2 | | Agent 3 | Wiki aangemaakt | ✓ | Apraxie.md — 01 Psychologie - Wiki — confidence 5 (Lezak 2012, Heilman 1993, Liepmann 1905) |
+| 2026-07-25T expansie-2 | | Agent 3 | Wiki aangemaakt | ✓ | De Holocaust.md — 03 Geschiedenis - Wiki — confidence 5 (Hilberg 1985, Friedländer 1997, Arendt 1963) |
+| 2026-07-25T expansie-2 | | Agent 3 | Wiki aangemaakt | ✓ | Leibniz.md — 02 Filosofie - Wiki — confidence 5 (Jolley 1995, Russell 1900) |
+| 2026-07-25T expansie-2 | | Agent 3 | Wiki aangemaakt | ✓ | Monte Carlo Simulatie.md — 04 Beleggen - Wiki — confidence 5 (Glasserman 2003, Metropolis 1949) |
+| 2026-07-25T expansie-2 | | Agent 3 | Backlinks toegevoegd | ✓ | Afasie.md: +Apraxie ★8 · Nationaal Socialisme.md: +De Holocaust ★9 · Rationalisme.md: +Leibniz ★9 · Risicobeheer.md: +Monte Carlo Simulatie ★8 |
+| 2026-07-25T expansie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Apraxie — Afasie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-25T expansie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Holocaust — Adorno en de Autoritaire Persoonlijkheid.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-25T expansie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Leibniz — Rationalisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-25T expansie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Monte Carlo Simulatie — Risicobeheer.md — sterkte ★8 — Beleggen (intra) |
+| 2026-07-25T expansie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Holocaust — Morele Verantwoordelijkheid.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-25T expansie-2 | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Banaliteit van het Kwaad als Neuropsychologisch Fenomeen.md — Geschiedenis → Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-25T expansie-2 | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Monadenleer als Voorloper van Informatietheorie.md — Filosofie → Beleggen — sterkte ★6 |
+| 2026-07-25T expansie-2 | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-25 Dagrapport.md — expansie-2 modus — 4 nieuwe pagina's, 5 verbindingen, 2 inzichten |
+| 2026-07-25T expansie-2 | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-25 Quiz.md — 3 nieuwe vragen toegevoegd (Apraxie begrip, Leibniz vergelijking, Monte Carlo toepassing) |
+| 2026-07-25T expansie-2 | | Agent 7 | Knowledge Health berekend | ✓ | Overall: 97% — Psych 107 pag's, Fil 62 pag's, Gesch 59 pag's, Beleg 60 pag's — Connectivity 100%, Orphan 0% |
+| 2026-07-25T expansie-2 | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 288 totale pagina's |
+| 2026-07-25T expansie-2 | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Apraxie · Filosofie: +Leibniz · Geschiedenis: +De Holocaust · Beleggen: +Monte Carlo Simulatie |
+| 2026-07-25T expansie-2 | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
+| 2026-07-25T expansie-2 | | Orchestrator | Expansie-run 2 voltooid | ✓ | 4 nieuwe pag's · 5 verbindingen · 2 inzichten · Health: 97% |
