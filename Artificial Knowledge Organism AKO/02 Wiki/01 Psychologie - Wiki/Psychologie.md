@@ -115,3 +115,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Groepsdynamica]]
 - [[Existentiële Psychiatrie]]
 - [[Hemispatiale Verwaarlozing]]
+- [[Syndroom van Korsakov]]
+- [[Cognitieve Reserve]]

@@ -269,9 +269,9 @@ type: operationeel
 | ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Koreaoorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Koreaoorlog.md — confidence 5 |
 | ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: ETFs | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/ETFs.md — confidence 5 |
 | ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Existentiële Psychiatrie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Existentiële Psychiatrie.md — confidence 5 |
-| ↓ | 2026-07-25T expansie | Agent 3 | Gap: Syndroom van Korsakov | Klinisch amnesiesyndroom (alcoholgerelateerd); relevant MSc KNP; nog niet in vault |
-| ↓ | 2026-07-25T expansie | Agent 3 | Gap: Grondstoffen (Commodities) | Beleggen-categorie (goud, olie, agrarisch) ontbreekt; aanvulling op Valutamarkten en Asset Allocatie |
-| ↓ | 2026-07-25T expansie | Agent 3 | Gap: Cognitieve Reserve | Verklaart bescherming tegen neurodegeneratie bij hoogopgeleiden; verbindt Neuroplasticiteit met klinische praktijk |
+| ✓ | 2026-07-25T consolidatie | Agent 3 | Gap: Syndroom van Korsakov | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Syndroom van Korsakov.md — confidence 8 (Kopelman 1995, Victor et al. 1989) |
+| ✓ | 2026-07-25T consolidatie | Agent 3 | Gap: Grondstoffen (Commodities) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Grondstoffen.md — confidence 5 (Gorton & Rouwenhorst 2006) |
+| ✓ | 2026-07-25T consolidatie | Agent 3 | Gap: Cognitieve Reserve | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Reserve.md — confidence 8 (Stern 2002, 2009; Valenzuela & Sachdev 2006) |
 
 ---
 

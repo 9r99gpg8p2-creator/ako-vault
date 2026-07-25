@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-25
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -20,7 +20,7 @@ sessie: expansie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (4 nieuwe pagina's, 4 verbindingen, 3 inzichten — expansie-run 2026-07-25)
+Trend: → (3 nieuwe pagina's, 6 verbindingen, 3 inzichten — consolidatie-run 2026-07-25)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (4 nieuwe pagina's, 4 verbindingen, 3 inzichten — expansie-run 2026
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 101 | 100% | → |
-| Filosofie | 60 | 100% | ↑ |
-| Geschiedenis | 57 | 100% | ↑ |
-| Beleggen | 55 | 100% | ↑ |
-| **Totaal** | **273** | **100%** | ↑ |
+| Psychologie | 104 | 100% | → |
+| Filosofie | 61 | 100% | → |
+| Geschiedenis | 58 | 100% | → |
+| Beleggen | 57 | 100% | → |
+| **Totaal** | **280** | **100%** | → |
 
 ---
 
@@ -40,36 +40,34 @@ Trend: ↑ (4 nieuwe pagina's, 4 verbindingen, 3 inzichten — expansie-run 2026
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's | 102+ |
-| Inzichtpagina's | 59+ |
+| Relatiepagina's | 108+ |
+| Inzichtpagina's | 62+ |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-25 — expansie)
+## Sessieoverzicht (2026-07-25 — consolidatie)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 (reverse links) |
-| Nieuwe verbindingen | 4 |
+| Nieuwe Wiki-pagina's | 3 |
+| Nieuwe relatiepagina's | 6 |
 | Nieuwe inzichten | 3 |
 | Inbox verwerkt | 0 (alleen sjabloonbestanden) |
-| Gaps gedicht | 0 |
+| Gaps gedicht | 3 |
 | Queue resterend | 0 |
 
 ---
 
-## Nieuwe pagina's (deze run)
+## Nieuwe pagina's (consolidatie-run)
 
-- [[Hemispatiale Verwaarlozing]] (Psychologie — klinisch neuropsychologisch syndroom; aandachtsstoornis; prismatherapie)
-- [[Esthetica]] (Filosofie — Kant, Hegel, Aristoteles' katharsis, sublieme, kunstdefinitie)
-- [[Valutamarkten]] (Beleggen — Forex, carry trades, wisselkoersen, PPP, centrale bankinterventie)
-- [[De Berlijnse Muur]] (Geschiedenis — bouw 1961, val 1989; symbool Koude Oorlog)
+- [[Syndroom van Korsakov]] (Psychologie — klinisch amnesiesyndroom, thiaminedeficiëntie, alcoholgerelateerd)
+- [[Cognitieve Reserve]] (Psychologie — bescherming tegen neurodegeneratie, Stern 2002)
+- [[Grondstoffen]] (Beleggen — commodities, goud, energie, agrarisch, inflatie-hedge)
 
 ---
 
 ## Aandacht vereist
 
-*(queue leeg na deze run — volgende run kan nieuwe gaps identificeren)*
+*(queue leeg — Wikipedia API blijft onbereikbaar via proxy E-003)*

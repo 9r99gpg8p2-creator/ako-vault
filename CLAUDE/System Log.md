@@ -1872,3 +1872,28 @@ type: operationeel
 | 2026-07-25 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:4 nieuwe bruggen (≥ 1:5 ✓) |
 | 2026-07-25 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe aanbevolen gaps → ↓ (Syndroom van Korsakov, Grondstoffen, Cognitieve Reserve) |
 | 2026-07-25 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% · Gepusht naar origin/main |
+| 2026-07-25 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-25 | consolidatie | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met `_` (sjabloonbestanden) — geen te verwerken content — STAP 1.5 overgeslagen |
+| 2026-07-25 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia APIs onbereikbaar. Interne kennis gebruikt. Confidence 8 voor queue-items met bekende bronnen. |
+| 2026-07-25 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 queue ↓ items geselecteerd: Syndroom van Korsakov (Psych), Grondstoffen (Beleg), Cognitieve Reserve (Psych) |
+| 2026-07-25 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Syndroom van Korsakov.md — 01 Psychologie - Wiki — confidence 8 (Kopelman 1995, Victor et al. 1989, Kopelman et al. 2009) |
+| 2026-07-25 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Grondstoffen.md — 04 Beleggen - Wiki — confidence 5 (Gorton & Rouwenhorst 2006, Erb & Harvey 2006) |
+| 2026-07-25 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Cognitieve Reserve.md — 01 Psychologie - Wiki — confidence 8 (Stern 2002, 2009; Valenzuela & Sachdev 2006) |
+| 2026-07-25 | consolidatie | Agent 3 | Gap Engine | ✓ | 0 nieuwe gaps gesignaleerd — queue leeg na deze run |
+| 2026-07-25 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Syndroom van Korsakov — Geheugenconsolidatie.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-25 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Syndroom van Korsakov — Verslaving.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-25 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Cognitieve Reserve — Neuroplasticiteit.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-25 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Cognitieve Reserve — Alzheimer en Dementie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-25 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Grondstoffen — Asset Allocatie.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-25 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Grondstoffen — Inflatie.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-25 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Brein Herinnert Niet Wat het Lichaam Deed.md — Psychologie (Verslaving → Korsakov) — sterkte ★9 |
+| 2026-07-25 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Een Beter Gevormde Geest Verliest Later.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-25 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Goud als Spiegel van Collectieve Angst.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-25 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-25 Dagrapport.md — modus: consolidatie — 3 concepten, 6 verbindingen, 3 inzichten |
+| 2026-07-25 | consolidatie | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-25 Quiz.md — 3 vragen toegevoegd (Syndroom van Korsakov, Grondstoffen, Cognitieve Reserve) — totaal 8 vragen |
+| 2026-07-25 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psychologie: 104 pag · Filosofie: 61 pag · Geschiedenis: 58 pag · Beleggen: 57 pag · Totaal: 280 pag |
+| 2026-07-25 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | 3 dashboards overschreven: Algemeen (100%), Psychologie (100%), Beleggen (100%) |
+| 2026-07-25 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +2 (Syndroom van Korsakov, Cognitieve Reserve) · Beleggen: +1 (Grondstoffen) |
+| 2026-07-25 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-25 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue resterend: 0 |
+| 2026-07-25 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 100% · 280 wiki-pagina's totaal |
