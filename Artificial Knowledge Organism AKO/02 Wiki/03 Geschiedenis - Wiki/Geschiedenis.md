@@ -70,3 +70,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Propaganda]]
 - [[Vietnam Oorlog]]
 - [[Koreaoorlog]]
+- [[De Berlijnse Muur]]

@@ -1,8 +1,8 @@
 ---
 type: dashboard
 tags: [dashboard, algemeen]
-updated: 2026-07-24
-sessie: consolidatie
+updated: 2026-07-25
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -20,7 +20,7 @@ sessie: consolidatie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: → (4 nieuwe pagina's, 8 verbindingen, 2 inzichten — consolidatie-run)
+Trend: ↑ (4 nieuwe pagina's, 4 verbindingen, 3 inzichten — expansie-run 2026-07-25)
 
 ---
 
@@ -28,8 +28,8 @@ Trend: → (4 nieuwe pagina's, 8 verbindingen, 2 inzichten — consolidatie-run)
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 101 | 100% | ↑ |
-| Filosofie | 60 | 100% | → |
+| Psychologie | 101 | 100% | → |
+| Filosofie | 60 | 100% | ↑ |
 | Geschiedenis | 57 | 100% | ↑ |
 | Beleggen | 55 | 100% | ↑ |
 | **Totaal** | **273** | **100%** | ↑ |
@@ -47,26 +47,26 @@ Trend: → (4 nieuwe pagina's, 8 verbindingen, 2 inzichten — consolidatie-run)
 
 ---
 
-## Sessieoverzicht (2026-07-24 — consolidatie)
+## Sessieoverzicht (2026-07-25 — expansie)
 
 | Metric | Aantal |
 |---|---|
 | Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 8 |
-| Nieuwe inzichten | 2 |
-| Inbox verwerkt | 0 (lege inbox) |
-| Gaps gedicht | 4 |
+| Updates bestaande pagina's | 4 (reverse links) |
+| Nieuwe verbindingen | 4 |
+| Nieuwe inzichten | 3 |
+| Inbox verwerkt | 0 (alleen sjabloonbestanden) |
+| Gaps gedicht | 0 |
 | Queue resterend | 0 |
 
 ---
 
 ## Nieuwe pagina's (deze run)
 
-- [[Groepsdynamica]] (Psychologie — Tajfel SIT, Lewin, Tuckman, groepsvorming)
-- [[Koreaoorlog]] (Geschiedenis — proxy-conflict Koude Oorlog, wapenstilstand 1953)
-- [[ETFs]] (Beleggen — Exchange Traded Funds, passief beleggen, indexreplicatie)
-- [[Existentiële Psychiatrie]] (Psychologie — Binswanger, Yalom, Heidegger-koppeling, klinisch)
+- [[Hemispatiale Verwaarlozing]] (Psychologie — klinisch neuropsychologisch syndroom; aandachtsstoornis; prismatherapie)
+- [[Esthetica]] (Filosofie — Kant, Hegel, Aristoteles' katharsis, sublieme, kunstdefinitie)
+- [[Valutamarkten]] (Beleggen — Forex, carry trades, wisselkoersen, PPP, centrale bankinterventie)
+- [[De Berlijnse Muur]] (Geschiedenis — bouw 1961, val 1989; symbool Koude Oorlog)
 
 ---
 

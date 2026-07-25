@@ -114,3 +114,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Sociale Psychologie]]
 - [[Groepsdynamica]]
 - [[Existentiële Psychiatrie]]
+- [[Hemispatiale Verwaarlozing]]

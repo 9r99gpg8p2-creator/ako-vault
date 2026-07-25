@@ -269,6 +269,9 @@ type: operationeel
 | ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Koreaoorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Koreaoorlog.md — confidence 5 |
 | ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: ETFs | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/ETFs.md — confidence 5 |
 | ✓ | 2026-07-24T consolidatie | Agent 3 | Gap: Existentiële Psychiatrie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Existentiële Psychiatrie.md — confidence 5 |
+| ↓ | 2026-07-25T expansie | Agent 3 | Gap: Syndroom van Korsakov | Klinisch amnesiesyndroom (alcoholgerelateerd); relevant MSc KNP; nog niet in vault |
+| ↓ | 2026-07-25T expansie | Agent 3 | Gap: Grondstoffen (Commodities) | Beleggen-categorie (goud, olie, agrarisch) ontbreekt; aanvulling op Valutamarkten en Asset Allocatie |
+| ↓ | 2026-07-25T expansie | Agent 3 | Gap: Cognitieve Reserve | Verklaart bescherming tegen neurodegeneratie bij hoogopgeleiden; verbindt Neuroplasticiteit met klinische praktijk |
 
 ---
 

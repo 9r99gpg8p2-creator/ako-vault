@@ -1846,3 +1846,29 @@ type: operationeel
 | 2026-07-24 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Cross-domein ratio: ≥ 1:5 ✓ · Queue: 0 items resterend |
 | 2026-07-24 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · Queue leeg |
 | 2026-07-24 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 pag's · 8 verbindingen · 2 inzichten · Health: 100% · Queue: 0 resterend |
+| 2026-07-25 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-25 | expansie | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden beginnen met `_` (sjabloonbestanden) — geen te verwerken content — STAP 1.5 overgeslagen |
+| 2026-07-25 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt. Confidence 5 voor alle onderwerpen. |
+| 2026-07-25 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Hemispatiale Verwaarlozing (Psych NIEUW), Esthetica (Fil NIEUW), Valutamarkten (Beleg NIEUW), De Berlijnse Muur (Gesch NIEUW) |
+| 2026-07-25 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Hemispatiale Verwaarlozing.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-25 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Esthetica.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-25 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Valutamarkten.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-25 | expansie | Agent 3 | Wiki aangemaakt | ✓ | De Berlijnse Muur.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-25 | expansie | Agent 3 | Gap Engine | ✓ | 3 aanbevolen gaps voor volgende run: Syndroom van Korsakov (Psych), Grondstoffen (Beleg), Cognitieve Reserve (Psych) |
+| 2026-07-25 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Hemispatiale Verwaarlozing — Anosognosie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-25 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Esthetica — Emotieregulatie.md — sterkte ★7 — Filosofie × Psychologie |
+| 2026-07-25 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Valutamarkten — Monetair Beleid.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-25 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Berlijnse Muur — Koude Oorlog.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-25 | expansie | Agent 4 | Reverse links toegevoegd | ✓ | Anosognosie ← Hemispatiale Verwaarlozing ★9 · Emotieregulatie ← Esthetica ★7 · Monetair Beleid ← Valutamarkten ★9 · Koude Oorlog ← De Berlijnse Muur ★10 |
+| 2026-07-25 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Esthetica als Therapeutische Taal.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-25 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Muur in het Hoofd.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-25 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Valutavolatiliteit als Collectieve Paniek.md — Beleggen → Psychologie — sterkte ★7 |
+| 2026-07-25 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-25 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten |
+| 2026-07-25 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-25 Quiz.md — 5 vragen (Hemispatiale Verwaarlozing ×2, Esthetica ×2, Valutamarkten ×1) |
+| 2026-07-25 | expansie | Agent 6 | Reflectie bijgewerkt | ✓ | 2026-30 Reflectie.md — update sectie 2026-07-25 toegevoegd |
+| 2026-07-25 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Coverage 100%, Connectivity 100%, Orphan 0% (na hub-update) — alle disciplines 100% |
+| 2026-07-25 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | 5 dashboards overschreven: Algemeen, Psychologie, Filosofie, Geschiedenis, Beleggen |
+| 2026-07-25 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Hemispatiale Verwaarlozing) · Filosofie: +1 (Esthetica) · Geschiedenis: +1 (De Berlijnse Muur) · Beleggen: +1 (Valutamarkten) |
+| 2026-07-25 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 2:4 nieuwe bruggen (≥ 1:5 ✓) |
+| 2026-07-25 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe aanbevolen gaps → ↓ (Syndroom van Korsakov, Grondstoffen, Cognitieve Reserve) |
+| 2026-07-25 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% · Gepusht naar origin/main |

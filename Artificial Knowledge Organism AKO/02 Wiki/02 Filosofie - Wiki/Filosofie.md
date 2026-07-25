@@ -73,3 +73,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Deugdethiek]]
 - [[Hannah Arendt]]
 - [[Heidegger]]
+- [[Esthetica]]

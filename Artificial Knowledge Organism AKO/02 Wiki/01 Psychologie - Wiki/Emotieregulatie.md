@@ -61,6 +61,7 @@ In de klinische neuropsychologie is emotieregulatie cruciaal: stoornissen in reg
 - [[Werkgeheugen]] — werkgeheugen als buffer in cognitieve herwaardering
 
 **Cross-domein:**
+- [[Esthetica]] ★7 — kunst en esthetische ervaring als emotieregulatiestrategieën; filosofische fundering in Aristoteles' katharsis (Filosofie)
 - [[Prospect Theory]] — emotionele invloed op risicoafweging (Beleggen)
 - [[Persoonlijkheidsstoornissen]] ★10 — verstoorde emotieregulatie als kernkenmerk van Cluster B PS, met name Borderline
 - [[Deugdethiek]] ★7 — Aristoteles' habituation-concept correspondeert met de psychologische bevinding dat emotieregulatie aangeleerd kan worden door herhaling (Filosofie)

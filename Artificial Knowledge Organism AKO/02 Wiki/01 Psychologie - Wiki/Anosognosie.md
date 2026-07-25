@@ -47,6 +47,7 @@ Joseph Babinski beschreef in 1914 patiënten met hemiplegie die hun verlammende 
 **Hub:** [[Psychologie]]
 
 **Gerelateerd:**
+- [[Hemispatiale Verwaarlozing]] ★9 — beide syndromen van gestoord zelfbewustzijn na rechterhemisferisch letsel; treden frequent samen op
 - [[Neuropsychologische Rehabilitatie]] — barrière: anosognosie is een van de grootste belemmeringen voor effectieve revalidatie; behandeling vereist indirecte strategieën
 - [[Executieve Functies]] — oorzaak: schade aan zelfmonitoringcomponent van executieve functies ondermijnt het bewustzijn van eigen stoornissen
 - [[Werkgeheugen]] — relatie: gebrekkige interne monitoring hangt samen met werkgeheugendisfunctie bij het bijhouden van eigen prestaties

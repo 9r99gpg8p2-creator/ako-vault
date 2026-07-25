@@ -52,6 +52,7 @@ Historici als John Lewis Gaddis (*The Cold War*, 2005) beschouwen de Koude Oorlo
 **Hub:** [[Geschiedenis]]
 
 **Gerelateerd:**
+- [[De Berlijnse Muur]] ★10 — meest iconische fysieke symbool van de Koude Oorlog; val in 1989 luidde het einde in
 - [[Tweede Wereldoorlog]] — directe aanleiding voor de bipolaire naoorlogse wereldorde
 - [[Totalitarisme]] — het Sovjet-systeem als vorm van totalitaire staat
 - [[Eerste Wereldoorlog]] — bredere context van 20e-eeuwse Europese machtsstrijd

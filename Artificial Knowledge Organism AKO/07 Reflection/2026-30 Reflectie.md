@@ -44,13 +44,24 @@ De meest betekenisvolle nieuwe verbindingen deze week:
 2. **De Islamitische Gouden Eeuw** (Geschiedenis) — brug tussen Grieks denken en Renaissance; culturele overdracht van kennis
 3. **Risicomanagement** (Beleggen) — praktisch fundament voor portefeuilleopbouw naast Diversificatie en MPT
 
+## Update 2026-07-25 (expansie-run)
+
+Aanvullende concepten toegevoegd op 25 juli:
+
+- **Hemispatiale Verwaarlozing** (Psychologie): klinisch neuropsychologisch syndroom van gestoorde ruimtelijke aandacht na rechterhemisferisch letsel — directe aanvulling op de klinische neuropsychologie cluster.
+- **Esthetica** (Filosofie): systematische behandeling van de filosofie van schoonheid en kunst, die eerder ontbrak als zelfstandig onderwerp ondanks raakvlakken met Ethiek en Fenomenologie.
+- **Valutamarkten** (Beleggen): de grootste financiële markt ter wereld was nog niet vertegenwoordigd; sluit Forex-leemte.
+- **De Berlijnse Muur** (Geschiedenis): iconisch symbool van de Koude Oorlog, nu als zelfstandige pagina naast Koude Oorlog en Stalinisme.
+
+Nieuwe inzicht: kunst als therapeutische taal (*Esthetica als Therapeutische Taal*) verbindt Aristoteles' katharsis met moderne emotieregulatiestrategieën — een onverwachte brug die oud filosofisch denken klinisch relevant maakt.
+
 ## Statistieken
 
 | Metric | Week 30 |
 |---|---|
-| Nieuwe concepten | 4 |
-| Nieuwe verbindingen | 4 |
-| Nieuwe inzichten | 3 |
+| Nieuwe concepten | 8 (4 + 4 juli-25) |
+| Nieuwe verbindingen | 8 (4 + 4 juli-25) |
+| Nieuwe inzichten | 6 (3 + 3 juli-25) |
 | Gaps gedicht | 0 |
 | Gaps gesignaleerd | 2 |
-| Knowledge Health score | 87% |
+| Knowledge Health score | 96% |
