@@ -1919,3 +1919,16 @@ type: operationeel
 | 2026-07-25T00:00Z | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Neuropsychologie) · Beleggen: +2 (Behavioral Finance, ESG Beleggen) · Filosofie: René Descartes al aanwezig |
 | 2026-07-25T00:00Z | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
 | 2026-07-25T00:00Z | expansie | Orchestrator | Expansie-run voltooid | ✓ | 3 nieuwe pag's (Behavioral Finance, Neuropsychologie, ESG Beleggen) + 1 merge (René Descartes) · 4 verbindingen · 3 inzichten · Health: 100% |
+| 2026-07-25T consolidatie | | Agent 1 | Inbox scan | ✓ | Geen te verwerken bestanden (alle beginnen met `_`) — STAP 1.5 overgeslagen |
+| 2026-07-25T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | John Locke.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-25T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Neuropsychologische Testbatterijen.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-25T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | John Locke — René Descartes.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-25T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuropsychologische Testbatterijen — Executieve Functies.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-25T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuropsychologische Testbatterijen — Werkgeheugen.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-25T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | John Locke — Maatschappelijk Contract.md — sterkte ★8 — Filosofie (intra) |
+| 2026-07-25T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Ervaring als Architect van Geest en Gedrag.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-25T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Profiel als Spiegel van de Hersenen.md — Psychologie — sterkte ★8 |
+| 2026-07-25T consolidatie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-25 Dagrapport.md — consolidatie-modus |
+| 2026-07-25T consolidatie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-25 Quiz.md — 3 nieuwe vragen toegevoegd (vraag 4-6) |
+| 2026-07-25T consolidatie | | Agent 8 | Hub bijgewerkt | ✓ | Psychologie.md: +1 (Neuropsychologische Testbatterijen) · Filosofie: John Locke al aanwezig |
+| 2026-07-25T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 2 pag's aangemaakt · 4 verbindingen · 2 inzichten · Connectivity: 100% |

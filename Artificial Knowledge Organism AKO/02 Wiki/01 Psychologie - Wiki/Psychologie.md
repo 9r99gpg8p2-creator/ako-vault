@@ -118,3 +118,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Syndroom van Korsakov]]
 - [[Cognitieve Reserve]]
 - [[Neuropsychologie]]
+- [[Neuropsychologische Testbatterijen]]

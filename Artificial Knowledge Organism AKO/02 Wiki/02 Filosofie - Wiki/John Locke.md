@@ -1,68 +1,70 @@
 ---
 id: fil-john-locke
-tags: [filosofie, john-locke]
+tags: [filosofie, concept]
 discipline: filosofie
 type: persoon
 status: uitgewerkt
 confidence: 5
 sources:
-  - "Locke, J. (1689/1975). An Essay Concerning Human Understanding. Oxford University Press."
-  - "Locke, J. (1689/1988). Two Treatises of Government. Cambridge University Press."
-  - "Jolley, N. (1999). Locke: His Philosophical Thought. Oxford University Press."
+  - "Locke, J. (1689). An Essay Concerning Human Understanding. Thomas Basset."
+  - "Locke, J. (1689). Two Treatises of Government. Awnsham Churchill."
+  - "Uzgalis, W. (2022). John Locke. Stanford Encyclopedia of Philosophy."
 hub: "[[Filosofie]]"
 related:
-  - "[[Epistemologie]]"
+  - "[[René Descartes]]"
+  - "[[David Hume]]"
+  - "[[George Berkeley]]"
+  - "[[Maatschappelijk Contract]]"
+  - "[[Thomas Hobbes]]"
   - "[[Rationalisme]]"
-  - "[[De Verlichting]]"
-  - "[[Immanuel Kant]]"
-  - "[[Politieke Filosofie]]"
-created: 2026-07-19
-updated: 2026-07-19
+created: 2026-07-25
+updated: 2026-07-25
 ---
 
 # John Locke
 
 ## Definitie
 
-John Locke (1632–1704) was een Engelse filosoof die wordt beschouwd als een van de grondleggers van het empirisme en het klassiek liberalisme. Zijn werk legde de epistemologische en politieke fundamenten voor de Verlichting en beïnvloedde diepgaand de westerse democratische tradities, de wetenschappelijke methode en het moderne begrip van individuele rechten.
+John Locke (1632–1704) was een Engelse filosoof en is een van de grondleggers van het empirisme en het klassieke liberalisme. Zijn werk heeft de verlichting, de moderne democratische staatstheorie en de epistemologie fundamenteel gevormd. Locke stelde dat menselijke kennis uitsluitend voortkomt uit zintuiglijke ervaring, niet uit aangeboren ideeën.
 
 ## Kernconcepten
 
-- **Tabula rasa:** Lockes meest invloedrijke epistemologische stelling: de menselijke geest is bij de geboorte een "onbeschreven lei". Alle kennis is afkomstig uit zintuiglijke ervaring (sensatie) en reflectie op die ervaring — er bestaan geen aangeboren ideeën (contra Descartes en Plato).
-- **Empirisme:** Kennis is alleen mogelijk via ervaring. Eenvoudige ideeën (warmte, kleur, smaak) worden door zintuigen opgenomen; samengestelde ideeën worden door de geest geconstrueerd.
-- **Primaire vs. secundaire kwaliteiten:** Primaire kwaliteiten (massa, vorm, beweging) bestaan objectief in dingen zelf; secundaire kwaliteiten (kleur, geur, smaak) zijn subjectieve ervaringen die afhangen van de waarnemer.
-- **Sociale contracttheorie:** In zijn *Two Treatises of Government* (1689) verdedigde Locke dat legitiem gezag berust op instemming van de geregeerden. Mensen hebben van nature onvervreemdbare rechten op leven, vrijheid en eigendom; een regering die deze rechten schendt, verliest haar legitimiteit en kan worden afgezet.
-- **Scheiding van kerk en staat:** Locke bepleitte religieuze tolerantie als politiek principe, deels uit pragmatisme (godsdienstoorlogen), deels uit principiële overtuiging dat de staat geen autoriteit heeft over innerlijke overtuigingen.
+- **Tabula rasa:** De geest is bij geboorte een blanco lei — alle kennis wordt verworven via ervaring en zintuiglijkheid, niet aangeboren.
+- **Empirisme:** Kennis is alleen geldig wanneer zij teruggaat op zintuiglijke waarneming en reflectie daarop; rationalistische aangeboren ideeën (Descartes) worden verworpen.
+- **Primaire en secundaire kwaliteiten:** Primaire kwaliteiten (massa, uitgebreidheid, getal) bestaan objectief in de werkelijkheid; secundaire kwaliteiten (kleur, geur, smaak) zijn subjectief en geest-afhankelijk.
+- **Natuurrechten en sociaal contract:** Mensen hebben van nature het recht op leven, vrijheid en eigendom; de staat ontleent zijn legitimiteit aan de instemming van de burgers.
+- **Religieuze tolerantie:** Locke pleitte voor scheiding van kerk en staat en voor tolerantie van religieuze diversiteit.
 
 ## Context
 
-Locke leefde in een politiek turbulent Engeland (de Glorious Revolution van 1688 vond vlak voor publicatie van zijn *Two Treatises* plaats). Zijn filosofie reageerde direct op de absolutistische theorieën van Thomas Hobbes en de aangeboren-ideeënleer van Descartes. Als arts en vriend van wetenschappers als Robert Boyle en Isaac Newton was Locke diep beïnvloed door de opkomende experimentele wetenschapsmethode.
-
-Zijn werk werd de filosofische ruggengraat van de Verlichtingsdenkers in Frankrijk (Voltaire, Montesquieu) en de Amerikaanse Onafhankelijkheidsverklaring (1776), die vrijwel letterlijk zijn formulering van "leven, vrijheid en eigendom" adopteerde als "life, liberty and the pursuit of happiness".
+Locke werkte in het intellectuele klimaat van de wetenschappelijke revolutie en de Engelse Burgeroorlog. Zijn *Essay Concerning Human Understanding* (1689) was een directe reactie op het cartesiaanse rationalisme: waar Descartes aangeboren ideeën als fundament van kennis beschouwde, betoogde Locke dat de geest aanvankelijk leeg is en uitsluitend gevuld wordt door ervaring. Zijn politieke filosofie — gepubliceerd in *Two Treatises of Government* (1689) — beïnvloedde de Amerikaanse Onafhankelijkheidsverklaring en de Franse Revolutie. Samen met George Berkeley en David Hume vormt Locke de Brits-empiristische traditie die het continentale rationalisme van Descartes en Leibniz uitdaagt.
 
 ## Toepassingen
 
-- **Politieke theorie:** Het constitutioneel-democratisch denken (machtenscheiding, grondrechten, representatief bestuur) is rechtstreeks schatplichtig aan Locke.
-- **Onderwijs en psychologie:** De tabula rasa-doctrine beïnvloedde het behaviorisme (gedrag bepaald door omgeving en leren) en de pedagogische traditie van Rousseau en later Piaget.
-- **Eigendomsrecht:** Lockes arbeidstheorie van waarde (eigendom ontstaat wanneer men arbeid in een zaak investeert) beïnvloedde Adam Smith en de liberale economische traditie.
+- In de psychologie: het empirisme legde de basis voor behaviorisme en experimentele psychologie — de notie dat alle gedrag en kennis geleerd worden via ervaring sluit aan op klassieke conditionering en de sociale leertheorie.
+- In de politieke filosofie: Lockes theorie van de instemming van de geregeerden en het recht op opstand bij tyrannie vormt de intellectuele grondslag van liberale democratieën.
+- In de epistemologie: het onderscheid tussen primaire en secundaire kwaliteiten anticipeerde discussies over perceptie, bewustzijn en de relatie tussen geest en werkelijkheid.
+- In de klinische neuropsychologie: de empiristische nadruk op ervaring als bron van kennis ondersteunt het begrip van leren en geheugenvorming als neurobiologische processen.
 
 ## Verbindingen
 
 **Hub:** [[Filosofie]]
 
 **Gerelateerd:**
-- [[Epistemologie]] — tabula rasa vormt een directe tegenstelling met rationalistische kennistheorie
-- [[Rationalisme]] — tegenpositie: Descartes verdedigde aangeboren ideeën
-- [[De Verlichting]] — Locke is de epistemologische architect van de Europese Verlichting
-- [[Immanuel Kant]] — Kant synthesiseerde het empirisme van Locke/Hume met het rationalisme van Leibniz
-- [[Politieke Filosofie]] — Lockes contracttheorie is een grondtekst van de westerse politieke filosofie
+- [[René Descartes]] — tegenstelling: rationalisme vs. empirisme; Descartes stelt aangeboren ideeën centraal, Locke verwerpt ze
+- [[David Hume]] — aanvulling: Hume radicaliseerde Lockes empirisme tot scepticisme over causaliteit en zelfidentiteit
+- [[George Berkeley]] — aanvulling: Berkeley nam Lockes empirisme over maar ontkende het bestaan van materiële objecten onafhankelijk van de geest
+- [[Maatschappelijk Contract]] — onderdeel van: Lockes politieke filosofie is een variant van de sociaalcontracttheorie naast Hobbes en Rousseau
+- [[Thomas Hobbes]] — tegenstelling: Hobbes' pessimisme over de menselijke natuur (bellum omnium) tegenover Lockes meer optimistische visie op natuurrechten
+- [[Rationalisme]] — tegenstelling: het empirisme als alternatief voor het rationalisme als kennistheorie
 
 **Cross-domein:**
-- [[Behaviorisme]] — de tabula rasa-gedachte ligt aan de basis van behavioristisch leren (Psychologie)
-- [[Klassieke Conditionering]] — omgevingsbeïnvloeding van gedrag sluit aan op Lockes empiristische kennistheorie
+- [[Klassieke Conditionering]] — het empiristische idee dat gedrag volledig gevormd wordt door ervaring ondersteunt het behavioristische leerparadigma
+- [[Behaviorisme]] — empirisme als filosofische onderbouwing voor de behavioristische psychologie
+- [[Sociale Leertheorie]] — ervaring als vormgever van gedrag en kennis verbindt Lockes epistemologie aan het sociale leren
 
 ## Bronnen
 
-- Locke, J. (1689/1975). *An Essay Concerning Human Understanding*. Oxford University Press.
-- Locke, J. (1689/1988). *Two Treatises of Government*. Cambridge University Press.
-- Jolley, N. (1999). *Locke: His Philosophical Thought*. Oxford University Press.
+- Locke, J. (1689). *An Essay Concerning Human Understanding*. Thomas Basset.
+- Locke, J. (1689). *Two Treatises of Government*. Awnsham Churchill.
+- Uzgalis, W. (2022). John Locke. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/locke/

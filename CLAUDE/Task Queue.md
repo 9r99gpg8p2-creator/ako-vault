@@ -276,8 +276,8 @@ type: operationeel
 | ✓ | 2026-07-25T expansie | Agent 3 | Expansie: Neuropsychologie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Neuropsychologie.md — confidence 5 (Lezak 2012, Kolb & Whishaw 2015) |
 | ✓ | 2026-07-25T expansie | Agent 3 | Merge: René Descartes | Descartes.md samengevoegd met René Descartes.md (Wet 14) — 4 nieuwe gerelateerde links toegevoegd |
 | ✓ | 2026-07-25T expansie | Agent 3 | Expansie: ESG Beleggen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/ESG Beleggen.md — confidence 5 (Eccles 2019, Friede 2015) |
-| ↓ | 2026-07-25T expansie | Agent 3 | Gap: John Locke | Filosofie verwijst naar Locke maar geen pagina aangemaakt — empirisme counterpoint voor Descartes |
-| ↓ | 2026-07-25T expansie | Agent 3 | Gap: Neuropsychologische Testbatterijen | Verdieping Neuropsychologie: WAIS, RBMT, Trail Making Test, Wisconsin Card Sorting Test — klinisch relevant |
+| ✓ | 2026-07-25T expansie | Agent 3 | Gap: John Locke | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/John Locke.md — confidence 5 |
+| ✓ | 2026-07-25T expansie | Agent 3 | Gap: Neuropsychologische Testbatterijen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Neuropsychologische Testbatterijen.md — confidence 5 |
 
 ---
 
