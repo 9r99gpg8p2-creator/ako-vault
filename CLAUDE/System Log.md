@@ -1954,3 +1954,21 @@ type: operationeel
 | 2026-07-25T expansie-2 | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Apraxie · Filosofie: +Leibniz · Geschiedenis: +De Holocaust · Beleggen: +Monte Carlo Simulatie |
 | 2026-07-25T expansie-2 | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
 | 2026-07-25T expansie-2 | | Orchestrator | Expansie-run 2 voltooid | ✓ | 4 nieuwe pag's · 5 verbindingen · 2 inzichten · Health: 97% |
+| 2026-07-25T consolidatie | | Orchestrator | Context laden | ✓ | AKO v1.6, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-25T consolidatie | | Agent 1 | Inbox gescand | ✓ | Geen verwerkte bestanden gevonden (alle bestanden starten met _) — STAP 1.5 overgeslagen |
+| 2026-07-25T consolidatie | | Agent 2 | Research CONSOLIDATIE | ✓ | Wikipedia API geblokkeerd — interne kennis gebruikt. 2 gaps geselecteerd: Agnosie, Neuropsychologische Revalidatie |
+| 2026-07-25T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Agnosie.md — 01 Psychologie - Wiki — confidence 8 (Farah 1990, Humphreys & Riddoch 1987, Lissauer 1890) |
+| 2026-07-25T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Neuropsychologische Revalidatie.md — 01 Psychologie - Wiki — confidence 8 (Wilson 2003, Prigatano 1999, Cappa 2005) |
+| 2026-07-25T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Agnosie — Apraxie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-25T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Agnosie — Afasie.md — sterkte ★7 — Psychologie (intra) |
+| 2026-07-25T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuropsychologische Revalidatie — Traumatisch Hersenletsel.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-25T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuropsychologische Revalidatie — Klinische Neuropsychologie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-25T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Agnosie als Bewijs dat Perceptie een Constructie Is.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-25T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Revalidatie als Deugdpraktijk.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-25T consolidatie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-25 Dagrapport.md — consolidatiemodus — 2 nieuwe pagina's, 4 verbindingen, 2 inzichten, 0 gaps resterend |
+| 2026-07-25T consolidatie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-25 Quiz.md — 3 nieuwe vragen toegevoegd (Agnosie begrip, Neuropsychologische Revalidatie toepassing, Agnosie vergelijking) |
+| 2026-07-25T consolidatie | | Agent 7 | Knowledge Health berekend | ✓ | Psych 109 pag's · Fil 62 · Gesch 59 · Beleg 60 — Connectivity 100%, Orphan 0% — Health ≥ 88% |
+| 2026-07-25T consolidatie | | Agent 7 | Psychologie Dashboard bijgewerkt | ✓ | Psychologie Dashboard.md overschreven — 109 pagina's |
+| 2026-07-25T consolidatie | | Agent 8 | Hub-pagina bijgewerkt | ✓ | Psychologie.md: +Agnosie, +Neuropsychologische Revalidatie |
+| 2026-07-25T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Agnosie, Neuropsychologische Revalidatie) · queue nu leeg |
+| 2026-07-25T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 0 Inbox verwerkt · Health: 88% Psychologie |

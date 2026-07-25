@@ -120,3 +120,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Neuropsychologie]]
 - [[Neuropsychologische Testbatterijen]]
 - [[Apraxie]]
+- [[Agnosie]]
+- [[Neuropsychologische Revalidatie]]

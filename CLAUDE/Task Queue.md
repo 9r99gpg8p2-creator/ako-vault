@@ -282,8 +282,8 @@ type: operationeel
 | ✓ | 2026-07-25T expansie-2 | Agent 3 | Expansie: De Holocaust | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Holocaust.md — confidence 5 |
 | ✓ | 2026-07-25T expansie-2 | Agent 3 | Expansie: Leibniz | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Leibniz.md — confidence 5 |
 | ✓ | 2026-07-25T expansie-2 | Agent 3 | Expansie: Monte Carlo Simulatie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Monte Carlo Simulatie.md — confidence 5 |
-| ↓ | 2026-07-25T expansie-2 | Agent 3 | Gap: Agnosie | Neuropsychologische stoornis in objectherkenning — frequent samen met apraxie, geen eigen pagina |
-| ↓ | 2026-07-25T expansie-2 | Agent 3 | Gap: Neuropsychologische Revalidatie | Revalidatieprotocollen na hersenletsel — kerncompetentie MSc Klinische Neuropsychologie |
+| ✓ | 2026-07-25T expansie-2 | Agent 3 | Gap: Agnosie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Agnosie.md — confidence 8 (Farah 1990, Humphreys & Riddoch 1987, Lissauer 1890) |
+| ✓ | 2026-07-25T expansie-2 | Agent 3 | Gap: Neuropsychologische Revalidatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Neuropsychologische Revalidatie.md — confidence 8 (Wilson 2003, Prigatano 1999, Cappa 2005) |
 
 ---
 
