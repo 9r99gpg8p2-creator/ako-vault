@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-25
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -20,7 +20,7 @@ sessie: consolidatie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: → (3 nieuwe pagina's, 6 verbindingen, 3 inzichten — consolidatie-run 2026-07-25)
+Trend: ↑ (11 nieuwe pagina's vandaag, 14 verbindingen, 9 inzichten — expansie-run 2026-07-25)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: → (3 nieuwe pagina's, 6 verbindingen, 3 inzichten — consolidatie-run 
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 104 | 100% | → |
-| Filosofie | 61 | 100% | → |
+| Psychologie | 105 | 100% | → |
+| Filosofie | 62 | 100% | ↑ |
 | Geschiedenis | 58 | 100% | → |
-| Beleggen | 57 | 100% | → |
-| **Totaal** | **280** | **100%** | → |
+| Beleggen | 59 | 100% | ↑ |
+| **Totaal** | **284** | **100%** | ↑ |
 
 ---
 
@@ -40,34 +40,35 @@ Trend: → (3 nieuwe pagina's, 6 verbindingen, 3 inzichten — consolidatie-run 
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's | 108+ |
-| Inzichtpagina's | 62+ |
+| Relatiepagina's | 112+ |
+| Inzichtpagina's | 65+ |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-25 — consolidatie)
+## Sessieoverzicht (2026-07-25 — expansie)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 3 |
-| Nieuwe relatiepagina's | 6 |
+| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe relatiepagina's | 4 |
 | Nieuwe inzichten | 3 |
-| Inbox verwerkt | 0 (alleen sjabloonbestanden) |
-| Gaps gedicht | 3 |
+| Inbox verwerkt | 0 (geen bestanden beschikbaar) |
+| Gaps gedicht | 0 |
 | Queue resterend | 0 |
 
 ---
 
-## Nieuwe pagina's (consolidatie-run)
+## Nieuwe pagina's (expansie-run)
 
-- [[Syndroom van Korsakov]] (Psychologie — klinisch amnesiesyndroom, thiaminedeficiëntie, alcoholgerelateerd)
-- [[Cognitieve Reserve]] (Psychologie — bescherming tegen neurodegeneratie, Stern 2002)
-- [[Grondstoffen]] (Beleggen — commodities, goud, energie, agrarisch, inflatie-hedge)
+- [[Behavioral Finance]] (Beleggen — cross-domein met Psychologie, Kahneman/Thaler/Shiller)
+- [[Neuropsychologie]] (Psychologie — fundament voor MSc Klinische Neuropsychologie)
+- [[Descartes]] (Filosofie — grondlegger modern rationalisme, cogito ergo sum)
+- [[ESG Beleggen]] (Beleggen — duurzaam beleggen, cross-domein met Deugdethiek)
 
 ---
 
 ## Aandacht vereist
 
-*(queue leeg — Wikipedia API blijft onbereikbaar via proxy E-003)*
+*(Wikipedia API onbereikbaar via proxy E-003 — interne kennis gebruikt, confidence 5)*

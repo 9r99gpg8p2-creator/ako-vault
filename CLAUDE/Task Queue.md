@@ -272,6 +272,12 @@ type: operationeel
 | ✓ | 2026-07-25T consolidatie | Agent 3 | Gap: Syndroom van Korsakov | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Syndroom van Korsakov.md — confidence 8 (Kopelman 1995, Victor et al. 1989) |
 | ✓ | 2026-07-25T consolidatie | Agent 3 | Gap: Grondstoffen (Commodities) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Grondstoffen.md — confidence 5 (Gorton & Rouwenhorst 2006) |
 | ✓ | 2026-07-25T consolidatie | Agent 3 | Gap: Cognitieve Reserve | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Reserve.md — confidence 8 (Stern 2002, 2009; Valenzuela & Sachdev 2006) |
+| ✓ | 2026-07-25T expansie | Agent 3 | Expansie: Behavioral Finance | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Behavioral Finance.md — confidence 5 (Thaler/Shiller/Kahneman) |
+| ✓ | 2026-07-25T expansie | Agent 3 | Expansie: Neuropsychologie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Neuropsychologie.md — confidence 5 (Lezak 2012, Kolb & Whishaw 2015) |
+| ✓ | 2026-07-25T expansie | Agent 3 | Merge: René Descartes | Descartes.md samengevoegd met René Descartes.md (Wet 14) — 4 nieuwe gerelateerde links toegevoegd |
+| ✓ | 2026-07-25T expansie | Agent 3 | Expansie: ESG Beleggen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/ESG Beleggen.md — confidence 5 (Eccles 2019, Friede 2015) |
+| ↓ | 2026-07-25T expansie | Agent 3 | Gap: John Locke | Filosofie verwijst naar Locke maar geen pagina aangemaakt — empirisme counterpoint voor Descartes |
+| ↓ | 2026-07-25T expansie | Agent 3 | Gap: Neuropsychologische Testbatterijen | Verdieping Neuropsychologie: WAIS, RBMT, Trail Making Test, Wisconsin Card Sorting Test — klinisch relevant |
 
 ---
 

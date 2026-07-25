@@ -70,3 +70,5 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[ETFs]]
 - [[Valutamarkten]]
 - [[Grondstoffen]]
+- [[Behavioral Finance]]
+- [[ESG Beleggen]]

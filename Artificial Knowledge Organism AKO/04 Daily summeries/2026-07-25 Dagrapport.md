@@ -2,34 +2,35 @@
 type: dagrapport
 date: 2026-07-25
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 7 totaal vandaag (4 expansie + 3 consolidatie) · Inbox verwerkt: 0 · Verbindingen: 10 (4+6) · Inzichten: 6 (3+3) · Gaps gedicht: 3 · Leestijd: ~17 min
+Nieuwe kennis: 11 totaal vandaag (7 consolidatie + 4 expansie) · Inbox verwerkt: 0 · Verbindingen: 14 (10+4) · Inzichten: 9 (6+3) · Gaps gedicht: 3 · Leestijd: ~22 min
 
 ## Research Agenda
 
-1. **Syndroom van Korsakov** — klinisch amnesiesyndroom, direct relevant voor MSc Klinische Neuropsychologie; differentiaaldiagnose met Alzheimer — *aangemaakt deze run ✓*
-2. **Cognitieve Reserve** — beschermend mechanisme bij neurodegeneratie; cruciaal voor testinterpretatie in klinische neuropsychologie — *aangemaakt deze run ✓*
-3. **Grondstoffen** — ontbrekende beleggingscategorie; aanvulling op Valutamarkten en Asset Allocatie — *aangemaakt deze run ✓*
+1. **Behavioral Finance** — kernbrug tussen psychologie en beleggen, aangemaakt; verdieping in overconfidence en mental accounting gewenst
+2. **Neuropsychologie** — fundament voor MSc Klinische Neuropsychologie; uitbreiden met specifieke testbatterijen (WAIS, RBMT)
+3. **Descartes** — grondlegger modern rationalisme; vervolgstap: John Locke (empirisme, counterpoint) ontbreekt nog
 
-## Pagina's Aangemaakt (Consolidatie-run)
+## Pagina's Aangemaakt (Expansie-run)
 
-1. [[Syndroom van Korsakov]] — Psychologie — confidence 8 (Kopelman 1995, Victor et al. 1989)
-2. [[Cognitieve Reserve]] — Psychologie — confidence 8 (Stern 2002, 2009; Valenzuela & Sachdev 2006)
-3. [[Grondstoffen]] — Beleggen — confidence 5 (Gorton & Rouwenhorst 2006)
+1. [[Behavioral Finance]] — Beleggen — confidence 5
+2. [[Neuropsychologie]] — Psychologie — confidence 5
+3. [[Descartes]] — Filosofie — confidence 5
+4. [[ESG Beleggen]] — Beleggen — confidence 5
 
 ## Insight Feed
 
-— "Wat Aristoteles omschreef als katharsis vindt zijn klinische equivalent in hedendaagse emotieregulatiestrategieën — esthetische filosofie is impliciet een theorie van psychologische genezing." [Filosofie → Psychologie · ★8]
+— "De cognitieve biases die beleggers maken tot slechte beslissers zijn structureel identiek aan de beperkingen bij frontale hersenschade — irrationeel beleggen is een menselijk neurologisch kenmerk, geen moreel falen." [Neuropsychologie → Behavioral Finance · ★9]
 
-— "De Berlijnse Muur viel in 1989, maar de *Mauer im Kopf* bleef decennialang bestaan — fysieke barrières creëren representationele en identiteitsstructuren die lang na hun opheffing voortleven." [Geschiedenis → Psychologie · ★8]
+— "Descartes stelde het probleem dat de neuropsychologie empirisch beantwoordt: hoe interacteert geest met lichaam? Neuropsychologische patiëntenstudies tonen dat 'geest' een functionele beschrijving is van hersenfuncties." [Filosofie → Psychologie · ★9]
 
-— "Extreme valutabewegingen zijn in essentie collectieve emotieregulatieproblemen — kuddegedrag op macroschaal dat statistische risicomodellen structureel onderschatten." [Beleggen → Psychologie · ★7]
+— "ESG Beleggen is deugdethiek in geïnstitutionaliseerde vorm: kapitaalstromen als dragers van collectieve morele preferenties." [Deugdethiek → ESG Beleggen · ★8]
 
-— "Het brein herinnert niet wat het lichaam deed: verslaving vernietigt niet alleen de lever maar ook het neuraal substraat van identiteit en leren." [Verslaving → Syndroom van Korsakov · ★9]
+— "Wat Aristoteles omschreef als katharsis vindt zijn klinisch equivalent in hedendaagse emotieregulatiestrategieën." [Filosofie → Psychologie · ★8]
 
 — "Een beter gevormde geest verliest later: levenslang leren is preventieve neuropsychiatrische geneeskunde." [Cognitieve Reserve → Neuroplasticiteit · ★8]
 
@@ -40,21 +41,20 @@ Nieuwe kennis: 7 totaal vandaag (4 expansie + 3 consolidatie) · Inbox verwerkt:
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 100% | → |
-| Filosofie | 100% | → |
+| Filosofie | 100% | ↑ |
 | Geschiedenis | 100% | → |
-| Beleggen | 100% | → |
+| Beleggen | 100% | ↑ |
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's vandaag totaal | 7 |
-| Nieuwe relatiepagina's | 10 |
-| Nieuwe inzichtpagina's | 6 |
+| Nieuwe Wiki-pagina's vandaag totaal | 11 |
+| Nieuwe relatiepagina's | 14 |
+| Nieuwe inzichtpagina's | 9 |
 | Gaps gedicht | 3 |
-| Queue resterend | 0 |
 
 ## Aandacht vereist
 
-- Wikipedia API blijft onbereikbaar via proxy (FOUT E-003) — interne kennis gebruikt, confidence beperkt tot 5–8
+- Wikipedia API blijft onbereikbaar via proxy (FOUT E-003) — interne kennis gebruikt, confidence beperkt tot 5

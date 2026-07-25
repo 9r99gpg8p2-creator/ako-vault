@@ -16,6 +16,10 @@ related:
   - "[[Filosofie van de Geest]]"
   - "[[Vrije Wil]]"
   - "[[Wetenschappelijke Revolutie]]"
+  - "[[Epistemologie]]"
+  - "[[Metafysica]]"
+  - "[[Spinoza]]"
+  - "[[Immanuel Kant]]"
 created: 2026-07-18
 updated: 2026-07-18
 ---
@@ -52,13 +56,17 @@ Descartes' methodische twijfel is het prototype van kritisch denken: begin met r
 
 **Gerelateerd:**
 - [[Rationalisme]] — Descartes is de grondlegger van het continentale rationalisme
-- [[Bewustzijn]] — het cartesiaans theater als metafoor voor bewustzijn is nog altijd invloedrijk
+- [[Bewustzijn]] ★10 — het cartesiaans theater als metafoor voor bewustzijn is nog altijd invloedrijk
 - [[Filosofie van de Geest]] — het lichaam-geestprobleem is direct afgeleid van zijn dualisme
 - [[Vrije Wil]] — de immateriële geest als bron van vrije wilsuitoefening
 - [[Wetenschappelijke Revolutie]] — Descartes als sleutelfiguur in de overgang naar mechanistisch denken
+- [[Epistemologie]] — zijn methodische twijfel definieerde de moderne epistemologie als fundationeel project
+- [[Metafysica]] — res cogitans vs. res extensa als invloedrijkste metafysische onderscheid van de moderne filosofie
+- [[Spinoza]] ★8 — Spinoza reageerde direct op Descartes: verwierp het dualisme en stelde één substantie voor
+- [[Immanuel Kant]] ★9 — Kant nam het probleem van synthetische kennis a priori over van Descartes
 
 **Cross-domein:**
-- [[Neuropsychologische Rehabilitatie]] — het dualisme onderbouwt klassieke discussies over organische vs. functionele stoornissen
+- [[Neuropsychologie]] ★9 — de neuropsychologie beantwoordt empirisch de cartesiaanse vraag: hoe interacteert geest met brein?
 - [[Executieve Functies]] — cartesiaanse vraag over de rol van bewuste controle over het lichaam
 
 ## Bronnen

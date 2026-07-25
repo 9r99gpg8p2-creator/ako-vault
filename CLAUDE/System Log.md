@@ -1897,3 +1897,25 @@ type: operationeel
 | 2026-07-25 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-25 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ · Queue resterend: 0 |
 | 2026-07-25 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 100% · 280 wiki-pagina's totaal |
+| 2026-07-25T00:00Z | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-25T00:00Z | expansie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden — alle Inbox-bestanden beginnen met _ (sjabloonbestanden). STAP 1.5 overgeslagen. |
+| 2026-07-25T00:00Z | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt. Confidence 5 voor overige concepten. |
+| 2026-07-25T00:00Z | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Behavioral Finance (Beleggen NIEUW), Neuropsychologie (Psychologie NIEUW), René Descartes (Filosofie DUPLICAAT→MERGE), ESG Beleggen (Beleggen NIEUW) |
+| 2026-07-25T00:00Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | Behavioral Finance.md — 04 Beleggen - Wiki — confidence 5 (Thaler/Shiller/Kahneman) |
+| 2026-07-25T00:00Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | Neuropsychologie.md — 01 Psychologie - Wiki — confidence 5 (Lezak/Kolb/Luria) |
+| 2026-07-25T00:00Z | expansie | Agent 3 | Duplicaat verwijderd | ✓ | Descartes.md samengevoegd met René Descartes.md (Wet 14) — 4 nieuwe related links toegevoegd aan René Descartes.md |
+| 2026-07-25T00:00Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | ESG Beleggen.md — 04 Beleggen - Wiki — confidence 5 (Eccles/Friede/VN 2004) |
+| 2026-07-25T00:00Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Behavioral Finance — Prospect Theory.md — sterkte ★10 — Beleggen × Psychologie |
+| 2026-07-25T00:00Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Descartes — Bewustzijn.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-25T00:00Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuropsychologie — Klinische Neuropsychologie.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-25T00:00Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | ESG Beleggen — Deugdethiek.md — sterkte ★8 — Beleggen × Filosofie |
+| 2026-07-25T00:00Z | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Irrationele Belegger en de Patiënt Zijn Hetzelfde Subject.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-25T00:00Z | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Descartes Stelde de Vraag Die de Neuropsychologie Beantwoordt.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-25T00:00Z | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Duurzaam Beleggen als Geïnstitutionaliseerde Deugd.md — Beleggen × Filosofie — sterkte ★8 |
+| 2026-07-25T00:00Z | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-25 Dagrapport.md — expansiemodus — 3 nieuwe pagina's, 4 verbindingen, 3 inzichten, 0 gaps |
+| 2026-07-25T00:00Z | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-25 Quiz.md — 3 vragen toegevoegd (Behavioral Finance, Neuropsychologie/dubbele dissociatie, Descartes/Functionalisme) |
+| 2026-07-25T00:00Z | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 105 pag's, Fil 62 pag's, Gesch 58 pag's, Beleg 59 pag's — Connectivity 100%, Orphan 0% |
+| 2026-07-25T00:00Z | expansie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 284 totale pagina's |
+| 2026-07-25T00:00Z | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Neuropsychologie) · Beleggen: +2 (Behavioral Finance, ESG Beleggen) · Filosofie: René Descartes al aanwezig |
+| 2026-07-25T00:00Z | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
+| 2026-07-25T00:00Z | expansie | Orchestrator | Expansie-run voltooid | ✓ | 3 nieuwe pag's (Behavioral Finance, Neuropsychologie, ESG Beleggen) + 1 merge (René Descartes) · 4 verbindingen · 3 inzichten · Health: 100% |
