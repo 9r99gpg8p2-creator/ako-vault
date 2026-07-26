@@ -72,3 +72,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Koreaoorlog]]
 - [[De Berlijnse Muur]]
 - [[De Holocaust]]
+- [[Industrialisatie]]

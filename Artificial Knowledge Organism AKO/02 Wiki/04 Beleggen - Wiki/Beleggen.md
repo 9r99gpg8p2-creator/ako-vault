@@ -75,3 +75,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Monte Carlo Simulatie]]
 - [[Opties]]
 - [[Smart Beta]]
+- [[Speltheorie]]

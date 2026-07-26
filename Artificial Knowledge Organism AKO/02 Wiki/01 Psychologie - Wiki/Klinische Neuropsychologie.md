@@ -53,6 +53,7 @@ Vandaag omvat het vakgebied diagnostiek en begeleiding bij traumatisch hersenlet
 **Hub:** [[Psychologie]]
 
 **Gerelateerd:**
+- [[Cognitieve Neurowetenschappen]] ★9 — theoretische basis: cognitieve neurowetenschappen leveren de kennis over neurale mechanismen die klinische neuropsychologie toepast op diagnose en revalidatie.
 - [[Neuropsychologische Rehabilitatie]] — uitvoeringstak: revalidatie is één van de kerntaken van de klinisch neuropsycholoog
 - [[Executieve Functies]] — centraal domein van assessment: prefrontale stoornissen zijn de meest voorkomende klinisch relevante deficits
 - [[Werkgeheugen]] — sleutelconstruct in neuropsychologische assessment; capaciteitsbeperking is vroeg signaal bij neurodegeneratie

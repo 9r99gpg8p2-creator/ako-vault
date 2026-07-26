@@ -2016,3 +2016,25 @@ type: operationeel
 | 2026-07-26T consolidatie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
 | 2026-07-26T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Semantisch Geheugen, Thomas Kuhn, Corpus Callosum, Smart Beta) |
 | 2026-07-26T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 0 Inbox verwerkt · Health: 100% · Gepusht naar origin/main |
+| 2026-07-26T expansie | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-26T expansie | | Agent 1 | Inbox scan | ✓ | 0 bestanden te verwerken (alle bestanden beginnen met `_`) — STAP 1.5 overgeslagen |
+| 2026-07-26T expansie | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt. Confidence 5 voor alle nieuwe pagina's. |
+| 2026-07-26T expansie | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Cognitieve Neurowetenschappen (Psych — MSc relevantie), Limbisch Systeem (Psych — neuroanatomie), Speltheorie (Beleg — cross-domein), Industrialisatie (Gesch — minste pagina's) |
+| 2026-07-26T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Cognitieve Neurowetenschappen.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-26T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Limbisch Systeem.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-26T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Speltheorie.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-26T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Industrialisatie.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-26T expansie | | Agent 3 | Gap Engine | ✓ | 4 nieuwe gaps gesignaleerd: Thalamus, Basale Ganglia, Hemispatiale Neglect, Lateralisatie van Hersenfuncties |
+| 2026-07-26T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Limbisch Systeem — Emotieregulatie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-26T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Cognitieve Neurowetenschappen — Klinische Neuropsychologie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-26T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Speltheorie — Gedragseconomie.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-26T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Industrialisatie — Marxisme.md — sterkte ★10 — Geschiedenis × Filosofie |
+| 2026-07-26T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Limbisch Systeem als Oudste Belegger.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-26T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Fabriek als Filosofisch Laboratorium.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-26T expansie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-26 Dagrapport.md — expansiemodus — 4 pagina's, 4 verbindingen, 2 inzichten, 4 nieuwe gaps |
+| 2026-07-26T expansie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-26 Quiz.md — 3 vragen toegevoegd (Speltheorie, Limbisch Systeem, Cognitieve Neurowetenschappen) |
+| 2026-07-26T expansie | | Agent 7 | Knowledge Health berekend | ✓ | Psych 115 · Fil 64 · Gesch 60 · Beleg 63 — Connectivity 100%, Orphan 0% — Health 100% alle disciplines |
+| 2026-07-26T expansie | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard overschreven — 302 pagina's totaal |
+| 2026-07-26T expansie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Cognitieve Neurowetenschappen, +Limbisch Systeem · Beleggen: +Speltheorie · Geschiedenis: +Industrialisatie |
+| 2026-07-26T expansie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
+| 2026-07-26T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe gaps toegevoegd ↓ (Thalamus, Basale Ganglia, Hemispatiale Neglect, Lateralisatie) |

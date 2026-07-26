@@ -48,6 +48,7 @@ De klassieke economie baseerde zich op het axioma van de rationele beslisser die
 **Hub:** [[Beleggen]]
 
 **Gerelateerd:**
+- [[Speltheorie]] ★9 — normatief raamwerk: speltheorie levert het rationele benchmark-model waarvan de gedragseconomie empirische afwijkingen documenteert; behavioral game theory combineert beide.
 - [[Verliesaversie]] — kernprincipe: verliesaversie is het meest onderzochte mechanisme binnen de gedragseconomie
 - [[Prospect Theory]] — theorie: Prospect Theory is het formele model dat gedragseconomische beslissing onder risico beschrijft
 - [[Paradigmawisseling]] — wetenschapshistorisch: gedragseconomie voltooide een Kuhniaanse paradigmawisseling van homo economicus naar bounded rationality

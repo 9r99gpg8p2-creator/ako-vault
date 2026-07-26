@@ -54,6 +54,7 @@ In de klinische neuropsychologie is emotieregulatie cruciaal: stoornissen in reg
 **Hub:** [[Psychologie]]
 
 **Gerelateerd:**
+- [[Limbisch Systeem]] ★9 — neurologisch substraat: het limbisch systeem genereert de emotionele reacties die regulatie vereisen; amygdala en prefrontale cortex zijn de centrale spelers.
 - [[PTSD]] — verstoorde emotieregulatie als kernkenmerk
 - [[Executieve Functies]] — PFC-gemedieerde top-down regulatie van emotie
 - [[Hechtingstheorie]] — vroege regulatie door verzorger vormt hechtingspatroon

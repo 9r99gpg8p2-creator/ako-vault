@@ -2,62 +2,34 @@
 type: dagrapport
 date: 2026-07-26
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Goedemorgen.
-
-Nieuwe kennis: 4 · Inbox verwerkt: 0 (leeg) · Verbindingen: 5 · Inzichten: 3 · Gaps gedicht: 4 · Leestijd: 16 min
-
----
+Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 2 · Gaps: 4 · Leestijd: 16 min
 
 ## Research Agenda
 
-1. **Semantisch Geheugen** — complement op Episodisch Geheugen; Tulving-framework nu compleet in de vault. Essentieel voor MSc Klinische Neuropsychologie (Alzheimer vs. frontotemporale dementie diagnostiek).
-2. **Thomas Kuhn** — Paradigmawisseling (Geschiedenis) had nog geen bijbehorende Filosofie-persoonspagina; nu aangemaakt. Verbindt Filosofie van de Wetenschap, Falsifiabilisme en Karl Popper.
-3. **Corpus Callosum** — hemisferenspecialisatie en split-brain fenomeen; opent empirische brug naar bewustzijnsfilosofie.
-4. **Smart Beta** — operationaliseert Factor Investing als retailproduct; verbindt academische factortheorie met ETF-structuur.
-
----
-
-## Pagina's Bijgewerkt via Inbox
-
-Geen inbox-updates deze run (inbox leeg).
-
----
-
-## Verbindingen Toegevoegd
-
-1. [[Semantisch Geheugen]] ↔ [[Episodisch Geheugen]] · ★10
-2. [[Thomas Kuhn]] → [[Paradigmawisseling]] · ★10
-3. [[Thomas Kuhn]] ↔ [[Karl Popper]] · ★9
-4. [[Corpus Callosum]] → [[Bewustzijn]] · ★8
-5. [[Factor Investing]] → [[Smart Beta]] · ★10
-
----
+1. **Thalamus** — neurale doorgeefluik voor sensorische en motorische signalen; nog niet aanwezig in de vault, essentieel voor volledig begrip van subcorticale neuroanatomie (relevantie MSc Klinische Neuropsychologie).
+2. **Basale Ganglia** — betrokken bij motorische controle, gewoontevorming en beloningleren; nog niet aanwezig, cruciaal voor begrip van Parkinson, Huntington en verslaving.
+3. **Neglect (Hemispatiale Neglect)** — klinisch neuropsychologisch syndroom na rechterhemisfeerletsel; direct relevant voor diagnostische praktijk.
+4. **Lateralisatie van Hersenfuncties** — links-rechts specialisatie (taal, ruimtelijk denken); fundamenteel voor klinische interpretatie van laterale laesies.
 
 ## Insight Feed
 
-— "Wetenschappelijke paradigmawisselingen vertonen de structuur van een psychologische gestaltswitch: geen geleidelijke overgang maar een discontinue cognitieve herstructurering van de wetenschappelijke gemeenschap." [Filosofie → Psychologie · ★9]
+— "De angstreacties die het limbisch systeem in evolutie verfijnde om roofdieren te mijden, sturen vandaag beleggingsbeslissingen aan: de amygdala die cortisol uitstoot bij koersdalingen is hetzelfde mechanisme dat onze voorouders deed vluchten — maar op de beurs leidt vluchten gemiddeld tot verlies." [Psychologie → Beleggen · ★9]
 
-— "Tulvings tweedeling semantisch/episodisch geheugen weerspiegelt Russells epistemologisch onderscheid tussen knowledge by description en knowledge by acquaintance — neuropsychologie biedt empirisch fundament voor een klassiek filosofisch debat." [Psychologie → Filosofie · ★8]
-
-— "Beleggingsfactoren doorlopen een Kuhniaanse cyclus: van anomalie naar geïnstitutionaliseerde Smart Beta-strategie naar vervagende premie — het beschrijven van de anomalie ondermijnt haar bestaan." [Beleggen → Filosofie · ★7]
-
----
+— "De industrialisatie deed meer dan economische structuren veranderen: ze schiep de empirische werkelijkheid die marxisme, utilitarisme en existentialisme dwong hun antwoorden te formuleren — zonder de fabriek geen vervreemding, zonder de arbeider geen nutscalculus." [Geschiedenis → Filosofie · ★8]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 95% | ↑ |
-| Filosofie | 87% | ↑ |
-| Geschiedenis | 85% | → |
-| Beleggen | 88% | ↑ |
-
----
+| Psychologie | 100% | ↑ |
+| Filosofie | 100% | → |
+| Geschiedenis | 100% | ↑ |
+| Beleggen | 100% | ↑ |
 
 ## Activiteit
 
@@ -65,16 +37,8 @@ Geen inbox-updates deze run (inbox leeg).
 |---|---|
 | Inbox verwerkt | 0 |
 | Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe relatiepagina's | 5 |
-| Nieuwe inzichtpagina's | 3 |
-| Gaps gedicht | 4 |
-| Queue resterend | 0 |
-
----
-
-## Aandacht vereist
-
-- [ ] Wikipedia API onbereikbaar — confidence nieuw aangemaakte pagina's: 5 (interne kennis); verifieer bij hersteld API-contact
-- [ ] Queue volledig leeg na run — volgende run start met expansie op nieuwe concepten
-
+| Updates bestaande pagina's | 4 |
+| Nieuwe verbindingen | 4 |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 0 |
+| Gaps geïdentificeerd | 4 |

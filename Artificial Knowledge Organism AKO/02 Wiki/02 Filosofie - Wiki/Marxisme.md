@@ -60,6 +60,7 @@ Kritieken op het marxisme richten zich op het economisch determinisme (te weinig
 **Hub:** [[Filosofie]]
 
 **Gerelateerd:**
+- [[Industrialisatie]] ★10 — historische voedingsbodem: de industrialiserende 19e-eeuwse samenleving is de empirische basis en maatschappelijke aanleiding waarop Marx zijn filosofische en economische theorie bouwde.
 - [[Historisch Materialisme]] — de filosofische ruggengraat van het marxisme; de theorie dat materiële condities de geschiedenis sturen
 - [[Hegel]] — directe voorloper; Marx keerde Hegels idealistische dialectiek om naar een materialistisch fundament
 - [[Russische Revolutie]] — de meest invloedrijke politieke toepassing van marxistische theorie; Lenin vertaalde Marx naar revolutionaire praktijk

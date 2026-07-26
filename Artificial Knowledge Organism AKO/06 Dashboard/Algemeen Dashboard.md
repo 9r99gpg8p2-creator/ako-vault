@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-26
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -20,7 +20,7 @@ sessie: consolidatie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (4 nieuwe pagina's, 5 relaties, 3 inzichten — consolidatie-run 2026-07-26)
+Trend: ↑ (4 nieuwe pagina's, 4 relaties, 2 inzichten — expansie-run 2026-07-26)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (4 nieuwe pagina's, 5 relaties, 3 inzichten — consolidatie-run 2026
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 113 | 100% | ↑ |
-| Filosofie | 64 | 100% | ↑ |
-| Geschiedenis | 59 | 100% | → |
-| Beleggen | 62 | 100% | ↑ |
-| **Totaal** | **298** | **100%** | ↑ |
+| Psychologie | 115 | 100% | ↑ |
+| Filosofie | 64 | 100% | → |
+| Geschiedenis | 60 | 100% | ↑ |
+| Beleggen | 63 | 100% | ↑ |
+| **Totaal** | **302** | **100%** | ↑ |
 
 ---
 
@@ -40,31 +40,31 @@ Trend: ↑ (4 nieuwe pagina's, 5 relaties, 3 inzichten — consolidatie-run 2026
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 630 |
+| Relatiepagina's + inzichtpagina's | 636 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-26 — consolidatie-run)
+## Sessieoverzicht (2026-07-26 — expansie-run)
 
 | Metric | Aantal |
 |---|---|
 | Nieuwe Wiki-pagina's | 4 |
-| Nieuwe relatiepagina's | 5 |
-| Nieuwe inzichten | 3 |
+| Nieuwe relatiepagina's | 4 |
+| Nieuwe inzichten | 2 |
 | Inbox verwerkt | 0 (geen bestanden beschikbaar) |
-| Gaps gedicht | 4 |
-| Queue resterend | 0 |
+| Gaps gedicht | 0 |
+| Nieuwe gaps geïdentificeerd | 4 |
 
 ---
 
-## Nieuwe pagina's (consolidatie-run)
+## Nieuwe pagina's (expansie-run)
 
-- [[Semantisch Geheugen]] (Psychologie — declaratief geheugensysteem, complement op Episodisch Geheugen)
-- [[Corpus Callosum]] (Psychologie — interhemisferische verbinding, split-brain fenomeen)
-- [[Thomas Kuhn]] (Filosofie — wetenschapsfilosoof, auteur Structure of Scientific Revolutions)
-- [[Smart Beta]] (Beleggen — factor investing via ETF-structuur, retailoperationalisering)
+- [[Cognitieve Neurowetenschappen]] (Psychologie — interdisciplinaire studie van neurale mechanismen achter cognitie)
+- [[Limbisch Systeem]] (Psychologie — neuroanatomische structuren voor emotie, geheugen en motivatie)
+- [[Speltheorie]] (Beleggen — wiskundig raamwerk voor strategische interacties; Nash-evenwicht)
+- [[Industrialisatie]] (Geschiedenis — overgang van agrarische naar industriële economie, 18e–19e eeuw)
 
 ---
 

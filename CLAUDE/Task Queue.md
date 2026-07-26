@@ -292,6 +292,14 @@ type: operationeel
 | ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Thomas Kuhn | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Thomas Kuhn.md — confidence 5 |
 | ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Corpus Callosum | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Corpus Callosum.md — confidence 5 |
 | ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Smart Beta | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Smart Beta.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Cognitieve Neurowetenschappen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Neurowetenschappen.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Limbisch Systeem | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Limbisch Systeem.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Speltheorie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Speltheorie.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Industrialisatie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Industrialisatie.md — confidence 5 |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Thalamus | Subcorticale relaisstructuur; essentieel voor neuroanatoomie MSc Klinische Neuropsychologie |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Basale Ganglia | Motorische controle, gewoontevorming, Parkinson, Huntington, verslaving |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Hemispatiale Neglect | Klinisch neuropsychologisch syndroom na rechterhemisfeerletsel |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Lateralisatie van Hersenfuncties | Links-rechts specialisatie; cruciaal voor klinische interpretatie laterale laesies |
 
 ---
 
