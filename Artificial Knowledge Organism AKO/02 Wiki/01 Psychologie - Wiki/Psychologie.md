@@ -124,3 +124,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Neuropsychologische Revalidatie]]
 - [[Episodisch Geheugen]]
 - [[Frontotemporale Dementie]]
+- [[Semantisch Geheugen]]
+- [[Corpus Callosum]]

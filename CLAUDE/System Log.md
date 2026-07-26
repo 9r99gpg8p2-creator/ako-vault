@@ -1993,3 +1993,26 @@ type: operationeel
 | 2026-07-26T expansie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie.md: +Episodisch Geheugen, +Frontotemporale Dementie · Filosofie.md: +Karl Popper · Beleggen.md: +Opties |
 | 2026-07-26T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe gaps naar queue: Semantisch Geheugen, Thomas Kuhn, Corpus Callosum, Smart Beta |
 | 2026-07-26T expansie | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 3 verbindingen · 1 inzicht · Health: 100% |
+| 2026-07-26T consolidatie | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-26T consolidatie | | Agent 1 | Inbox scan | ✓ | Geen eligible bestanden (alle beginnen met _) — STAP 1.5 overgeslagen |
+| 2026-07-26T consolidatie | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt. Confidence 5 voor alle nieuwe pagina's |
+| 2026-07-26T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Semantisch Geheugen.md — 01 Psychologie - Wiki — confidence 5 (Tulving 1972, Squire 1987) |
+| 2026-07-26T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Thomas Kuhn.md — 02 Filosofie - Wiki — confidence 5 (Kuhn 1962, 1977) |
+| 2026-07-26T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Corpus Callosum.md — 01 Psychologie - Wiki — confidence 5 (Gazzaniga 2000, Sperry 1968) |
+| 2026-07-26T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Smart Beta.md — 04 Beleggen - Wiki — confidence 5 (Arnott 2005, Fama-French 1993) |
+| 2026-07-26T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Semantisch Geheugen — Episodisch Geheugen.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-26T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Thomas Kuhn — Paradigmawisseling.md — sterkte ★10 — Filosofie × Geschiedenis |
+| 2026-07-26T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Thomas Kuhn — Karl Popper.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-26T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Corpus Callosum — Bewustzijn.md — sterkte ★8 — Psychologie × Filosofie |
+| 2026-07-26T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Smart Beta — Factor Investing.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-26T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Wetenschappelijke Revoluties als Cognitieve Gestaltswitch.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-26T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Geheugensystemen als Kennisarchitectuur.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-26T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Factorpremies als Geïnstitutionaliseerde Anomalieën.md — Beleggen → Filosofie — sterkte ★7 |
+| 2026-07-26T consolidatie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-26 Dagrapport.md — consolidatiemodus — 4 concepten, 5 verbindingen, 3 inzichten, 0 gaps resterend |
+| 2026-07-26T consolidatie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-26 Quiz.md — 3 vragen toegevoegd (Semantisch Geheugen, Thomas Kuhn, Smart Beta) |
+| 2026-07-26T consolidatie | | Agent 7 | Knowledge Health berekend | ✓ | Psych 113 · Fil 64 · Gesch 59 · Beleg 62 — Connectivity 100%, Orphan 0% — Health 100% alle disciplines |
+| 2026-07-26T consolidatie | | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen + Psychologie dashboards overschreven |
+| 2026-07-26T consolidatie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Semantisch Geheugen, +Corpus Callosum · Filosofie: +Thomas Kuhn · Beleggen: +Smart Beta |
+| 2026-07-26T consolidatie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
+| 2026-07-26T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Semantisch Geheugen, Thomas Kuhn, Corpus Callosum, Smart Beta) |
+| 2026-07-26T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 0 Inbox verwerkt · Health: 100% · Gepusht naar origin/main |

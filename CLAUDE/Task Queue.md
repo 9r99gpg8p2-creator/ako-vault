@@ -288,10 +288,10 @@ type: operationeel
 | ✓ | 2026-07-26T expansie | Agent 3 | Gap: Frontotemporale Dementie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Frontotemporale Dementie.md — confidence 5 |
 | ✓ | 2026-07-26T expansie | Agent 3 | Gap: Karl Popper | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Karl Popper.md — confidence 5 |
 | ✓ | 2026-07-26T expansie | Agent 3 | Gap: Opties | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Opties.md — confidence 5 |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Semantisch Geheugen | Complement op Episodisch Geheugen — samen het declaratief geheugensysteem (Tulving) |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Thomas Kuhn | Wetenschapsfilosoof — Paradigmawisseling bestaat in Geschiedenis; Kuhn als Filosofie-persoon ontbreekt |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Corpus Callosum | Neuropsychologie — hemisferenspecialisatie; relevant voor split-brain fenomeen |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Smart Beta | Beleggen — operationalisering Factor Investing via ETF-structuur |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Semantisch Geheugen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Semantisch Geheugen.md — confidence 5 |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Thomas Kuhn | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Thomas Kuhn.md — confidence 5 |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Corpus Callosum | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Corpus Callosum.md — confidence 5 |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Smart Beta | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Smart Beta.md — confidence 5 |
 
 ---
 

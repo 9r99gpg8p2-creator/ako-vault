@@ -76,3 +76,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Esthetica]]
 - [[Leibniz]]
 - [[Karl Popper]]
+- [[Thomas Kuhn]]
