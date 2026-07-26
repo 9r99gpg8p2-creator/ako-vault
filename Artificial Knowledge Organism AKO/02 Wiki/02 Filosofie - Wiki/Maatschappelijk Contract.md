@@ -58,6 +58,7 @@ De contracttheorie entstond als seculier alternatief voor de goddelijke legitima
 **Cross-domein:**
 - [[De Verlichting]] — het maatschappelijk contract was een kernproduct van de Verlichtingstraditie (Geschiedenis)
 - [[De Franse Revolutie]] — Rousseaus contracttheorie beïnvloedde de revolutionaire ideologie direct (Geschiedenis)
+- [[De Dertigjarige Oorlog]] ★8 — de Vrede van Westfalen legde de historische grondslagen van het staatssoevereiniteitsprincipe dat contractdenkers theoretiseerden
 
 ## Bronnen
 

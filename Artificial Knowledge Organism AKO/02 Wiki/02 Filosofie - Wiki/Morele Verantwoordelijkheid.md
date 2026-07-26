@@ -63,6 +63,7 @@ Het debat over morele verantwoordelijkheid begon met Aristoteles, die in de *Nic
 - [[Zelf-evaluatieve Emoties]] ★9 — de ontwikkeling van schuldgevoel en schaamte bij het kind is de affectieve en fenomenologische grondslag voor moreel verantwoordelijk handelen
 - [[Theory of Mind]] ★9 — ToM is de cognitieve voorwaarde voor morele attributie; intentie toeschrijven aan een ander is onmogelijk zonder ToM
 - [[Collectieve Intentionaliteit]] ★8 — geïnternaliseerde groepsnormen (CI) zijn de vroegste vorm van morele verplichtingen die het kind ervaart als objectief geldend
+- [[Neuroethiek]] ★9 — neuroethiek stelt neuraal determinisme als uitdaging voor morele toerekenbaarheid en juridische aansprakelijkheid
 
 ## Bronnen
 

@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-26
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -20,7 +20,7 @@ sessie: consolidatie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (3 nieuwe pagina's, 4 relaties, 2 inzichten — consolidatie-run 2026-07-26)
+Trend: → (stabiel 100% — expansie-run 2026-07-26)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (3 nieuwe pagina's, 4 relaties, 2 inzichten — consolidatie-run 2026
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 118 | 100% | ↑ |
-| Filosofie | 64 | 100% | → |
-| Geschiedenis | 60 | 100% | → |
-| Beleggen | 63 | 100% | → |
-| **Totaal** | **305** | **100%** | ↑ |
+| Psychologie | 118 | 100% | → |
+| Filosofie | 64 | 100% | ↑ |
+| Geschiedenis | 60 | 100% | ↑ |
+| Beleggen | 63 | 100% | ↑ |
+| **Totaal** | **305** | **100%** | → |
 
 ---
 
@@ -40,34 +40,34 @@ Trend: ↑ (3 nieuwe pagina's, 4 relaties, 2 inzichten — consolidatie-run 2026
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 642 |
+| Relatiepagina's + inzichtpagina's | 641 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-26 — consolidatie-run)
+## Sessieoverzicht (2026-07-26 — expansie-run)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 3 |
+| Nieuwe Wiki-pagina's | 4 |
 | Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichten | 2 |
-| Inbox verwerkt | 0 (geen bestanden beschikbaar) |
-| Gaps gedicht | 3 |
+| Nieuwe inzichten | 3 |
+| Inbox verwerkt | 0 (geen verwerkbare bestanden) |
+| Gaps gedicht | 4 |
 | Nieuwe gaps geïdentificeerd | 0 |
 
 ---
 
-## Nieuwe pagina's (consolidatie-run 2026-07-26)
+## Nieuwe pagina's (expansie-run 2026-07-26)
 
-- [[Thalamus]] (Psychologie — subcorticale relaisstructuur; bewustzijn, Korsakov, slaap-waak)
-- [[Basale Ganglia]] (Psychologie — go/stop circuits, dopamine, gewoontevorming, Parkinson, verslaving)
-- [[Lateralisatie van Hersenfuncties]] (Psychologie — links-rechts specialisatie, afasie, neglect, split-brain)
+- [[Cognitieve Flexibiliteit]] (Psychologie — executieve functie; task-switching, set-shifting; Diamond 2013)
+- [[Neuroethiek]] (Filosofie — ethische implicaties neurowetenschap; Roskies 2002)
+- [[De Dertigjarige Oorlog]] (Geschiedenis — 1618–1648; Vrede van Westfalen; Parker 1984)
+- [[Futures en Derivaten]] (Beleggen — derivatenmarkt; hedging en speculatie; Hull 2018)
 
 ---
 
 ## Aandacht vereist
 
-- Queue-item "Hemispatiale Neglect" nog ↓ — pagina bestaat als [[Hemispatiale Verwaarlozing]]; queue-entry kan gesloten worden.
 *(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5)*

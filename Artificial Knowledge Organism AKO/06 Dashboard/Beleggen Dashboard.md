@@ -15,22 +15,22 @@ sessie: expansie
 
 | Metric | Score |
 |---|---|
-| Coverage | 100% (61 pagina's / target 20 ✓) |
+| Coverage | 100% (63 pagina's / target 20 ✓) |
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (+1 pagina: Opties)
+Trend: ↑ (+1 nieuwe pagina: Futures en Derivaten — expansie-run 2026-07-26)
 
 ---
 
-## Pagina-overzicht (61)
+## Pagina-overzicht (63)
 
-Prospect Theory · Verliesaversie · Gedragseconomie · Efficiënte Markthypothese · Cognitieve Biases · Herding · Risicoperceptie · Asset Allocatie · Diversificatie · Moderne Portefeuille Theorie · Capital Asset Pricing Model · Factor Investing · Index Fondsen · Passief Beleggen · Actief Beleggen · Waarde Investeren · Groei Investeren · GARP · Benjamin Graham · Warren Buffett · Aandelen · Obligaties · Derivaten · Short Selling · Kapitaalmarkten · Private Equity · Risicobeheer · Marktcycli · Inflatie · Rente · Monetair Beleid · Monetarisme · Keynesiaanse Economie · Macroeconomie · Financiële Crisis 2008 · Tulpenmanie · Cryptocurrency en Blockchain · Black-Scholes Model · Intrinsieke Waarde en DCF-modellen · Fundamentele Analyse · Technische Analyse · Heuristieken · Duurzaam Beleggen · Pensioen en Sparen · Hedgefondsen · Vastgoedbeleggen · Dividendbeleggen · Speculatieve Bubbels · Minsky Moment · Venture Capital · Kwantitatief Beleggen · Statistical Arbitrage · Rentecurve · ETFs · Valutamarkten · Grondstoffen · ESG Beleggen · Monte Carlo Simulatie · Behavioral Finance · **Opties**
+Aandelen · Actief Beleggen · Asset Allocatie · Behavioral Finance · Benjamin Graham · Black-Scholes Model · Capital Asset Pricing Model · Cognitieve Biases · Cryptocurrency en Blockchain · Derivaten · Diversificatie · Dividendbeleggen · Duurzaam Beleggen · ESG Beleggen · ETFs · Efficiënte Markthypothese · Factor Investing · Financiële Crisis 2008 · Fundamentele Analyse · **Futures en Derivaten** · GARP · Gedragseconomie · Groei Investeren · Grondstoffen · Hedgefondsen · Herding · Heuristieken · Index Fondsen · Inflatie · Intrinsieke Waarde en DCF-modellen · Kapitaalmarkten · Keynesiaanse Economie · Kwantitatief Beleggen · Macroeconomie · Marktcycli · Minsky Moment · Moderne Portefeuille Theorie · Monetair Beleid · Monetarisme · Monte Carlo Simulatie · Obligaties · Opties · Passief Beleggen · Pensioen en Sparen · Private Equity · Prospect Theory · Rente · Rentecurve �� Risicobeheer · Risicoperceptie · Short Selling · Smart Beta · Speculatieve Bubbels · Speltheorie · Statistical Arbitrage · Technische Analyse · Tulpenmanie · Valutamarkten · Vastgoedbeleggen · Venture Capital · Verliesaversie · Waarde Investeren · Warren Buffett
 
 ---
 
 ## Gesignaleerde gaps
 
+- **Micro-economie** (aanbodinelasticiteit, prijsvorming, vraag-aanbodmodellen)
 - **Stochastische Volatiliteitsmodellen** (Heston-model, uitbreiding na Black-Scholes)
 - **Fusies en Overnames / M&A** (event-driven beleggingsstrategie)
-- **Smart Beta** (operationalisering Factor Investing via ETF-structuur)

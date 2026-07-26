@@ -15,22 +15,22 @@ sessie: expansie
 
 | Metric | Score |
 |---|---|
-| Coverage | 100% (63 pagina's / target 20 ✓) |
+| Coverage | 100% (64 pagina's / target 20 ✓) |
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (+1 pagina: Karl Popper)
+Trend: ↑ (+1 nieuwe pagina: Neuroethiek — expansie-run 2026-07-26)
 
 ---
 
-## Pagina-overzicht (63)
+## Pagina-overzicht (64)
 
-Bewustzijn · Vrije Wil · Morele Verantwoordelijkheid · Epistemologie · Fenomenologie · Psychoanalyse · Ethiek · Sociale Ontologie · Ethiek van Zorg · Epistemologisch Relativisme · Utilitarisme · Rationalisme · Immanuel Kant · Logisch Positivisme · Deontologie · Aristoteles · Plato · Socrates · Stoïcisme · Nietzsche · Functionalisme · Historisch Materialisme · Postmodernisme · Marxisme · Analytische Filosofie · Taalfilosofie · Poststructuralisme · Structuralisme · Libertair Paternalisme · Adorno en de Autoritaire Persoonlijkheid · David Hume · George Berkeley · John Locke · John Stuart Mill · Maatschappelijk Contract · Falsifiabilisme · John Rawls · Jean-Jacques Rousseau · Thomas Hobbes · Spinoza · Hermeneutiek · René Descartes · Hegel · Wittgenstein · Empirisme · Pragmatisme · Merleau-Ponty · Existentialisme · Politieke Filosofie · Filosofie van de Wetenschap · Filosofie van de Geest · Michel Foucault · Jürgen Habermas · Kritische Theorie · Metafysica · Neurodiversiteit · Deugdethiek · Hannah Arendt · Heidegger · Esthetica · Leibniz · **Karl Popper**
+Adorno en de Autoritaire Persoonlijkheid · Analytische Filosofie · Aristoteles · Bewustzijn · David Hume · Deontologie · Deugdethiek · Empirisme · Epistemologie · Epistemologisch Relativisme · Esthetica · Ethiek · Ethiek van Zorg · Existentialisme · Falsifiabilisme · Fenomenologie · Filosofie van de Geest · Filosofie van de Wetenschap · Functionalisme · George Berkeley · Hannah Arendt · Hegel · Heidegger · Hermeneutiek · Historisch Materialisme · Immanuel Kant · Jean-Jacques Rousseau · John Locke · John Rawls · John Stuart Mill · Jürgen Habermas · Karl Popper · Kritische Theorie · Leibniz · Libertair Paternalisme · Logisch Positivisme · Maatschappelijk Contract · Marxisme · Merleau-Ponty · Metafysica · Michel Foucault · Morele Verantwoordelijkheid · Neurodiversiteit · **Neuroethiek** · Nietzsche · Plato · Politieke Filosofie · Postmodernisme · Poststructuralisme · Pragmatisme · Psychoanalyse · Rationalisme · René Descartes · Sociale Ontologie · Socrates · Spinoza · Stoïcisme · Structuralisme · Taalfilosofie · Thomas Hobbes · Thomas Kuhn · Utilitarisme · Vrije Wil · Wittgenstein
 
 ---
 
 ## Gesignaleerde gaps
 
 - **Deconstructie/Derrida** (eigen pagina ontbreekt, nu enkel in Poststructuralisme)
-- **Logotherapie** (Viktor Frankl — aanvulling op Existentialisme; Existentiële Psychiatrie aangemaakt in Psychologie-wiki)
+- **Logotherapie** (Viktor Frankl — aanvulling op Existentialisme)
 - **Fenomenologie van het Lichaam** (verdieping Merleau-Ponty — relevant voor klinische neuropsychologie)

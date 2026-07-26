@@ -300,6 +300,14 @@ type: operationeel
 | ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Basale Ganglia | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Basale Ganglia.md — confidence 5 |
 | ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Hemispatiale Neglect | Reeds aanwezig als Hemispatiale Verwaarlozing.md — geen duplicaat aangemaakt (Wet 2) |
 | ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Lateralisatie van Hersenfuncties | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Lateralisatie van Hersenfuncties.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Cognitieve Flexibiliteit | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Flexibiliteit.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Neuroethiek | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Neuroethiek.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Expansie: De Dertigjarige Oorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Dertigjarige Oorlog.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Futures en Derivaten | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Futures en Derivaten.md — confidence 5 |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Aandachtsprocessen | Psych — selectieve/gedeelde aandacht; klinisch relevant voor ADHD en THL |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Gedragsgenetica | Psych — erfelijkheid × persoonlijkheid; relevant voor persoonlijkheidsstoornissen |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: De Hanzesteden | Gesch — middeleeuwse handelsnetwerken; cross-domein Beleggen |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Micro-economie | Beleg — vraag-aanbodmodellen; aanvulling Macroeconomie |
 
 ---
 

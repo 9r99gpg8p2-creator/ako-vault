@@ -55,6 +55,7 @@ Deugdethiek vindt brede toepassing in beroepsethiek — medische ethiek, juridis
 
 **Cross-domein:**
 - [[Emotieregulatie]] — de deugdethische nadruk op gewoonte en zelfbeheersing raakt aan psychologisch onderzoek naar emotieregulatie als trainbare vaardigheid
+- [[Cognitieve Flexibiliteit]] ★8 — cognitieve flexibiliteit is de cognitief-wetenschappelijke pendant van phronesis (praktische wijsheid)
 
 ## Bronnen
 

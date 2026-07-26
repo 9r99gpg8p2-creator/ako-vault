@@ -3,7 +3,7 @@ tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
 updated: 2026-07-26
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Psychologie Dashboard
@@ -16,24 +16,23 @@ sessie: consolidatie
 
 | Metric | Score |
 |---|---|
-| Coverage | 100% (113 pagina's / target 20 ✓) |
+| Coverage | 100% (118 pagina's / target 20 ✓) |
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (+2 nieuwe pagina's: Semantisch Geheugen, Corpus Callosum)
+Trend: → (+1 nieuwe pagina: Cognitieve Flexibiliteit — expansie-run 2026-07-26)
 
 ---
 
-## Pagina-overzicht (113)
+## Pagina-overzicht (118)
 
-Neuropsychologische Revalidatie · Werkgeheugen · Executieve Functies · Anosognosie · Geheugenconsolidatie · Reconsolidatie · PTSD · Embodied Cognition · EMDR · Hechtingstheorie · Slaap en Geheugenconsolidatie · Piaget · Vygotsky · Culturele Psychologie · Niche Constructie · Behaviorisme · Klassieke Conditionering · Sociale Leertheorie · Emotieregulatie · Synaptogenese · Culturele Ontwikkelingspaden · Interactieve Specialisatie · Precursor Emoties · Geluid Participeren · Affordances · Collectieve Intentionaliteit · Spiegelzelfherkenning · Familimodellen · Preoperationeel Denken · Zone of Proximal Development · Hogere Psychologische Functies · Meta-emotie · Intent Participatie · Kohlberg · Fuzzy Trace Theory · Dual Process Theorie · Erikson · Situated Learning · Adolescent Peergroepen · Scaffolding · Intersubjectiviteit · Activiteitstheorie · Etnische Identiteit · Postkoloniale Psychologie · Klinische Neuropsychologie · Neuropsychologische Diagnostiek ASS (ADOS-2) · Acceptatie en Commitment Therapie · Schematherapie · Kahneman · Amos Tversky · Depressie · Schizofrenie · ADHD · Dopamine · Verslaving · Psychose · First Episode Psychosis · Neuroplasticiteit · Cognitieve Gedragstherapie · Dialectische Gedragstherapie · Angststoornissen · Persoonlijkheidsstoornissen · Freud · Big Five Persoonlijkheidsmodel · NEO-PI-R · Bipolaire Stoornis · Alzheimer en Dementie · Amygdala · Prefrontale Cortex · Neuroimaging · Stress en de HPA-as · Complexe PTSD · Traumatisch Hersenletsel · Insula · Afasie · Dysartrie · Hippocampus · Epilepsie · Ziekte van Parkinson · Ziekte van Huntington · 5-tot-7 Transitie · Adolescentie · Autismespectrumstoornis · Default Mode Network · Formeel Operationeel Denken · Gender Identiteit · Identiteitsstatussen · Intern Werkmodel · Ouderschapsstijlen · Semiotische Functie · Sapir-Whorf Hypothese · Zelf-evaluatieve Emoties · Sociodramatisch Spel · Theory of Mind · Sociale Psychologie · Groepsdynamica · Existentiële Psychiatrie · Hemispatiale Verwaarlozing · Syndroom van Korsakov · Cognitieve Reserve · Agnosie · Neuropsychologische Revalidatie · Apraxie · Behavioral Finance · Neuropsychologie · Neuropsychologische Testbatterijen · Episodisch Geheugen · Frontotemporale Dementie · **Semantisch Geheugen** · **Corpus Callosum**
+5-tot-7 Transitie · ADHD · Acceptatie en Commitment Therapie · Activiteitstheorie · Adolescent Peergroepen · Adolescentie · Afasie · Affordances · Agnosie · Alzheimer en Dementie · Amos Tversky · Amygdala · Angststoornissen · Anosognosie · Apraxie · Autismespectrumstoornis · Basale Ganglia · Behaviorisme · Big Five Persoonlijkheidsmodel · Bipolaire Stoornis · **Cognitieve Flexibiliteit** · Cognitieve Gedragstherapie · Cognitieve Neurowetenschappen · Cognitieve Reserve · Collectieve Intentionaliteit · Complexe PTSD · Corpus Callosum · Culturele Ontwikkelingspaden · Culturele Psychologie · Default Mode Network · Depressie · Dialectische Gedragstherapie · Dopamine · Dual Process Theorie · Dysartrie · EMDR · Embodied Cognition · Emotieregulatie · Epilepsie · Episodisch Geheugen · Erikson · Etnische Identiteit · Executieve Functies · Existentiële Psychiatrie · Familimodellen · First Episode Psychosis · Formeel Operationeel Denken · Freud · Frontotemporale Dementie · Fuzzy Trace Theory · Geheugenconsolidatie · Geleid Participeren · Gender Identiteit · Groepsdynamica · Hechtingstheorie · Hemispatiale Verwaarlozing · Hippocampus · Hogere Psychologische Functies · Identiteitsstatussen · Insula · Intent Participatie · Interactieve Specialisatie · Intern Werkmodel · Intersubjectiviteit · Kahneman · Klassieke Conditionering · Klinische Neuropsychologie · Kohlberg · Lateralisatie van Hersenfuncties · Limbisch Systeem · Meta-emotie · NEO-PI-R · Neuroimaging · Neuroplasticiteit · Neuropsychologie · Neuropsychologische Diagnostiek ASS (ADOS-2) · Neuropsychologische Rehabilitatie · Neuropsychologische Revalidatie · Neuropsychologische Testbatterijen · Niche Constructie · Ouderschapsstijlen · PTSD · Persoonlijkheidsstoornissen · Piaget · Postkoloniale Psychologie · Precursor Emoties · Prefrontale Cortex · Preoperationeel Denken · Psychose · Puberteit · Reconsolidatie · Sapir-Whorf Hypothese · Scaffolding · Schematherapie · Schizofrenie · Semantisch Geheugen · Semiotische Functie · Situated Learning · Slaap en Geheugenconsolidatie · Sociale Leertheorie · Sociale Psychologie · Sociodramatisch Spel · Spiegelzelfherkenning · Stress en de HPA-as · Synaptogenese · Syndroom van Korsakov · Thalamus · Theory of Mind · Traumabehandeling · Traumatisch Hersenletsel · Verbaal Denken · Verslaving · Vygotsky · Werkgeheugen · Zelf-evaluatieve Emoties · Ziekte van Huntington · Ziekte van Parkinson · Zone of Proximal Development
 
 ---
 
 ## Gesignaleerde gaps
 
+- **Aandachtsprocessen** (kernfunctie klinische neuropsychologie; selectieve en gedeelde aandacht)
 - **Fenomenologie van het Lichaam** (klinisch neuropsychologisch relevant — Merleau-Ponty uitwerking)
 - **Arousal-regulatie** (HPA-as uitbreiding — stressreactie en klinische toepassingen)
-- **Logotherapie** (Viktor Frankl — existentieel aanvullend op Existentiële Psychiatrie)
-- **Hemineglect / Bálint-syndroom** (nauw verwant aan Agnosie en Apraxie — nog niet als eigen pagina aanwezig)
-
+- **Gedragsgenetica** (persoonlijkheid × erfelijkheid; relevant voor persoonlijkheidsstoornissen)
