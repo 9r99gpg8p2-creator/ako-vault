@@ -77,3 +77,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Smart Beta]]
 - [[Speltheorie]]
 - [[Futures en Derivaten]]
+- [[Micro-economie]]

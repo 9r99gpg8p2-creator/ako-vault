@@ -304,10 +304,10 @@ type: operationeel
 | ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Neuroethiek | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Neuroethiek.md — confidence 5 |
 | ✓ | 2026-07-26T expansie | Agent 3 | Expansie: De Dertigjarige Oorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Dertigjarige Oorlog.md — confidence 5 |
 | ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Futures en Derivaten | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Futures en Derivaten.md — confidence 5 |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Aandachtsprocessen | Psych — selectieve/gedeelde aandacht; klinisch relevant voor ADHD en THL |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Gedragsgenetica | Psych — erfelijkheid × persoonlijkheid; relevant voor persoonlijkheidsstoornissen |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: De Hanzesteden | Gesch — middeleeuwse handelsnetwerken; cross-domein Beleggen |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Micro-economie | Beleg — vraag-aanbodmodellen; aanvulling Macroeconomie |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Aandachtsprocessen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Aandachtsprocessen.md — confidence 5 |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Gedragsgenetica | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Gedragsgenetica.md — confidence 5 |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: De Hanzesteden | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Hanzesteden.md — confidence 5 |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Micro-economie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Micro-economie.md — confidence 5 |
 
 ---
 

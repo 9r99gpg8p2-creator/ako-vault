@@ -2085,3 +2085,23 @@ type: operationeel
 | 2026-07-26T expansie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
 | 2026-07-26T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe gaps toegevoegd ↓ (Aandachtsprocessen, Gedragsgenetica, De Hanzesteden, Micro-economie) |
 | 2026-07-26T expansie | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% |
+| 2026-07-26T08:00Z | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-26T08:01Z | | Agent 1 | Inbox scan | ✓ | Alleen _-templates aanwezig — STAP 1.5 overgeslagen |
+| 2026-07-26T08:02Z | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP 403 blokkade — interne kennis gebruikt, confidence max 5 |
+| 2026-07-26T08:03Z | | Agent 3 | Wiki aangemaakt | ✓ | Aandachtsprocessen.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-26T08:04Z | | Agent 3 | Wiki aangemaakt | ✓ | Gedragsgenetica.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-26T08:05Z | | Agent 3 | Wiki aangemaakt | ✓ | De Hanzesteden.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-26T08:06Z | | Agent 3 | Wiki aangemaakt | ✓ | Micro-economie.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-26T08:07Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Aandachtsprocessen — Werkgeheugen.md — sterkte ★9 |
+| 2026-07-26T08:07Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Aandachtsprocessen — ADHD.md — sterkte ★9 |
+| 2026-07-26T08:07Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Gedragsgenetica — Persoonlijkheidsstoornissen.md — sterkte ★8 |
+| 2026-07-26T08:07Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Micro-economie — Gedragseconomie.md — sterkte ★9 |
+| 2026-07-26T08:07Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Hanzesteden — Mercantilisme.md — sterkte ★7 |
+| 2026-07-26T08:08Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Aandacht als Schaars Kapitaal.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-26T08:08Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Genen als Infrastructuur van Persoonlijkheid.md — Psychologie → Filosofie — sterkte ★7 |
+| 2026-07-26T08:09Z | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-26 Dagrapport.md — consolidatiemodus — 4 concepten, 5 verbindingen, 2 inzichten |
+| 2026-07-26T08:09Z | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-26 Quiz.md — 3 vragen toegevoegd (Aandachtsprocessen, Gedragsgenetica, De Hanzesteden/Micro-economie) |
+| 2026-07-26T08:10Z | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 93% · Filosofie: 90% · Geschiedenis: 87% · Beleggen: 90% |
+| 2026-07-26T08:11Z | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Aandachtsprocessen +Gedragsgenetica · Geschiedenis: +De Hanzesteden · Beleggen: +Micro-economie |
+| 2026-07-26T08:12Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ — Queue nu leeg |
+| 2026-07-26T08:12Z | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 0 Inbox verwerkt · Health: 90% gemiddeld |

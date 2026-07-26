@@ -74,3 +74,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Holocaust]]
 - [[Industrialisatie]]
 - [[De Dertigjarige Oorlog]]
+- [[De Hanzesteden]]
