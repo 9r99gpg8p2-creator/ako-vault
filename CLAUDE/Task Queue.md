@@ -296,10 +296,10 @@ type: operationeel
 | ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Limbisch Systeem | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Limbisch Systeem.md — confidence 5 |
 | ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Speltheorie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Speltheorie.md — confidence 5 |
 | ✓ | 2026-07-26T expansie | Agent 3 | Expansie: Industrialisatie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Industrialisatie.md — confidence 5 |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Thalamus | Subcorticale relaisstructuur; essentieel voor neuroanatoomie MSc Klinische Neuropsychologie |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Basale Ganglia | Motorische controle, gewoontevorming, Parkinson, Huntington, verslaving |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Hemispatiale Neglect | Klinisch neuropsychologisch syndroom na rechterhemisfeerletsel |
-| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Lateralisatie van Hersenfuncties | Links-rechts specialisatie; cruciaal voor klinische interpretatie laterale laesies |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Thalamus | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Thalamus.md — confidence 5 |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Basale Ganglia | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Basale Ganglia.md — confidence 5 |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Hemispatiale Neglect | Reeds aanwezig als Hemispatiale Verwaarlozing.md — geen duplicaat aangemaakt (Wet 2) |
+| ✓ | 2026-07-26T consolidatie | Agent 3 | Gap: Lateralisatie van Hersenfuncties | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Lateralisatie van Hersenfuncties.md — confidence 5 |
 
 ---
 

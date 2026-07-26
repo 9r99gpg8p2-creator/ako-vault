@@ -128,3 +128,6 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Corpus Callosum]]
 - [[Cognitieve Neurowetenschappen]]
 - [[Limbisch Systeem]]
+- [[Thalamus]]
+- [[Basale Ganglia]]
+- [[Lateralisatie van Hersenfuncties]]

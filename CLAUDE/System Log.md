@@ -2038,3 +2038,24 @@ type: operationeel
 | 2026-07-26T expansie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Cognitieve Neurowetenschappen, +Limbisch Systeem · Beleggen: +Speltheorie · Geschiedenis: +Industrialisatie |
 | 2026-07-26T expansie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
 | 2026-07-26T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe gaps toegevoegd ↓ (Thalamus, Basale Ganglia, Hemispatiale Neglect, Lateralisatie) |
+| 2026-07-26T consolidatie | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-26T consolidatie | | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden — alle bestanden beginnen met _ · STAP 1.5 overgeslagen |
+| 2026-07-26T consolidatie | | Agent 2 | Externe bronnen | ✗ | FOUT E-003: Wikipedia API onbereikbaar via proxy — intern kennismodel gebruikt, confidence 5 |
+| 2026-07-26T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Thalamus.md — 01 Psychologie - Wiki — confidence 5 (Purves 2018, Kandel 2013) |
+| 2026-07-26T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Basale Ganglia.md — 01 Psychologie - Wiki — confidence 5 (Purves 2018, Graybiel 2008) |
+| 2026-07-26T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Lateralisatie van Hersenfuncties.md — 01 Psychologie - Wiki — confidence 5 (Springer 1998, Hellige 1993) |
+| 2026-07-26T consolidatie | | Agent 3 | Duplicaat vermeden | ✓ | Hemispatiale Neglect reeds aanwezig als Hemispatiale Verwaarlozing.md — geen nieuwe pagina aangemaakt (Wet 2) |
+| 2026-07-26T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Thalamus — Bewustzijn.md — sterkte ★9 — Psychologie × Filosofie |
+| 2026-07-26T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Basale Ganglia — Dopamine.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-26T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Lateralisatie van Hersenfuncties — Afasie.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-26T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Basale Ganglia — Verslaving.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-26T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Gewoonte die Ons Gevangeneemt.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-26T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Poortwachter van de Werkelijkheid.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-26T consolidatie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-26 Dagrapport.md — consolidatiemodus — 3 pagina's, 4 verbindingen, 2 inzichten, 3 gaps gedicht |
+| 2026-07-26T consolidatie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-26 Quiz.md — 3 vragen toegevoegd (Thalamus, Basale Ganglia, Lateralisatie van Hersenfuncties) |
+| 2026-07-26T consolidatie | | Agent 7 | Knowledge Health berekend | ✓ | Psych 118 · Fil 64 · Gesch 60 · Beleg 63 — Connectivity 100%, Orphan 0% — Health 100% alle disciplines |
+| 2026-07-26T consolidatie | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard overschreven — 305 pagina's totaal |
+| 2026-07-26T consolidatie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Thalamus, +Basale Ganglia, +Lateralisatie van Hersenfuncties |
+| 2026-07-26T consolidatie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
+| 2026-07-26T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Thalamus, Basale Ganglia, Hemispatiale Neglect→Verwaarlozing, Lateralisatie) · Queue leeg |
+| 2026-07-26T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox verwerkt · Health: 100% |

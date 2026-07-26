@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-26
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -20,7 +20,7 @@ sessie: expansie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (4 nieuwe pagina's, 4 relaties, 2 inzichten — expansie-run 2026-07-26)
+Trend: ↑ (3 nieuwe pagina's, 4 relaties, 2 inzichten — consolidatie-run 2026-07-26)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (4 nieuwe pagina's, 4 relaties, 2 inzichten — expansie-run 2026-07-
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 115 | 100% | ↑ |
+| Psychologie | 118 | 100% | ↑ |
 | Filosofie | 64 | 100% | → |
-| Geschiedenis | 60 | 100% | ↑ |
-| Beleggen | 63 | 100% | ↑ |
-| **Totaal** | **302** | **100%** | ↑ |
+| Geschiedenis | 60 | 100% | → |
+| Beleggen | 63 | 100% | → |
+| **Totaal** | **305** | **100%** | ↑ |
 
 ---
 
@@ -40,35 +40,34 @@ Trend: ↑ (4 nieuwe pagina's, 4 relaties, 2 inzichten — expansie-run 2026-07-
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 636 |
+| Relatiepagina's + inzichtpagina's | 642 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-26 — expansie-run)
+## Sessieoverzicht (2026-07-26 — consolidatie-run)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe Wiki-pagina's | 3 |
 | Nieuwe relatiepagina's | 4 |
 | Nieuwe inzichten | 2 |
 | Inbox verwerkt | 0 (geen bestanden beschikbaar) |
-| Gaps gedicht | 0 |
-| Nieuwe gaps geïdentificeerd | 4 |
+| Gaps gedicht | 3 |
+| Nieuwe gaps geïdentificeerd | 0 |
 
 ---
 
-## Nieuwe pagina's (expansie-run)
+## Nieuwe pagina's (consolidatie-run 2026-07-26)
 
-- [[Cognitieve Neurowetenschappen]] (Psychologie — interdisciplinaire studie van neurale mechanismen achter cognitie)
-- [[Limbisch Systeem]] (Psychologie — neuroanatomische structuren voor emotie, geheugen en motivatie)
-- [[Speltheorie]] (Beleggen — wiskundig raamwerk voor strategische interacties; Nash-evenwicht)
-- [[Industrialisatie]] (Geschiedenis — overgang van agrarische naar industriële economie, 18e–19e eeuw)
+- [[Thalamus]] (Psychologie — subcorticale relaisstructuur; bewustzijn, Korsakov, slaap-waak)
+- [[Basale Ganglia]] (Psychologie — go/stop circuits, dopamine, gewoontevorming, Parkinson, verslaving)
+- [[Lateralisatie van Hersenfuncties]] (Psychologie — links-rechts specialisatie, afasie, neglect, split-brain)
 
 ---
 
 ## Aandacht vereist
 
+- Queue-item "Hemispatiale Neglect" nog ↓ — pagina bestaat als [[Hemispatiale Verwaarlozing]]; queue-entry kan gesloten worden.
 *(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5)*
-
