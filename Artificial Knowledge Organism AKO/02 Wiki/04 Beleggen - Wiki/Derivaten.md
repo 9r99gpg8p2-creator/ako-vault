@@ -57,6 +57,7 @@ Derivaten worden ingezet voor:
 - [[Risicoperceptie]] — derivaten veranderen de risicostructuur van een portefeuille fundamenteel
 - [[Verliesaversie]] — de asymmetrische risicostructuur van opties sluit aan op gedragseconomische inzichten
 - [[Efficiënte Markthypothese]] — derivatenprijsvorming is gebaseerd op arbitragevrije marktmodellen
+- [[Opties]] — onderdeel van: opties zijn het meest verhandelde type derivaat
 
 **Cross-domein:**
 - [[Gedragseconomie]] — psychologische biases bepalen mede hoe beleggers derivaten gebruiken of misbruiken

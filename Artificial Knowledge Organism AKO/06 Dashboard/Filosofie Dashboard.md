@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, filosofie]
-updated: 2026-07-25
+updated: 2026-07-26
 sessie: expansie
 ---
 
@@ -15,17 +15,17 @@ sessie: expansie
 
 | Metric | Score |
 |---|---|
-| Coverage | 100% (60 pagina's / target 20 ✓) |
+| Coverage | 100% (63 pagina's / target 20 ✓) |
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (+1 pagina: Esthetica)
+Trend: ↑ (+1 pagina: Karl Popper)
 
 ---
 
-## Pagina-overzicht (60)
+## Pagina-overzicht (63)
 
-Bewustzijn · Vrije Wil · Morele Verantwoordelijkheid · Epistemologie · Fenomenologie · Psychoanalyse · Ethiek · Sociale Ontologie · Ethiek van Zorg · Epistemologisch Relativisme · Utilitarisme · Rationalisme · Immanuel Kant · Logisch Positivisme · Deontologie · Aristoteles · Plato · Socrates · Stoïcisme · Nietzsche · Functionalisme · Historisch Materialisme · Postmodernisme · Marxisme · Analytische Filosofie · Taalfilosofie · Poststructuralisme · Structuralisme · Libertair Paternalisme · Adorno en de Autoritaire Persoonlijkheid · David Hume · George Berkeley · John Locke · John Stuart Mill · Maatschappelijk Contract · Falsifiabilisme · John Rawls · Jean-Jacques Rousseau · Thomas Hobbes · Spinoza · Hermeneutiek · René Descartes · Hegel · Wittgenstein · Empirisme · Pragmatisme · Merleau-Ponty · Existentialisme · Politieke Filosofie · Filosofie van de Wetenschap · Filosofie van de Geest · Michel Foucault · Jürgen Habermas · Kritische Theorie · Metafysica · Neurodiversiteit · Deugdethiek · Hannah Arendt · Heidegger · **Esthetica**
+Bewustzijn · Vrije Wil · Morele Verantwoordelijkheid · Epistemologie · Fenomenologie · Psychoanalyse · Ethiek · Sociale Ontologie · Ethiek van Zorg · Epistemologisch Relativisme · Utilitarisme · Rationalisme · Immanuel Kant · Logisch Positivisme · Deontologie · Aristoteles · Plato · Socrates · Stoïcisme · Nietzsche · Functionalisme · Historisch Materialisme · Postmodernisme · Marxisme · Analytische Filosofie · Taalfilosofie · Poststructuralisme · Structuralisme · Libertair Paternalisme · Adorno en de Autoritaire Persoonlijkheid · David Hume · George Berkeley · John Locke · John Stuart Mill · Maatschappelijk Contract · Falsifiabilisme · John Rawls · Jean-Jacques Rousseau · Thomas Hobbes · Spinoza · Hermeneutiek · René Descartes · Hegel · Wittgenstein · Empirisme · Pragmatisme · Merleau-Ponty · Existentialisme · Politieke Filosofie · Filosofie van de Wetenschap · Filosofie van de Geest · Michel Foucault · Jürgen Habermas · Kritische Theorie · Metafysica · Neurodiversiteit · Deugdethiek · Hannah Arendt · Heidegger · Esthetica · Leibniz · **Karl Popper**
 
 ---
 

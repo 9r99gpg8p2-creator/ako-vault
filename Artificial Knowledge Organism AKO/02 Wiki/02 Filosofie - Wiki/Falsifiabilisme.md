@@ -57,6 +57,7 @@ In zijn analyse van Freud en Marx meende Popper dat hun theorieën niet-falsifie
 
 **Cross-domein:**
 - [[Paradigmawisseling]] — Kuhns concurrerende visie op wetenschappelijke vooruitgang; historisch perspectief op wetenschappelijke revoluties
+- [[Karl Popper]] — oorzaak: Popper is de grondlegger van het falsifiabilisme als demarcatiecriterium voor wetenschappelijkheid
 
 ## Bronnen
 

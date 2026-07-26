@@ -1972,3 +1972,24 @@ type: operationeel
 | 2026-07-25T consolidatie | | Agent 8 | Hub-pagina bijgewerkt | ✓ | Psychologie.md: +Agnosie, +Neuropsychologische Revalidatie |
 | 2026-07-25T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Agnosie, Neuropsychologische Revalidatie) · queue nu leeg |
 | 2026-07-25T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 0 Inbox verwerkt · Health: 88% Psychologie |
+| 2026-07-26T expansie | | Orchestrator | Context laden | ✓ | AKO v1.6, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-26T expansie | | Agent 1 | Inbox gescand | ✓ | Geen verwerkte bestanden (alle starten met _) — STAP 1.5 overgeslagen |
+| 2026-07-26T expansie | | Agent 2 | Research EXPANSIE | ✓ | Wikipedia API geblokkeerd — interne kennis. 4 gaps gekozen: Episodisch Geheugen, Frontotemporale Dementie, Karl Popper, Opties |
+| 2026-07-26T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Episodisch Geheugen.md — 01 Psychologie - Wiki — confidence 5 (Tulving 1972, 2002; Squire 2004) |
+| 2026-07-26T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Frontotemporale Dementie.md — 01 Psychologie - Wiki — confidence 5 (Rascovsky 2011; Bang 2015; Neary 1998) |
+| 2026-07-26T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Karl Popper.md — 02 Filosofie - Wiki — confidence 5 (Popper 1934/1959, 1945, 1963) |
+| 2026-07-26T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Opties.md — 04 Beleggen - Wiki — confidence 5 (Black-Scholes 1973; Hull 2018; Cox-Ross-Rubinstein 1979) |
+| 2026-07-26T expansie | | Agent 3 | Bestaande pagina bijgewerkt | ✓ | Alzheimer en Dementie.md — FTD-link en Episodisch Geheugen-link toegevoegd |
+| 2026-07-26T expansie | | Agent 3 | Bestaande pagina bijgewerkt | ✓ | Falsifiabilisme.md — Karl Popper-link toegevoegd |
+| 2026-07-26T expansie | | Agent 3 | Bestaande pagina bijgewerkt | ✓ | Derivaten.md — Opties-link toegevoegd |
+| 2026-07-26T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Opties — Verliesaversie.md — sterkte ★8 — cross-domein Beleggen ↔ Psychologie |
+| 2026-07-26T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Karl Popper — Klinische Neuropsychologie.md — sterkte ★7 — cross-domein Filosofie ↔ Psychologie |
+| 2026-07-26T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Episodisch Geheugen — Frontotemporale Dementie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-26T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Geheugenstructuur als Sleutel tot Dementie-Differentiatie.md — Psychologie → Klinische Neuropsychologie — sterkte ★8 |
+| 2026-07-26T expansie | | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-26 Dagrapport.md — 4 nieuwe pagina's · 3 verbindingen · 1 inzicht |
+| 2026-07-26T expansie | | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-26 Quiz.md — 5 nieuwe vragen (begrip/toepassing/vergelijking) |
+| 2026-07-26T expansie | | Agent 7 | Knowledge Health berekend | ✓ | Psych 111 · Fil 63 · Gesch 59 · Beleg 61 — Connectivity 100%, Orphan 0% — Health 100% alle disciplines |
+| 2026-07-26T expansie | | Agent 7 | Dashboards bijgewerkt | ✓ | Psychologie (111), Filosofie (63), Beleggen (61) dashboards overschreven |
+| 2026-07-26T expansie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie.md: +Episodisch Geheugen, +Frontotemporale Dementie · Filosofie.md: +Karl Popper · Beleggen.md: +Opties |
+| 2026-07-26T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe gaps naar queue: Semantisch Geheugen, Thomas Kuhn, Corpus Callosum, Smart Beta |
+| 2026-07-26T expansie | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 3 verbindingen · 1 inzicht · Health: 100% |

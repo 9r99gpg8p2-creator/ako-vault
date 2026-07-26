@@ -75,3 +75,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Heidegger]]
 - [[Esthetica]]
 - [[Leibniz]]
+- [[Karl Popper]]

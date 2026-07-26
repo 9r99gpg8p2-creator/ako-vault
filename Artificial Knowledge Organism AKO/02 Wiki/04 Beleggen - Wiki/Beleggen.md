@@ -73,3 +73,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Behavioral Finance]]
 - [[ESG Beleggen]]
 - [[Monte Carlo Simulatie]]
+- [[Opties]]

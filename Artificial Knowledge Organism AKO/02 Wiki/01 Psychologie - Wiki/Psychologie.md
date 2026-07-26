@@ -122,3 +122,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Apraxie]]
 - [[Agnosie]]
 - [[Neuropsychologische Revalidatie]]
+- [[Episodisch Geheugen]]
+- [[Frontotemporale Dementie]]

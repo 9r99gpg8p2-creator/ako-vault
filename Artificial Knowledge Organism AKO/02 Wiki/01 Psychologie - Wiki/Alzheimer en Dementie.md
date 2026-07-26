@@ -64,6 +64,8 @@ Alois Alzheimer beschreef in 1907 als eerste de neuropathologische kenmerken van
 - [[Prefrontale Cortex]] — prefrontale atrofie onderbouwt de executive en persoonlijkheidsveranderingen bij late-stage Alzheimer
 - [[Neuroimaging]] — MRI, FDG-PET en amyloïd-PET zijn essentiële diagnostische tools bij dementie
 - [[Geheugenconsolidatie]] — de hippocampale structuren die geheugenconsolidatie mogelijk maken zijn als eerste aangetast bij Alzheimer
+- [[Frontotemporale Dementie]] — tegenstelling: FTD vs. Alzheimer onderscheiden zich qua primair aangetast cognitief domein (executief vs. episodisch geheugen)
+- [[Episodisch Geheugen]] — oorzaak/gevolg: episodisch geheugenverlies is het meest kenmerkende vroege symptoom van Alzheimer-dementie
 
 **Cross-domein:**
 - [[Ethiek van Zorg]] — dementiezorg roept fundamentele vragen op over autonomie, wilsonbekwaamheid en de ethische plicht van zorgverleners

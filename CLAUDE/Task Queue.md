@@ -284,6 +284,14 @@ type: operationeel
 | ✓ | 2026-07-25T expansie-2 | Agent 3 | Expansie: Monte Carlo Simulatie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Monte Carlo Simulatie.md — confidence 5 |
 | ✓ | 2026-07-25T expansie-2 | Agent 3 | Gap: Agnosie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Agnosie.md — confidence 8 (Farah 1990, Humphreys & Riddoch 1987, Lissauer 1890) |
 | ✓ | 2026-07-25T expansie-2 | Agent 3 | Gap: Neuropsychologische Revalidatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Neuropsychologische Revalidatie.md — confidence 8 (Wilson 2003, Prigatano 1999, Cappa 2005) |
+| ✓ | 2026-07-26T expansie | Agent 3 | Gap: Episodisch Geheugen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Episodisch Geheugen.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Gap: Frontotemporale Dementie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Frontotemporale Dementie.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Gap: Karl Popper | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Karl Popper.md — confidence 5 |
+| ✓ | 2026-07-26T expansie | Agent 3 | Gap: Opties | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Opties.md — confidence 5 |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Semantisch Geheugen | Complement op Episodisch Geheugen — samen het declaratief geheugensysteem (Tulving) |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Thomas Kuhn | Wetenschapsfilosoof — Paradigmawisseling bestaat in Geschiedenis; Kuhn als Filosofie-persoon ontbreekt |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Corpus Callosum | Neuropsychologie — hemisferenspecialisatie; relevant voor split-brain fenomeen |
+| ↓ | 2026-07-26T expansie | Agent 3 | Gap: Smart Beta | Beleggen — operationalisering Factor Investing via ETF-structuur |
 
 ---
 
