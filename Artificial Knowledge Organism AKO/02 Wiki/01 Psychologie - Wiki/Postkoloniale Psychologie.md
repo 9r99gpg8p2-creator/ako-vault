@@ -61,6 +61,7 @@ Na Fanon is het veld uitgebreid met denkers zoals Albert Memmi (*Portrait du Col
 - [[PTSD]] — koloniale geweldervaringen produceren collectieve en individuele traumasymptomen die postkoloniale psychologie als systeemsymptoom analyseert
 - [[Psychoanalyse]] — Fanon leende psychoanalytische concepten (projectie, identificatie, het onbewuste) om koloniale dynamieken te analyseren, maar bekritiseerde Freuds eurocentrische aannames
 - [[Existentialisme]] — Fanons fenomenologische benadering van de zwarte lichamelijkheid is direct beïnvloed door Sartre en Merleau-Ponty
+- [[Jean-Paul Sartre]] ★7 — Sartre schreef het voorwoord bij Fanons *Les Damnés de la Terre*; zijn concepten van kwade trouw en de blik vormen de filosofische basis van Fanons analyse
 
 **Cross-domein:**
 - [[Dekolonisatie]] — de politiek-historische context van het postkoloniale denken; Fanons werk is tegelijkertijd een psychologische en historische interventie

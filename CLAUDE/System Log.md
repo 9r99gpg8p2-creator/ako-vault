@@ -2105,3 +2105,29 @@ type: operationeel
 | 2026-07-26T08:11Z | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Aandachtsprocessen +Gedragsgenetica · Geschiedenis: +De Hanzesteden · Beleggen: +Micro-economie |
 | 2026-07-26T08:12Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ — Queue nu leeg |
 | 2026-07-26T08:12Z | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 0 Inbox verwerkt · Health: 90% gemiddeld |
+| 2026-07-27T00:00Z | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-27T00:01Z | | Agent 1 | Inbox scan | ✓ | Alleen _-templates aanwezig — STAP 1.5 overgeslagen |
+| 2026-07-27T00:02Z | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP 403 blokkade — interne kennis gebruikt, confidence 7–9 per pagina |
+| 2026-07-27T00:03Z | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Prosopagnosie (Psych — klinisch), Jean-Paul Sartre (Fil — ontbreekt), De Romantiek (Gesch — ontbreekt), Samengestelde Interest (Beleg — fundamenteel) |
+| 2026-07-27T00:04Z | | Agent 3 | Wiki aangemaakt | ✓ | Prosopagnosie.md — 01 Psychologie - Wiki — confidence 8 (Bodamer 1947, Duchaine & Nakayama 2006) |
+| 2026-07-27T00:05Z | | Agent 3 | Wiki aangemaakt | ✓ | Jean-Paul Sartre.md — 02 Filosofie - Wiki — confidence 8 (Sartre 1943/1945, Flynn 2006) |
+| 2026-07-27T00:06Z | | Agent 3 | Wiki aangemaakt | ✓ | De Romantiek.md — 03 Geschiedenis - Wiki — confidence 7 (Berlin 1999, Honour 1979) |
+| 2026-07-27T00:07Z | | Agent 3 | Wiki aangemaakt | ✓ | Samengestelde Interest.md — 04 Beleggen - Wiki — confidence 9 (Bernstein 2002, Siegel 2014) |
+| 2026-07-27T00:07Z | | Agent 3 | Update Wiki | ✓ | Existentialisme.md — cross-domein link [[De Romantiek]] ★8 toegevoegd |
+| 2026-07-27T00:07Z | | Agent 3 | Update Wiki | ✓ | Postkoloniale Psychologie.md — verbinding [[Jean-Paul Sartre]] ★7 toegevoegd |
+| 2026-07-27T00:07Z | | Agent 3 | Update Wiki | ✓ | Cognitieve Biases.md — cross-domein link [[Samengestelde Interest]] ★7 toegevoegd |
+| 2026-07-27T00:08Z | | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Albert Camus (Fil), Søren Kierkegaard (Fil), Gyrus Fusiformis (Psych) |
+| 2026-07-27T00:09Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Romantiek — Existentialisme.md — sterkte ★8 — Geschiedenis × Filosofie |
+| 2026-07-27T00:09Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Samengestelde Interest — Cognitieve Biases.md — sterkte ★7 — Beleggen × Psychologie |
+| 2026-07-27T00:09Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Jean-Paul Sartre — Postkoloniale Psychologie.md — sterkte ★7 — Filosofie × Psychologie |
+| 2026-07-27T00:10Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Romantische Subjectiviteit als Bron van Existentiële Psychiatrie.md — Geschiedenis → Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-27T00:10Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Exponentieel Groeien in Kennis en Kapitaal.md — Beleggen → Psychologie — sterkte ★7 |
+| 2026-07-27T00:11Z | | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-27 Dagrapport.md — expansiemodus — 4 concepten, 3 verbindingen, 2 inzichten, 3 gaps |
+| 2026-07-27T00:11Z | | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-27 Quiz.md — 5 vragen (Prosopagnosie, Sartre, Samengestelde Interest, Romantiek, vergelijking) |
+| 2026-07-27T00:12Z | | Agent 6 | Weekreflectie aangemaakt | ✓ | 2026-31 Reflectie.md — eerste dag van week 31 — 4 nieuwe concepten samengevat |
+| 2026-07-27T00:13Z | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 94% · Filosofie: 91% · Geschiedenis: 88% · Beleggen: 91% — alle trending ↑ |
+| 2026-07-27T00:13Z | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 317 pagina's totaal, 653 relaties/inzichten |
+| 2026-07-27T00:14Z | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Prosopagnosie · Filosofie: +Jean-Paul Sartre · Geschiedenis: +De Romantiek · Beleggen: +Samengestelde Interest |
+| 2026-07-27T00:14Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-27T00:15Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 3 nieuwe gaps ↓ toegevoegd |
+| 2026-07-27T00:15Z | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 3 verbindingen · 2 inzichten · Health: 91% gemiddeld |

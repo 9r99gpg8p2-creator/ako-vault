@@ -78,3 +78,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Karl Popper]]
 - [[Thomas Kuhn]]
 - [[Neuroethiek]]
+- [[Jean-Paul Sartre]]

@@ -62,6 +62,7 @@ Simone de Beauvoir paste existentialistische categorieën toe op de situatie van
 **Cross-domein:**
 - [[Neuropsychologische Rehabilitatie]] — existentiële vragen (zingeving, identiteit na hersenletsel) zijn klinisch relevant in neuropsychologische revalidatie
 - [[Identiteitsstatussen]] — Marcia's identiteitsstatussen vertonen parallellen met existentiële exploratie en commitment
+- [[De Romantiek]] ★8 — historische voorloper: Romantisch individualisme en subjectiviteitsnadruk prefigureren het existentialisme via Kierkegaard en Nietzsche
 
 ## Bronnen
 

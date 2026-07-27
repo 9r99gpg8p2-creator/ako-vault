@@ -134,3 +134,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Cognitieve Flexibiliteit]]
 - [[Aandachtsprocessen]]
 - [[Gedragsgenetica]]
+- [[Prosopagnosie]]

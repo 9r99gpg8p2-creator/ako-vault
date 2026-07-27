@@ -1,7 +1,7 @@
 ---
 type: dashboard
 tags: [dashboard, algemeen]
-updated: 2026-07-26
+updated: 2026-07-27
 sessie: expansie
 ---
 
@@ -20,7 +20,7 @@ sessie: expansie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: → (stabiel 100% — expansie-run 2026-07-26)
+Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's, 3 cross-domein verbindingen)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: → (stabiel 100% — expansie-run 2026-07-26)
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 118 | 100% | → |
-| Filosofie | 64 | 100% | ↑ |
-| Geschiedenis | 60 | 100% | ↑ |
-| Beleggen | 63 | 100% | ↑ |
-| **Totaal** | **305** | **100%** | → |
+| Psychologie | 122 | 100% | ↑ |
+| Filosofie | 66 | 100% | ↑ |
+| Geschiedenis | 63 | 100% | ↑ |
+| Beleggen | 66 | 100% | ↑ |
+| **Totaal** | **317** | **100%** | ↑ |
 
 ---
 
@@ -40,34 +40,36 @@ Trend: → (stabiel 100% — expansie-run 2026-07-26)
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 641 |
+| Relatiepagina's + inzichtpagina's | 653 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-26 — expansie-run)
+## Sessieoverzicht (2026-07-27 — expansie-run)
 
 | Metric | Aantal |
 |---|---|
 | Nieuwe Wiki-pagina's | 4 |
-| Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichten | 3 |
+| Nieuwe relatiepagina's | 3 |
+| Nieuwe inzichten | 2 |
 | Inbox verwerkt | 0 (geen verwerkbare bestanden) |
-| Gaps gedicht | 4 |
-| Nieuwe gaps geïdentificeerd | 0 |
+| Gaps gedicht | 0 |
+| Nieuwe gaps geïdentificeerd | 3 |
 
 ---
 
-## Nieuwe pagina's (expansie-run 2026-07-26)
+## Nieuwe pagina's (expansie-run 2026-07-27)
 
-- [[Cognitieve Flexibiliteit]] (Psychologie — executieve functie; task-switching, set-shifting; Diamond 2013)
-- [[Neuroethiek]] (Filosofie — ethische implicaties neurowetenschap; Roskies 2002)
-- [[De Dertigjarige Oorlog]] (Geschiedenis — 1618–1648; Vrede van Westfalen; Parker 1984)
-- [[Futures en Derivaten]] (Beleggen — derivatenmarkt; hedging en speculatie; Hull 2018)
+- [[Prosopagnosie]] (Psychologie — gezichtsherkenningsstoornis; FFA; confidence 8)
+- [[Jean-Paul Sartre]] (Filosofie — existentialisme; mauvaise foi; pour-soi; confidence 8)
+- [[De Romantiek]] (Geschiedenis — culturele beweging 1780–1850; sublieme; nationalisme; confidence 7)
+- [[Samengestelde Interest]] (Beleggen — rente-op-rente; Regel van 72; exponentiële groei; confidence 9)
 
 ---
 
 ## Aandacht vereist
 
-*(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5)*
+- Potential duplicate: Industrialisatie.md vs. Industriële Revolutie.md in Geschiedenis — handmatige controle aanbevolen
+- Nieuwe gaps in queue: Camus, Kierkegaard, Gyrus Fusiformis
+- *(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5–9 per pagina)*
