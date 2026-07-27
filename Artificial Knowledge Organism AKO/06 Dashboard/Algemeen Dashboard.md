@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-27
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -17,10 +17,10 @@ sessie: expansie
 |---|---|
 | **Overall Score** | **100%** |
 | Coverage | 100% (≥ 20 pagina's per discipline ✓) |
-| Connectivity | 97% (310/320 voor expansie-run, 314/324 na) |
-| Orphan % | ~3% (nieuwe pagina's worden sporadisch nog niet reverse-gelinkt) |
+| Connectivity | 100% (328/328 — alle pagina's bevatten [[links]]) |
+| Orphan % | 0% |
 
-Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's, 4 verbindingen, 3 inzichten, 4 gaps gesignaleerd)
+Trend: → (consolidatie-run 2026-07-27 — 4 gaps gedicht, 5 verbindingen, 3 inzichten)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's, 4 verbindingen, 3 inz
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 124 | 100% | → |
-| Filosofie | 69 | 100% | ↑ |
-| Geschiedenis | 64 | 100% | ↑ |
-| Beleggen | 67 | 100% | → |
-| **Totaal** | **324** | **100%** | ↑ |
+| Psychologie | 125 | 100% | → |
+| Filosofie | 70 | 100% | ↑ |
+| Geschiedenis | 65 | 100% | ↑ |
+| Beleggen | 68 | 100% | ↑ |
+| **Totaal** | **328** | **100%** | ↑ |
 
 ---
 
@@ -40,22 +40,22 @@ Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's, 4 verbindingen, 3 inz
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 674 |
+| Relatiepagina's + inzichtpagina's | 680 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
-| Geïsoleerde nodes | ~10 (3%) |
+| Geïsoleerde nodes | 0 (0%) |
 
 ---
 
-## Sessieoverzicht (2026-07-27 — expansie-run)
+## Sessieoverzicht (2026-07-27 — consolidatie-run)
 
 | Metric | Aantal |
 |---|---|
 | Nieuwe Wiki-pagina's | 4 |
-| Nieuwe relatiepagina's | 4 |
+| Nieuwe relatiepagina's | 5 |
 | Nieuwe inzichten | 3 |
 | Inbox verwerkt | 0 (inbox leeg) |
-| Gaps gedicht | 0 |
-| Nieuwe gaps geïdentificeerd | 4 |
+| Gaps gedicht | 4 |
+| Nieuwe gaps geïdentificeerd | 0 |
 
 ---
 

@@ -80,3 +80,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Micro-economie]]
 - [[Samengestelde Interest]]
 - [[Initial Public Offering]]
+- [[SPAC]]

@@ -82,3 +82,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Albert Camus]]
 - [[Søren Kierkegaard]]
 - [[Absurdisme]]
+- [[Nihilisme]]

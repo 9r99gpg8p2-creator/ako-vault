@@ -137,3 +137,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Prosopagnosie]]
 - [[Gyrus Fusiformis]]
 - [[Confabulatie]]
+- [[Subarachnoïdale Bloeding]]

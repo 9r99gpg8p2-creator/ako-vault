@@ -2178,3 +2178,26 @@ type: operationeel
 | 2026-07-27T14:00Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-27T14:00Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 4 nieuwe gaps ↓ toegevoegd |
 | 2026-07-27T14:00Z | | Orchestrator | Expansie-run (2) voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% gemiddeld |
+| 2026-07-27T consolidatie | | Orchestrator | Context laden | ✓ | AKO v1.6, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-27T consolidatie | | Agent 1 | Inbox scan | ✓ | Inbox leeg na filtering (_-bestanden) — STAP 1.5 overgeslagen |
+| 2026-07-27T consolidatie | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt. Confidence 5 voor alle nieuwe pagina's |
+| 2026-07-27T consolidatie | | Agent 3 | Gap: Nihilisme | ✓ | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Nihilisme.md — confidence 5 |
+| 2026-07-27T consolidatie | | Agent 3 | Gap: Gorbatsjov | ✓ | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Gorbatsjov.md — confidence 5 |
+| 2026-07-27T consolidatie | | Agent 3 | Gap: Subarachnoïdale Bloeding | ✓ | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Subarachnoïdale Bloeding.md — confidence 5 |
+| 2026-07-27T consolidatie | | Agent 3 | Gap: SPAC | ✓ | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/SPAC.md — confidence 5 |
+| 2026-07-27T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Nihilisme — Absurdisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-27T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Nihilisme — Nietzsche.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-27T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Gorbatsjov — De Val van de Sovjet-Unie.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-27T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Subarachnoïdale Bloeding — Confabulatie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-27T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | SPAC — Initial Public Offering.md — sterkte ★8 — Beleggen (intra) |
+| 2026-07-27T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Lege Schil als Waardecreatie.md — Beleggen → Filosofie — sterkte ★8 |
+| 2026-07-27T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Hervormen om te Overleven Versnelt de Val.md — Geschiedenis → Psychologie — sterkte ★9 |
+| 2026-07-27T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Brein dat zijn Eigen Leugens Gelooft.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-27T consolidatie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-27 Dagrapport.md — consolidatiemodus — 4 pag's, 5 verbindingen, 3 inzichten, 0 gaps resterend |
+| 2026-07-27T consolidatie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-27 Quiz.md — 3 vragen toegevoegd (vr12-14: Nihilisme, Subarachnoïdale Bloeding, SPAC) |
+| 2026-07-27T consolidatie | | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100% (125 pag.) · Fil 100% (70 pag.) · Gesch 100% (65 pag.) · Beleg 100% (68 pag.) — 328 pag. totaal |
+| 2026-07-27T consolidatie | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md bijgewerkt — 328 pagina's, 680 relaties/inzichten |
+| 2026-07-27T consolidatie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Nihilisme · Geschiedenis: +Gorbatsjov · Psychologie: +Subarachnoïdale Bloeding · Beleggen: +SPAC |
+| 2026-07-27T consolidatie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-27T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Nihilisme, Gorbatsjov, Subarachnoïdale Bloeding, SPAC) · 0 gaps resterend |
+| 2026-07-27T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 0 Inbox verwerkt · Health: 100% |
