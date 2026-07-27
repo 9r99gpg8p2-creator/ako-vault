@@ -76,3 +76,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Dertigjarige Oorlog]]
 - [[De Hanzesteden]]
 - [[De Romantiek]]
+- [[De Val van de Sovjet-Unie]]

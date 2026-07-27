@@ -60,6 +60,7 @@ De fundamentele rol van de PFC werd historisch duidelijk door het geval van Phin
 - [[Amygdala]] — antagonist/partner: PFC-amygdala interactie bepaalt de balans tussen emotionele reactiviteit en rationele controle
 - [[Dual Process Theorie]] — neurobiologie: System 2 (langzaam, redeneren) is geassocieerd met PFC-activiteit; System 1 (snel, automatisch) met amygdala en striatale structuren
 - [[ADHD]] — deficit: ADHD-symptomen reflecteren verminderde PFC-activiteit en vertraagde PFC-rijping
+- [[Confabulatie]] ★9 — klinische manifestatie: orbitofrontale en mediale PFC-schade verwijdert het temporele filter, waardoor confabulatie ontstaat
 
 **Cross-domein:**
 - [[Vrije Wil]] — filosofische implicatie: de vraag of de PFC de zetel is van vrije wil en deliberatieve handeling is een centraal thema in de filosofie van de geest en neuro-ethiek

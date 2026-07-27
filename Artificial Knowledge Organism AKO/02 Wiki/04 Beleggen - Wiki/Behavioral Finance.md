@@ -57,6 +57,7 @@ Behavioral Finance ontstond in de jaren zeventig als reactie op de dominante eff
 - [[Cognitieve Biases]] — catalogus van systematische denkfouten die beleggingsbeslissingen verstoren
 - [[Heuristieken]] — mentale vuistregels die efficiënt zijn maar systematisch falen in complexe markten
 - [[Kahneman]] ★10 — intellectuele architect van de psychologische basis van behavioral finance
+- [[Initial Public Offering]] ★8 — IPO-markten zijn een klassiek behavioral finance-laboratorium: underpricing en lange-termijn underperformance illustreren overconfidence en hot-market bias
 
 **Cross-domein:**
 - [[Dual Process Theorie]] — System 1 (snel, intuïtief) verklaart impulsieve beleggingsbeslissingen; System 2 (traag, analytisch) is vereist voor rationele analyse

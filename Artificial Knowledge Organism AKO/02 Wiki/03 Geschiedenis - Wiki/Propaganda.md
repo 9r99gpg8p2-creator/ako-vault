@@ -58,6 +58,7 @@ Tijdens de Koude Oorlog voerden zowel de VS (via Voice of America, CIA-publicati
 - [[Totalitarisme]] — aanvulling: propaganda is een van de zes kernkenmerken van het totalitaire systeem (Friedrich & Brzezinski)
 - [[Nationaal Socialisme]] — onderdeel van: de nazi-propagandamachine onder Goebbels is het meest bestudeerde historische geval
 - [[Stalinisme]] — onderdeel van: Sovjet agitprop als parallel systeem
+- [[De Val van de Sovjet-Unie]] ★8 — grens van propaganda: Glasnost onthulde dat decennialange Sovjet-propaganda de systeeminstorting slechts kon uitstellen, niet voorkomen
 - [[Koude Oorlog]] — aanvulling: de Koude Oorlog was deels een propagandastrijd om de "derde wereld"
 - [[Kritische Theorie]] — aanvulling: de Frankfurter Schule (Adorno, Horkheimer) analyseerde de cultuurindustrie als milde propaganda in democratische samenlevingen
 

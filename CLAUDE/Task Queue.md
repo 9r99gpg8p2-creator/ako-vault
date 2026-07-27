@@ -325,3 +325,11 @@ type: operationeel
 3. Geplande dagelijkse taken
 4. Geplande wekelijkse taken
 5. Geplande maandelijkse taken
+| ✓ | 2026-07-27T expansie-2 | Agent 3 | Expansie: Confabulatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Confabulatie.md — confidence 5 |
+| ✓ | 2026-07-27T expansie-2 | Agent 3 | Expansie: Absurdisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Absurdisme.md — confidence 5 |
+| ✓ | 2026-07-27T expansie-2 | Agent 3 | Expansie: De Val van de Sovjet-Unie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Val van de Sovjet-Unie.md — confidence 5 |
+| ✓ | 2026-07-27T expansie-2 | Agent 3 | Expansie: Initial Public Offering | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Initial Public Offering.md — confidence 5 |
+| ↓ | 2026-07-27T expansie-2 | Agent 3 | Gap: Nihilisme | Gerefereerd vanuit Absurdisme als primaire tegenpool (Camus); ontbreekt als eigen Filosofie-pagina |
+| ↓ | 2026-07-27T expansie-2 | Agent 3 | Gap: Gorbatsjov | Sleutelfiguur in De Val van de Sovjet-Unie; ontbreekt als historisch figuur-pagina (Geschiedenis) |
+| ↓ | 2026-07-27T expansie-2 | Agent 3 | Gap: Subarachnoïdale Bloeding | Meest voorkomende oorzaak van spontane confabulatie; klinisch-neuropsychologisch relevant (Psychologie) |
+| ↓ | 2026-07-27T expansie-2 | Agent 3 | Gap: SPAC (Special Purpose Acquisition Company) | Alternatief IPO-instrument; gerefereerd in Initial Public Offering (Beleggen) |

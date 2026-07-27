@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-27
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -17,10 +17,10 @@ sessie: consolidatie
 |---|---|
 | **Overall Score** | **100%** |
 | Coverage | 100% (≥ 20 pagina's per discipline ✓) |
-| Connectivity | 100% |
-| Orphan % | 0% |
+| Connectivity | 97% (310/320 voor expansie-run, 314/324 na) |
+| Orphan % | ~3% (nieuwe pagina's worden sporadisch nog niet reverse-gelinkt) |
 
-Trend: → (consolidatie-run 2026-07-27 — 3 nieuwe pagina's, 5 verbindingen, 2 inzichten, 3 gaps gedicht)
+Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's, 4 verbindingen, 3 inzichten, 4 gaps gesignaleerd)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: → (consolidatie-run 2026-07-27 — 3 nieuwe pagina's, 5 verbindingen, 2
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 123 | 100% | → |
-| Filosofie | 68 | 100% | ↑ |
-| Geschiedenis | 63 | 100% | → |
-| Beleggen | 66 | 100% | → |
-| **Totaal** | **320** | **100%** | ↑ |
+| Psychologie | 124 | 100% | → |
+| Filosofie | 69 | 100% | ↑ |
+| Geschiedenis | 64 | 100% | ↑ |
+| Beleggen | 67 | 100% | → |
+| **Totaal** | **324** | **100%** | ↑ |
 
 ---
 
@@ -40,35 +40,39 @@ Trend: → (consolidatie-run 2026-07-27 — 3 nieuwe pagina's, 5 verbindingen, 2
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 660 |
+| Relatiepagina's + inzichtpagina's | 674 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
-| Geïsoleerde nodes | 0 |
+| Geïsoleerde nodes | ~10 (3%) |
 
 ---
 
-## Sessieoverzicht (2026-07-27 — consolidatie-run)
+## Sessieoverzicht (2026-07-27 — expansie-run)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 3 |
-| Nieuwe relatiepagina's | 5 |
-| Nieuwe inzichten | 2 |
-| Inbox verwerkt | 0 (geen verwerkbare bestanden) |
-| Gaps gedicht | 3 |
-| Nieuwe gaps geïdentificeerd | 0 |
+| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe relatiepagina's | 4 |
+| Nieuwe inzichten | 3 |
+| Inbox verwerkt | 0 (inbox leeg) |
+| Gaps gedicht | 0 |
+| Nieuwe gaps geïdentificeerd | 4 |
 
 ---
 
-## Nieuwe pagina's (consolidatie-run 2026-07-27)
+## Nieuwe pagina's (expansie-run 2026-07-27)
 
-- [[Albert Camus]] (Filosofie — absurdisme; opstand; solidariteit; confidence 5)
-- [[Søren Kierkegaard]] (Filosofie — existentialisme; drie stadia; sprong van geloof; confidence 5)
-- [[Gyrus Fusiformis]] (Psychologie — FFA; gezichtsherkenning; prosopagnosie; confidence 5)
+- [[Confabulatie]] (Psychologie — orbitofrontale cortex; geheugenconstructie; Korsakov; confidence 5)
+- [[Absurdisme]] (Filosofie — Camus; opstand; zinloosheid; ACT-parallel; confidence 5)
+- [[De Val van de Sovjet-Unie]] (Geschiedenis — Glasnost; Perestrojka; Gorbatsjov; 1991; confidence 5)
+- [[Initial Public Offering]] (Beleggen — beursintroductie; underpricing; behavioral finance; confidence 5)
 
 ---
 
 ## Aandacht vereist
 
-- Potential duplicate: Industrialisatie.md vs. Industriële Revolutie.md in Geschiedenis — handmatige controle aanbevolen
-- Yalom en Frankl ontbreken als eigen pagina's — klinisch-existentieel cluster incompleet
+- Nihilisme ontbreekt als pagina — gerefereerd vanuit Absurdisme (Filosofie-cluster)
+- Gorbatsjov ontbreekt als historisch figuur-pagina
+- Subarachnoïdale Bloeding ontbreekt — klinische context voor confabulatie
+- SPAC ontbreekt — alternatief IPO-instrument
+- Potential duplicate: Industrialisatie.md vs. Industriële Revolutie.md — handmatige controle aanbevolen
 - *(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5 voor nieuwe pagina's)*

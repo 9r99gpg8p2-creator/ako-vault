@@ -2153,3 +2153,28 @@ type: operationeel
 | 2026-07-27T12:07Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-27T12:08Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Camus, Kierkegaard, Gyrus Fusiformis) |
 | 2026-07-27T12:08Z | | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 3 pag's · 5 verbindingen · 2 inzichten · Health: 100% |
+| 2026-07-27T14:00Z | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen — expansie-modus (run 2) |
+| 2026-07-27T14:00Z | | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met `_` — geen verwerkbare bestanden; STAP 1.5 overgeslagen |
+| 2026-07-27T14:00Z | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-27T14:00Z | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Confabulatie (Psych NIEUW), Absurdisme (Fil NIEUW), De Val van de Sovjet-Unie (Gesch NIEUW), Initial Public Offering (Beleg NIEUW) |
+| 2026-07-27T14:00Z | | Agent 3 | Wiki aangemaakt | ✓ | Confabulatie.md — 01 Psychologie - Wiki — confidence 5 (Kopelman 1987, Schnider 2008, Moscovitch 1997) |
+| 2026-07-27T14:00Z | | Agent 3 | Wiki aangemaakt | ✓ | Absurdisme.md — 02 Filosofie - Wiki — confidence 5 (Camus 1942, Foley 2008) |
+| 2026-07-27T14:00Z | | Agent 3 | Wiki aangemaakt | ✓ | De Val van de Sovjet-Unie.md — 03 Geschiedenis - Wiki — confidence 5 (Gorbachev 1996, Service 2009) |
+| 2026-07-27T14:00Z | | Agent 3 | Wiki aangemaakt | ✓ | Initial Public Offering.md — 04 Beleggen - Wiki — confidence 5 (Ritter 2003, Loughran & Ritter 1995) |
+| 2026-07-27T14:00Z | | Agent 3 | Gap Engine | ✓ | 4 nieuwe gaps gesignaleerd: Nihilisme (Fil), Gorbatsjov (Gesch), Subarachnoïdale Bloeding (Psych), SPAC (Beleg) |
+| 2026-07-27T14:00Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Absurdisme — Acceptatie en Commitment Therapie.md — sterkte ★7 — Filosofie × Psychologie (cross-domein) |
+| 2026-07-27T14:00Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Confabulatie — Prefrontale Cortex.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-27T14:00Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Initial Public Offering — Behavioral Finance.md — sterkte ★8 — Beleggen (intra) |
+| 2026-07-27T14:00Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Val van de Sovjet-Unie — Propaganda.md — sterkte ★8 — Geschiedenis (intra) |
+| 2026-07-27T14:00Z | | Agent 4 | Reverse links toegevoegd | ✓ | ACT ← Absurdisme ★7 · Prefrontale Cortex ← Confabulatie ★9 · Behavioral Finance ← IPO ★8 · Propaganda ← Val Sovjet ★8 |
+| 2026-07-27T14:00Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Confabulatie als Spiegel van het Geconstrueerde Zelf.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-27T14:00Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Absurde als Therapeutisch Programma.md — Filosofie → Psychologie — sterkte ★7 |
+| 2026-07-27T14:00Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Informatie-ondoorzichtigheid als Systeemrisico.md — Geschiedenis → Beleggen — sterkte ★7 |
+| 2026-07-27T14:00Z | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-27 Dagrapport.md — expansiemodus (run 2) — 4 concepten, 4 verbindingen, 3 inzichten, 4 gaps |
+| 2026-07-27T14:00Z | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-27 Quiz.md — 3 vragen toegevoegd (vr9-11: Confabulatie, Absurdisme vs ACT, IPO behavioral) |
+| 2026-07-27T14:00Z | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (124 pag.) · Filosofie: 100% (69 pag.) · Geschiedenis: 100% (63 pag.) · Beleggen: 100% (66 pag.) — 322 pag. totaal |
+| 2026-07-27T14:00Z | | Agent 7 | Dashboards bijgewerkt | ✓ | Alle 5 dashboards overschreven — 324 pagina's totaal, 674 relaties/inzichten |
+| 2026-07-27T14:00Z | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Confabulatie · Filosofie: +Absurdisme · Geschiedenis: +De Val van de Sovjet-Unie · Beleggen: +Initial Public Offering |
+| 2026-07-27T14:00Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-27T14:00Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 4 nieuwe gaps ↓ toegevoegd |
+| 2026-07-27T14:00Z | | Orchestrator | Expansie-run (2) voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% gemiddeld |

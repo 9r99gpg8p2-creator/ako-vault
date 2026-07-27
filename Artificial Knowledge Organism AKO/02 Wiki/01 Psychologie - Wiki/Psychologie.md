@@ -136,3 +136,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Gedragsgenetica]]
 - [[Prosopagnosie]]
 - [[Gyrus Fusiformis]]
+- [[Confabulatie]]

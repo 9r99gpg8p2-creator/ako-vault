@@ -81,3 +81,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Jean-Paul Sartre]]
 - [[Albert Camus]]
 - [[Søren Kierkegaard]]
+- [[Absurdisme]]
