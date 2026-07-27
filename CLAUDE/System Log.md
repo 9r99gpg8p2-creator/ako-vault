@@ -2131,3 +2131,25 @@ type: operationeel
 | 2026-07-27T00:14Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-27T00:15Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 3 nieuwe gaps ↓ toegevoegd |
 | 2026-07-27T00:15Z | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 3 verbindingen · 2 inzichten · Health: 91% gemiddeld |
+| 2026-07-27T12:00Z | | Orchestrator | Context laden | ✓ | AKO v1.6, Wiki Template, Naming Convention, Task Queue, System Log geladen — consolidatie-modus |
+| 2026-07-27T12:00Z | | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met `_` — geen verwerking; STAP 1.5 overgeslagen |
+| 2026-07-27T12:01Z | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-07-27T12:01Z | | Agent 2 | Onderwerp selectie | ✓ | 3 queue-gaps geselecteerd: Albert Camus (Fil), Søren Kierkegaard (Fil), Gyrus Fusiformis (Psych) |
+| 2026-07-27T12:02Z | | Agent 3 | Wiki aangemaakt | ✓ | Albert Camus.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-27T12:02Z | | Agent 3 | Wiki aangemaakt | ✓ | Søren Kierkegaard.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-27T12:02Z | | Agent 3 | Wiki aangemaakt | ✓ | Gyrus Fusiformis.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-27T12:03Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Albert Camus — Existentialisme.md — sterkte ★8 — Filosofie (intra) |
+| 2026-07-27T12:03Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Albert Camus — Jean-Paul Sartre.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-27T12:03Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Søren Kierkegaard — Existentialisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-27T12:03Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Gyrus Fusiformis — Prosopagnosie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-27T12:03Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Gyrus Fusiformis — Agnosie.md — sterkte ★7 — Psychologie (intra) |
+| 2026-07-27T12:04Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Gezicht als Grens van het Zelf.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-27T12:04Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Opstand als Existentiële Therapie.md — Filosofie → Psychologie — sterkte ★7 |
+| 2026-07-27T12:05Z | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-27 Dagrapport.md — consolidatiemodus — 3 pag's, 5 verbindingen, 2 inzichten, 3 gaps gedicht |
+| 2026-07-27T12:05Z | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-27 Quiz.md — 3 vragen toegevoegd (vr6-8: Gyrus Fusiformis, Kierkegaard vs Camus, klinisch geval) |
+| 2026-07-27T12:06Z | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (123 pag.) · Filosofie: 100% (68 pag.) · Geschiedenis: 100% (63 pag.) · Beleggen: 100% (66 pag.) |
+| 2026-07-27T12:06Z | | Agent 7 | Dashboards bijgewerkt | ✓ | Psychologie, Filosofie, Algemeen Dashboard overschreven — 320 pagina's totaal, 660 relaties/inzichten |
+| 2026-07-27T12:07Z | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Albert Camus, +Søren Kierkegaard · Psychologie: +Gyrus Fusiformis |
+| 2026-07-27T12:07Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-27T12:08Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Camus, Kierkegaard, Gyrus Fusiformis) |
+| 2026-07-27T12:08Z | | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 3 pag's · 5 verbindingen · 2 inzichten · Health: 100% |

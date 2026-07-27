@@ -312,9 +312,9 @@ type: operationeel
 | ✓ | 2026-07-27T expansie | Agent 3 | Expansie: Jean-Paul Sartre | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Jean-Paul Sartre.md — confidence 8 |
 | ✓ | 2026-07-27T expansie | Agent 3 | Expansie: De Romantiek | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Romantiek.md — confidence 7 |
 | ✓ | 2026-07-27T expansie | Agent 3 | Expansie: Samengestelde Interest | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Samengestelde Interest.md — confidence 9 |
-| ↓ | 2026-07-27T expansie | Agent 3 | Gap: Albert Camus | Geciteerd in Existentialisme.md en Postkoloniale Psychologie.md — nog geen standalone pagina |
-| ↓ | 2026-07-27T expansie | Agent 3 | Gap: Søren Kierkegaard | Geciteerd als "vader van het existentialisme" in meerdere pagina's — nog geen standalone pagina |
-| ↓ | 2026-07-27T expansie | Agent 3 | Gap: Gyrus Fusiformis | Kernanatomie in Prosopagnosie.md — gedetailleerde neuroanatomische pagina ontbreekt |
+| ✓ | 2026-07-27T consolidatie | Agent 3 | Gap: Albert Camus | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Albert Camus.md — confidence 5 |
+| ✓ | 2026-07-27T consolidatie | Agent 3 | Gap: Søren Kierkegaard | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Søren Kierkegaard.md — confidence 5 |
+| ✓ | 2026-07-27T consolidatie | Agent 3 | Gap: Gyrus Fusiformis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Gyrus Fusiformis.md — confidence 5 |
 
 ---
 

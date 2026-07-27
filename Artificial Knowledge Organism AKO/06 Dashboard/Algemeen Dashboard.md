@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-27
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -20,7 +20,7 @@ sessie: expansie
 | Connectivity | 100% |
 | Orphan % | 0% |
 
-Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's, 3 cross-domein verbindingen)
+Trend: → (consolidatie-run 2026-07-27 — 3 nieuwe pagina's, 5 verbindingen, 2 inzichten, 3 gaps gedicht)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's, 3 cross-domein verbin
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 122 | 100% | ↑ |
-| Filosofie | 66 | 100% | ↑ |
-| Geschiedenis | 63 | 100% | ↑ |
-| Beleggen | 66 | 100% | ↑ |
-| **Totaal** | **317** | **100%** | ↑ |
+| Psychologie | 123 | 100% | → |
+| Filosofie | 68 | 100% | ↑ |
+| Geschiedenis | 63 | 100% | → |
+| Beleggen | 66 | 100% | → |
+| **Totaal** | **320** | **100%** | ↑ |
 
 ---
 
@@ -40,36 +40,35 @@ Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's, 3 cross-domein verbin
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 653 |
+| Relatiepagina's + inzichtpagina's | 660 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-27 — expansie-run)
+## Sessieoverzicht (2026-07-27 — consolidatie-run)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
-| Nieuwe relatiepagina's | 3 |
+| Nieuwe Wiki-pagina's | 3 |
+| Nieuwe relatiepagina's | 5 |
 | Nieuwe inzichten | 2 |
 | Inbox verwerkt | 0 (geen verwerkbare bestanden) |
-| Gaps gedicht | 0 |
-| Nieuwe gaps geïdentificeerd | 3 |
+| Gaps gedicht | 3 |
+| Nieuwe gaps geïdentificeerd | 0 |
 
 ---
 
-## Nieuwe pagina's (expansie-run 2026-07-27)
+## Nieuwe pagina's (consolidatie-run 2026-07-27)
 
-- [[Prosopagnosie]] (Psychologie — gezichtsherkenningsstoornis; FFA; confidence 8)
-- [[Jean-Paul Sartre]] (Filosofie — existentialisme; mauvaise foi; pour-soi; confidence 8)
-- [[De Romantiek]] (Geschiedenis — culturele beweging 1780–1850; sublieme; nationalisme; confidence 7)
-- [[Samengestelde Interest]] (Beleggen — rente-op-rente; Regel van 72; exponentiële groei; confidence 9)
+- [[Albert Camus]] (Filosofie — absurdisme; opstand; solidariteit; confidence 5)
+- [[Søren Kierkegaard]] (Filosofie — existentialisme; drie stadia; sprong van geloof; confidence 5)
+- [[Gyrus Fusiformis]] (Psychologie — FFA; gezichtsherkenning; prosopagnosie; confidence 5)
 
 ---
 
 ## Aandacht vereist
 
 - Potential duplicate: Industrialisatie.md vs. Industriële Revolutie.md in Geschiedenis — handmatige controle aanbevolen
-- Nieuwe gaps in queue: Camus, Kierkegaard, Gyrus Fusiformis
-- *(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5–9 per pagina)*
+- Yalom en Frankl ontbreken als eigen pagina's — klinisch-existentieel cluster incompleet
+- *(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5 voor nieuwe pagina's)*

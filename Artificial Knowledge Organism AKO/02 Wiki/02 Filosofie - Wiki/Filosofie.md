@@ -79,3 +79,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Thomas Kuhn]]
 - [[Neuroethiek]]
 - [[Jean-Paul Sartre]]
+- [[Albert Camus]]
+- [[Søren Kierkegaard]]
