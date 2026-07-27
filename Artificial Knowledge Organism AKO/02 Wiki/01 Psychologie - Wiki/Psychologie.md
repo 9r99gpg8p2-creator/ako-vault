@@ -141,3 +141,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Prospectief Geheugen]]
 - [[Balint Syndroom]]
 - [[Visuospatiële Functies]]
+- [[Gerstmann Syndroom]]
+- [[Pariëtaalkwab]]

@@ -2220,3 +2220,28 @@ type: operationeel
 | 2026-07-27T expansie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-27T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd (Gerstmann Syndroom, TRC) |
 | 2026-07-27T expansie | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 3 relaties · 2 inzichten · 0 Inbox verwerkt · Health: 100% |
+| 2026-07-27T consolidatie-2 | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen — consolidatie-modus |
+| 2026-07-27T consolidatie-2 | | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met `_` — geen verwerking; STAP 1.5 overgeslagen |
+| 2026-07-27T consolidatie-2 | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt, confidence max 5 |
+| 2026-07-27T consolidatie-2 | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd uit queue + gaps: Gerstmann Syndroom (Psych), Waarheids- en Verzoeningscommissie (Gesch), Pariëtaalkwab (Psych), Restoratieve Justitie (Fil) |
+| 2026-07-27T consolidatie-2 | | Agent 3 | Wiki aangemaakt | ✓ | Gerstmann Syndroom.md — 01 Psychologie - Wiki — confidence 5 (Gerstmann 1924, Rusconi 2010, Mayer 1999) |
+| 2026-07-27T consolidatie-2 | | Agent 3 | Wiki aangemaakt | ✓ | Waarheids- en Verzoeningscommissie.md — 03 Geschiedenis - Wiki — confidence 5 (Tutu 1999, Wilson 2001, Hayner 2011) |
+| 2026-07-27T consolidatie-2 | | Agent 3 | Wiki aangemaakt | ✓ | Pariëtaalkwab.md — 01 Psychologie - Wiki — confidence 5 (Kolb & Whishaw 2015, Mesulam 1998) |
+| 2026-07-27T consolidatie-2 | | Agent 3 | Wiki aangemaakt | ✓ | Restoratieve Justitie.md — 02 Filosofie - Wiki — confidence 5 (Zehr 2002, Braithwaite 1989) |
+| 2026-07-27T consolidatie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Gerstmann Syndroom — Agnosie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-27T consolidatie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Gerstmann Syndroom — Pariëtaalkwab.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-27T consolidatie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Waarheids- en Verzoeningscommissie — Apartheid.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-27T consolidatie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Waarheids- en Verzoeningscommissie — Restoratieve Justitie.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-27T consolidatie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Restoratieve Justitie — Morele Verantwoordelijkheid.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-27T consolidatie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Pariëtaalkwab — Visuospatiële Functies.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-27T consolidatie-2 | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Lichaam als Kaart van de Geest.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-27T consolidatie-2 | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Waarheid als Geneesmiddel voor Collectief Trauma.md — Geschiedenis → Psychologie — sterkte ★9 |
+| 2026-07-27T consolidatie-2 | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Straf of Herstel als Keuze voor de Rechtvaardige Samenleving.md — Filosofie → Geschiedenis — sterkte ★8 |
+| 2026-07-27T consolidatie-2 | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-27 Dagrapport.md — consolidatiemodus — 4 pag's, 6 verbindingen, 3 inzichten, 2 queue-gaps gedicht |
+| 2026-07-27T consolidatie-2 | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-27 Quiz.md — 3 vragen toegevoegd (vr18-20: Gerstmann, TRC/Restoratieve Justitie, Pariëtaalkwab vergelijking) |
+| 2026-07-27T consolidatie-2 | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (130 pag.) · Filosofie: 100% (71 pag.) · Geschiedenis: 100% (67 pag.) · Beleggen: 100% (68 pag.) — 336 pag. totaal |
+| 2026-07-27T consolidatie-2 | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 336 pagina's totaal, 695 relaties/inzichten |
+| 2026-07-27T consolidatie-2 | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Gerstmann Syndroom, +Pariëtaalkwab · Filosofie: +Restoratieve Justitie · Geschiedenis: +Waarheids- en Verzoeningscommissie |
+| 2026-07-27T consolidatie-2 | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-27T consolidatie-2 | | Orchestrator | Task Queue bijgewerkt | ✓ | 2 queue-gaps gesloten ✓ (Gerstmann, TRC) · 2 nieuwe gaps ✓ (Pariëtaalkwab, Restoratieve Justitie) — Queue nu leeg |
+| 2026-07-27T consolidatie-2 | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 pag's · 6 verbindingen · 3 inzichten · 0 Inbox verwerkt · Health: 100% |

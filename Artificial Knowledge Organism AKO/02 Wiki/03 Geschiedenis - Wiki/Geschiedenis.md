@@ -79,3 +79,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Val van de Sovjet-Unie]]
 - [[Gorbatsjov]]
 - [[Apartheid]]
+- [[Waarheids- en Verzoeningscommissie]]

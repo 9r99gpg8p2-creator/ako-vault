@@ -2,32 +2,33 @@
 type: dagrapport
 date: 2026-07-27
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
 Goedemorgen.
 
-Nieuwe kennis: 8 · Inbox verwerkt: 0 · Verbindingen: 8 · Inzichten: 5 · Gaps: 3 · Leestijd: ~16 min
+Nieuwe kennis: 12 · Inbox verwerkt: 0 · Verbindingen: 14 · Inzichten: 8 · Gaps gedicht: 2 · Leestijd: ~24 min
 
 ---
 
 ## Research Agenda
 
-1. **Gerstmann Syndroom** (Psychologie) — klinisch relevant naast Balint; bilaterale pariëtale laesies; dyscalculie, dysgrafie, vinger-agnosie, links-rechtsdesoriëntatie
-2. **Existentialisme-cluster** (Filosofie) — Sartre, Camus, Kierkegaard, Nihilisme vormen samen een coherente sub-hub die nog geconsolideerd moet worden
-3. **Post-apartheid transitional justice** (Geschiedenis) — de Waarheids- en Verzoeningscommissie als model voor historische rechtsverwerking verdient een eigen pagina
+1. **Gerstmann Syndroom** (Psychologie) — klinisch kernconcept voor MSc Klinische Neuropsychologie; pariëtale tetrade: acalculie, agrafie, vingeragnosie, links-rechtsdesoriëntatie — aangemaakt deze run
+2. **Waarheids- en Verzoeningscommissie** (Geschiedenis) — transitional justice model van grote historische en psychologische relevantie — aangemaakt deze run
+3. **Pariëtaalkwab als anatomische hub** (Psychologie) — verbindt Gerstmann, Balint, Visuospatiële Functies, Agnosie, Apraxie — aangemaakt deze run
+4. **Restoratieve Justitie** (Filosofie) — verbindt TRC met Ethiek, Morele Verantwoordelijkheid, Hannah Arendt — aangemaakt deze run
 
 ---
 
 ## Insight Feed
 
-— "Wie zijn toekomstige intenties niet kan bewaken, verliest meer dan geheugen — hij verliest het gevoel van persoonlijke continuïteit als handelend subject." [Psychologie → Filosofie · ★7]
+— "Het Gerstmann Syndroom toont dat het brein het lichaam representeert als kennissysteem: beschadiging van de gyrus angularis wist niet alleen vaardigheden maar de perceptuele kaart van het eigen lichaam — een empirische onderbouwing van Merleau-Ponty." [Psychologie → Filosofie · ★9]
 
-— "Apartheid schiep een fysiek-ruimtelijke orde die de cognitieve en sociale werkelijkheid van zijn slachtoffers fundamenteel herschreef: ruimtelijke segregatie werkt als cognitieve beperking." [Geschiedenis → Psychologie · ★8]
+— "De Waarheids- en Verzoeningscommissie toont dat publieke erkenning van trauma — niet straf — een primair mechanisme voor collectieve verwerking kan zijn; het getuigenismodel is maatschappelijke narratieve therapie." [Geschiedenis → Psychologie · ★9]
 
-— "Confabulatie na subarachnoïdale bloeding maakt zichtbaar dat het normale brein altijd al zingevende narratieven construeert, geen feiten herhaalt." [Psychologie → Filosofie · ★9]
+— "Restoratieve justitie en retributieve justitie vertegenwoordigen twee fundamenteel verschillende antwoorden op de vraag wat een rechtvaardige samenleving verdient na een misdaad — de TRC toont dat herstel pragmatisch werkt, maar morele kosten heeft." [Filosofie → Geschiedenis · ★8]
 
 ---
 
@@ -35,9 +36,9 @@ Nieuwe kennis: 8 · Inbox verwerkt: 0 · Verbindingen: 8 · Inzichten: 5 · Gaps
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 128 | 89% | ↑ |
-| Filosofie | 70 | 85% | → |
-| Geschiedenis | 66 | 83% | ↑ |
+| Psychologie | 130 | 91% | ↑ |
+| Filosofie | 71 | 87% | ↑ |
+| Geschiedenis | 67 | 85% | ↑ |
 | Beleggen | 68 | 83% | → |
 
 ---
@@ -47,31 +48,39 @@ Nieuwe kennis: 8 · Inbox verwerkt: 0 · Verbindingen: 8 · Inzichten: 5 · Gaps
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 8 |
+| Nieuwe Wiki-pagina's | 4 |
 | Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 8 |
-| Gaps gedicht | 8 |
+| Nieuwe verbindingen | 6 |
+| Nieuwe inzichten | 3 |
+| Gaps gedicht | 2 |
+| Queue resterend | 0 |
 
 ---
 
-## Nieuwe Wiki-pagina's — Consolidatie-run (AM)
+## Pagina's Aangemaakt via Task Queue (Consolidatie-run)
 
-1. [[Nihilisme]] — Filosofie — confidence 5
-2. [[Gorbatsjov]] — Geschiedenis — confidence 5
-3. [[Subarachnoïdale Bloeding]] — Psychologie — confidence 5
-4. [[SPAC]] — Beleggen — confidence 5
+1. [[Gerstmann Syndroom]] — Psychologie — confidence 5 (gyrus angularis, pariëtale tetrade)
+2. [[Waarheids- en Verzoeningscommissie]] — Geschiedenis — confidence 5 (transitional justice, TRC 1996–2002)
 
-## Nieuwe Wiki-pagina's — Expansie-run (PM)
+## Pagina's Aangemaakt als Nieuwe Gaps
 
-5. [[Prospectief Geheugen]] — Psychologie — confidence 5
-6. [[Balint Syndroom]] — Psychologie — confidence 5
-7. [[Visuospatiële Functies]] — Psychologie — confidence 5
-8. [[Apartheid]] — Geschiedenis — confidence 5
+3. [[Pariëtaalkwab]] — Psychologie — confidence 5 (neuroanatomische hub)
+4. [[Restoratieve Justitie]] — Filosofie — confidence 5 (rechtsfilosofisch paradigma)
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Gerstmann Syndroom]] ↔ [[Agnosie]] · ★8 (Psychologie intra)
+2. [[Pariëtaalkwab]] → [[Gerstmann Syndroom]] · ★9 (Psychologie intra)
+3. [[Apartheid]] → [[Waarheids- en Verzoeningscommissie]] · ★10 (Geschiedenis intra)
+4. [[Restoratieve Justitie]] → [[Waarheids- en Verzoeningscommissie]] · ★9 (Filosofie × Geschiedenis)
+5. [[Morele Verantwoordelijkheid]] → [[Restoratieve Justitie]] · ★9 (Filosofie intra)
+6. [[Pariëtaalkwab]] → [[Visuospatiële Functies]] · ★9 (Psychologie intra)
 
 ---
 
 ## Aandacht vereist
 
 - [ ] Wikipedia API onbereikbaar — confidence gecapped op 5 voor alle nieuwe pagina's
-- [ ] Existentialisme-cluster (Sartre, Camus, Kierkegaard, Nihilisme) verdient geconsolideerde relatiepagina of sub-hub
-- [ ] Gerstmann Syndroom nog niet aangemaakt — toegevoegd aan Task Queue
+- [ ] Queue nu leeg na 2 gedichte gaps — systeem klaar voor nieuwe Inbox-aanlevering

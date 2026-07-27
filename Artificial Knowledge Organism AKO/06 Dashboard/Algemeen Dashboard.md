@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-27
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -17,10 +17,10 @@ sessie: expansie
 |---|---|
 | **Overall Score** | **100%** |
 | Coverage | 100% (≥ 20 pagina's per discipline ✓) |
-| Connectivity | 100% (332/332 — alle pagina's bevatten [[links]]) |
-| Orphan % | ~5% (nieuwe pagina's nog niet in alle backlinks) |
+| Connectivity | 100% (336/336 — alle pagina's bevatten [[links]]) |
+| Orphan % | ~3% (recente pagina's nog in backlink-propagatie) |
 
-Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's; 3 relaties; 2 inzichten)
+Trend: ↑ (consolidatie-run 2026-07-27 — 4 nieuwe pagina's; 6 relaties; 3 inzichten; 2 queue-gaps gedicht)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's; 3 relaties; 2 inzicht
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 128 | 100% | ↑ |
-| Filosofie | 70 | 100% | → |
-| Geschiedenis | 66 | 100% | ↑ |
+| Psychologie | 130 | 100% | ↑ |
+| Filosofie | 71 | 100% | ↑ |
+| Geschiedenis | 67 | 100% | ↑ |
 | Beleggen | 68 | 100% | → |
-| **Totaal** | **332** | **100%** | ↑ |
+| **Totaal** | **336** | **100%** | ↑ |
 
 ---
 
@@ -40,36 +40,35 @@ Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's; 3 relaties; 2 inzicht
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 685 |
+| Relatiepagina's + inzichtpagina's | 695 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 (0%) |
 
 ---
 
-## Sessieoverzicht (2026-07-27 — beide runs gecombineerd)
+## Sessieoverzicht (2026-07-27 — alle runs gecombineerd)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 8 |
-| Nieuwe relatiepagina's | 8 |
-| Nieuwe inzichten | 5 |
+| Nieuwe Wiki-pagina's | 12 |
+| Nieuwe relatiepagina's | 14 |
+| Nieuwe inzichten | 8 |
 | Inbox verwerkt | 0 (inbox leeg) |
-| Gaps gedicht | 8 |
+| Gaps gedicht | 10 |
 
 ---
 
-## Nieuwe pagina's (expansie-run 2026-07-27 PM)
+## Nieuwe pagina's (consolidatie-run 2026-07-27 — afsluitende run)
 
-- [[Prospectief Geheugen]] (Psychologie — toekomstgericht geheugen; CAMPROMPT; frontale cortex; confidence 5)
-- [[Balint Syndroom]] (Psychologie — simultanagnosie; oculomotorische apraxie; optische ataxie; confidence 5)
-- [[Visuospatiële Functies]] (Psychologie — dorsale stroom; Rey-figuur; Block Design; VOSP; confidence 5)
-- [[Apartheid]] (Geschiedenis — Zuid-Afrika 1948–1994; Mandela; TRC; Tutu; confidence 5)
+- [[Gerstmann Syndroom]] (Psychologie — vingeragnosie; acalculie; agrafie; links-rechtsdesoriëntatie; gyrus angularis; confidence 5)
+- [[Pariëtaalkwab]] (Psychologie — neuroanatomische hub; gyrus angularis; superieure/inferieure lobulus; dorsale stroom; confidence 5)
+- [[Waarheids- en Verzoeningscommissie]] (Geschiedenis — TRC 1996–2002; Desmond Tutu; ubuntu; amnestiemodel; transitional justice; confidence 5)
+- [[Restoratieve Justitie]] (Filosofie — herstel van relaties; Zehr; Braithwaite; ubuntu; reïntegratieve beschaming; confidence 5)
 
 ---
 
 ## Aandacht vereist
 
-- Gerstmann Syndroom ontbreekt — toegevoegd aan Task Queue (pariëtaalkwab cluster)
-- Waarheids- en Verzoeningscommissie ontbreekt — transitional justice model
-- Existentialisme-cluster verdient geconsolideerde sub-hub
+- Task Queue nu leeg — systeem klaar voor nieuwe Inbox-aanlevering
 - *(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5 voor nieuwe pagina's)*
+- Existentialisme-cluster (Sartre, Camus, Kierkegaard, Nihilisme, Absurdisme) verdient geconsolideerde sub-hub bij ≥ 3 nauw verwante sub-pagina's

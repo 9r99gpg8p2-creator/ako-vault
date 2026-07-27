@@ -83,3 +83,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Søren Kierkegaard]]
 - [[Absurdisme]]
 - [[Nihilisme]]
+- [[Restoratieve Justitie]]
