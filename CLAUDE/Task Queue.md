@@ -333,3 +333,9 @@ type: operationeel
 | ✓ | 2026-07-27T consolidatie | Agent 3 | Gap: Gorbatsjov | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Gorbatsjov.md — confidence 5 |
 | ✓ | 2026-07-27T consolidatie | Agent 3 | Gap: Subarachnoïdale Bloeding | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Subarachnoïdale Bloeding.md — confidence 5 |
 | ✓ | 2026-07-27T consolidatie | Agent 3 | Gap: SPAC (Special Purpose Acquisition Company) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/SPAC.md — confidence 5 |
+| ✓ | 2026-07-27T expansie | Agent 3 | Expansie: Prospectief Geheugen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Prospectief Geheugen.md — confidence 5 |
+| ✓ | 2026-07-27T expansie | Agent 3 | Expansie: Balint Syndroom | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Balint Syndroom.md — confidence 5 |
+| ✓ | 2026-07-27T expansie | Agent 3 | Expansie: Visuospatiële Functies | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Visuospatiële Functies.md — confidence 5 |
+| ✓ | 2026-07-27T expansie | Agent 3 | Expansie: Apartheid | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Apartheid.md — confidence 5 |
+| ↓ | 2026-07-27T expansie | Agent 3 | Gap: Gerstmann Syndroom | Pariëtaalkwab-cluster (dyscalculie, dysgrafie, vinger-agnosie) — volgende run |
+| ↓ | 2026-07-27T expansie | Agent 3 | Gap: Waarheids- en Verzoeningscommissie | Transitional justice model — volgende run |

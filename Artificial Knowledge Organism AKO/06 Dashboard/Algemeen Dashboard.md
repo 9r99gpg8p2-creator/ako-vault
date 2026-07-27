@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-27
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -17,10 +17,10 @@ sessie: consolidatie
 |---|---|
 | **Overall Score** | **100%** |
 | Coverage | 100% (≥ 20 pagina's per discipline ✓) |
-| Connectivity | 100% (328/328 — alle pagina's bevatten [[links]]) |
-| Orphan % | 0% |
+| Connectivity | 100% (332/332 — alle pagina's bevatten [[links]]) |
+| Orphan % | ~5% (nieuwe pagina's nog niet in alle backlinks) |
 
-Trend: → (consolidatie-run 2026-07-27 — 4 gaps gedicht, 5 verbindingen, 3 inzichten)
+Trend: ↑ (expansie-run 2026-07-27 — 4 nieuwe pagina's; 3 relaties; 2 inzichten)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: → (consolidatie-run 2026-07-27 — 4 gaps gedicht, 5 verbindingen, 3 in
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 125 | 100% | → |
-| Filosofie | 70 | 100% | ↑ |
-| Geschiedenis | 65 | 100% | ↑ |
-| Beleggen | 68 | 100% | ↑ |
-| **Totaal** | **328** | **100%** | ↑ |
+| Psychologie | 128 | 100% | ↑ |
+| Filosofie | 70 | 100% | → |
+| Geschiedenis | 66 | 100% | ↑ |
+| Beleggen | 68 | 100% | → |
+| **Totaal** | **332** | **100%** | ↑ |
 
 ---
 
@@ -40,39 +40,36 @@ Trend: → (consolidatie-run 2026-07-27 — 4 gaps gedicht, 5 verbindingen, 3 in
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 680 |
+| Relatiepagina's + inzichtpagina's | 685 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 (0%) |
 
 ---
 
-## Sessieoverzicht (2026-07-27 — consolidatie-run)
+## Sessieoverzicht (2026-07-27 — beide runs gecombineerd)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
-| Nieuwe relatiepagina's | 5 |
-| Nieuwe inzichten | 3 |
+| Nieuwe Wiki-pagina's | 8 |
+| Nieuwe relatiepagina's | 8 |
+| Nieuwe inzichten | 5 |
 | Inbox verwerkt | 0 (inbox leeg) |
-| Gaps gedicht | 4 |
-| Nieuwe gaps geïdentificeerd | 0 |
+| Gaps gedicht | 8 |
 
 ---
 
-## Nieuwe pagina's (expansie-run 2026-07-27)
+## Nieuwe pagina's (expansie-run 2026-07-27 PM)
 
-- [[Confabulatie]] (Psychologie — orbitofrontale cortex; geheugenconstructie; Korsakov; confidence 5)
-- [[Absurdisme]] (Filosofie — Camus; opstand; zinloosheid; ACT-parallel; confidence 5)
-- [[De Val van de Sovjet-Unie]] (Geschiedenis — Glasnost; Perestrojka; Gorbatsjov; 1991; confidence 5)
-- [[Initial Public Offering]] (Beleggen — beursintroductie; underpricing; behavioral finance; confidence 5)
+- [[Prospectief Geheugen]] (Psychologie — toekomstgericht geheugen; CAMPROMPT; frontale cortex; confidence 5)
+- [[Balint Syndroom]] (Psychologie — simultanagnosie; oculomotorische apraxie; optische ataxie; confidence 5)
+- [[Visuospatiële Functies]] (Psychologie — dorsale stroom; Rey-figuur; Block Design; VOSP; confidence 5)
+- [[Apartheid]] (Geschiedenis — Zuid-Afrika 1948–1994; Mandela; TRC; Tutu; confidence 5)
 
 ---
 
 ## Aandacht vereist
 
-- Nihilisme ontbreekt als pagina — gerefereerd vanuit Absurdisme (Filosofie-cluster)
-- Gorbatsjov ontbreekt als historisch figuur-pagina
-- Subarachnoïdale Bloeding ontbreekt — klinische context voor confabulatie
-- SPAC ontbreekt — alternatief IPO-instrument
-- Potential duplicate: Industrialisatie.md vs. Industriële Revolutie.md — handmatige controle aanbevolen
+- Gerstmann Syndroom ontbreekt — toegevoegd aan Task Queue (pariëtaalkwab cluster)
+- Waarheids- en Verzoeningscommissie ontbreekt — transitional justice model
+- Existentialisme-cluster verdient geconsolideerde sub-hub
 - *(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5 voor nieuwe pagina's)*

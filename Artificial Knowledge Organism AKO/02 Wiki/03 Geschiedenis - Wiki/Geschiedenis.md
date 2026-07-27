@@ -78,3 +78,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Romantiek]]
 - [[De Val van de Sovjet-Unie]]
 - [[Gorbatsjov]]
+- [[Apartheid]]

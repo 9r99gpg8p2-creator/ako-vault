@@ -138,3 +138,6 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Gyrus Fusiformis]]
 - [[Confabulatie]]
 - [[Subarachnoïdale Bloeding]]
+- [[Prospectief Geheugen]]
+- [[Balint Syndroom]]
+- [[Visuospatiële Functies]]

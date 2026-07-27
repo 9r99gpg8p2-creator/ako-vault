@@ -2201,3 +2201,22 @@ type: operationeel
 | 2026-07-27T consolidatie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-27T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Nihilisme, Gorbatsjov, Subarachnoïdale Bloeding, SPAC) · 0 gaps resterend |
 | 2026-07-27T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 0 Inbox verwerkt · Health: 100% |
+| 2026-07-27T expansie | | Agent 1 | Inbox scan uitgevoerd | ✓ | Geen verwerkbare bestanden gevonden (alleen `_`-prefix templates) — STAP 1.5 overgeslagen |
+| 2026-07-27T expansie | | Agent 2 | Research uitgevoerd | ✓ | Wikipedia API geblokkeerd — interne kennis gebruikt (confidence 5) · 4 topics: Prospectief Geheugen, Balint Syndroom, Visuospatiële Functies, Apartheid |
+| 2026-07-27T expansie | | Agent 3 | Wiki-pagina aangemaakt | ✓ | Prospectief Geheugen.md — discipline: psychologie — confidence 5 |
+| 2026-07-27T expansie | | Agent 3 | Wiki-pagina aangemaakt | ✓ | Balint Syndroom.md — discipline: psychologie — confidence 5 |
+| 2026-07-27T expansie | | Agent 3 | Wiki-pagina aangemaakt | ✓ | Visuospatiële Functies.md — discipline: psychologie — confidence 5 |
+| 2026-07-27T expansie | | Agent 3 | Wiki-pagina aangemaakt | ✓ | Apartheid.md — discipline: geschiedenis — confidence 5 |
+| 2026-07-27T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Balint Syndroom — Visuospatiële Functies.md — sterkte ★9 |
+| 2026-07-27T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Prospectief Geheugen — Executieve Functies.md — sterkte ★8 |
+| 2026-07-27T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Apartheid — Sociale Psychologie.md — sterkte ★7 (cross-domein) |
+| 2026-07-27T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Geheugen voor Toekomst als Spiegel van Identiteit.md — Psychologie → Filosofie — sterkte ★7 |
+| 2026-07-27T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Ruimte als Politiek Instrument.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-27T expansie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-27 Dagrapport.md — expansiemodus — 8 pag's totaal dag, 8 verbindingen, 5 inzichten |
+| 2026-07-27T expansie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-27 Quiz.md — 3 vragen toegevoegd (vr15-17: Prospectief Geheugen, Balint Syndroom, Apartheid) |
+| 2026-07-27T expansie | | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100% (128 pag.) · Fil 100% (70 pag.) · Gesch 100% (66 pag.) · Beleg 100% (68 pag.) — 332 pag. totaal |
+| 2026-07-27T expansie | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md bijgewerkt — 332 pagina's, 685 relaties/inzichten |
+| 2026-07-27T expansie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Prospectief Geheugen, +Balint Syndroom, +Visuospatiële Functies · Geschiedenis: +Apartheid |
+| 2026-07-27T expansie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-27T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 2 nieuwe gaps toegevoegd (Gerstmann Syndroom, TRC) |
+| 2026-07-27T expansie | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 3 relaties · 2 inzichten · 0 Inbox verwerkt · Health: 100% |
