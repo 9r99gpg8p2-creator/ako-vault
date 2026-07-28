@@ -2245,3 +2245,29 @@ type: operationeel
 | 2026-07-27T consolidatie-2 | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-27T consolidatie-2 | | Orchestrator | Task Queue bijgewerkt | ✓ | 2 queue-gaps gesloten ✓ (Gerstmann, TRC) · 2 nieuwe gaps ✓ (Pariëtaalkwab, Restoratieve Justitie) — Queue nu leeg |
 | 2026-07-27T consolidatie-2 | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 pag's · 6 verbindingen · 3 inzichten · 0 Inbox verwerkt · Health: 100% |
+| 2026-07-28T06:00Z | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen — expansie-modus |
+| 2026-07-28T06:00Z | | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met `_` — geen verwerkbare bestanden; STAP 1.5 overgeslagen |
+| 2026-07-28T06:00Z | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt, confidence max 5 |
+| 2026-07-28T06:00Z | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Temporaalkwab (Psych), Occipitaalkwab (Psych), Cerebellum (Psych), Neoliberalisme (Gesch) |
+| 2026-07-28T06:00Z | | Agent 3 | Wiki aangemaakt | ✓ | Temporaalkwab.md — 01 Psychologie - Wiki — confidence 5 (Kolb & Whishaw 2015, Lezak 2012, Mesulam 2000) |
+| 2026-07-28T06:00Z | | Agent 3 | Wiki aangemaakt | ✓ | Occipitaalkwab.md — 01 Psychologie - Wiki — confidence 5 (Kolb & Whishaw 2015, Farah 1990, Zeki 1993) |
+| 2026-07-28T06:00Z | | Agent 3 | Wiki aangemaakt | ✓ | Cerebellum.md — 01 Psychologie - Wiki — confidence 5 (Kolb & Whishaw 2015, Schmahmann 1998, Stoodley 2009) |
+| 2026-07-28T06:00Z | | Agent 3 | Wiki aangemaakt | ✓ | Neoliberalisme.md — 03 Geschiedenis - Wiki — confidence 5 (Harvey 2005, Friedman 1962, Hayek 1944) |
+| 2026-07-28T06:00Z | | Agent 3 | Gap Engine | ✓ | 4 nieuwe gaps gesignaleerd: Frontaalkwab (Psych), Globalisering (Gesch), Wernicke's Afasie (Psych), Positieve Psychologie (Psych) |
+| 2026-07-28T06:00Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Temporaalkwab — Hippocampus.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-28T06:00Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Occipitaalkwab — Agnosie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-28T06:00Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Neoliberalisme — Financiële Crisis 2008.md — sterkte ★9 — Geschiedenis × Beleggen (cross-domein) |
+| 2026-07-28T06:00Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Cerebellum — Executieve Functies.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-28T06:00Z | | Agent 4 | Reverse links toegevoegd | ✓ | Hippocampus ← Temporaalkwab ★10 · Agnosie ← Occipitaalkwab ★9 · Financiële Crisis 2008 ← Neoliberalisme ★9 · Executieve Functies ← Cerebellum ★8 |
+| 2026-07-28T06:00Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Brein Construeert Wat het Ziet.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-28T06:00Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Marktdogma als Historische Kwetsbaarheid.md — Geschiedenis → Beleggen — sterkte ★8 |
+| 2026-07-28T06:00Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Automatisme als Onderschatte Intelligentie.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-28T06:00Z | | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-28 Dagrapport.md — expansiemodus — 4 concepten, 4 verbindingen, 3 inzichten, 4 gaps gesignaleerd |
+| 2026-07-28T06:00Z | | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-28 Quiz.md — 5 vragen (Occipitaalkwab, Agnosie, Cerebellum, Temporaalkwab, Neoliberalisme) |
+| 2026-07-28T06:00Z | | Agent 6 | Weekreflectie bijgewerkt | ✓ | 2026-31 Reflectie.md — aanvulling 28 juli: kwabbenserie + neoliberalisme toegevoegd |
+| 2026-07-28T06:00Z | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (133 pag.) · Filosofie: 100% (71 pag.) · Geschiedenis: 100% (68 pag.) · Beleggen: 100% (68 pag.) — 340 pag. totaal |
+| 2026-07-28T06:00Z | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 340 pagina's, 702 relaties/inzichten |
+| 2026-07-28T06:00Z | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Temporaalkwab, +Occipitaalkwab, +Cerebellum · Geschiedenis: +Neoliberalisme |
+| 2026-07-28T06:00Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-28T06:00Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 4 nieuwe gaps ↓ (Frontaalkwab, Globalisering, Wernicke's Afasie, Positieve Psychologie) |
+| 2026-07-28T06:00Z | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · 0 Inbox verwerkt · Health: 100% |

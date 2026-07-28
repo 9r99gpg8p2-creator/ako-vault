@@ -143,3 +143,6 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Visuospatiële Functies]]
 - [[Gerstmann Syndroom]]
 - [[Pariëtaalkwab]]
+- [[Temporaalkwab]]
+- [[Occipitaalkwab]]
+- [[Cerebellum]]

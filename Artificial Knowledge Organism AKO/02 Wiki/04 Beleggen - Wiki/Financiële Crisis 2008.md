@@ -70,6 +70,7 @@ De directe aanleiding was de stijging van wanbetalingen op subprime-hypotheken v
 - [[Cognitieve Biases]] — confirmation bias, overconfidence en groepsdenken droegen bij aan de escalatie
 
 **Cross-domein:**
+- [[Neoliberalisme]] ★9 — de financiële deregulering die het neoliberalisme bevorderde creëerde de systeemrisico's die de crisis mogelijk maakten
 - [[Grote Depressie]] — historische parallel: dezelfde mechanismen (bankfaillissementen, deflatie, massawerkloosheid), maar snellere beleidsreactie in 2008
 - [[Paradigmawisseling]] — de crisis leidde tot een herwaardering van de efficiënte markttheorie en de rol van regulering
 

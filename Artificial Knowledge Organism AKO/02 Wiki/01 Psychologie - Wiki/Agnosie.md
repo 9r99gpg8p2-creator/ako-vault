@@ -59,6 +59,7 @@ Het onderscheid tussen apperceptieve en associatieve agnosie heeft decennialang 
 - [[Neuropsychologie]] — onderdeel van: agnosie is een kernonderwerp in klinisch neuropsychologisch onderzoek
 - [[Prefrontale Cortex]] — aanvulling: executieve controle ondersteunt compensatiestrategieën bij agnosie
 - [[Neuropsychologische Rehabilitatie]] — toepassing: compensatieprotocollen voor agnosie zijn onderdeel van bredere revalidatieprogramma's
+- [[Occipitaalkwab]] ★9 — visuele agnosie ontstaat door laesies in de occipitale of occipito-temporale cortex
 
 **Cross-domein:**
 - [[Filosofie van de Geest]] — agnosie illustreert de dissociatie tussen perceptie en betekenisgeving, relevant voor filosofische debatten over bewustzijn en qualia

@@ -341,3 +341,11 @@ type: operationeel
 | ✓ | 2026-07-27T consolidatie | Agent 3 | Gap: Waarheids- en Verzoeningscommissie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Waarheids- en Verzoeningscommissie.md — confidence 5 |
 | ✓ | 2026-07-27T consolidatie | Agent 3 | Gap: Pariëtaalkwab | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Pariëtaalkwab.md — confidence 5 |
 | ✓ | 2026-07-27T consolidatie | Agent 3 | Gap: Restoratieve Justitie | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Restoratieve Justitie.md — confidence 5 |
+| ✓ | 2026-07-28T expansie | Agent 3 | Expansie: Temporaalkwab | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Temporaalkwab.md — confidence 5 |
+| ✓ | 2026-07-28T expansie | Agent 3 | Expansie: Occipitaalkwab | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Occipitaalkwab.md — confidence 5 |
+| ✓ | 2026-07-28T expansie | Agent 3 | Expansie: Cerebellum | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cerebellum.md — confidence 5 |
+| ✓ | 2026-07-28T expansie | Agent 3 | Expansie: Neoliberalisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Neoliberalisme.md — confidence 5 |
+| ↓ | 2026-07-28T expansie | Agent 3 | Gap: Frontaalkwab | Neuroanatomische kwabbenserie ontbreekt: Frontaalkwab (motorische cortex, prefrontale functies, Broca's gebied) |
+| ↓ | 2026-07-28T expansie | Agent 3 | Gap: Globalisering | Logisch vervolg op Neoliberalisme, IMF en Washington Consensus; ontbreekt in Geschiedenis |
+| ↓ | 2026-07-28T expansie | Agent 3 | Gap: Wernicke's Afasie | Specifiek klinisch syndroom benoemd in Temporaalkwab en Afasie; verdient eigen pagina |
+| ↓ | 2026-07-28T expansie | Agent 3 | Gap: Positieve Psychologie | Counterbalans voor klinisch-pathologisch perspectief; relevant voor MSc KNP |

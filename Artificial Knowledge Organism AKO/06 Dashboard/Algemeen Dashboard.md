@@ -1,8 +1,8 @@
 ---
 type: dashboard
 tags: [dashboard, algemeen]
-updated: 2026-07-27
-sessie: consolidatie
+updated: 2026-07-28
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -17,10 +17,10 @@ sessie: consolidatie
 |---|---|
 | **Overall Score** | **100%** |
 | Coverage | 100% (≥ 20 pagina's per discipline ✓) |
-| Connectivity | 100% (336/336 — alle pagina's bevatten [[links]]) |
+| Connectivity | 100% (340/340 — alle pagina's bevatten [[links]]) |
 | Orphan % | ~3% (recente pagina's nog in backlink-propagatie) |
 
-Trend: ↑ (consolidatie-run 2026-07-27 — 4 nieuwe pagina's; 6 relaties; 3 inzichten; 2 queue-gaps gedicht)
+Trend: ↑ (expansie-run 2026-07-28 — 4 nieuwe pagina's; 4 relaties; 3 inzichten; kwabbenserie uitgebreid)
 
 ---
 
@@ -28,11 +28,11 @@ Trend: ↑ (consolidatie-run 2026-07-27 — 4 nieuwe pagina's; 6 relaties; 3 inz
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 130 | 100% | ↑ |
-| Filosofie | 71 | 100% | ↑ |
-| Geschiedenis | 67 | 100% | ↑ |
+| Psychologie | 133 | 100% | ↑ |
+| Filosofie | 71 | 100% | → |
+| Geschiedenis | 68 | 100% | ↑ |
 | Beleggen | 68 | 100% | → |
-| **Totaal** | **336** | **100%** | ↑ |
+| **Totaal** | **340** | **100%** | ↑ |
 
 ---
 
@@ -40,35 +40,36 @@ Trend: ↑ (consolidatie-run 2026-07-27 — 4 nieuwe pagina's; 6 relaties; 3 inz
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 695 |
+| Relatiepagina's + inzichtpagina's | 702 |
 | Cross-domein verbanden | ≥ 1:5 ratio ✓ |
 | Geïsoleerde nodes | 0 (0%) |
 
 ---
 
-## Sessieoverzicht (2026-07-27 — alle runs gecombineerd)
+## Sessieoverzicht (2026-07-28 — expansie-run)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 12 |
-| Nieuwe relatiepagina's | 14 |
-| Nieuwe inzichten | 8 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 4 |
+| Nieuwe relatiepagina's | 4 |
+| Nieuwe inzichten | 3 |
 | Inbox verwerkt | 0 (inbox leeg) |
-| Gaps gedicht | 10 |
+| Gaps gedicht | 0 |
 
 ---
 
-## Nieuwe pagina's (consolidatie-run 2026-07-27 — afsluitende run)
+## Nieuwe pagina's (expansie-run 2026-07-28)
 
-- [[Gerstmann Syndroom]] (Psychologie — vingeragnosie; acalculie; agrafie; links-rechtsdesoriëntatie; gyrus angularis; confidence 5)
-- [[Pariëtaalkwab]] (Psychologie — neuroanatomische hub; gyrus angularis; superieure/inferieure lobulus; dorsale stroom; confidence 5)
-- [[Waarheids- en Verzoeningscommissie]] (Geschiedenis — TRC 1996–2002; Desmond Tutu; ubuntu; amnestiemodel; transitional justice; confidence 5)
-- [[Restoratieve Justitie]] (Filosofie — herstel van relaties; Zehr; Braithwaite; ubuntu; reïntegratieve beschaming; confidence 5)
+- [[Temporaalkwab]] (Psychologie — auditieve cortex; Wernicke's gebied; mediale temporale geheugensystemen; TLE; confidence 5)
+- [[Occipitaalkwab]] (Psychologie — V1/V2; ventrale en dorsale visuele stroom; corticale blindheid; visuele agnosie; confidence 5)
+- [[Cerebellum]] (Psychologie — motorische coördinatie; CCAS; impliciete leerprocessen; dysmetria of thought; confidence 5)
+- [[Neoliberalisme]] (Geschiedenis — Hayek; Friedman; Thatcher; Reagan; Washington Consensus; financialisering; confidence 5)
 
 ---
 
 ## Aandacht vereist
 
-- Task Queue nu leeg — systeem klaar voor nieuwe Inbox-aanlevering
-- *(Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5 voor nieuwe pagina's)*
-- Existentialisme-cluster (Sartre, Camus, Kierkegaard, Nihilisme, Absurdisme) verdient geconsolideerde sub-hub bij ≥ 3 nauw verwante sub-pagina's
+- Frontaalkwab ontbreekt nog als standalone pagina — prioriteit voor volgende run
+- Neuroanatomische kwabbenserie: Prefrontale Cortex ✓ · Pariëtaalkwab ✓ · Temporaalkwab ✓ · Occipitaalkwab ✓ · Cerebellum ✓ · **Frontaalkwab ontbreekt**
+- Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5

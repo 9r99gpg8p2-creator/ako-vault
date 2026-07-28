@@ -49,10 +49,21 @@ Week 31 (maandag 27 juli 2026) opende met een **expansie-run** gericht op vier c
 
 | Metric | Week 31 (tot nu toe) |
 |---|---|
-| Nieuwe concepten | 4 |
-| Nieuwe verbindingen | 3 |
-| Nieuwe inzichten | 2 |
-| Updates bestaande pagina's | 3 |
-| Gaps gedicht | 0 |
-| Gaps gesignaleerd | 3 |
-| Knowledge Health score | 91% gem. |
+| Nieuwe concepten | ~31 |
+| Nieuwe verbindingen | ~34 |
+| Nieuwe inzichten | ~15 |
+| Updates bestaande pagina's | ~7 |
+| Gaps gedicht | ~12 |
+| Gaps gesignaleerd | 7 |
+| Knowledge Health score | 100% |
+
+### Aanvulling 28 juli — Expansie-run (neuroanatomie + ideologiegeschiedenis)
+
+Vier nieuwe pagina's toegevoegd die ontbrekende schakels in bestaande conceptclusters invullen:
+
+- **Temporaalkwab** (Psychologie): auditieve cortex, Wernicke's gebied, hippocampale embedding en klinische syndromen (TLE, Wernicke's afasie, anterograde amnesie)
+- **Occipitaalkwab** (Psychologie): primaire visuele cortex, ventrale en dorsale stroom, corticale blindheid, hemianopsie, visuele agnosie — verbindt de filosofische vraag naar perceptie als constructie
+- **Cerebellum** (Psychologie): motorische coördinatie + CCAS als cognitief syndroom; impliciete leerprocessen en de koppeling aan vrije wil
+- **Neoliberalisme** (Geschiedenis): Hayek, Friedman, Thatcher/Reagan, Washington Consensus, financialisering en de weg naar 2008
+
+Drie cross-domein inzichten geformuleerd die de vault verbreden naar filosofische vragen over waarneming, intentie en ideologisch falen.
