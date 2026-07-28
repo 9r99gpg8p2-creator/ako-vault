@@ -353,6 +353,6 @@ type: operationeel
 | ✓ | 2026-07-28T expansie-2 | Agent 3 | Expansie: Liquiditeit | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Liquiditeit.md — confidence 5 |
 | ✓ | 2026-07-28T expansie-2 | Agent 3 | Expansie: De Europese Integratie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Europese Integratie.md — confidence 5 |
 | ✓ | 2026-07-28T expansie-2 | Agent 3 | Expansie: Determinisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Determinisme.md — confidence 5 |
-| ↓ | 2026-07-28T expansie-2 | Agent 3 | Gap: Jean Monnet | Grondlegger Europese Integratie — persoonspagina ontbreekt |
-| ↓ | 2026-07-28T expansie-2 | Agent 3 | Gap: VIX-index | Volatiliteitsindex — directe verbinding met Beta en Volatiliteit |
-| ↓ | 2026-07-28T expansie-2 | Agent 3 | Gap: Compatibilisme | Kernpositie in determinismedebat — eigen pagina naast Vrije Wil en Determinisme |
+| ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Jean Monnet | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Jean Monnet.md — confidence 5 |
+| ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: VIX-index | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/VIX-index.md — confidence 5 |
+| ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Compatibilisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Compatibilisme.md — confidence 5 |

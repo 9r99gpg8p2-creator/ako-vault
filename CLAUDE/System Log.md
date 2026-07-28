@@ -2318,3 +2318,27 @@ type: operationeel
 | 2026-07-28T18:14Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-28T18:15Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 3 nieuwe gaps ↓ (Jean Monnet, VIX-index, Compatibilisme) |
 | 2026-07-28T18:15Z | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · 0 Inbox verwerkt · Health: 100% · 348 pag. totaal |
+| 2026-07-28T22:00Z | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen — consolidatie-modus |
+| 2026-07-28T22:00Z | | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met `_` — geen verwerkbare bestanden; STAP 1.5 overgeslagen |
+| 2026-07-28T22:01Z | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt, confidence max 5 |
+| 2026-07-28T22:01Z | | Agent 2 | Onderwerp selectie | ✓ | 3 queue-gaps geselecteerd: Jean Monnet (Gesch), VIX-index (Beleg), Compatibilisme (Filos) |
+| 2026-07-28T22:02Z | | Agent 3 | Wiki aangemaakt | ✓ | Jean Monnet.md — 03 Geschiedenis - Wiki — confidence 5 (Duchêne 1994, Monnet 1978, Dinan 2010) |
+| 2026-07-28T22:03Z | | Agent 3 | Wiki aangemaakt | ✓ | VIX-index.md — 04 Beleggen - Wiki — confidence 5 (Whaley 1993, CBOE 2003, Taleb 2007) |
+| 2026-07-28T22:04Z | | Agent 3 | Wiki aangemaakt | ✓ | Compatibilisme.md — 02 Filosofie - Wiki — confidence 5 (Frankfurt 1969, Dennett 1984, Kane 2005) |
+| 2026-07-28T22:05Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Jean Monnet — De Europese Integratie.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-28T22:05Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | VIX-index — Beta en Volatiliteit.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-28T22:05Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | VIX-index — Financiële Crisis 2008.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-28T22:05Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Compatibilisme — Vrije Wil.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-28T22:05Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Compatibilisme — Determinisme.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-28T22:05Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Compatibilisme — Morele Verantwoordelijkheid.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-28T22:06Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Institutioneel Vertrouwen als Cognitieve Anker.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-28T22:06Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Marktangst als Collectieve Primitieve Emotie.md — Beleggen → Psychologie — sterkte ★9 |
+| 2026-07-28T22:06Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Compatibilisme als Grondslag van Klinische Verantwoordelijkheid.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-28T22:07Z | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-28 Dagrapport.md — consolidatiemodus — 15 pag's totaal dag, 18 verbindingen, 11 inzichten, 0 Inbox |
+| 2026-07-28T22:07Z | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-28 Quiz.md — 3 vragen toegevoegd (vr12-14: Jean Monnet, VIX/Loss Aversion, Compatibilisme) |
+| 2026-07-28T22:08Z | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (136 pag.) · Filosofie: 100% (73 pag.) · Geschiedenis: 100% (71 pag.) · Beleggen: 100% (71 pag.) — 351 pag. totaal |
+| 2026-07-28T22:08Z | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 351 pagina's, 718 relaties/inzichten |
+| 2026-07-28T22:09Z | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Geschiedenis: +Jean Monnet · Beleggen: +VIX-index · Filosofie: +Compatibilisme |
+| 2026-07-28T22:09Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-28T22:10Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Jean Monnet, VIX-index, Compatibilisme) · Queue nu leeg |
+| 2026-07-28T22:10Z | | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox verwerkt · 6 relaties · 3 inzichten · Health: 100% · 351 pag. totaal |

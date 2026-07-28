@@ -85,3 +85,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Nihilisme]]
 - [[Restoratieve Justitie]]
 - [[Determinisme]]
+- [[Compatibilisme]]

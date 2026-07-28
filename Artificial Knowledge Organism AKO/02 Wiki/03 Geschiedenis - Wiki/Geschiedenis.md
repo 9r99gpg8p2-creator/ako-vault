@@ -83,3 +83,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Neoliberalisme]]
 - [[Globalisering]]
 - [[De Europese Integratie]]
+- [[Jean Monnet]]

@@ -83,3 +83,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[SPAC]]
 - [[Beta en Volatiliteit]]
 - [[Liquiditeit]]
+- [[VIX-index]]
