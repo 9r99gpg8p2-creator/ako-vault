@@ -2365,3 +2365,16 @@ type: operationeel
 | 2026-07-28T expansie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-28T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | Geen nieuwe gaps toegevoegd · Queue leeg |
 | 2026-07-28T expansie | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's aangemaakt · 4 verbindingen · 3 inzichten · Health: 100% · 355 pag. totaal |
+| 2026-07-28T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | VIX-index — Verliesaversie.md — sterkte ★9 — Beleggen × Psychologie |
+| 2026-07-28T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuropsychologie — Neuropsychologische Revalidatie.md — sterkte ★9 — Psychologie × Psychologie |
+| 2026-07-28T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Liquiditeit — Minsky Moment.md — sterkte ★8 — Beleggen × Beleggen |
+| 2026-07-28T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Wernicke's Afasie — Temporaalkwab.md — sterkte ★9 — Psychologie × Psychologie |
+| 2026-07-28T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Positieve Psychologie — Neuropsychologische Revalidatie.md — sterkte ★8 — Psychologie × Psychologie |
+| 2026-07-28T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Angst is de Prijs die Markten Kwantificeren.md — Beleggen → Psychologie — sterkte ★9 |
+| 2026-07-28T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Floreren als Klinisch Doel.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-28T consolidatie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-28 Dagrapport.md — consolidatiemodus — 0 nieuwe pag's, 5 verbindingen, 2 inzichten, 0 Inbox |
+| 2026-07-28T consolidatie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-28 Quiz.md — 3 vragen toegevoegd (vr18-20: VIX-Verliesaversie, Neuropsychologie-Revalidatie, Floreren-Aristoteles) |
+| 2026-07-28T consolidatie | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (136) · Filosofie: 100% (74) · Geschiedenis: 100% (73) · Beleggen: 100% (72) — 355 pag. totaal |
+| 2026-07-28T consolidatie | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md — 732+ graph entries |
+| 2026-07-28T consolidatie | | Agent 8 | Hub-validatie | ✓ | Alle hubs up-to-date · Geen geïsoleerde nodes · Cross-domein ratio ≥ 1:5 ✓ |
+| 2026-07-28T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 0 pag's aangemaakt · 5 verbindingen verdicht · 2 inzichten · Health: 100% · 355 pag. totaal |

@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-28
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -11,7 +11,7 @@ sessie: expansie
 
 ---
 
-## Knowledge Health — 2026-07-28 (expansie-run)
+## Knowledge Health — 2026-07-28 (consolidatie-run)
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@ sessie: expansie
 | Metric | Waarde |
 |---|---|
 | Totale Wiki-pagina's | 355 |
-| Relatiepagina's + Inzichtpagina's (03 graph) | 725+ |
+| Relatiepagina's + Inzichtpagina's (03 graph) | 732+ |
 | Dagrapporten aangemaakt | 29+ |
 | Quizzen aangemaakt | 29+ |
 | Wekelijkse reflecties | 4 |
