@@ -2342,3 +2342,26 @@ type: operationeel
 | 2026-07-28T22:09Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-28T22:10Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Jean Monnet, VIX-index, Compatibilisme) · Queue nu leeg |
 | 2026-07-28T22:10Z | | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox verwerkt · 6 relaties · 3 inzichten · Health: 100% · 351 pag. totaal |
+| 2026-07-28T expansie | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-28T expansie | | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden — alle bestanden beginnen met _ · STAP 1.5 overgeslagen |
+| 2026-07-28T expansie | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt. Confidence max 5 voor overige onderwerpen. |
+| 2026-07-28T expansie | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd (PRIORITEIT 2+3): De Zwarte Dood (Gesch.), De Amerikaanse Revolutie (Gesch.), Logica (Fil.), Financiële Verslaggeving (Beleg.) |
+| 2026-07-28T expansie | | Agent 3 | Wiki aangemaakt | ✓ | De Zwarte Dood.md — 03 Geschiedenis - Wiki — confidence 5 (Benedictow 2004, Kelly 2005) |
+| 2026-07-28T expansie | | Agent 3 | Wiki aangemaakt | ✓ | De Amerikaanse Revolutie.md — 03 Geschiedenis - Wiki — confidence 5 (Wood 1991, Bailyn 1967) |
+| 2026-07-28T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Logica.md — 02 Filosofie - Wiki — confidence 5 (Hurley 2014, Priest 2000) |
+| 2026-07-28T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Financiële Verslaggeving.md — 04 Beleggen - Wiki — confidence 5 (Graham & Dodd 2009, Penman 2012) |
+| 2026-07-28T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Zwarte Dood — Feodalisme.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-28T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Amerikaanse Revolutie — Maatschappelijk Contract.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-28T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Logica — Dual Process Theorie.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-28T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Financiële Verslaggeving — Cognitieve Biases.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-07-28T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Pandemie als Architect van Vrijheid.md — Geschiedenis → Psychologie — sterkte ★9 |
+| 2026-07-28T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Filosofie die Landen Sticht.md — Filosofie → Geschiedenis — sterkte ★9 |
+| 2026-07-28T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Rekening die Niemand Leest.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-28T expansie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-28 Dagrapport.md — expansiemodus — 4 nieuwe pag's, 4 verbindingen, 3 inzichten, 0 Inbox |
+| 2026-07-28T expansie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-28 Quiz.md — 3 vragen toegevoegd (vr15-17: Zwarte Dood, Amerikaanse Revolutie, Financiële Verslaggeving) |
+| 2026-07-28T expansie | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (136) · Filosofie: 100% (74) · Geschiedenis: 100% (73) · Beleggen: 100% (72) — 355 pag. totaal |
+| 2026-07-28T expansie | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 355 pagina's |
+| 2026-07-28T expansie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Logica · Geschiedenis: +De Zwarte Dood, +De Amerikaanse Revolutie · Beleggen: +Financiële Verslaggeving |
+| 2026-07-28T expansie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-28T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | Geen nieuwe gaps toegevoegd · Queue leeg |
+| 2026-07-28T expansie | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's aangemaakt · 4 verbindingen · 3 inzichten · Health: 100% · 355 pag. totaal |

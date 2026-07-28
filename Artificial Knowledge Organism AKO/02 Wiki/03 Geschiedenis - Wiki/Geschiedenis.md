@@ -84,3 +84,5 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Globalisering]]
 - [[De Europese Integratie]]
 - [[Jean Monnet]]
+- [[De Zwarte Dood]]
+- [[De Amerikaanse Revolutie]]

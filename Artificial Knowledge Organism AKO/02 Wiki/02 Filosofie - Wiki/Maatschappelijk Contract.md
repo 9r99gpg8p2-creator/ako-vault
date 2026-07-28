@@ -59,6 +59,7 @@ De contracttheorie entstond als seculier alternatief voor de goddelijke legitima
 - [[De Verlichting]] — het maatschappelijk contract was een kernproduct van de Verlichtingstraditie (Geschiedenis)
 - [[De Franse Revolutie]] — Rousseaus contracttheorie beïnvloedde de revolutionaire ideologie direct (Geschiedenis)
 - [[De Dertigjarige Oorlog]] ★8 — de Vrede van Westfalen legde de historische grondslagen van het staatssoevereiniteitsprincipe dat contractdenkers theoretiseerden
+- [[De Amerikaanse Revolutie]] ★9 — de revolutie was de eerste staatkundige implementatie van Locke's contracttheorie
 
 ## Bronnen
 

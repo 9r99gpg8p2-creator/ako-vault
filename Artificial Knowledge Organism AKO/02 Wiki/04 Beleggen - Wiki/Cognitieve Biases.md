@@ -60,6 +60,7 @@ Traditionele economische modellen gingen uit van de rationele actor (homo econom
 - [[Executieve Functies]] — verbinding: sterke executieve functies (zelfcontrole, inhibitie) helpen cognitieve biases te overwinnen
 - [[Vrije Wil]] — verbinding: als keuzes voorspelbaar irrationeel zijn door biases, roept dit vragen op over de aard van beslissingsvrijheid
 - [[Samengestelde Interest]] ★7 — cognitieve biases (hyperbolic discounting, exponential growth bias) verklaren waarom beleggers de kracht van langetermijngroei systematisch onderschatten
+- [[Financiële Verslaggeving]] ★8 — biases (anchoring, framing, confirmation bias) kleuren de interpretatie van jaarrekeningen systematisch
 
 ## Bronnen
 
