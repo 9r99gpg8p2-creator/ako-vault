@@ -345,7 +345,7 @@ type: operationeel
 | ✓ | 2026-07-28T expansie | Agent 3 | Expansie: Occipitaalkwab | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Occipitaalkwab.md — confidence 5 |
 | ✓ | 2026-07-28T expansie | Agent 3 | Expansie: Cerebellum | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cerebellum.md — confidence 5 |
 | ✓ | 2026-07-28T expansie | Agent 3 | Expansie: Neoliberalisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Neoliberalisme.md — confidence 5 |
-| ↓ | 2026-07-28T expansie | Agent 3 | Gap: Frontaalkwab | Neuroanatomische kwabbenserie ontbreekt: Frontaalkwab (motorische cortex, prefrontale functies, Broca's gebied) |
-| ↓ | 2026-07-28T expansie | Agent 3 | Gap: Globalisering | Logisch vervolg op Neoliberalisme, IMF en Washington Consensus; ontbreekt in Geschiedenis |
-| ↓ | 2026-07-28T expansie | Agent 3 | Gap: Wernicke's Afasie | Specifiek klinisch syndroom benoemd in Temporaalkwab en Afasie; verdient eigen pagina |
-| ↓ | 2026-07-28T expansie | Agent 3 | Gap: Positieve Psychologie | Counterbalans voor klinisch-pathologisch perspectief; relevant voor MSc KNP |
+| ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Frontaalkwab | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Frontaalkwab.md — confidence 8 |
+| ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Globalisering | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Globalisering.md — confidence 7 |
+| ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Wernicke's Afasie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Wernicke's Afasie.md — confidence 8 |
+| ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Positieve Psychologie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Positieve Psychologie.md — confidence 8 |

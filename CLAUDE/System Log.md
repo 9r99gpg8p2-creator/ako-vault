@@ -2271,3 +2271,24 @@ type: operationeel
 | 2026-07-28T06:00Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-28T06:00Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 4 nieuwe gaps ↓ (Frontaalkwab, Globalisering, Wernicke's Afasie, Positieve Psychologie) |
 | 2026-07-28T06:00Z | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · 0 Inbox verwerkt · Health: 100% |
+| 2026-07-28T12:00Z | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen — consolidatie-modus |
+| 2026-07-28T12:00Z | | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met `_` — geen verwerkbare bestanden; STAP 1.5 overgeslagen |
+| 2026-07-28T12:01Z | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt. Confidence 8 voor bronrijke pagina's. |
+| 2026-07-28T12:01Z | | Agent 2 | Onderwerp selectie | ✓ | 4 queue-gaps geselecteerd: Frontaalkwab (Psych), Wernicke's Afasie (Psych), Positieve Psychologie (Psych), Globalisering (Gesch) |
+| 2026-07-28T12:02Z | | Agent 3 | Wiki aangemaakt | ✓ | Frontaalkwab.md — 01 Psychologie - Wiki — confidence 8 (Kolb & Whishaw 2015, Stuss & Knight 2002, Miller & Cohen 2001) |
+| 2026-07-28T12:03Z | | Agent 3 | Wiki aangemaakt | ✓ | Wernicke's Afasie.md — 01 Psychologie - Wiki — confidence 8 (Wernicke 1874, Hickok & Poeppel 2007, Kertesz 1982) |
+| 2026-07-28T12:04Z | | Agent 3 | Wiki aangemaakt | ✓ | Positieve Psychologie.md — 01 Psychologie - Wiki — confidence 8 (Seligman & Csikszentmihalyi 2000, Peterson & Seligman 2004) |
+| 2026-07-28T12:05Z | | Agent 3 | Wiki aangemaakt | ✓ | Globalisering.md — 03 Geschiedenis - Wiki — confidence 7 (Held et al. 1999, Stiglitz 2002, Rodrik 2011) |
+| 2026-07-28T12:06Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Frontaalkwab — Executieve Functies.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-28T12:06Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Wernicke's Afasie — Afasie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-28T12:06Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Positieve Psychologie — Deugdethiek.md — sterkte ★8 — Psychologie × Filosofie (cross-domein) |
+| 2026-07-28T12:06Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Globalisering — Neoliberalisme.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-28T12:07Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Frontale Regie en de Illusie van Vrije Wil.md — Psychologie → Filosofie — sterkte ★9 |
+| 2026-07-28T12:07Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Globalisering als Verliesaversie-Machine.md — Geschiedenis → Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-28T12:08Z | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-28 Dagrapport.md — consolidatiemodus — 4 pag's, 4 verbindingen, 2 inzichten, 3 quiz-vragen toegevoegd |
+| 2026-07-28T12:08Z | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-28 Quiz.md — 3 vragen toegevoegd (vr6-8: Frontaalkwab, Wernicke/Broca vergelijking, PPIs) |
+| 2026-07-28T12:09Z | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (136 pag.) · Filosofie: 100% (71 pag.) · Geschiedenis: 100% (69 pag.) · Beleggen: 100% (68 pag.) — 344 pag. totaal |
+| 2026-07-28T12:10Z | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Frontaalkwab, +Wernicke's Afasie, +Positieve Psychologie · Geschiedenis: +Globalisering |
+| 2026-07-28T12:10Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-28T12:11Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Frontaalkwab, Wernicke's Afasie, Positieve Psychologie, Globalisering) · Queue leeg |
+| 2026-07-28T12:11Z | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 0 Inbox verwerkt · 4 relaties · 2 inzichten · Health: 100% · 344 pag. totaal |

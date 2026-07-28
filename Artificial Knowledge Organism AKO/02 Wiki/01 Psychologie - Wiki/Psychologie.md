@@ -146,3 +146,6 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Temporaalkwab]]
 - [[Occipitaalkwab]]
 - [[Cerebellum]]
+- [[Frontaalkwab]]
+- [[Wernicke's Afasie]]
+- [[Positieve Psychologie]]

@@ -2,42 +2,49 @@
 type: dagrapport
 date: 2026-07-28
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 4 · Leestijd: 8 min
+Inbox verwerkt: 0 · Gaps gedicht: 4 · Pagina's aangemaakt: 4 · Verbindingen verdicht: 6 · Queue resterend: 0
 
-## Research Agenda
+## Pagina's Aangemaakt via Consolidatie
 
-1. **Frontaalkwab** — ontbreekt als standalone pagina terwijl Prefrontale Cortex, Pariëtaalkwab, Temporaalkwab, Occipitaalkwab en Cerebellum al bestaan; logische aanvulling voor volledig neuroanatomisch beeld
-2. **Globalisering** — directe uitloper van Neoliberalisme, IMF en Washington Consensus; ontbreekt in Geschiedenis-sectie
-3. **Wernicke's Afasie** — specifiek klinisch syndroom dat in Temporaalkwab en Afasie wordt genoemd maar eigen pagina mist
+1. [[Frontaalkwab]] — neuroanatomiekluster volledig; motorische cortex, PFC, Broca (confidence 8)
+2. [[Wernicke's Afasie]] — receptieve afasie; temporaalkwablaesie, jargon-spraak (confidence 8)
+3. [[Positieve Psychologie]] — PERMA, flow, VIA-sterkten, PPIs (confidence 8)
+4. [[Globalisering]] — Washington Consensus, Rodrik's trilemma, deglobaliseringstendensen (confidence 7)
+
+## Verbindingen Toegevoegd
+
+1. [[Frontaalkwab]] ↔ [[Executieve Functies]] · ★10
+2. [[Wernicke's Afasie]] ↔ [[Afasie]] · ★9
+3. [[Positieve Psychologie]] ↔ [[Deugdethiek]] · ★8 (Psychologie × Filosofie)
+4. [[Globalisering]] ↔ [[Neoliberalisme]] · ★9
 
 ## Insight Feed
 
-— "De occipitaalkwab verwerkt visuele informatie als actief constructieproces, niet als passieve spiegel — een neurologische realisatie van Kants these dat waarneming altijd al interpretatie is." [Psychologie → Filosofie · ★9]
+— "Libet's experimenten tonen dat frontale bereidheidspotensialen 300–500ms vóór bewuste intentie optreden — de vrije wil als veto-mechanisme, niet initiatiefkracht." [Frontaalkwab → Vrije Wil · ★9]
 
-— "Het neoliberalisme illustreert hoe economische ideologieën die zichzelf als wetenschappelijk neutraal presenteren, de kiemen dragen van hun eigen falen." [Geschiedenis → Beleggen · ★8]
-
-— "Het cerebellum verfijnt cognitief gedrag via impliciete foutcorrectie zonder bewuste tussenkomst — een neurologisch argument dat de filosofische notie van de wil als bewuste sturing fundamenteel uitdaagt." [Psychologie → Filosofie · ★8]
+— "De populistische backlash op globalisering is geen rationele kosten-baten analyse maar een verliesaversie-respons: concreet baanverlies weegt tweemaal zwaarder dan abstracte vrijhandelsbaten." [Globalisering → Verliesaversie → Prospect Theory · ★8]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 100% | ↑ |
-| Filosofie | 100% | → |
-| Geschiedenis | 100% | ↑ |
-| Beleggen | 100% | → |
+| Psychologie | 85% | ↑ |
+| Filosofie | 79% | → |
+| Geschiedenis | 78% | ↑ |
+| Beleggen | 77% | → |
 
-## Activiteit
+## Research Agenda
 
-| Metric | Aantal |
-|---|---|
-| Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen | 4 |
-| Gaps gedicht | 0 |
+1. **Broca's Afasie** — directe tegenhanger van Wernicke's Afasie; symmetrie in afasieserie ontbreekt
+2. **Motorische Cortex** — nu alleen verwerkt binnen Frontaalkwab; verdient eigen pagina
+3. **Eudaimonia** — filosofische grondslag van Positieve Psychologie; brug Filosofie × Psychologie
+
+## Aandacht vereist
+
+- [ ] Hub-pagina Psychologie.md: links naar Frontaalkwab, Wernicke's Afasie en Positieve Psychologie toevoegen
+- [ ] Hub-pagina Geschiedenis.md: link naar Globalisering toevoegen
