@@ -2292,3 +2292,29 @@ type: operationeel
 | 2026-07-28T12:10Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-28T12:11Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Frontaalkwab, Wernicke's Afasie, Positieve Psychologie, Globalisering) · Queue leeg |
 | 2026-07-28T12:11Z | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 0 Inbox verwerkt · 4 relaties · 2 inzichten · Health: 100% · 344 pag. totaal |
+| 2026-07-28T18:00Z | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen — expansie-modus |
+| 2026-07-28T18:01Z | | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met `_` — geen verwerkbare bestanden; STAP 1.5 overgeslagen |
+| 2026-07-28T18:01Z | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade (403) — interne kennis gebruikt, confidence max 5 |
+| 2026-07-28T18:02Z | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Beta en Volatiliteit (Beleg), Liquiditeit (Beleg), De Europese Integratie (Gesch), Determinisme (Filos) |
+| 2026-07-28T18:03Z | | Agent 3 | Wiki aangemaakt | ✓ | Beta en Volatiliteit.md — 04 Beleggen - Wiki — confidence 5 (Sharpe 1964, Markowitz 1952, Damodaran 2012) |
+| 2026-07-28T18:04Z | | Agent 3 | Wiki aangemaakt | ✓ | Liquiditeit.md — 04 Beleggen - Wiki — confidence 5 (Amihud 2002, Keynes 1936, Brunnermeier 2009) |
+| 2026-07-28T18:05Z | | Agent 3 | Wiki aangemaakt | ✓ | De Europese Integratie.md — 03 Geschiedenis - Wiki — confidence 5 (Judt 2005, Dinan 2010, Moravcsik 1998) |
+| 2026-07-28T18:06Z | | Agent 3 | Wiki aangemaakt | ✓ | Determinisme.md — 02 Filosofie - Wiki — confidence 5 (Kane 1996, Libet 1985, Frankfurt 1969) |
+| 2026-07-28T18:07Z | | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Jean Monnet (Gesch), VIX-index (Beleg), Compatibilisme (Filos) |
+| 2026-07-28T18:08Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Beta en Volatiliteit — Capital Asset Pricing Model.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-28T18:08Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Liquiditeit — Financiële Crisis 2008.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-28T18:08Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Europese Integratie — Tweede Wereldoorlog.md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-07-28T18:08Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Determinisme — Vrije Wil.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-28T18:09Z | | Agent 4 | Reverse links toegevoegd | ✓ | CAPM ← Beta en Volatiliteit ★9 · Financiële Crisis 2008 ← Liquiditeit ★9 · Tweede Wereldoorlog ← De Europese Integratie ★10 · Vrije Wil ← Determinisme ★10 |
+| 2026-07-28T18:10Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Determinisme als Klinische Realiteit.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-28T18:10Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Liquiditeitsangst als Evolutionair Risicoreflex.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-28T18:10Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Europese Integratie als Geïnstitutionaliseerd Sociaal Contract.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-07-28T18:11Z | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-28 Dagrapport.md — avond-expansie — 4 pag's, 4 verbindingen, 3 inzichten, 3 quiz-vragen toegevoegd (vr9-11) |
+| 2026-07-28T18:12Z | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-28 Quiz.md — 3 vragen toegevoegd (vr9-11: Beta/CAPM, Determinisme vs. compatibilisme, EU als sociaal contract) |
+| 2026-07-28T18:12Z | | Agent 6 | Weekreflectie bijgewerkt | ✓ | 2026-31 Reflectie.md — aanvulling avond-run: Beta/Volatiliteit, Liquiditeit, De Europese Integratie, Determinisme |
+| 2026-07-28T18:13Z | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (136 pag.) · Filosofie: 100% (72 pag.) · Geschiedenis: 100% (70 pag.) · Beleggen: 100% (70 pag.) — 348 pag. totaal |
+| 2026-07-28T18:13Z | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 348 pagina's |
+| 2026-07-28T18:14Z | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Determinisme · Geschiedenis: +De Europese Integratie · Beleggen: +Beta en Volatiliteit, +Liquiditeit |
+| 2026-07-28T18:14Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-28T18:15Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 3 nieuwe gaps ↓ (Jean Monnet, VIX-index, Compatibilisme) |
+| 2026-07-28T18:15Z | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · 0 Inbox verwerkt · Health: 100% · 348 pag. totaal |

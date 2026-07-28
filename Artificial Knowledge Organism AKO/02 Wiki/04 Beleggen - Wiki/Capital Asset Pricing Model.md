@@ -62,6 +62,7 @@ Empirisch bleek het CAPM echter tekort te schieten: Fama en French (1992, 1993) 
 - [[Risicobeheer]] — bèta is een kernmaatstaf in portefeuillerisicobeheer
 - [[Factor Investing]] — factormodellen (Fama-French) zijn reacties op de tekortkomingen van het eenfactor-CAPM
 - [[Gedragseconomie]] — gedragseconomen betwisten de rationele agenten-aanname waarop het CAPM berust
+- [[Beta en Volatiliteit]] ★9 — beta is de kernvariabele van het CAPM; beide concepten zijn definitorieel verweven
 
 **Cross-domein:**
 - [[Prospect Theory]] — Kahneman & Tversky tonen dat beleggers niet de nutsmaximalisatie volgen die het CAPM veronderstelt

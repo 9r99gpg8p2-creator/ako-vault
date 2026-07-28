@@ -62,6 +62,7 @@ In Europa eindigde de oorlog met de onvoorwaardelijke overgave van Duitsland op 
 - [[Eerste Wereldoorlog]] — oorzaak/gevolg: de Tweede Wereldoorlog vloeide direct voort uit de gebroken vrede van 1919
 - [[Totalitarisme]] — oorzaak/gevolg: nazi-regime en Stalinisme zijn de paradigmatische totalitaire systemen van de twintigste eeuw
 - [[PTSD]] — oorzaak/gevolg: oorlogservaringen genereerden de eerste grootschalige klinische PTSD-beschrijvingen
+- [[De Europese Integratie]] ★10 — de oorlog was de directe katalysator voor het Europese integratieproject (EGKS, 1951)
 
 **Cross-domein:**
 - [[Morele Verantwoordelijkheid]] — de Holocaust stelde de filosofische vraag of gewone mensen verantwoordelijk zijn voor genocide (Hannah Arendt: "banaliteit van het kwaad")

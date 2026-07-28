@@ -349,3 +349,10 @@ type: operationeel
 | ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Globalisering | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Globalisering.md — confidence 7 |
 | ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Wernicke's Afasie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Wernicke's Afasie.md — confidence 8 |
 | ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Positieve Psychologie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Positieve Psychologie.md — confidence 8 |
+| ✓ | 2026-07-28T expansie-2 | Agent 3 | Expansie: Beta en Volatiliteit | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Beta en Volatiliteit.md — confidence 5 |
+| ✓ | 2026-07-28T expansie-2 | Agent 3 | Expansie: Liquiditeit | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Liquiditeit.md — confidence 5 |
+| ✓ | 2026-07-28T expansie-2 | Agent 3 | Expansie: De Europese Integratie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Europese Integratie.md — confidence 5 |
+| ✓ | 2026-07-28T expansie-2 | Agent 3 | Expansie: Determinisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Determinisme.md — confidence 5 |
+| ↓ | 2026-07-28T expansie-2 | Agent 3 | Gap: Jean Monnet | Grondlegger Europese Integratie — persoonspagina ontbreekt |
+| ↓ | 2026-07-28T expansie-2 | Agent 3 | Gap: VIX-index | Volatiliteitsindex — directe verbinding met Beta en Volatiliteit |
+| ↓ | 2026-07-28T expansie-2 | Agent 3 | Gap: Compatibilisme | Kernpositie in determinismedebat — eigen pagina naast Vrije Wil en Determinisme |

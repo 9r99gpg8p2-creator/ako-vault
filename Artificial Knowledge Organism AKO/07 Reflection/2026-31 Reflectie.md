@@ -67,3 +67,19 @@ Vier nieuwe pagina's toegevoegd die ontbrekende schakels in bestaande conceptclu
 - **Neoliberalisme** (Geschiedenis): Hayek, Friedman, Thatcher/Reagan, Washington Consensus, financialisering en de weg naar 2008
 
 Drie cross-domein inzichten geformuleerd die de vault verbreden naar filosofische vragen over waarneming, intentie en ideologisch falen.
+
+
+### Aanvulling 28 juli — Avond-run (interdisciplinaire expansie)
+
+Vier nieuwe pagina's die onontgonnen gebieden in Beleggen en Filosofie dichtten:
+
+- **Beta en Volatiliteit** (Beleggen): de kwantitatieve kern van risicobeheer — beta als CAPM-sleutelvariabele, impliciete vs. historische volatiliteit, VIX als marktsentimentmeter
+- **Liquiditeit** (Beleggen): van Amihud-ratio tot Keynesiaanse liquiditeitsval; de gedragsdimensie van markten die bevriest tijdens crises
+- **De Europese Integratie** (Geschiedenis): van EGKS (1951) tot Brexit; supranationalisme als institutionele reactie op de lessen van twee wereldoorlogen
+- **Determinisme** (Filosofie): hard determinisme, compatibilisme en libertarianisme; Libet-experimenten als neuropsychologisch brandpunt van het debat
+
+**Meest significante inzicht van de avondrun:**
+De Europese Integratie als geïnstitutionaliseerd sociaal contract (Rousseau × Rawls × historisch experiment) opent een nieuw conceptueel cluster in de vault dat Geschiedenis en Filosofie verbindt via politieke theorie.
+
+**Klinische relevantie:**
+Determinisme raakt direct aan de forensische neuropsychologiepraktijk: de vraag of een patiënt met prefrontaal letsel 'anders kon handelen' is niet louter filosofisch maar bepalend voor diagnostische classificatie en strafrechtelijke implicaties — precies het soort cross-domein denken dat MSc Klinische Neuropsychologie vereist.

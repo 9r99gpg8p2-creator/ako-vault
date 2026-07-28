@@ -68,6 +68,7 @@ De directe aanleiding was de stijging van wanbetalingen op subprime-hypotheken v
 - [[Efficiënte Markthypothese]] — de crisis betwistte de EMH: markten konden decennia lang systematisch fout geprijsd zijn
 - [[Monetair Beleid]] — QE en nulrentes als beleidsreactie herdefinieerden het monetaire arsenaal
 - [[Cognitieve Biases]] — confirmation bias, overconfidence en groepsdenken droegen bij aan de escalatie
+- [[Liquiditeit]] ★9 — de crisis was in essentie een liquiditeitscrisis: bevroren markten dwongen gedwongen verkopen af
 
 **Cross-domein:**
 - [[Neoliberalisme]] ★9 — de financiële deregulering die het neoliberalisme bevorderde creëerde de systeemrisico's die de crisis mogelijk maakten

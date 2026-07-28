@@ -51,6 +51,7 @@ Descartes onderscheidde lichaam (mechanisch, deterministisch) en geest (vrij), w
 **Gerelateerd:**
 - [[Bewustzijn]] — onderdeel van: vrije wil veronderstelt bewust intentioneel handelen
 - [[Filosofie van de Geest]] — aanvulling: de aard van mentale causatie bepaalt of vrije wil mogelijk is
+- [[Determinisme]] ★10 — tegenstelling: determinisme is het primaire filosofische tegengewicht van vrije wil
 
 **Cross-domein:**
 - [[Executieve Functies]] — verbinding: de neurowetenschappelijke basis van zelfcontrole en intentioneel handelen raakt direct aan de vraag naar vrije wil

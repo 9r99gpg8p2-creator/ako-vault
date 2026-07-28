@@ -11,65 +11,60 @@ sessie: expansie
 
 ---
 
-## Knowledge Health — Overall
+## Knowledge Health — 2026-07-28 (18:00Z)
 
-| Metric | Score |
-|---|---|
-| **Overall Score** | **100%** |
-| Coverage | 100% (≥ 20 pagina's per discipline ✓) |
-| Connectivity | 100% (340/340 — alle pagina's bevatten [[links]]) |
-| Orphan % | ~3% (recente pagina's nog in backlink-propagatie) |
-
-Trend: ↑ (expansie-run 2026-07-28 — 4 nieuwe pagina's; 4 relaties; 3 inzichten; kwabbenserie uitgebreid)
-
----
-
-## Disciplineoverzicht
-
-| Discipline | Pagina's | Score | Trend |
-|---|---|---|---|
-| Psychologie | 133 | 100% | ↑ |
-| Filosofie | 71 | 100% | → |
-| Geschiedenis | 68 | 100% | ↑ |
-| Beleggen | 68 | 100% | → |
-| **Totaal** | **340** | **100%** | ↑ |
+| Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
+|---|---|---|---|---|---|
+| Psychologie | 136 | 100% | 100% | 100% | → |
+| Filosofie | 72 | 100% | 100% | 100% | ↑ |
+| Geschiedenis | 70 | 100% | 100% | 100% | ↑ |
+| Beleggen | 70 | 100% | 100% | 100% | ↑ |
+| **Totaal** | **348** | — | — | **100%** | ↑ |
 
 ---
 
-## Conceptual Graph
+## Vault Statistieken
 
 | Metric | Waarde |
 |---|---|
-| Relatiepagina's + inzichtpagina's | 702 |
-| Cross-domein verbanden | ≥ 1:5 ratio ✓ |
-| Geïsoleerde nodes | 0 (0%) |
+| Totale Wiki-pagina's | 348 |
+| Relatiepagina's (03 graph) | ~128 |
+| Inzichtpagina's (03 graph) | ~28 |
+| Dagrapportent aangemaakt | 29+ |
+| Quizzen aangemaakt | 29+ |
+| Wekelijkse reflecties | 4 |
+| Orphan nodes | 0 |
+| Kapotte links | 0 |
 
 ---
 
-## Sessieoverzicht (2026-07-28 — expansie-run)
+## Domein Coverage
 
-| Metric | Aantal |
+| Domein | Pagina's | Geselecteerde concepten |
+|---|---|---|
+| Psychologie | 136 | Werkgeheugen, Executieve Functies, PTSD, Neuroplasticiteit, Amygdala, Prefrontale Cortex, Depressie, ADHD, Autismespectrumstoornis, Alzheimer en Dementie, Frontaalkwab, Temporaalkwab, Cerebellum, Positieve Psychologie … |
+| Filosofie | 72 | Epistemologie, Ethiek, Vrije Wil, Determinisme, Bewustzijn, Utilitarisme, Deontologie, Existentialisme, Pragmatisme, Rationalisme, Empirisme … |
+| Geschiedenis | 70 | Tweede Wereldoorlog, Koude Oorlog, De Franse Revolutie, Industrialisatie, Globalisering, Neoliberalisme, De Europese Integratie, Het Romeinse Rijk … |
+| Beleggen | 70 | Prospect Theory, Gedragseconomie, Efficiënte Markthypothese, Moderne Portefeuille Theorie, CAPM, Behavioral Finance, Liquiditeit, Beta en Volatiliteit … |
+
+---
+
+## Graph Health
+
+| Metric | Status |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichten | 3 |
-| Inbox verwerkt | 0 (inbox leeg) |
-| Gaps gedicht | 0 |
+| Isolated nodes | 0 ✓ |
+| Hub connectivity | ≥ 95% ✓ |
+| Cross-domain ratio | ≥ 1:5 ✓ |
+| Hub pagina's up-to-date | Ja ✓ |
+| Duplicaten | 0 ✓ |
 
 ---
 
-## Nieuwe pagina's (expansie-run 2026-07-28)
+## Huidige Gaps (Task Queue ↓)
 
-- [[Temporaalkwab]] (Psychologie — auditieve cortex; Wernicke's gebied; mediale temporale geheugensystemen; TLE; confidence 5)
-- [[Occipitaalkwab]] (Psychologie — V1/V2; ventrale en dorsale visuele stroom; corticale blindheid; visuele agnosie; confidence 5)
-- [[Cerebellum]] (Psychologie — motorische coördinatie; CCAS; impliciete leerprocessen; dysmetria of thought; confidence 5)
-- [[Neoliberalisme]] (Geschiedenis — Hayek; Friedman; Thatcher; Reagan; Washington Consensus; financialisering; confidence 5)
-
----
-
-## Aandacht vereist
-
-- Frontaalkwab ontbreekt nog als standalone pagina — prioriteit voor volgende run
-- Neuroanatomische kwabbenserie: Prefrontale Cortex ✓ · Pariëtaalkwab ✓ · Temporaalkwab ✓ · Occipitaalkwab ✓ · Cerebellum ✓ · **Frontaalkwab ontbreekt**
-- Wikipedia API onbereikbaar via proxy — interne kennis gebruikt, confidence 5
+| Gap | Discipline | Prioriteit |
+|---|---|---|
+| Jean Monnet | Geschiedenis | Middel |
+| VIX-index | Beleggen | Middel |
+| Compatibilisme | Filosofie | Middel |
