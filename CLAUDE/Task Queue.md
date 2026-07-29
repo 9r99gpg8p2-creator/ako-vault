@@ -369,6 +369,8 @@ type: operationeel
 | ✓ | 2026-07-29T expansie | Agent 3 | Expansie: De Chinese Culturele Revolutie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Chinese Culturele Revolutie.md — confidence 5 |
 | ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Maoïsme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Maoïsme.md — confidence 5 |
 | ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Subaltern Studies | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Subaltern Studies.md — confidence 5 |
-| ↓ | 2026-07-29T consolidatie | Agent 3 | Gap: Gramsci & Hegemonie | Ontbreekt in vault — essentieel fundament van Subaltern Studies; Gramscis hegemonietheorie |
-| ↓ | 2026-07-29T consolidatie | Agent 3 | Gap: Mao Zedong (persoon) | Ontbreekt in vault — de historische figuur naast de ideologie Maoïsme |
-| ↓ | 2026-07-29T consolidatie | Agent 3 | Gap: Ranajit Guha | Ontbreekt in vault — grondlegger Subaltern Studies Collective (analoog aan Spivak-pagina) |
+| ✓ | 2026-07-29T expansie | Agent 3 | Gap: Gramsci & Hegemonie | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Gramsci en Hegemonie.md — confidence 5 |
+| ✓ | 2026-07-29T expansie | Agent 3 | Gap: Mao Zedong (persoon) | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Mao Zedong.md — confidence 5 |
+| ✓ | 2026-07-29T expansie | Agent 3 | Gap: Ranajit Guha | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Ranajit Guha.md — confidence 5 |
+| ✓ | 2026-07-29T expansie | Agent 3 | Expansie: Sharpe Ratio | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Sharpe Ratio.md — confidence 5 |
+| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Tweede Wereldoorlog | Ontbreekt als eigenstandige pagina — grote lacune gezien aanwezigheid van Holocaust, Nationaal Socialisme, Grote Depressie, Weimar Republiek |

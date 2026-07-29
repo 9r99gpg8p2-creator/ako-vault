@@ -93,3 +93,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Homi Bhabha]]
 - [[Gayatri Chakravorty Spivak]]
 - [[Subaltern Studies]]
+- [[Gramsci en Hegemonie]]
+- [[Ranajit Guha]]

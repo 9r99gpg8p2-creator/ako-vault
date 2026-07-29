@@ -89,3 +89,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Arabische Lente]]
 - [[De Chinese Culturele Revolutie]]
 - [[Maoïsme]]
+- [[Mao Zedong]]

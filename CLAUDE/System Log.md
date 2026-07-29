@@ -2471,3 +2471,26 @@ type: operationeel
 | 2026-07-29 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: >1:5 ✓ |
 | 2026-07-29 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Maoïsme, Subaltern Studies) · 3 nieuwe gaps ↓ (Gramsci, Mao Zedong, Ranajit Guha) |
 | 2026-07-29 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 pag's · 4 verbindingen · 2 inzichten · Health: 100% |
+| 2026-07-29 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-29 | expansie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _-prefix bestanden aanwezig) — STAP 1.5 overgeslagen |
+| 2026-07-29 | expansie | Agent 2 | Externe bronnen | ✗ | FOUT E-003: Wikipedia + arXiv APIs onbereikbaar — fallback: intern kennismodel. Confidence max 5. |
+| 2026-07-29 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Gramsci en Hegemonie (queue↓ P1), Mao Zedong (queue↓ P2), Ranajit Guha (queue↓ P3), Sharpe Ratio (Beleggen expansie) |
+| 2026-07-29 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Gramsci en Hegemonie.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-29 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Mao Zedong.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-29 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Ranajit Guha.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-29 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Sharpe Ratio.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-29 | expansie | Agent 3 | Gap Engine | ✓ | 1 nieuwe gap gesignaleerd: Tweede Wereldoorlog (eigenstandige pagina) → queue ↓ |
+| 2026-07-29 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Gramsci en Hegemonie — Subaltern Studies.md — sterkte ★10 — Filosofie × Filosofie |
+| 2026-07-29 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Mao Zedong — Maoïsme.md — sterkte ★10 — Geschiedenis × Geschiedenis |
+| 2026-07-29 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Sharpe Ratio — Prospect Theory.md — sterkte ★8 — Beleggen × Psychologie (cross-domein) |
+| 2026-07-29 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Ranajit Guha — Gayatri Chakravorty Spivak.md — sterkte ★9 — Filosofie × Filosofie |
+| 2026-07-29 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Hegemonie als Onzichtbare Kooi.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-29 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Risico is een Verhaal, Geen Getal.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-29 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-29 Dagrapport.md — expansiemodus — 4 pagina's, 8 verbindingen, 4 inzichten, 3 gaps gedicht |
+| 2026-07-29 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-29 Quiz.md — 3 vragen toegevoegd (vr15-17: Gramsci hegemonie, Sharpe Ratio berekening, Guha × Spivak × KNP) |
+| 2026-07-29 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100% (135p), Fil 100% (81p), Gesch 100% (76p), Beleg 100% (76p) — 368 pag's |
+| 2026-07-29 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard.md bijgewerkt — Gramsci, Mao Zedong, Ranajit Guha, Sharpe Ratio vermeld |
+| 2026-07-29 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +2 (Gramsci en Hegemonie, Ranajit Guha) · Geschiedenis: +1 (Mao Zedong) · Beleggen: +1 (Sharpe Ratio) |
+| 2026-07-29 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: >1:5 ✓ |
+| 2026-07-29 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Gramsci, Mao Zedong, Ranajit Guha) · 1 nieuwe gap ↓ (Tweede Wereldoorlog) |
+| 2026-07-29 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 6 relatiepagina's · 2 inzichten · Health: 100% |
