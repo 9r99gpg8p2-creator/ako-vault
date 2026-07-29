@@ -367,5 +367,8 @@ type: operationeel
 | ✓ | 2026-07-29T expansie | Agent 3 | Gap: Gayatri Chakravorty Spivak | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Gayatri Chakravorty Spivak.md — confidence 5 |
 | ✓ | 2026-07-29T expansie | Agent 3 | Expansie: Momentum Strategie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Momentum Strategie.md — confidence 5 |
 | ✓ | 2026-07-29T expansie | Agent 3 | Expansie: De Chinese Culturele Revolutie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Chinese Culturele Revolutie.md — confidence 5 |
-| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Maoïsme | Ontbreekt in vault — ideologische basis van de Chinese Culturele Revolutie; Maos politieke filosofie |
-| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Subaltern Studies | Ontbreekt in vault — Ranajit Guha + Indian Subaltern Studies Groep; Spivaks academische context |
+| ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Maoïsme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Maoïsme.md — confidence 5 |
+| ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Subaltern Studies | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Subaltern Studies.md — confidence 5 |
+| ↓ | 2026-07-29T consolidatie | Agent 3 | Gap: Gramsci & Hegemonie | Ontbreekt in vault — essentieel fundament van Subaltern Studies; Gramscis hegemonietheorie |
+| ↓ | 2026-07-29T consolidatie | Agent 3 | Gap: Mao Zedong (persoon) | Ontbreekt in vault — de historische figuur naast de ideologie Maoïsme |
+| ↓ | 2026-07-29T consolidatie | Agent 3 | Gap: Ranajit Guha | Ontbreekt in vault — grondlegger Subaltern Studies Collective (analoog aan Spivak-pagina) |

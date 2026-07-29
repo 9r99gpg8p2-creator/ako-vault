@@ -2451,3 +2451,23 @@ type: operationeel
 | 2026-07-29 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: >1:5 ✓ |
 | 2026-07-29 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Homi Bhabha, Spivak) · 2 nieuwe gaps ↓ (Maoïsme, Subaltern Studies) |
 | 2026-07-29 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% |
+| 2026-07-29 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-29 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alle starten met _) — STAP 1.5 overgeslagen |
+| 2026-07-29 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — Wikipedia API onbereikbaar. Interne kennis gebruikt voor Maoïsme en Subaltern Studies. Confidence 5. |
+| 2026-07-29 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 2 onderwerpen uit queue↓: Maoïsme (Geschiedenis) + Subaltern Studies (Filosofie) |
+| 2026-07-29 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Maoïsme.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-29 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Subaltern Studies.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Maoïsme — De Chinese Culturele Revolutie.md — sterkte ★10 — Geschiedenis × Geschiedenis |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Maoïsme — Stalinisme.md — sterkte ★8 — Geschiedenis × Geschiedenis |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Subaltern Studies — Postkolonialisme.md — sterkte ★9 — Filosofie × Filosofie |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Subaltern Studies — Gayatri Chakravorty Spivak.md — sterkte ★10 — Filosofie × Filosofie |
+| 2026-07-29 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Ideologie als Geheugen Herschrijven.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-29 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Ongehoorde Patiënt — Subalterniteit in de GGZ.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-29 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-29 Dagrapport.md — consolidatiemodus — 2 pagina's, 4 verbindingen, 2 inzichten, 2 gaps gedicht |
+| 2026-07-29 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-29 Quiz.md — 3 vragen toegevoegd (vr12-14: Maoïsme, Subaltern Studies, Spivak × GGZ) |
+| 2026-07-29 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100%, Fil 100%, Gesch 100%, Beleg 100% — 368 pagina's totaal |
+| 2026-07-29 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard.md bijgewerkt: 368 pagina's totaal |
+| 2026-07-29 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Geschiedenis: +1 (Maoïsme) · Filosofie: +1 (Subaltern Studies) |
+| 2026-07-29 | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: >1:5 ✓ |
+| 2026-07-29 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Maoïsme, Subaltern Studies) · 3 nieuwe gaps ↓ (Gramsci, Mao Zedong, Ranajit Guha) |
+| 2026-07-29 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 pag's · 4 verbindingen · 2 inzichten · Health: 100% |

@@ -88,3 +88,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Amerikaanse Revolutie]]
 - [[De Arabische Lente]]
 - [[De Chinese Culturele Revolutie]]
+- [[Maoïsme]]

@@ -92,3 +92,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Edward Said]]
 - [[Homi Bhabha]]
 - [[Gayatri Chakravorty Spivak]]
+- [[Subaltern Studies]]
