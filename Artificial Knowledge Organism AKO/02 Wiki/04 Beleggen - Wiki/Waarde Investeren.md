@@ -1,5 +1,6 @@
 ---
 id: beleg-waarde-investeren
+aliases: ["Waardebeleggen", "Value Investing"]
 tags: [beleggen, waarde, investering, graham, buffett]
 discipline: beleggen
 type: concept
@@ -9,6 +10,7 @@ sources:
   - "Graham, B., & Dodd, D. (1934). Security Analysis. McGraw-Hill."
   - "Graham, B. (1949). The Intelligent Investor. Harper & Brothers."
   - "Buffett, W. E. (1984). The Superinvestors of Graham-and-Doddsville. Hermes, Columbia Business School Magazine."
+  - "Greenwald, B. et al. (2001). Value Investing: From Graham to Buffett and Beyond. Wiley."
 hub: "[[Beleggen]]"
 related:
   - "[[Efficiënte Markthypothese]]"
@@ -16,8 +18,11 @@ related:
   - "[[Prospect Theory]]"
   - "[[Verliesaversie]]"
   - "[[Risicoperceptie]]"
+  - "[[Benjamin Graham]]"
+  - "[[Warren Buffett]]"
+  - "[[Intrinsieke Waarde en DCF-modellen]]"
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-29
 ---
 
 # Waarde Investeren
@@ -33,6 +38,7 @@ Waarde investeren (value investing) is een beleggingsstrategie waarbij aandelen 
 - **Mr. Market:** Graham's metafoor voor de irrationele markt — een figuur die dagelijks willekeurige koop- en verkoopkansen aanbiedt die de rationele investeerder kan benutten of negeren
 - **Fundamentele analyse:** bestudering van jaarrekeningen, winst-verliesrekeningen, balansen en concurrentiepositie om waarde te schatten
 - **Lange termijn oriëntatie:** waardebeleggers negeren kortetermijnkoersschommelingen; het beleggingshorizon is jaren tot decennia
+- **Kwalitatieve vs. kwantitatieve analyse:** naast harde cijfers (balans, winst-verliesrekening) wegen ook zachte factoren mee (management, concurrentiepositie, "economic moat")
 
 ## Context
 
@@ -48,6 +54,8 @@ Waarde investeren staat in spanning met de **Efficiënte Markthypothese** (EMH),
 - **Institutioneel beleggen:** value-georiënteerde fondsen als strategie naast groei- en indexfondsen
 - **Risicomanagement:** de veiligheidsmarge beschermt tegen negatieve verrassingen en maakt de strategie intrinsiek conservatief
 - **Behavioral finance:** waarde investeren profiteert van systematische fouten in marktprijzen, veroorzaakt door psychologische biases
+- **Contrair denken:** waardebeleggers kopen doorgaans wanneer anderen verkopen — bij marktpaniek of sector-specifieke onrust
+- **Geconcentreerde portefeuille:** veel waardebeleggers kiezen voor een beperkt aantal goed onderzochte posities in plaats van brede diversificatie
 
 ## Verbindingen
 
@@ -59,6 +67,9 @@ Waarde investeren staat in spanning met de **Efficiënte Markthypothese** (EMH),
 - [[Prospect Theory]] — Verliesaversie verklaart waarom beleggers goedkope, "saai" uitziende aandelen mijden
 - [[Verliesaversie]] — Angst voor verlies drijft beleggers weg van ondergewaardeerde aandelen die tijdelijk slecht presteren
 - [[Risicoperceptie]] — Waarde investeren herdefiniëert risico als fundamentele onderwaardering, niet als koersvolatiliteit
+- [[Benjamin Graham]] — grondlegger; ontwikkelde de theorie in Security Analysis (1934)
+- [[Warren Buffett]] — meest succesvolle beoefenaar; voegde kwalitatieve dimensie toe (economic moat)
+- [[Intrinsieke Waarde en DCF-modellen]] — analytisch gereedschap voor het bepalen van intrinsieke waarde
 
 **Cross-domein:**
 - [[Cognitieve Biases]] — Systematische biases (anchoring, recency bias) verklaren de persistente mispricing die waarde investeerders exploiteren

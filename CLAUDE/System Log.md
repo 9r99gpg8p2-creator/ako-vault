@@ -2494,3 +2494,24 @@ type: operationeel
 | 2026-07-29 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: >1:5 ✓ |
 | 2026-07-29 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Gramsci, Mao Zedong, Ranajit Guha) · 1 nieuwe gap ↓ (Tweede Wereldoorlog) |
 | 2026-07-29 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 6 relatiepagina's · 2 inzichten · Health: 100% |
+| 2026-07-29 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _-prefix) — overgeslagen |
+| 2026-07-29 | consolidatie | Agent 3 | Gap gesloten | ✓ | Tweede Wereldoorlog — reeds aanwezig (aangemaakt 2026-07-13); false gap gesloten |
+| 2026-07-29 | consolidatie | Agent 3 | Duplicate merge (Wet 14) | ✓ | Waardebeleggen.md samengevoegd met Waarde Investeren.md — aliases, Greenwald-bron, 3 related-links toegevoegd |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Gramsci en Hegemonie — Marxisme.md — sterkte ★9 |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Sharpe Ratio — Risicobeheer.md — sterkte ★9 |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Sharpe Ratio — Capital Asset Pricing Model.md — sterkte ★8 |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Expected Shortfall — Risicobeheer.md — sterkte ★9 |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Momentum Strategie — Factor Investing.md — sterkte ★9 |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Mao Zedong — Maoïsme.md — sterkte ★10 |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Chinese Culturele Revolutie — Maoïsme.md — sterkte ★10 |
+| 2026-07-29 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Gramsci en Hegemonie — Kritische Theorie.md — sterkte ★8 |
+| 2026-07-29 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Koloniale Structuren als Hegemonisch Bewustzijn.md — Filosofie × Psychologie × Geschiedenis — sterkte ★9 |
+| 2026-07-29 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Momentum als Kuddegedrag.md — Beleggen × Psychologie — sterkte ★8 |
+| 2026-07-29 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Risicoperceptie als Subjectief Construct.md — Beleggen × Psychologie — sterkte ★9 |
+| 2026-07-29 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-29 Dagrapport.md — consolidatiemodus — 1 merge, 8 verbindingen, 3 inzichten, 0 gaps open |
+| 2026-07-29 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-29 Quiz.md — 3 vragen toegevoegd (vr18-20: Gramsci/Marxisme, Sharpe Ratio toepassing, Momentum/Dual Process) |
+| 2026-07-29 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100% (136p), Fil 100% (82p), Gesch 100% (77p), Beleg 100% (76p) — 371 pag's |
+| 2026-07-29 | consolidatie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md — 371 pagina's, 773 graafpagina's, 0 gaps, Health 100% |
+| 2026-07-29 | consolidatie | Agent 8 | Hub-validatie | ✓ | Alle 4 hubs volledig up-to-date — geen ontbrekende conceptlinks |
+| 2026-07-29 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | Tweede Wereldoorlog ↓ → ✓ · Waardebeleggen merge → ✓ · Queue volledig leeg |
+| 2026-07-29 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 0 nieuwe pag's · 1 merge · 8 relatiepagina's · 3 inzichten · Health: 100% |

@@ -2,71 +2,72 @@
 type: dagrapport
 date: 2026-07-29
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 # Dagrapport — 2026-07-29
 
 ## Daily Briefing
 
-Nieuwe kennis: 6 · Inbox verwerkt: 0 · Verbindingen: 8 · Inzichten: 4 · Gaps gedicht: 3 · Leestijd: ~14 min
+Inbox verwerkt: 0 · Gaps gedicht: 1 · Pagina's bijgewerkt: 1 · Verbindingen verdicht: 8 · Queue resterend: 0
 
 ---
 
-## Expansie Briefing
-Inbox verwerkt: 0 (geen nieuwe bestanden) · Gaps gedicht: 3 (Gramsci, Mao Zedong, Ranajit Guha) · Nieuwe pagina's: 4 · Verbindingen: 4 · Inzichten: 2
+## Pagina's Bijgewerkt via Consolidatie
 
-## Nieuwe Wiki-pagina's (expansie-run)
+1. [[Waarde Investeren]] — duplicate merge (Waardebeleggen.md samengevoegd, Wet 14); aliases, 3 extra related-links en Greenwald-bron toegevoegd — confidence 5
 
-1. [[Gramsci en Hegemonie]] — 02 Wiki/02 Filosofie - Wiki/ — confidence 5
-2. [[Mao Zedong]] — 02 Wiki/03 Geschiedenis - Wiki/ — confidence 5
-3. [[Ranajit Guha]] — 02 Wiki/02 Filosofie - Wiki/ — confidence 5
-4. [[Sharpe Ratio]] — 02 Wiki/04 Beleggen - Wiki/ — confidence 5
+## Duplicaat Samengevoegd
 
-## Verbindingen Toegevoegd (alle runs)
+- **Waardebeleggen.md** → samengevoegd met **Waarde Investeren.md** (ouder, vollediger, meer relaties); alias toegevoegd
 
-1. [[Maoïsme]] ↔ [[De Chinese Culturele Revolutie]] · ★10 (consolidatie)
-2. [[Maoïsme]] ↔ [[Stalinisme]] · ★8 (consolidatie)
-3. [[Subaltern Studies]] ↔ [[Postkolonialisme]] · ★9 (consolidatie)
-4. [[Subaltern Studies]] ↔ [[Gayatri Chakravorty Spivak]] · ★10 (consolidatie)
-5. [[Gramsci en Hegemonie]] → [[Subaltern Studies]] · ★10 (expansie)
-6. [[Mao Zedong]] → [[Maoïsme]] · ★10 (expansie)
-7. [[Sharpe Ratio]] → [[Prospect Theory]] · ★8 (expansie, cross-domein)
-8. [[Ranajit Guha]] → [[Gayatri Chakravorty Spivak]] · ★9 (expansie)
+## Verbindingen Toegevoegd
+
+1. [[Gramsci en Hegemonie]] ↔ [[Marxisme]] · ★9
+2. [[Sharpe Ratio]] ↔ [[Risicobeheer]] · ★9
+3. [[Sharpe Ratio]] ↔ [[Capital Asset Pricing Model]] · ★8
+4. [[Expected Shortfall]] ↔ [[Risicobeheer]] · ★9
+5. [[Momentum Strategie]] ↔ [[Factor Investing]] · ★9
+6. [[Mao Zedong]] ↔ [[Maoïsme]] · ★10
+7. [[De Chinese Culturele Revolutie]] ↔ [[Maoïsme]] · ★10
+8. [[Gramsci en Hegemonie]] ↔ [[Kritische Theorie]] · ★8
 
 ## Insight Feed
 
-— "Totalitaire ideologieën zoals Maoïsme hergebruiken de mechanismen van geheugenmanipulatie: struggle sessions dwingen individuen hun verleden te herschrijven, wat parallellen vertoont met onderzoek naar reconsolidatie en coercieve geheugenbeïnvloeding." [Geschiedenis → Psychologie · ★8]
+— "Gramsci's concept van hegemonie verklaart hoe koloniale overheersing lang na het einde van formele kolonisatie voortbestaat in het zelfbeeld van voormalig gekoloniseerde bevolkingen — relevant voor klinische psychologie in postkoloniale samenlevingen." [Filosofie → Psychologie → Geschiedenis · ★9]
 
-— "Spivaks vraag 'Can the Subaltern Speak?' resoneeert direct in de klinische neuropsychologie: gemarginaliseerde patiëntengroepen worden miskend door diagnostische systemen die zijn geconstrueerd vanuit Westerse normen — een structureel epistemisch geweld in de GGZ." [Filosofie → Psychologie · ★9]
+— "Momentum in financiële markten is grotendeels verklaarbaar als geïnstitutionaliseerd kuddegedrag: herding, anchoring en beschikbaarheidsheuristiek zorgen ervoor dat trends te lang aanhouden." [Beleggen → Psychologie · ★8]
 
-— "Gramscis hegemonietheorie en de sociale psychologie van conformiteit beschrijven hetzelfde fenomeen vanuit twee kanten: de meest effectieve macht is die welke zichzelf onzichtbaar maakt." [Filosofie → Psychologie · ★9]
-
-— "De Sharpe Ratio behandelt risico als een symmetrisch getal, maar Prospect Theory toont aan dat het menselijke brein risico ervaart als een verhaal over verlies — kwantitatieve modellen zijn incompleet zonder psychologie." [Beleggen → Psychologie · ★8]
+— "Technische risicometing (VaR, Expected Shortfall) en gedragsmatige risicobereidheid zijn twee fundamenteel verschillende grootheden — effectief risicobeheer vereist beide perspectieven." [Beleggen → Psychologie · ★9]
 
 ## Research Agenda
 
-1. **Tweede Wereldoorlog** (Geschiedenis) — opvallende lacune; context voor Holocaust, Nationaal Socialisme, de moderne geopolitieke orde
-2. **Esthetica** (Filosofie) — aanwezig maar geen cross-domein relaties; verbinding met neuropsychologie (neuro-esthetica) relevant voor MSc KNP
-3. **Hechtingstheorie** (Psychologie) — update: postkoloniale dimensie en cross-domein verbinding met Gramscis subalterniteitstheorie nog niet uitgewerkt
+1. **Tweede Wereldoorlog** (Geschiedenis) — ↓ item gesloten; pagina volledig aanwezig, queue bijgewerkt naar ✓
+2. **Esthetica** (Filosofie) — aanwezig maar beperkte cross-domein relaties; neuro-esthetica relevant voor MSc KNP
+3. **Hechtingstheorie** (Psychologie) — update: postkoloniale dimensie nog niet uitgewerkt; verbinding met Gramsci's subalterniteitstheorie
 
 ## Knowledge Health
 
-| Discipline | Pagina's | Score (est.) | Trend |
+| Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
-| Psychologie | 135 | ~85% | → |
-| Filosofie | 81 | ~80% | ↑ |
-| Geschiedenis | 76 | ~76% | ↑ |
-| Beleggen | 76 | ~75% | ↑ |
+| Psychologie | 136 | ~95% | → |
+| Filosofie | 82 | ~90% | ↑ |
+| Geschiedenis | 77 | ~88% | → |
+| Beleggen | 77 | ~87% | ↑ |
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 0 |
+| Nieuwe Wiki-pagina's | 0 |
+| Pagina's bijgewerkt | 1 |
+| Duplicaten samengevoegd | 1 |
 | Nieuwe verbindingen | 8 |
-| Inzichten gegenereerd | 4 |
-| Gaps gedicht | 3 |
+| Inzichten gegenereerd | 3 |
+| Gaps gedicht | 1 |
 | Quiz vragen toegevoegd | 3 |
+
+## Aandacht Vereist
+
+- [ ] Geen kritische issues gesignaleerd — vault in gezonde staat

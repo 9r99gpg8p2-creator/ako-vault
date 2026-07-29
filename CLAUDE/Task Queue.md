@@ -373,4 +373,5 @@ type: operationeel
 | ✓ | 2026-07-29T expansie | Agent 3 | Gap: Mao Zedong (persoon) | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Mao Zedong.md — confidence 5 |
 | ✓ | 2026-07-29T expansie | Agent 3 | Gap: Ranajit Guha | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Ranajit Guha.md — confidence 5 |
 | ✓ | 2026-07-29T expansie | Agent 3 | Expansie: Sharpe Ratio | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Sharpe Ratio.md — confidence 5 |
-| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Tweede Wereldoorlog | Ontbreekt als eigenstandige pagina — grote lacune gezien aanwezigheid van Holocaust, Nationaal Socialisme, Grote Depressie, Weimar Republiek |
+| ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Tweede Wereldoorlog | Pagina reeds aanwezig (aangemaakt 2026-07-13) — geverifieerd volledig; false gap gesloten |
+| ✓ | 2026-07-29T consolidatie | Agent 3 | Merge: Waardebeleggen | Waardebeleggen.md samengevoegd met Waarde Investeren.md (Wet 14); aliases + Greenwald-bron + 3 related-links toegevoegd |
