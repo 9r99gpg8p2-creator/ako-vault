@@ -2424,3 +2424,30 @@ type: operationeel
 | 2026-07-29T07:08Z | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-29T07:09Z | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Frantz Fanon, Edward Said, Expected Shortfall) · 2 nieuwe gaps ↓ (Homi Bhabha, Spivak) |
 | 2026-07-29T07:09Z | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox verwerkt · 3 pag's · 4 relaties · 2 inzichten · Health: 100% · 365 pag. totaal |
+| 2026-07-29 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-29 | expansie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _-prefixed sjabloonbestanden) — STAP 1.5 overgeslagen |
+| 2026-07-29 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — Wikipedia API onbereikbaar. Intern kennismodel gebruikt. Confidence max 5 voor niet-Inbox concepten. |
+| 2026-07-29 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Homi Bhabha (queue↓ PRIORITEIT), Gayatri Chakravorty Spivak (queue↓ PRIORITEIT), Momentum Strategie (Beleggen NIEUW), De Chinese Culturele Revolutie (Geschiedenis NIEUW) |
+| 2026-07-29 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Homi Bhabha.md — 02 Filosofie - Wiki — confidence 5 — hybriditeit, mimicry, Third Space |
+| 2026-07-29 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Gayatri Chakravorty Spivak.md — 02 Filosofie - Wiki — confidence 5 — subalterniteitsvraag, epistemisch geweld |
+| 2026-07-29 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Momentum Strategie.md — 04 Beleggen - Wiki — confidence 5 — Jegadeesh & Titman 1993 |
+| 2026-07-29 | expansie | Agent 3 | Wiki aangemaakt | ✓ | De Chinese Culturele Revolutie.md — 03 Geschiedenis - Wiki — confidence 5 — Mao 1966-1976 |
+| 2026-07-29 | expansie | Agent 3 | Wiki bijgewerkt | ✓ | Postkolonialisme.md — Homi Bhabha + Gayatri Chakravorty Spivak toegevoegd aan verbindingen |
+| 2026-07-29 | expansie | Agent 3 | Wiki bijgewerkt | ✓ | Behavioral Finance.md — Momentum Strategie toegevoegd aan verbindingen |
+| 2026-07-29 | expansie | Agent 3 | Wiki bijgewerkt | ✓ | Totalitarisme.md — De Chinese Culturele Revolutie toegevoegd aan verbindingen |
+| 2026-07-29 | expansie | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps: Maoïsme, Subaltern Studies |
+| 2026-07-29 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Homi Bhabha — Gayatri Chakravorty Spivak.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-29 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Homi Bhabha — Postkolonialisme.md — sterkte ★10 — Filosofie (intra) |
+| 2026-07-29 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Momentum Strategie — Behavioral Finance.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-29 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Chinese Culturele Revolutie — Totalitarisme.md — sterkte ★8 — Geschiedenis (intra) |
+| 2026-07-29 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Hybriditeit als Psychologisch Zelfbehoud.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-29 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Markt als Collectief Traag Geheugen.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-29 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Gedwongen Zelfkritiek als Omgekeerde Deugdvorming.md — Geschiedenis → Filosofie — sterkte ★7 |
+| 2026-07-29 | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-29 Dagrapport.md — expansiemodus — 4 pagina's, 3 updates, 4 verbindingen, 3 inzichten, 2 gaps gedicht |
+| 2026-07-29 | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-29 Quiz.md — 3 vragen toegevoegd (vr9-11: Homi Bhabha mimicry, Spivak subaltern, Momentum × Dual Process) |
+| 2026-07-29 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100%, Fil 100%, Gesch 100%, Beleg 100% — 366 pagina's totaal |
+| 2026-07-29 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard.md bijgewerkt: 366 pagina's totaal |
+| 2026-07-29 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +2 (Homi Bhabha, Gayatri Chakravorty Spivak) · Geschiedenis: +1 (De Chinese Culturele Revolutie) · Beleggen: +1 (Momentum Strategie) |
+| 2026-07-29 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: >1:5 ✓ |
+| 2026-07-29 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 2 gaps gesloten ✓ (Homi Bhabha, Spivak) · 2 nieuwe gaps ↓ (Maoïsme, Subaltern Studies) |
+| 2026-07-29 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% |

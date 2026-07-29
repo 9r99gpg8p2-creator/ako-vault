@@ -87,3 +87,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Zwarte Dood]]
 - [[De Amerikaanse Revolutie]]
 - [[De Arabische Lente]]
+- [[De Chinese Culturele Revolutie]]

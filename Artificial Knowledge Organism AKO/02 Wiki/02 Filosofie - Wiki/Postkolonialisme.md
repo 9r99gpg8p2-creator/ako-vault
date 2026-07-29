@@ -57,6 +57,8 @@ Kritici uit links-academische kring (Arif Dirlik, Aijaz Ahmad) betogen dat postk
 - [[Marxisme]] — gedeelde aandacht voor uitbuiting en ongelijkheid, maar postkolonialisme bekritiseert het eurocentrisme van klassiek marxisme
 - [[Postmodernisme]] — epistemologische verwantschap: beide betwijfelen universele westerse waarheidsclaims
 - [[Poststructuralisme]] — methodologische basis: Foucaults machtsanalyse en Derrida's deconstructie
+- [[Homi Bhabha]] ★10 — grondlegger; hybriditeit en mimicry als kernconcepten van het postkoloniale discours
+- [[Gayatri Chakravorty Spivak]] ★9 — grondlegger; subalterniteitsvraag en epistemisch geweld
 
 **Cross-domein:**
 - [[Postkoloniale Psychologie]] — psychologische verwerking van koloniale en racistische ervaringen

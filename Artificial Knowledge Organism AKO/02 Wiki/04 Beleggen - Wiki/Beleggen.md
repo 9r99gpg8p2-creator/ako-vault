@@ -88,3 +88,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Waardebeleggen]]
 - [[Value at Risk]]
 - [[Expected Shortfall]]
+- [[Momentum Strategie]]

@@ -90,3 +90,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Postkolonialisme]]
 - [[Frantz Fanon]]
 - [[Edward Said]]
+- [[Homi Bhabha]]
+- [[Gayatri Chakravorty Spivak]]

@@ -363,5 +363,9 @@ type: operationeel
 | ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Frantz Fanon | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Frantz Fanon.md — confidence 5 |
 | ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Edward Said | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Edward Said.md — confidence 5 |
 | ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Expected Shortfall / CVaR | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Expected Shortfall.md — confidence 5 |
-| ↓ | 2026-07-29T consolidatie | Agent 3 | Gap: Homi Bhabha | Ontbreekt in vault — derde grondlegger postkolonialisme (*The Location of Culture* 1994) |
-| ↓ | 2026-07-29T consolidatie | Agent 3 | Gap: Gayatri Chakravorty Spivak | Ontbreekt in vault — *Can the Subaltern Speak?* (1988); subaltern studies |
+| ✓ | 2026-07-29T expansie | Agent 3 | Gap: Homi Bhabha | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Homi Bhabha.md — confidence 5 |
+| ✓ | 2026-07-29T expansie | Agent 3 | Gap: Gayatri Chakravorty Spivak | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Gayatri Chakravorty Spivak.md — confidence 5 |
+| ✓ | 2026-07-29T expansie | Agent 3 | Expansie: Momentum Strategie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Momentum Strategie.md — confidence 5 |
+| ✓ | 2026-07-29T expansie | Agent 3 | Expansie: De Chinese Culturele Revolutie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Chinese Culturele Revolutie.md — confidence 5 |
+| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Maoïsme | Ontbreekt in vault — ideologische basis van de Chinese Culturele Revolutie; Maos politieke filosofie |
+| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Subaltern Studies | Ontbreekt in vault — Ranajit Guha + Indian Subaltern Studies Groep; Spivaks academische context |
