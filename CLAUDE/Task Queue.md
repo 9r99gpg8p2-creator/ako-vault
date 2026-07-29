@@ -360,6 +360,8 @@ type: operationeel
 | ✓ | 2026-07-29T expansie | Agent 3 | Expansie: Value at Risk | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Value at Risk.md — confidence 5 |
 | ✓ | 2026-07-29T expansie | Agent 3 | Expansie: De Arabische Lente | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Arabische Lente.md — confidence 5 |
 | ✓ | 2026-07-29T expansie | Agent 3 | Expansie: Postkolonialisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Postkolonialisme.md — confidence 5 |
-| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Frantz Fanon | Ontbreekt in vault — sleutelfiguur postkolonialisme + postkoloniale psychologie |
-| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Edward Said | Ontbreekt in vault — *Orientalism* (1978) is fundamenteel voor postkolonialisme |
-| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Expected Shortfall / CVaR | Ontbreekt in vault — opvolger van VaR na Financiële Crisis 2008 |
+| ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Frantz Fanon | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Frantz Fanon.md — confidence 5 |
+| ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Edward Said | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Edward Said.md — confidence 5 |
+| ✓ | 2026-07-29T consolidatie | Agent 3 | Gap: Expected Shortfall / CVaR | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Expected Shortfall.md — confidence 5 |
+| ↓ | 2026-07-29T consolidatie | Agent 3 | Gap: Homi Bhabha | Ontbreekt in vault — derde grondlegger postkolonialisme (*The Location of Culture* 1994) |
+| ↓ | 2026-07-29T consolidatie | Agent 3 | Gap: Gayatri Chakravorty Spivak | Ontbreekt in vault — *Can the Subaltern Speak?* (1988); subaltern studies |

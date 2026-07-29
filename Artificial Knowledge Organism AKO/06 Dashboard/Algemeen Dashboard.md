@@ -2,7 +2,7 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-29
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Algemeen Dashboard — AKO
@@ -11,15 +11,15 @@ sessie: expansie
 
 ---
 
-## Knowledge Health — 2026-07-29 (expansie-run)
+## Knowledge Health — 2026-07-29 (consolidatie-run)
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
 | Psychologie | 136 | 100% | 100% | 100% | → |
-| Filosofie | 75 | 100% | 100% | 100% | ↑ |
-| Geschiedenis | 74 | 100% | 100% | 100% | ↑ |
-| Beleggen | 74 | 100% | 100% | 100% | ↑ |
-| **Totaal** | **359** | — | — | **100%** | ↑ |
+| Filosofie | 79 | 100% | 100% | 100% | ↑ |
+| Geschiedenis | 74 | 100% | 100% | 100% | → |
+| Beleggen | 76 | 100% | 100% | 100% | ↑ |
+| **Totaal** | **365** | — | — | **100%** | ↑ |
 
 ---
 
@@ -27,8 +27,8 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 359 |
-| Relatiepagina's + Inzichtpagina's (03 graph) | 739+ |
+| Totale Wiki-pagina's | 365 |
+| Relatiepagina's + Inzichtpagina's (03 graph) | 751 |
 | Dagrapporten aangemaakt | 30+ |
 | Quizzen aangemaakt | 30+ |
 | Wekelijkse reflecties | 5 |
@@ -42,9 +42,9 @@ sessie: expansie
 | Domein | Pagina's | Geselecteerde concepten |
 |---|---|---|
 | Psychologie | 136 | Werkgeheugen, Executieve Functies, PTSD, Neuroplasticiteit, Amygdala, Prefrontale Cortex, Depressie, ADHD, Autismespectrumstoornis, Alzheimer en Dementie, Frontaalkwab, Temporaalkwab, Cerebellum, Positieve Psychologie … |
-| Filosofie | 75 | Epistemologie, Ethiek, Vrije Wil, Determinisme, Compatibilisme, Bewustzijn, Utilitarisme, Deontologie, Existentialisme, Postkolonialisme, Pragmatisme, Rationalisme, Empirisme … |
+| Filosofie | 79 | Epistemologie, Ethiek, Vrije Wil, Determinisme, Compatibilisme, Bewustzijn, Utilitarisme, Deontologie, Existentialisme, Postkolonialisme, Frantz Fanon, Edward Said, Pragmatisme, Rationalisme … |
 | Geschiedenis | 74 | Tweede Wereldoorlog, Koude Oorlog, De Franse Revolutie, De Arabische Lente, Industrialisatie, Globalisering, Neoliberalisme, De Europese Integratie, Dekolonisatie … |
-| Beleggen | 74 | Prospect Theory, Gedragseconomie, Waardebeleggen, Value at Risk, Efficiënte Markthypothese, Moderne Portefeuille Theorie, CAPM, Behavioral Finance, Liquiditeit, Beta en Volatiliteit … |
+| Beleggen | 76 | Prospect Theory, Gedragseconomie, Waardebeleggen, Value at Risk, Expected Shortfall, Efficiënte Markthypothese, Moderne Portefeuille Theorie, CAPM, Behavioral Finance, Liquiditeit … |
 
 ---
 
@@ -64,6 +64,5 @@ sessie: expansie
 
 | Gap | Discipline | Prioriteit |
 |---|---|---|
-| Frantz Fanon | Filosofie/Psychologie | ↓ |
-| Edward Said | Filosofie | ↓ |
-| Expected Shortfall / CVaR | Beleggen | ↓ |
+| Homi Bhabha | Filosofie | ↓ nieuw gesignaleerd |
+| Gayatri Chakravorty Spivak | Filosofie | ↓ nieuw gesignaleerd |

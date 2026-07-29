@@ -2403,3 +2403,24 @@ type: operationeel
 | 2026-07-29T06:14Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-29T06:15Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 3 nieuwe gaps ↓ (Frantz Fanon, Edward Said, Expected Shortfall/CVaR) |
 | 2026-07-29T06:15Z | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · 0 Inbox verwerkt · Health: 100% · 359 pag. totaal |
+| 2026-07-29T07:00Z | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-29T07:00Z | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alle bestanden beginnen met _ — gefilterd) — STAP 1.5 overgeslagen |
+| 2026-07-29T07:01Z | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — Wikipedia API onbereikbaar. Intern kennismodel gebruikt. Confidence 5 voor alle nieuwe pagina's. |
+| 2026-07-29T07:01Z | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 queue-items geselecteerd: Frantz Fanon (queue↓), Edward Said (queue↓), Expected Shortfall/CVaR (queue↓) |
+| 2026-07-29T07:02Z | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Frantz Fanon.md — 02 Filosofie - Wiki — confidence 5 — postkoloniaal denken, psychiatrie, bevrijdingsfilosofie |
+| 2026-07-29T07:02Z | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Edward Said.md — 02 Filosofie - Wiki — confidence 5 — Orientalism (1978), culturele representatie, imperialisme |
+| 2026-07-29T07:03Z | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Expected Shortfall.md — 04 Beleggen - Wiki — confidence 5 — CVaR, coherente risicomaatstaf, Basel IV/FRTB |
+| 2026-07-29T07:04Z | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Frantz Fanon — Postkoloniale Psychologie.md — sterkte ★9 — Filosofie × Psychologie |
+| 2026-07-29T07:04Z | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Frantz Fanon — Edward Said.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-29T07:04Z | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Edward Said — Imperialisme.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-29T07:04Z | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Expected Shortfall — Value at Risk.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-29T07:05Z | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Blik die Van Buiten Komt Wordt Een Stem Van Binnen.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-29T07:05Z | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Modellen Sterven aan hun Eigen Staarten.md — Beleggen → Filosofie — sterkte ★8 |
+| 2026-07-29T07:06Z | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-29 Dagrapport.md — consolidatiemodus — 3 pag's, 4 verbindingen, 2 inzichten, 3 gaps gedicht |
+| 2026-07-29T07:06Z | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-29 Quiz.md — 3 vragen toegevoegd (vr6-8: Fanon gespleten identiteit, ES/CVaR coherentie, Said vs Fanon vergelijking) |
+| 2026-07-29T07:07Z | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (136) · Filosofie: 100% (79) · Geschiedenis: 100% (74) · Beleggen: 100% (76) — 365 pag. totaal |
+| 2026-07-29T07:07Z | consolidatie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 365 pagina's, 751 relaties/inzichten |
+| 2026-07-29T07:08Z | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie.md: +Frantz Fanon, +Edward Said · Beleggen.md: +Expected Shortfall |
+| 2026-07-29T07:08Z | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-29T07:09Z | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Frantz Fanon, Edward Said, Expected Shortfall) · 2 nieuwe gaps ↓ (Homi Bhabha, Spivak) |
+| 2026-07-29T07:09Z | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox verwerkt · 3 pag's · 4 relaties · 2 inzichten · Health: 100% · 365 pag. totaal |

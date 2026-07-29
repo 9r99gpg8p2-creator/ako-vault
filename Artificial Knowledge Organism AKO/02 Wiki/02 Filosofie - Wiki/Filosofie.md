@@ -88,3 +88,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Compatibilisme]]
 - [[Logica]]
 - [[Postkolonialisme]]
+- [[Frantz Fanon]]
+- [[Edward Said]]
