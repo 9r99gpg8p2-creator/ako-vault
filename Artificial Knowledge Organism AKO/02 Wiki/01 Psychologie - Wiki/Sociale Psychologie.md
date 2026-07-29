@@ -53,6 +53,7 @@ Sociale psychologie wordt breed toegepast in klinische contexten — bij groepst
 **Cross-domein:**
 - [[Gedragseconomie]] — sociale normen en conformiteit verklaren irrationeel financieel kuddegedrag
 - [[Propaganda]] — sociale beïnvloedingsprincipes vormen de basis van propagandatechnieken
+- [[De Arabische Lente]] ★8 — de Arabische Lente als casestudy voor sociale psychologische processen bij massale collectieve actie
 
 ## Bronnen
 

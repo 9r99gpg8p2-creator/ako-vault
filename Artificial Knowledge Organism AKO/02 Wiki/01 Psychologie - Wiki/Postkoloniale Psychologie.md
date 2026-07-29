@@ -64,6 +64,7 @@ Na Fanon is het veld uitgebreid met denkers zoals Albert Memmi (*Portrait du Col
 - [[Jean-Paul Sartre]] ★7 — Sartre schreef het voorwoord bij Fanons *Les Damnés de la Terre*; zijn concepten van kwade trouw en de blik vormen de filosofische basis van Fanons analyse
 
 **Cross-domein:**
+- [[Postkolonialisme]] ★10 — filosofisch kader: postkolonialisme analyseert op macro-niveau de structurele erfenis; postkoloniale psychologie richt zich op de individuele psychologische gevolgen
 - [[Dekolonisatie]] — de politiek-historische context van het postkoloniale denken; Fanons werk is tegelijkertijd een psychologische en historische interventie
 - [[Kolonialisme]] ★9 — oorzaak: kolonialisme is de historische grondoorzaak van de psychologische patronen die postkoloniale psychologie beschrijft
 - [[Slavernij]] ★9 — slavernij als de meest extreme vorm van koloniale dehumanisering; de psychologische erfenis ervan is een kernthema in de postkoloniale psychologie

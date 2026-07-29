@@ -86,3 +86,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Jean Monnet]]
 - [[De Zwarte Dood]]
 - [[De Amerikaanse Revolutie]]
+- [[De Arabische Lente]]

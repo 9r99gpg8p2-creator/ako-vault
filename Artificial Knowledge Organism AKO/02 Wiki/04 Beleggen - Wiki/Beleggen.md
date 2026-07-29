@@ -85,3 +85,5 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Liquiditeit]]
 - [[VIX-index]]
 - [[Financiële Verslaggeving]]
+- [[Waardebeleggen]]
+- [[Value at Risk]]

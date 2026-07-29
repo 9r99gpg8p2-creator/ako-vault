@@ -2378,3 +2378,28 @@ type: operationeel
 | 2026-07-28T consolidatie | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md — 732+ graph entries |
 | 2026-07-28T consolidatie | | Agent 8 | Hub-validatie | ✓ | Alle hubs up-to-date · Geen geïsoleerde nodes · Cross-domein ratio ≥ 1:5 ✓ |
 | 2026-07-28T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 0 pag's aangemaakt · 5 verbindingen verdicht · 2 inzichten · Health: 100% · 355 pag. totaal |
+| 2026-07-29T06:00Z | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen — expansie-modus |
+| 2026-07-29T06:01Z | | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met `_` — geen verwerkbare bestanden; STAP 1.5 overgeslagen |
+| 2026-07-29T06:02Z | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt, confidence max 5 |
+| 2026-07-29T06:02Z | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen (PRIORITEIT 2): Waardebeleggen (Beleg, fewest), Value at Risk (Beleg, fewest), De Arabische Lente (Gesch), Postkolonialisme (Fil) |
+| 2026-07-29T06:03Z | | Agent 3 | Wiki aangemaakt | ✓ | Waardebeleggen.md — 04 Beleggen - Wiki — confidence 5 (Graham & Dodd 1934, Graham 1949) |
+| 2026-07-29T06:04Z | | Agent 3 | Wiki aangemaakt | ✓ | Value at Risk.md — 04 Beleggen - Wiki — confidence 5 (Jorion 2006, RiskMetrics 1996) |
+| 2026-07-29T06:05Z | | Agent 3 | Wiki aangemaakt | ✓ | De Arabische Lente.md — 03 Geschiedenis - Wiki — confidence 5 (Lynch 2012, Howard 2011) |
+| 2026-07-29T06:06Z | | Agent 3 | Wiki aangemaakt | ✓ | Postkolonialisme.md — 02 Filosofie - Wiki — confidence 5 (Said 1978, Fanon 1961, Bhabha 1994) |
+| 2026-07-29T06:07Z | | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Frantz Fanon (Fil/Psych), Edward Said (Fil), Expected Shortfall/CVaR (Beleg) |
+| 2026-07-29T06:08Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Waardebeleggen — Gedragseconomie.md — sterkte ★9 — Beleggen × Psychologie |
+| 2026-07-29T06:08Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Value at Risk — Financiële Crisis 2008.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-29T06:08Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Arabische Lente — Sociale Psychologie.md — sterkte ★8 — Geschiedenis × Psychologie |
+| 2026-07-29T06:08Z | | Agent 4 | Relatiepagina aangemaakt | ✓ | Postkolonialisme — Postkoloniale Psychologie.md — sterkte ★10 — Filosofie × Psychologie |
+| 2026-07-29T06:09Z | | Agent 4 | Reverse links toegevoegd | ✓ | Gedragseconomie ← Waardebeleggen ★9 · Financiële Crisis 2008 ← Value at Risk ★9 · Sociale Psychologie ← De Arabische Lente ★8 · Postkoloniale Psychologie ← Postkolonialisme ★10 |
+| 2026-07-29T06:10Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Markt als Behavioreel Experiment.md — Beleggen → Psychologie — sterkte ★9 |
+| 2026-07-29T06:10Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Kolonialisme als Epistemisch Geweld.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-29T06:10Z | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Collectieve Emoties als Revolutionaire Motor.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-29T06:11Z | | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-29 Dagrapport.md — expansiemodus — 4 pag's, 4 verbindingen, 3 inzichten, 3 gaps |
+| 2026-07-29T06:12Z | | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-29 Quiz.md — 5 vragen (Waardebeleggen, VaR, Postkolonialisme, Arabische Lente, cross-domein) |
+| 2026-07-29T06:13Z | | Agent 7 | Knowledge Health berekend | ✓ | Psychologie: 100% (136) · Filosofie: 100% (75) · Geschiedenis: 100% (74) · Beleggen: 100% (74) — 359 pag. totaal |
+| 2026-07-29T06:13Z | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 359 pagina's, 739 relaties/inzichten |
+| 2026-07-29T06:14Z | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Postkolonialisme · Geschiedenis: +De Arabische Lente · Beleggen: +Waardebeleggen, +Value at Risk |
+| 2026-07-29T06:14Z | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-29T06:15Z | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 3 nieuwe gaps ↓ (Frantz Fanon, Edward Said, Expected Shortfall/CVaR) |
+| 2026-07-29T06:15Z | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 3 inzichten · 0 Inbox verwerkt · Health: 100% · 359 pag. totaal |

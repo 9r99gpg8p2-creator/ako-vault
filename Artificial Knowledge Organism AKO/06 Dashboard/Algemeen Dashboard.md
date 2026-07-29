@@ -1,8 +1,8 @@
 ---
 type: dashboard
 tags: [dashboard, algemeen]
-updated: 2026-07-28
-sessie: consolidatie
+updated: 2026-07-29
+sessie: expansie
 ---
 
 # Algemeen Dashboard — AKO
@@ -11,15 +11,15 @@ sessie: consolidatie
 
 ---
 
-## Knowledge Health — 2026-07-28 (consolidatie-run)
+## Knowledge Health — 2026-07-29 (expansie-run)
 
 | Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
 |---|---|---|---|---|---|
 | Psychologie | 136 | 100% | 100% | 100% | → |
-| Filosofie | 74 | 100% | 100% | 100% | ↑ |
-| Geschiedenis | 73 | 100% | 100% | 100% | ↑ |
-| Beleggen | 72 | 100% | 100% | 100% | ↑ |
-| **Totaal** | **355** | — | — | **100%** | ↑ |
+| Filosofie | 75 | 100% | 100% | 100% | ↑ |
+| Geschiedenis | 74 | 100% | 100% | 100% | ↑ |
+| Beleggen | 74 | 100% | 100% | 100% | ↑ |
+| **Totaal** | **359** | — | — | **100%** | ↑ |
 
 ---
 
@@ -27,11 +27,11 @@ sessie: consolidatie
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 355 |
-| Relatiepagina's + Inzichtpagina's (03 graph) | 732+ |
-| Dagrapporten aangemaakt | 29+ |
-| Quizzen aangemaakt | 29+ |
-| Wekelijkse reflecties | 4 |
+| Totale Wiki-pagina's | 359 |
+| Relatiepagina's + Inzichtpagina's (03 graph) | 739+ |
+| Dagrapporten aangemaakt | 30+ |
+| Quizzen aangemaakt | 30+ |
+| Wekelijkse reflecties | 5 |
 | Orphan nodes | 0 |
 | Kapotte links | 0 |
 
@@ -42,9 +42,9 @@ sessie: consolidatie
 | Domein | Pagina's | Geselecteerde concepten |
 |---|---|---|
 | Psychologie | 136 | Werkgeheugen, Executieve Functies, PTSD, Neuroplasticiteit, Amygdala, Prefrontale Cortex, Depressie, ADHD, Autismespectrumstoornis, Alzheimer en Dementie, Frontaalkwab, Temporaalkwab, Cerebellum, Positieve Psychologie … |
-| Filosofie | 74 | Epistemologie, Ethiek, Vrije Wil, Determinisme, Compatibilisme, Bewustzijn, Utilitarisme, Deontologie, Existentialisme, Logica, Pragmatisme, Rationalisme, Empirisme … |
-| Geschiedenis | 73 | Tweede Wereldoorlog, Koude Oorlog, De Franse Revolutie, De Amerikaanse Revolutie, De Zwarte Dood, Industrialisatie, Globalisering, Neoliberalisme, De Europese Integratie … |
-| Beleggen | 72 | Prospect Theory, Gedragseconomie, Efficiënte Markthypothese, Moderne Portefeuille Theorie, CAPM, Behavioral Finance, Financiële Verslaggeving, Liquiditeit, Beta en Volatiliteit, VIX-index … |
+| Filosofie | 75 | Epistemologie, Ethiek, Vrije Wil, Determinisme, Compatibilisme, Bewustzijn, Utilitarisme, Deontologie, Existentialisme, Postkolonialisme, Pragmatisme, Rationalisme, Empirisme … |
+| Geschiedenis | 74 | Tweede Wereldoorlog, Koude Oorlog, De Franse Revolutie, De Arabische Lente, Industrialisatie, Globalisering, Neoliberalisme, De Europese Integratie, Dekolonisatie … |
+| Beleggen | 74 | Prospect Theory, Gedragseconomie, Waardebeleggen, Value at Risk, Efficiënte Markthypothese, Moderne Portefeuille Theorie, CAPM, Behavioral Finance, Liquiditeit, Beta en Volatiliteit … |
 
 ---
 
@@ -62,4 +62,8 @@ sessie: consolidatie
 
 ## Huidige Gaps (Task Queue ↓)
 
-*Queue leeg — alle geregistreerde gaps zijn gedicht.*
+| Gap | Discipline | Prioriteit |
+|---|---|---|
+| Frantz Fanon | Filosofie/Psychologie | ↓ |
+| Edward Said | Filosofie | ↓ |
+| Expected Shortfall / CVaR | Beleggen | ↓ |

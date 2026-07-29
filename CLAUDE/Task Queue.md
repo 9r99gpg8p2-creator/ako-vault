@@ -356,3 +356,10 @@ type: operationeel
 | ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Jean Monnet | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Jean Monnet.md — confidence 5 |
 | ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: VIX-index | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/VIX-index.md — confidence 5 |
 | ✓ | 2026-07-28T consolidatie | Agent 3 | Gap: Compatibilisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Compatibilisme.md — confidence 5 |
+| ✓ | 2026-07-29T expansie | Agent 3 | Expansie: Waardebeleggen | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Waardebeleggen.md — confidence 5 |
+| ✓ | 2026-07-29T expansie | Agent 3 | Expansie: Value at Risk | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Value at Risk.md — confidence 5 |
+| ✓ | 2026-07-29T expansie | Agent 3 | Expansie: De Arabische Lente | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Arabische Lente.md — confidence 5 |
+| ✓ | 2026-07-29T expansie | Agent 3 | Expansie: Postkolonialisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Postkolonialisme.md — confidence 5 |
+| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Frantz Fanon | Ontbreekt in vault — sleutelfiguur postkolonialisme + postkoloniale psychologie |
+| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Edward Said | Ontbreekt in vault — *Orientalism* (1978) is fundamenteel voor postkolonialisme |
+| ↓ | 2026-07-29T expansie | Agent 3 | Gap: Expected Shortfall / CVaR | Ontbreekt in vault — opvolger van VaR na Financiële Crisis 2008 |

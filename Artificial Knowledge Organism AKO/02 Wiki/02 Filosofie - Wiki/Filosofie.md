@@ -87,3 +87,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Determinisme]]
 - [[Compatibilisme]]
 - [[Logica]]
+- [[Postkolonialisme]]
