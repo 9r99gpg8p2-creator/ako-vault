@@ -50,6 +50,7 @@ Baddeley en Hitch introduceerden in 1974 het multicomponentenmodel als vervanger
 - [[Executieve Functies]] — onderdeel van: de centrale executieve IS de kern van executief functioneren; de twee constructen overlappen sterk
 - [[Neuropsychologische Rehabilitatie]] — doelgebied: werkgeheugen is primair revalidatiedoel bij TBI, beroerte en dementie
 - [[Anosognosie]] — gevolg: werkgeheugenstoornissen kunnen bijdragen aan verminderd zelfmonitoringsvermogen
+- [[Intelligentie]] ★9 — werkgeheugen is de sterkste enkelvoudige predictor van fluid intelligentie; beide overlappen neuraal in prefrontale en pariëtale gebieden
 
 **Cross-domein:**
 - [[Gedragseconomie]] — cognitieve belasting vergroot susceptibiliteit voor heuristieken en biases; beperkt werkgeheugen → meer systematische beslissingsfouten

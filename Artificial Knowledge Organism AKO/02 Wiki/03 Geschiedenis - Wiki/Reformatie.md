@@ -50,6 +50,7 @@ Historici beschouwen de Reformatie als een van de fundamentele breukmomenten in 
 - [[De Renaissance]] — de Reformatie voltrok zich in hetzelfde culturele klimaat als de Renaissance
 - [[Wetenschappelijke Revolutie]] — de Reformatie droeg bij aan een cultuur van kritisch onderzoek los van kerkelijk gezag
 - [[De Verlichting]] — de Reformatie legde ideologische grondslagen voor de Verlichting (individuele rede, religieuze pluraliteit)
+- [[De Inquisitie]] ★9 — de opkomst van het protestantisme intensiveerde inquisitoriale activiteiten als katholiek defensiemechanisme
 
 **Cross-domein:**
 - [[Epistemologie]] — de reformatorische nadruk op individuele bijbelinterpretatie raakte fundamentele epistemologische vragen over autoriteit en kennis

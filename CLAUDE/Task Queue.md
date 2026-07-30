@@ -391,3 +391,9 @@ type: operationeel
 | ✓ | 2026-07-30T expansie-2 | Agent 3 | Gap: John Dewey | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/John Dewey.md — confidence 5 |
 | ✓ | 2026-07-30T expansie-2 | Agent 3 | Gap: De Atlantische Slavenhandel | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Atlantische Slavenhandel.md — confidence 5 |
 | ✓ | 2026-07-30T expansie-2 | Agent 3 | Gap: Earnings per Share (EPS) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Earnings per Share.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-3 | Agent 3 | Expansie: Psychometrie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Psychometrie.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-3 | Agent 3 | Expansie: Intelligentie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Intelligentie.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-3 | Agent 3 | Expansie: Creditrating | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Creditrating.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-3 | Agent 3 | Expansie: De Inquisitie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Inquisitie.md — confidence 5 |
+| ↓ | 2026-07-30T expansie-3 | Agent 3 | Gap: Return on Equity | Gedetecteerd via financiële ratio's cluster — Beleggen |
+| ↓ | 2026-07-30T expansie-3 | Agent 3 | Gap: Winstmarge | Gedetecteerd via financiële ratio's cluster — Beleggen |

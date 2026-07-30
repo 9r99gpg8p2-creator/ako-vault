@@ -54,6 +54,7 @@ In de klinische neuropsychologie is cognitieve reserve een cruciaal concept bij 
 - [[Executieve Functies]] — hogere executieve capaciteit is een van de sterkste indicatoren van cognitieve reserve
 - [[Werkgeheugen]] — werkgeheugenefficiëntie is gecorreleerd met de veerkracht van neurale netwerken
 - [[Neuropsychologische Rehabilitatie]] — rehabilitatieprogramma's kunnen cognitieve reserve versterken via cognitieve training
+- [[Intelligentie]] ★8 — hogere premorbide intelligentie is een van de sterkste predictoren van cognitieve reserve; hogere g beschermt tegen klinische dementiesymptomen
 
 **Cross-domein:**
 - [[Sociale Ontologie]] — sociale activiteit en participatie zijn proxy-variabelen voor cognitieve reserve; collectief sociaal kapitaal beschermt neurocognitieve functies

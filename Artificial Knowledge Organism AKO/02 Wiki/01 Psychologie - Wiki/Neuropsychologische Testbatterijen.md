@@ -58,6 +58,7 @@ De neuropsychologische testbatterij als standaardpraktijk ontstond in de twintig
 - [[Werkgeheugen]] — meetobject: WAIS-IV werkgeheugenindex meet span en manipulatie van werkgeheugen
 - [[Neuropsychologische Diagnostiek ASS (ADOS-2)]] — aanvulling: gespecialiseerde diagnostiek naast brede batterijen
 - [[Cognitieve Reserve]] — aanvulling: testprestaties weerspiegelen de mate van cognitieve reserve bij ouderen
+- [[Psychometrie]] ★10 — fundament: psychometrische theorie onderbouwt de betrouwbaarheid, validiteit en normering van alle testbatterijen
 
 **Cross-domein:**
 - [[Neuroimaging]] — aanvulling: beeldvormend onderzoek en testprestaties worden gecombineerd voor neuropathologische lokalisatie

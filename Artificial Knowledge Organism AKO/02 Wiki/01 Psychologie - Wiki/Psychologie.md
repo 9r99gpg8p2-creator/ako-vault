@@ -154,3 +154,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Psychofarmacologie]]
 - [[Serotonine]]
 - [[Cognitieve Belastingstheorie]]
+- [[Psychometrie]]
+- [[Intelligentie]]

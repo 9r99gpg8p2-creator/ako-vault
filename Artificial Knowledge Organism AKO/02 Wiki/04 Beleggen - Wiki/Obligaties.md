@@ -55,6 +55,7 @@ De obligatiemarkt is met een wereldwijde omvang van circa 130 biljoen dollar (20
 - [[Marktcycli]] — rentecycli bepalen de aantrekkelijkheid van obligaties vs. aandelen op verschillende punten in de economische cyclus
 - [[Intrinsieke Waarde en DCF-modellen]] — obligatiewaardering is een toepassing van DCF: contante waarde van toekomstige kasstromen
 - [[Rentecurve]] ★9 — de rentecurve is het directe waarderingskader voor obligatieprijzen en durationstrategie
+- [[Creditrating]] ★10 — creditrating bepaalt de risicopremie (credit spread) op obligaties; kernvariabele voor obligatiebeleggers
 
 **Cross-domein:**
 - [[Verliesaversie]] — beleggers houden obligaties vast bij koersdaling (locking in losses vermijden); illustreert de psychologie van fixed income-beslissingen

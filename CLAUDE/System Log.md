@@ -2608,3 +2608,30 @@ type: operationeel
 | 2026-07-30T consolidatie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
 | 2026-07-30T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Cognitieve Belastingstheorie, John Dewey, De Atlantische Slavenhandel, Earnings per Share) · Queue leeg |
 | 2026-07-30T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 0 Inbox verwerkt · Health: 100% · 387 pag's |
+| 2026-07-30T expansie-3 | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-30T expansie-3 | | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden beginnen met _ — STAP 1.5 overgeslagen |
+| 2026-07-30T expansie-3 | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt. Confidence 5 voor alle onderwerpen. |
+| 2026-07-30T expansie-3 | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Psychometrie (Psych NIEUW), Intelligentie (Psych NIEUW), Creditrating (Beleg NIEUW), De Inquisitie (Gesch NIEUW) |
+| 2026-07-30T expansie-3 | | Agent 3 | Wiki aangemaakt | ✓ | Psychometrie.md — 01 Psychologie - Wiki — confidence 5 (Nunnally & Bernstein 1994, Cronbach 1951) |
+| 2026-07-30T expansie-3 | | Agent 3 | Wiki aangemaakt | ✓ | Intelligentie.md — 01 Psychologie - Wiki — confidence 5 (Spearman 1904, Gardner 1983, Carroll 1993) |
+| 2026-07-30T expansie-3 | | Agent 3 | Wiki aangemaakt | ✓ | Creditrating.md — 04 Beleggen - Wiki — confidence 5 (White 2010, Partnoy 1999) |
+| 2026-07-30T expansie-3 | | Agent 3 | Wiki aangemaakt | ✓ | De Inquisitie.md — 03 Geschiedenis - Wiki — confidence 5 (Kamen 1997, Peters 1988) |
+| 2026-07-30T expansie-3 | | Agent 3 | Gap Engine | ✓ | 2 nieuwe gaps → queue: Return on Equity, Winstmarge |
+| 2026-07-30T expansie-3 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Psychometrie — Neuropsychologische Testbatterijen.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-30T expansie-3 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Intelligentie — Werkgeheugen.md — sterkte ★9 — Psychologie (intra) |
+| 2026-07-30T expansie-3 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Creditrating — Obligaties.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-30T expansie-3 | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Inquisitie — Reformatie.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-30T expansie-3 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Intelligentie — Cognitieve Reserve.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-30T expansie-3 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Creditrating — Financiële Crisis 2008.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-30T expansie-3 | | Agent 4 | Reverse links toegevoegd | ✓ | 6 bestaande pagina's bijgewerkt met terugkoppelingen |
+| 2026-07-30T expansie-3 | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Meten van het Onmeetbare als Kern van Wetenschap.md — Psychologie × Beleggen — sterkte ★8 |
+| 2026-07-30T expansie-3 | | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Inquisitie als Proto-Experiment in Gehoorzaamheid.md — Geschiedenis × Psychologie — sterkte ★8 |
+| 2026-07-30T expansie-3 | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Intelligentie als Buffer tegen Onzekerheid.md — Psychologie × Beleggen — sterkte ★7 |
+| 2026-07-30T expansie-3 | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-30 Dagrapport.md — expansie-3 — 4 pagina's, 6 verbindingen, 3 inzichten, 2 gaps ↓ |
+| 2026-07-30T expansie-3 | | Agent 6 | Quiz aangevuld | ✓ | 2026-07-30 Quiz.md — 3 vragen toegevoegd (v15–v17: Psychometrie, Intelligentie, De Inquisitie × Creditrating) |
+| 2026-07-30T expansie-3 | | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 143 pag · Filos 85 pag · Gesch 82 pag · Beleg 81 pag · Totaal 391 pag |
+| 2026-07-30T expansie-3 | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 391 wiki-pagina's |
+| 2026-07-30T expansie-3 | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Psychometrie, +Intelligentie · Geschiedenis: +De Inquisitie · Beleggen: +Creditrating |
+| 2026-07-30T expansie-3 | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
+| 2026-07-30T expansie-3 | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 2 nieuwe gaps ↓ (Return on Equity, Winstmarge) |
+| 2026-07-30T expansie-3 | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 6 relatiepagina's · 3 inzichten · Health: 100% · 391 pag's totaal |
