@@ -395,5 +395,5 @@ type: operationeel
 | ✓ | 2026-07-30T expansie-3 | Agent 3 | Expansie: Intelligentie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Intelligentie.md — confidence 5 |
 | ✓ | 2026-07-30T expansie-3 | Agent 3 | Expansie: Creditrating | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Creditrating.md — confidence 5 |
 | ✓ | 2026-07-30T expansie-3 | Agent 3 | Expansie: De Inquisitie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Inquisitie.md — confidence 5 |
-| ↓ | 2026-07-30T expansie-3 | Agent 3 | Gap: Return on Equity | Gedetecteerd via financiële ratio's cluster — Beleggen |
-| ↓ | 2026-07-30T expansie-3 | Agent 3 | Gap: Winstmarge | Gedetecteerd via financiële ratio's cluster — Beleggen |
+| ✓ | 2026-07-30T consolidatie | Agent 3 | Gap: Return on Equity | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Return on Equity.md — confidence 5 |
+| ✓ | 2026-07-30T consolidatie | Agent 3 | Gap: Winstmarge | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Winstmarge.md — confidence 5 |

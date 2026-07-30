@@ -2635,3 +2635,16 @@ type: operationeel
 | 2026-07-30T expansie-3 | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
 | 2026-07-30T expansie-3 | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 2 nieuwe gaps ↓ (Return on Equity, Winstmarge) |
 | 2026-07-30T expansie-3 | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 6 relatiepagina's · 3 inzichten · Health: 100% · 391 pag's totaal |
+| 2026-07-30T consolidatie | | Orchestrator | Context laden | ✓ | AKO v1.6, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-30T consolidatie | | Agent 1 | Inbox gescand | ✓ | Geen verwerkte bestanden (alle starten met _) — STAP 1.5 overgeslagen |
+| 2026-07-30T consolidatie | | Agent 2 | Research CONSOLIDATIE | ✓ | Wikipedia API geblokkeerd — interne kennis gebruikt. 2 gaps geselecteerd: Return on Equity, Winstmarge |
+| 2026-07-30T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Return on Equity.md — 04 Beleggen - Wiki — confidence 5 (Damodaran 2012, Graham & Dodd 1934, CFA 2020) |
+| 2026-07-30T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Winstmarge.md — 04 Beleggen - Wiki — confidence 5 (Damodaran 2012, CFA 2020, Penman 2013) |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Return on Equity — Winstmarge.md — sterkte ★9 — Beleggen (DuPont-component) |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Return on Equity — Waardebeleggen.md — sterkte ★8 — Beleggen (intra) |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Winstmarge — Fundamentele Analyse.md — sterkte ★8 — Beleggen (intra) |
+| 2026-07-30T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Rendement als Spiegel van Cognitieve Kwaliteit.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-07-30T consolidatie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-30 Dagrapport.md — consolidatiemodus — 2 nieuwe pagina's, 3 verbindingen, 1 inzicht, 0 gaps resterend |
+| 2026-07-30T consolidatie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-30 Quiz.md — 3 nieuwe vragen toegevoegd (ROE begrip, Winstmarge vergelijking, ROE toepassing) |
+| 2026-07-30T consolidatie | | Agent 7 | Knowledge Health berekend | ✓ | Psych 143 · Fil 85 · Gesch 82 · Beleg 83 — Connectivity 100%, Orphan 0% — Health: 100% |
+| 2026-07-30T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 3 relatiepagina's · 1 inzicht · Health: 100% · 393 pag's totaal |

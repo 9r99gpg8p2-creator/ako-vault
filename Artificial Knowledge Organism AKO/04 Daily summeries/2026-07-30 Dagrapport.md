@@ -2,23 +2,22 @@
 type: dagrapport
 date: 2026-07-30
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
 Goedemorgen.
 
-Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 6 · Inzichten: 3 · Gaps: 2 → queue · Leestijd: ~8 min
+Nieuwe kennis: 6 concepten toegevoegd (run 1: 4 · run 2: 2) · Inbox verwerkt: 0 · Verbindingen: 9 · Inzichten: 4 · Gaps gedicht: 2 · Queue resterend: 0
 
 ---
 
 ## Research Agenda
 
-1. **Psychometrie** — fundament van klinische neuropsychologie; betrouwbaarheid, validiteit en IRT zijn essentieel voor MSc Klinische Neuropsychologie
-2. **Intelligentie** — g-factor, CHC-model en klinische intelligentietesting zijn kernkennis voor neuropsychologisch assessment
-3. **Creditrating** — Beleggen (minst gevulde discipline); kredietwaardigheid is centrale variabele in obligatiemarkt en risicobeheer
-4. **De Inquisitie** — Geschiedenis (tweede minst gevulde discipline); historische casestudy voor institutionele macht en sociale controle
+1. **Return on Equity** — kernconcept voor MSc Klinische Neuropsychologie-context: als wetenschapper en klinicus moet je kunnen evalueren of onderzoeksinvesteringen maatschappelijk rendabel zijn
+2. **Winstmarge** — financiële geletterdheid: prijszettingskracht en operationele efficiëntie zijn overdraagbare analytische concepten
+3. **Psychometrie + Intelligentie** — gisteren aangemaakt; verdiepen door te koppelen aan klinische casussen (WAIS-IV, NEO-PI-R)
 
 ---
 
@@ -30,16 +29,32 @@ Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 6 ·
 
 — "Fluid intelligentie beschermt beleggers tegen cognitieve biases: hogere fluid intelligentie correleert met minder susceptibiliteit voor ankereffecten en beschikbaarheidsheuristieken bij financiële beslissingen." [Psychologie → Beleggen · ★7]
 
+— "De mate waarin een onderneming consistent hoge Return on Equity en winstmarges behoudt over economische cycli weerspiegelt niet alleen structurele marktvoordelen, maar ook de kwaliteit van executieve besluitvorming — dezelfde cognitieve capaciteiten die in de neuropsychologie worden bestudeerd als executieve functies." [Psychologie → Beleggen · ★8]
+
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+*(geen Inbox-bestanden beschikbaar deze run)*
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Winstmarge]] ↔ [[Return on Equity]] · ★9 (DuPont-component)
+2. [[Return on Equity]] → [[Waardebeleggen]] · ★8
+3. [[Winstmarge]] → [[Fundamentele Analyse]] · ★8
+
 ---
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 100% (143p) | ↑ |
+| Psychologie | 100% (143p) | → |
 | Filosofie | 100% (85p) | → |
-| Geschiedenis | 100% (82p) | ↑ |
-| Beleggen | 100% (81p) | ↑ |
+| Geschiedenis | 100% (82p) | → |
+| Beleggen | 100% (83p) | ↑ |
 
 ---
 
@@ -48,15 +63,16 @@ Nieuwe kennis: 4 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 6 ·
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 6 |
-| Nieuwe verbindingen | 6 |
-| Nieuwe inzichten | 3 |
-| Gaps gedicht | 0 |
-| Gaps nieuw → queue | 2 |
+| Gaps gedicht (deze run) | 2 |
+| Nieuwe Wiki-pagina's | 2 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe verbindingen | 3 |
+| Nieuwe inzichten | 1 |
+| Queue resterend | 0 |
 
 ---
 
 ## Aandacht vereist
 
 - [ ] Wikipedia + arXiv API's onbereikbaar (E-003) — confidence voor nieuwe pagina's max 5; verifieer bij volgende sessie met internettoegang
+- [ ] Inbox is leeg — volgende content-input via gebruikersnotities verwacht
