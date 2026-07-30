@@ -379,7 +379,7 @@ type: operationeel
 | ✓ | 2026-07-30T expansie | Agent 3 | Expansie: Edmund Husserl | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Edmund Husserl.md — confidence 5 |
 | ✓ | 2026-07-30T expansie | Agent 3 | Expansie: Fama-French Drie-Factor Model | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Fama-French Drie-Factor Model.md — confidence 5 |
 | ✓ | 2026-07-30T expansie | Agent 3 | Expansie: De Spaanse Burgeroorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Spaanse Burgeroorlog.md — confidence 5 |
-| ↓ | 2026-07-30T expansie | Agent 3 | Gap: Psychofarmacologie | Nog aan te maken: Psychologie — farmacologische behandeling van stoornissen, neurotransmittersystemen |
-| ↓ | 2026-07-30T expansie | Agent 3 | Gap: Serotonine | Nog aan te maken: Psychologie — fundamentele neurotransmitter, vermeld maar geen eigen pagina |
-| ↓ | 2026-07-30T expansie | Agent 3 | Gap: Het Inca Rijk | Nog aan te maken: Geschiedenis — Pre-Columbiaans Rijk, ontbreekt naast Maya en Azteken |
-| ↓ | 2026-07-30T expansie | Agent 3 | Gap: Intertemporele Keuze | Nog aan te maken: Beleggen — hyperbolisch verdisconteren, gedragseconomisch keuzemodel |
+| ✓ | 2026-07-30T consolidatie | Agent 3 | Gap: Psychofarmacologie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Psychofarmacologie.md — confidence 5 |
+| ✓ | 2026-07-30T consolidatie | Agent 3 | Gap: Serotonine | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Serotonine.md — confidence 5 |
+| ✓ | 2026-07-30T consolidatie | Agent 3 | Gap: Het Inca Rijk | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Inca Rijk.md — confidence 5 |
+| ✓ | 2026-07-30T consolidatie | Agent 3 | Gap: Intertemporele Keuze | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Intertemporele Keuze.md — confidence 5 |

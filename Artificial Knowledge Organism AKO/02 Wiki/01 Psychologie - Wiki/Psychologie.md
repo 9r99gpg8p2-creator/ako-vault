@@ -150,3 +150,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Frontaalkwab]]
 - [[Wernicke's Afasie]]
 - [[Positieve Psychologie]]
+- [[Psychofarmacologie]]
+- [[Serotonine]]

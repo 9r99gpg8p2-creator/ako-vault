@@ -91,3 +91,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Expected Shortfall]]
 - [[Momentum Strategie]]
 - [[Sharpe Ratio]]
+- [[Intertemporele Keuze]]

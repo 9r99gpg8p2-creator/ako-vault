@@ -2540,3 +2540,22 @@ type: operationeel
 | 2026-07-30 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: >1:5 ✓ |
 | 2026-07-30 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe gaps ↓ (Psychofarmacologie, Serotonine, Het Inca Rijk, Intertemporele Keuze) |
 | 2026-07-30 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 5 relatiepagina's · 3 inzichten · Health: 100% |
+| 2026-07-30 | consolidatie | Orchestrator | Consolidatie-run gestart | ✓ | STAP 0–9 gestart; 4 queue-items ↓ geselecteerd |
+| 2026-07-30 | consolidatie | Agent 1 | Inbox gescand | ✓ | 4 bestanden gevonden, alle beginnen met _ → geen verwerking |
+| 2026-07-30 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Psychofarmacologie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-30 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Serotonine.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-30 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Het Inca Rijk.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-30 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Intertemporele Keuze.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-30 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Psychofarmacologie — Serotonine.md · ★9 |
+| 2026-07-30 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Psychofarmacologie — Neuropsychologie.md · ★8 |
+| 2026-07-30 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Intertemporele Keuze — Prospect Theory.md · ★9 |
+| 2026-07-30 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Intertemporele Keuze — Verslaving.md · ★8 |
+| 2026-07-30 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Het Inca Rijk — Tijdperk van Ontdekkingen.md · ★9 |
+| 2026-07-30 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Ongeduld als Drempel voor Welvaart.md · ★9 · Beleggen × Psychologie |
+| 2026-07-30 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Neurotransmitters als Brug tussen Farmacologie en Gedrag.md · ★8 · Psychologie |
+| 2026-07-30 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-30 Dagrapport.md — consolidatiemodus — 4 gaps gedicht, 5 verbindingen |
+| 2026-07-30 | consolidatie | Agent 6 | Quiz aangevuld | ✓ | 2026-07-30 Quiz.md — 3 vragen toegevoegd (v6–v8) |
+| 2026-07-30 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100% (139p), Fil 100% (83p), Gesch 100% (79p), Beleg 100% (78p) — 379 pag's |
+| 2026-07-30 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Psychofarmacologie, +Serotonine · Geschiedenis: +Het Inca Rijk · Beleggen: +Intertemporele Keuze |
+| 2026-07-30 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 items ↓ → ✓ (Psychofarmacologie, Serotonine, Het Inca Rijk, Intertemporele Keuze) · Queue leeg |
+| 2026-07-30 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps · Health: 100%

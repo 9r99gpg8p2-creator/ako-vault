@@ -91,3 +91,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Chinese Culturele Revolutie]]
 - [[Maoïsme]]
 - [[Mao Zedong]]
+- [[Het Inca Rijk]]

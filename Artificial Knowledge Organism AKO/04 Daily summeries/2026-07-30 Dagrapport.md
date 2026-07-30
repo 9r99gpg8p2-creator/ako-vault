@@ -2,35 +2,43 @@
 type: dagrapport
 date: 2026-07-30
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Goedemorgen.
+Inbox verwerkt: 0 · Gaps gedicht: 4 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 5 · Queue resterend: 0
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 5 · Inzichten: 3 · Gaps: 4 · Leestijd: 8 min
+## Pagina's Bijgewerkt via Inbox
 
-## Research Agenda
+*Geen Inbox-bestanden verwerkt deze run (alle bestanden beginnen met `_`).*
 
-1. **Psychofarmacologie** — klinisch essentieel voor MSc KNP; geen pagina aanwezig; overlap met neurobiologie van stoornissen (Depressie, Schizofrenie, Bipolaire Stoornis)
-2. **Serotonine** — fundamentele neurotransmitter, vermeld in meerdere pagina's maar nog geen eigen pagina; basis voor farmacologisch begrip
-3. **Het Inca Rijk** — Pre-Columbiaans triumviraat compleet maken (Maya + Azteken aanwezig); Geschiedenis heeft minste pagina's
-4. **Intertemporele Keuze** — gedragseconomisch concept (hyperbolisch verdisconteren) dat Prospect Theory en Behavioral Finance aanvult; ontbreekt in Beleggen
+## Nieuwe Wiki-Pagina's
+
+1. [[Psychofarmacologie]] — wetenschappelijke discipline over psychoactieve stoffen en neurotransmittersystemen (confidence 5)
+2. [[Serotonine]] — monoamine neurotransmitter; primair doelwit van SSRI's; rol in stemming, slaap, cognitie (confidence 5)
+3. [[Het Inca Rijk]] — pre-Columbiaans imperium Tawantinsuyu; mita-systeem, quipu, verovering 1532 (confidence 5)
+4. [[Intertemporele Keuze]] — hyperbolisch verdisconteren, present bias, beta-delta model (confidence 5)
+
+## Verbindingen Toegevoegd
+
+1. [[Psychofarmacologie]] ↔ [[Serotonine]] · ★9
+2. [[Psychofarmacologie]] ↔ [[Neuropsychologie]] · ★8
+3. [[Intertemporele Keuze]] ↔ [[Prospect Theory]] · ★9
+4. [[Intertemporele Keuze]] → [[Verslaving]] · ★8
+5. [[Tijdperk van Ontdekkingen]] → [[Het Inca Rijk]] · ★9
 
 ## Insight Feed
 
-— "De fenomenologische epoché van Husserl beschrijft precies wat een klinisch neuropsycholoog doet wanneer hij de subjectieve ziektebeleving van een MCI-patiënt serieus neemt vóór testscores de diagnose vastleggen." [Filosofie → Psychologie · ★8]
+— "Present bias — het onvermogen om toekomstige beloningen gelijk te waarderen aan directe — ondermijnt precies het geduld dat samengestelde interest vereist. Automatisering van sparen omzeilt de biologie." [Intertemporele Keuze → Samengestelde Interest · ★9]
 
-— "De waardepremie in het Fama-French model is het financieel-economische equivalent van Kahneman's verliesaversie op marktschaal: beleggers vermijden massaal aandelen met slechte reputatiegeschiedenissen, waardoor deze chronisch ondergewaardeerd blijven." [Beleggen → Psychologie · ★9]
-
-— "De NKVD-zuiveringen van anti-stalinistische bondgenoten tijdens de Spaanse Burgeroorlog illustreren dat dreigend groepslidmaatschapsverlies extremer gedrag uitlokt dan externe dreiging — precies zoals sociale-identiteitstheorie voorspelt." [Geschiedenis → Psychologie · ★8]
+— "De klinische neuropsycholoog die psychofarmacologie begrijpt, herkent wanneer een slechte testprestatie medicatie-gerelateerd is in plaats van diagnostisch informatief. Serotonine en dopamine zijn de taal waarmee farmacologie ingrijpt op meetbare cognitie." [Serotonine → Psychofarmacologie → Neuropsychologie · ★8]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 100% | → |
+| Psychologie | 100% | ↑ |
 | Filosofie | 100% | → |
 | Geschiedenis | 100% | ↑ |
 | Beleggen | 100% | ↑ |
@@ -41,6 +49,8 @@ Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 5 · Inzichten: 3 · Gaps
 |---|---|
 | Inbox verwerkt | 0 |
 | Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
+| Updates bestaande pagina's | 0 |
 | Nieuwe verbindingen | 5 |
-| Gaps gedicht | 0 |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 4 |
+| Queue resterend | 0 |
