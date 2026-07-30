@@ -387,7 +387,7 @@ type: operationeel
 | ✓ | 2026-07-30T expansie-2 | Agent 3 | Expansie: William James | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/William James.md — confidence 5 |
 | ✓ | 2026-07-30T expansie-2 | Agent 3 | Expansie: De Honderdjarige Oorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Honderdjarige Oorlog.md — confidence 5 |
 | ✓ | 2026-07-30T expansie-2 | Agent 3 | Expansie: Koers-Winstverhouding | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Koers-Winstverhouding.md — confidence 5 |
-| ↓ | 2026-07-30T expansie-2 | Agent 3 | Gap: Cognitieve Belastingstheorie | Geciteerd in Werkgeheugen & Scaffolding, geen eigen pagina |
-| ↓ | 2026-07-30T expansie-2 | Agent 3 | Gap: John Dewey | Complement bij William James in pragmatisme-cluster |
-| ↓ | 2026-07-30T expansie-2 | Agent 3 | Gap: De Atlantische Slavenhandel | Slavernij.md dekt transatlantische slavenhandel niet specifiek |
-| ↓ | 2026-07-30T expansie-2 | Agent 3 | Gap: Earnings per Share (EPS) | Verbonden aan Koers-Winstverhouding, ontbreekt als zelfstandig concept |
+| ✓ | 2026-07-30T expansie-2 | Agent 3 | Gap: Cognitieve Belastingstheorie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Belastingstheorie.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-2 | Agent 3 | Gap: John Dewey | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/John Dewey.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-2 | Agent 3 | Gap: De Atlantische Slavenhandel | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Atlantische Slavenhandel.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-2 | Agent 3 | Gap: Earnings per Share (EPS) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Earnings per Share.md — confidence 5 |

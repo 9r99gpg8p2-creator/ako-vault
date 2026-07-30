@@ -2583,3 +2583,28 @@ type: operationeel
 | 2026-07-30T expansie-2 | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-30T expansie-2 | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 4 nieuwe gaps ↓ |
 | 2026-07-30T expansie-2 | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 2 inzichten · Health: 100% |
+| 2026-07-30T consolidatie | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-30T consolidatie | | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met _ — STAP 1.5 overgeslagen |
+| 2026-07-30T consolidatie | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt. Confidence max 5. 4 gaps geselecteerd: Cognitieve Belastingstheorie, John Dewey, De Atlantische Slavenhandel, Earnings per Share |
+| 2026-07-30T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Cognitieve Belastingstheorie.md — 01 Psychologie - Wiki — confidence 5 (Sweller 1988, 1998; Paas 2003) |
+| 2026-07-30T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | John Dewey.md — 02 Filosofie - Wiki — confidence 5 (Dewey 1910, 1916, 1938; Westbrook 1991) |
+| 2026-07-30T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | De Atlantische Slavenhandel.md — 03 Geschiedenis - Wiki — confidence 5 (Eltis 2010, Thomas 1997, Williams 1944) |
+| 2026-07-30T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Earnings per Share.md — 04 Beleggen - Wiki — confidence 5 (Graham 1934, Damodaran 2012) |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Cognitieve Belastingstheorie — Werkgeheugen.md — sterkte ★10 — Psychologie (intra) |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Cognitieve Belastingstheorie — Scaffolding.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Cognitieve Belastingstheorie — Klinische Neuropsychologie.md — sterkte ★8 — Psychologie (intra) |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | John Dewey — William James.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | John Dewey — Situated Learning.md — sterkte ★8 — Filosofie × Psychologie |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Atlantische Slavenhandel — Kapitalisme.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Atlantische Slavenhandel — Postkoloniale Psychologie.md — sterkte ★9 — Geschiedenis × Psychologie |
+| 2026-07-30T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Earnings per Share — Koers-Winstverhouding.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-30T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Hoge Cognitieve Belasting als Verklaring voor Irrationeel Beleggersgedrag.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-07-30T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Slavenhandel als Structurele Oorsprong van Moderne Vermogensongelijkheid.md — Geschiedenis → Beleggen — sterkte ★8 |
+| 2026-07-30T consolidatie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-30 Dagrapport.md — consolidatiemodus — 4 concepten, 7 verbindingen, 2 inzichten, 0 gaps resterend |
+| 2026-07-30T consolidatie | | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-30 Quiz.md — 3 vragen toegevoegd (vragen 12–14: Cognitieve Belastingstheorie, John Dewey, De Atlantische Slavenhandel) — totaal 14 vragen |
+| 2026-07-30T consolidatie | | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 141 pag · Filos 85 pag · Gesch 81 pag · Beleg 80 pag · Totaal 387 pag |
+| 2026-07-30T consolidatie | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 387 wiki-pagina's |
+| 2026-07-30T consolidatie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Cognitieve Belastingstheorie · Filosofie: +John Dewey · Geschiedenis: +De Atlantische Slavenhandel · Beleggen: +Earnings per Share |
+| 2026-07-30T consolidatie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
+| 2026-07-30T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (Cognitieve Belastingstheorie, John Dewey, De Atlantische Slavenhandel, Earnings per Share) · Queue leeg |
+| 2026-07-30T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps gedicht · 0 Inbox verwerkt · Health: 100% · 387 pag's |

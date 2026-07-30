@@ -45,6 +45,7 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Historisch Materialisme]]
 - [[Pragmatisme]]
 - [[William James]]
+- [[John Dewey]]
 - [[Adorno en de Autoritaire Persoonlijkheid]]
 - [[John Locke]]
 - [[David Hume]]

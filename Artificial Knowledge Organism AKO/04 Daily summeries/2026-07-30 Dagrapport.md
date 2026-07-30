@@ -2,24 +2,62 @@
 type: dagrapport
 date: 2026-07-30
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 2 · Gaps: 4 → ↓ queue · Leestijd: ~12 min
+
+Goedemorgen.
+
+Nieuwe kennis:          4 concepten toegevoegd
+Nieuwe artikelen:       0 (Wikipedia API geblokkeerd — intern kennismodel)
+Nieuwe verbindingen:    7 relaties + 2 inzichten
+Nieuwe inzichten:       2
+Kennishiaten:           0 resterend in queue
+Aanbevolen leestijd:    8 minuten
+
+---
 
 ## Research Agenda
-1. **Cognitieve Belastingstheorie** (Psychologie) — Sweller's theorie wordt vaak geciteerd in Werkgeheugen en Scaffolding, maar heeft nog geen eigen pagina; hoge relevantie voor klinisch onderwijs en revalidatie
-2. **John Dewey** (Filosofie) — grondlegger van het instrumentalisme en progressief onderwijs; logische aanvulling naast William James in het pragmatisme-cluster
-3. **De Atlantische Slavenhandel** (Geschiedenis) — Slavernij.md bestaat maar behandelt dit fenomeen niet specifiek; dedicated pagina vergroot historische dekking
-4. **Earnings per Share (EPS)** (Beleggen) — nauw verbonden met de Koers-Winstverhouding; ontbreekt als zelfstandig concept
+
+Prioriteit 1: **Cognitieve Belastingstheorie** — direct relevant voor MSc Klinische Neuropsychologie (revalidatie-instructie bij THL/CVA-patiënten)
+Prioriteit 2: **John Dewey** — verdiept het pragmatisme-cluster naast William James; relevant voor onderwijsfilosofie en therapiepedagogie
+Prioriteit 3: **De Atlantische Slavenhandel** — sluit gap die Slavernij.md niet volledig dekte; belangrijk voor postkoloniale kaders
+
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+*(Geen Inbox-bestanden verwerkt deze run — alle bestanden beginnen met `_`)*
+
+## Nieuwe Wiki-pagina's
+
+1. [[Cognitieve Belastingstheorie]] — 02 Wiki/01 Psychologie — confidence 5
+2. [[John Dewey]] — 02 Wiki/02 Filosofie — confidence 5
+3. [[De Atlantische Slavenhandel]] — 02 Wiki/03 Geschiedenis — confidence 5
+4. [[Earnings per Share]] — 02 Wiki/04 Beleggen — confidence 5
+
+## Verbindingen Toegevoegd
+
+1. [[Cognitieve Belastingstheorie]] ↔ [[Werkgeheugen]] · ★10
+2. [[Cognitieve Belastingstheorie]] → [[Scaffolding]] · ★8
+3. [[Cognitieve Belastingstheorie]] → [[Klinische Neuropsychologie]] · ★8
+4. [[John Dewey]] ↔ [[William James]] · ★9
+5. [[John Dewey]] → [[Situated Learning]] · ★8
+6. [[De Atlantische Slavenhandel]] → [[Kapitalisme]] · ★9
+7. [[De Atlantische Slavenhandel]] → [[Postkoloniale Psychologie]] · ★9
+8. [[Earnings per Share]] ↔ [[Koers-Winstverhouding]] · ★10
 
 ## Insight Feed
-— "Autonomie als Kern van Zowel Motivatie als Moraal: SDT en Kantiaanse deontologie beschrijven hetzelfde ideaal — echt autonoom handelen — met empirische en normatieve taal." [Psychologie → Filosofie · ★8]
 
-— "De KWV als Barometer van Collectieve Toekomstverwachting: een extreme Shiller CAPE maakt de cognitieve staat van marktdeelnemers zichtbaar — en signaleert wanneer System 2 denken het hardst nodig is." [Beleggen → Psychologie · ★8]
+— "Hoge cognitieve belasting overbelast het werkgeheugen en forceert System 1-denken, waardoor irrationeel beleggersgedrag — paniekverkopen, kuddegedrag — voorspelbaar toeneemt in turbulente markten." [Psychologie → Beleggen · ★9]
+
+— "De Atlantische slavenhandel financierde de vroegkapitalistische infrastructuur van Europa en creëerde structurele vermogensongelijkheid die via institutionele kanalen doorwerkt in hedendaagse kapitaalmarkten." [Geschiedenis → Beleggen · ★8]
+
+---
 
 ## Knowledge Health
+
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 100% | → |
@@ -27,13 +65,25 @@ Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 2 · Gaps
 | Geschiedenis | 100% | ↑ |
 | Beleggen | 100% | ↑ |
 
+*Score = Coverage×0.3 + Connectivity×0.3 + (1−Orphan%)×0.4 — alle disciplines: connectivity 100%, orphan 0%*
+*Totaal: 387 Wiki-pagina's (Psych 141 · Fil 85 · Gesch 81 · Beleg 80)*
+
+---
+
 ## Activiteit
+
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
 | Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen | 4 |
-| Nieuwe inzichten | 2 |
-| Gaps gedicht | 0 |
-| Gaps nieuw gedetecteerd | 4 |
+| Gaps gedicht | 4 |
+| Relatiepagina's aangemaakt | 7 |
+| Inzichten gegenereerd | 2 |
+| Queue resterend | 0 |
+
+---
+
+## Aandacht vereist
+
+- [ ] Wikipedia API blijft geblokkeerd — confidence nieuwe pagina's beperkt tot max 5 (intern kennismodel)
+- [ ] Queue volledig leeg — volgende run start met expansie van nieuwe conceptclusters
