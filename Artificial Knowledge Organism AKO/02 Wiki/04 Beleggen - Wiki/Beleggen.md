@@ -44,6 +44,7 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Kapitaalmarkten]]
 - [[Financiële Crisis 2008]]
 - [[Factor Investing]]
+- [[Fama-French Drie-Factor Model]]
 - [[Private Equity]]
 - [[Index Fondsen]]
 - [[Monetarisme]]

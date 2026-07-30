@@ -19,6 +19,7 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Vrije Wil]]
 - [[Morele Verantwoordelijkheid]]
 - [[Fenomenologie]]
+- [[Edmund Husserl]]
 - [[Psychoanalyse]]
 - [[Epistemologie]]
 - [[Ethiek]]

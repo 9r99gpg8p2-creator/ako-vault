@@ -2515,3 +2515,28 @@ type: operationeel
 | 2026-07-29 | consolidatie | Agent 8 | Hub-validatie | ✓ | Alle 4 hubs volledig up-to-date — geen ontbrekende conceptlinks |
 | 2026-07-29 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | Tweede Wereldoorlog ↓ → ✓ · Waardebeleggen merge → ✓ · Queue volledig leeg |
 | 2026-07-29 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 0 nieuwe pag's · 1 merge · 8 relatiepagina's · 3 inzichten · Health: 100% |
+| 2026-07-30 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-30 | expansie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _-prefix) — STAP 1.5 overgeslagen |
+| 2026-07-30 | expansie | Agent 2 | Externe bronnen | ✗ | FOUT E-003: Wikipedia + arXiv APIs onbereikbaar — fallback: intern kennismodel. Confidence max 5. |
+| 2026-07-30 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Mild Cognitive Impairment (Psych), Edmund Husserl (Fil), Fama-French Drie-Factor Model (Beleg), De Spaanse Burgeroorlog (Gesch) |
+| 2026-07-30 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Mild Cognitive Impairment.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-30 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Edmund Husserl.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-30 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Fama-French Drie-Factor Model.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-30 | expansie | Agent 3 | Wiki aangemaakt | ✓ | De Spaanse Burgeroorlog.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-30 | expansie | Agent 3 | Gap Engine | ✓ | 4 nieuwe gaps gesignaleerd: Psychofarmacologie, Serotonine, Het Inca Rijk, Intertemporele Keuze → queue ↓ |
+| 2026-07-30 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Mild Cognitive Impairment — Alzheimer en Dementie.md — sterkte ★10 — Psychologie × Psychologie |
+| 2026-07-30 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Edmund Husserl — Fenomenologie.md — sterkte ★10 — Filosofie × Filosofie |
+| 2026-07-30 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Fama-French Drie-Factor Model — Capital Asset Pricing Model.md — sterkte ★9 — Beleggen × Beleggen |
+| 2026-07-30 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Spaanse Burgeroorlog — Tweede Wereldoorlog.md — sterkte ★9 — Geschiedenis × Geschiedenis |
+| 2026-07-30 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Fama-French Drie-Factor Model — Prospect Theory.md — sterkte ★8 — Beleggen × Psychologie (cross-domein) |
+| 2026-07-30 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Epoché als Klinische Methodologie.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-30 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Waardepremie als Collectieve Verliesaversie.md — Beleggen → Psychologie — sterkte ★9 |
+| 2026-07-30 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Ideologische Polarisatie als In-Group Dynamiek.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-30 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-30 Dagrapport.md — expansiemodus — 4 pagina's, 5 verbindingen, 3 inzichten, 4 gaps gedicht |
+| 2026-07-30 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-30 Quiz.md — 5 vragen (MCI, Husserl, FF3, Spaanse Burgeroorlog) |
+| 2026-07-30 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100% (137p), Fil 100% (83p), Gesch 100% (78p), Beleg 100% (77p) — 375 pag's |
+| 2026-07-30 | expansie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md — 375 pagina's, 781 graafpagina's, 4 gaps ↓, Health 100% |
+| 2026-07-30 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Mild Cognitive Impairment) · Filosofie: +1 (Edmund Husserl) · Geschiedenis: +1 (De Spaanse Burgeroorlog) · Beleggen: +1 (Fama-French Drie-Factor Model) |
+| 2026-07-30 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: >1:5 ✓ |
+| 2026-07-30 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe gaps ↓ (Psychofarmacologie, Serotonine, Het Inca Rijk, Intertemporele Keuze) |
+| 2026-07-30 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 5 relatiepagina's · 3 inzichten · Health: 100% |

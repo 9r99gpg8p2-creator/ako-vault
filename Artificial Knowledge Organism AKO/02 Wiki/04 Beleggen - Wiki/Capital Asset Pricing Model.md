@@ -61,6 +61,7 @@ Empirisch bleek het CAPM echter tekort te schieten: Fama en French (1992, 1993) 
 - [[Efficiënte Markthypothese]] — CAPM veronderstelt efficiënte markten; informatievoorsprong kan de SML niet duurzaam verslaan
 - [[Risicobeheer]] — bèta is een kernmaatstaf in portefeuillerisicobeheer
 - [[Factor Investing]] — factormodellen (Fama-French) zijn reacties op de tekortkomingen van het eenfactor-CAPM
+- [[Fama-French Drie-Factor Model]] ★9 — breidt CAPM uit met SMB en HML en is de standaard academische benchmarkvervanging
 - [[Gedragseconomie]] — gedragseconomen betwisten de rationele agenten-aanname waarop het CAPM berust
 - [[Beta en Volatiliteit]] ★9 — beta is de kernvariabele van het CAPM; beide concepten zijn definitorieel verweven
 

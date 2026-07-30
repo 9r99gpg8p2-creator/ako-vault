@@ -63,6 +63,7 @@ In Europa eindigde de oorlog met de onvoorwaardelijke overgave van Duitsland op 
 - [[Totalitarisme]] — oorzaak/gevolg: nazi-regime en Stalinisme zijn de paradigmatische totalitaire systemen van de twintigste eeuw
 - [[PTSD]] — oorzaak/gevolg: oorlogservaringen genereerden de eerste grootschalige klinische PTSD-beschrijvingen
 - [[De Europese Integratie]] ★10 — de oorlog was de directe katalysator voor het Europese integratieproject (EGKS, 1951)
+- [[De Spaanse Burgeroorlog]] ★9 — generale repetitie: Nazi-Duitsland testte Blitzkrieg-tactiek via het Legioen Condor; diplomatieke mislukking van niet-inmenging kondigde appeasement-politiek aan
 
 **Cross-domein:**
 - [[Morele Verantwoordelijkheid]] — de Holocaust stelde de filosofische vraag of gewone mensen verantwoordelijk zijn voor genocide (Hannah Arendt: "banaliteit van het kwaad")

@@ -106,6 +106,7 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[NEO-PI-R]]
 - [[Bipolaire Stoornis]]
 - [[Alzheimer en Dementie]]
+- [[Mild Cognitive Impairment]]
 - [[Afasie]]
 - [[Dysartrie]]
 - [[Epilepsie]]

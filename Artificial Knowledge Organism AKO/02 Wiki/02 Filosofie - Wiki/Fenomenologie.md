@@ -48,6 +48,7 @@ Fenomenologie ontstond aan het begin van de twintigste eeuw als reactie op het p
 **Hub:** [[Filosofie]]
 
 **Gerelateerd:**
+- [[Edmund Husserl]] ★10 — grondlegger van de fenomenologie als systematische filosofische methode
 - [[Bewustzijn]] — fundament: fenomenologie onderzoekt de structuur van het bewuste bewustzijn
 - [[Vrije Wil]] — verbinding: Sartre's existentialisme verbindt fenomenologie met de vraag naar radicale vrijheid en verantwoordelijkheid
 - [[Morele Verantwoordelijkheid]] — toepassing: een fenomenologische ethiek gaat uit van de belevingswereld als morele bron
