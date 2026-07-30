@@ -54,6 +54,7 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Het Mongoolse Rijk]]
 - [[Keizerlijk China]]
 - [[De Kruistochten]]
+- [[De Honderdjarige Oorlog]]
 - [[Feodalisme]]
 - [[De Reconquista]]
 - [[Tijdperk van Ontdekkingen]]

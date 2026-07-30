@@ -5,67 +5,49 @@ updated: 2026-07-30
 sessie: expansie
 ---
 
-# Algemeen Dashboard — AKO
+# AKO — Algemeen Dashboard
 
-**Systeemkoppelingen:** [[AKO]]
+**Laatste update:** 2026-07-30 | Modus: Expansie
 
----
+## Knowledge Health — Totaaloverzicht
 
-## Knowledge Health — 2026-07-30 (expansie-run)
-
-| Discipline | Pagina's | Coverage | Connectivity | Score | Trend |
+| Discipline | Pagina's | Coverage | Connectivity | Orphan% | Score |
 |---|---|---|---|---|---|
-| Psychologie | 137 | 100% | 100% | 100% | ↑ |
-| Filosofie | 83 | 100% | 100% | 100% | ↑ |
-| Geschiedenis | 78 | 100% | 100% | 100% | ↑ |
-| Beleggen | 77 | 100% | 100% | 100% | ↑ |
-| **Totaal** | **375** | — | — | **100%** | ↑ |
+| Psychologie | 139 | 100% | 100% | 0% | 100% |
+| Filosofie | 83 | 100% | 100% | 0% | 100% |
+| Geschiedenis | 79 | 100% | 100% | 0% | 100% |
+| Beleggen | 78 | 100% | 100% | 0% | 100% |
+| **Totaal** | **379** | **100%** | **100%** | **0%** | **100%** |
 
----
-
-## Vault Statistieken
+## Graph Statistieken
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 375 |
-| Relatiepagina's + Inzichtpagina's (03 graph) | 781 |
-| Dagrapporten aangemaakt | 31+ |
-| Quizzen aangemaakt | 31+ |
-| Wekelijkse reflecties | 4 |
-| Orphan nodes | 0 |
-| Kapotte links | 0 |
-| Duplicaten samengevoegd (totaal) | 3 (Wet 14) |
+| Totale wiki-pagina's | 379 |
+| Relatiepagina's (03 graph) | 794 |
+| Dagrapport huidige datum | 2026-07-30 |
+| Wikipedia API status | GEBLOKKEERD — interne kennis |
+| Inbox bestanden verwerkt (heden) | 0 |
+| Nieuwe pagina's (heden) | 4 |
+| Nieuwe verbindingen (heden) | 4 |
+| Nieuwe inzichten (heden) | 2 |
 
----
+## Disciplines — Trendanalyse
 
-## Domein Coverage
+| Discipline | Vorige run | Huidige run | Delta |
+|---|---|---|---|
+| Psychologie | 138 | 139 | +1 |
+| Filosofie | 82 | 83 | +1 |
+| Geschiedenis | 78 | 79 | +1 |
+| Beleggen | 77 | 78 | +1 |
 
-| Domein | Pagina's | Geselecteerde concepten |
-|---|---|---|
-| Psychologie | 137 | Werkgeheugen, Executieve Functies, PTSD, Neuroplasticiteit, Amygdala, Prefrontale Cortex, Depressie, ADHD, Autismespectrumstoornis, Alzheimer en Dementie, Mild Cognitive Impairment, Frontaalkwab, Temporaalkwab, Cerebellum, Positieve Psychologie … |
-| Filosofie | 83 | Epistemologie, Ethiek, Vrije Wil, Determinisme, Compatibilisme, Bewustzijn, Utilitarisme, Deontologie, Existentialisme, Postkolonialisme, Edmund Husserl, Fenomenologie, Subaltern Studies, Gramsci en Hegemonie … |
-| Geschiedenis | 78 | Tweede Wereldoorlog, De Spaanse Burgeroorlog, Koude Oorlog, De Franse Revolutie, De Arabische Lente, De Chinese Culturele Revolutie, Maoïsme, Mao Zedong, Industrialisatie, Globalisering, Neoliberalisme, De Europese Integratie … |
-| Beleggen | 77 | Prospect Theory, Gedragseconomie, Fama-French Drie-Factor Model, Waarde Investeren, Value at Risk, Expected Shortfall, Efficiënte Markthypothese, Moderne Portefeuille Theorie, CAPM, Behavioral Finance, Momentum Strategie, Sharpe Ratio … |
+## Aanbevolen Gaps (Queue)
 
----
+| Prioriteit | Concept | Discipline | Reden |
+|---|---|---|---|
+| 1 | Cognitieve Belastingstheorie | Psychologie | Geciteerd in Werkgeheugen & Scaffolding, geen eigen pagina |
+| 2 | John Dewey | Filosofie | Complement bij William James in pragmatisme-cluster |
+| 3 | De Atlantische Slavenhandel | Geschiedenis | Slavernij.md dekt dit niet specifiek |
+| 4 | Earnings per Share (EPS) | Beleggen | Verbonden aan KWV, ontbreekt als zelfstandig concept |
 
-## Graph Health
-
-| Metric | Status |
-|---|---|
-| Isolated nodes | 0 ✓ |
-| Hub connectivity | ≥ 95% ✓ |
-| Cross-domain ratio | ≥ 1:5 ✓ |
-| Hub pagina's up-to-date | Ja ✓ |
-| Duplicaten | 0 ✓ |
-
----
-
-## Huidige Gaps (Task Queue ↓)
-
-| Gap | Discipline | Prioriteit |
-|---|---|---|
-| Psychofarmacologie | Psychologie | Hoog |
-| Serotonine | Psychologie | Hoog |
-| Het Inca Rijk | Geschiedenis | Middel |
-| Intertemporele Keuze | Beleggen | Middel |
+**Systeemkoppelingen:** [[AKO]]

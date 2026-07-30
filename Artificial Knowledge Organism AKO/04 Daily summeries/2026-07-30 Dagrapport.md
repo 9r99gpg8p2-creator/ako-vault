@@ -2,55 +2,38 @@
 type: dagrapport
 date: 2026-07-30
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
+Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 2 · Gaps: 4 → ↓ queue · Leestijd: ~12 min
 
-Inbox verwerkt: 0 · Gaps gedicht: 4 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 5 · Queue resterend: 0
-
-## Pagina's Bijgewerkt via Inbox
-
-*Geen Inbox-bestanden verwerkt deze run (alle bestanden beginnen met `_`).*
-
-## Nieuwe Wiki-Pagina's
-
-1. [[Psychofarmacologie]] — wetenschappelijke discipline over psychoactieve stoffen en neurotransmittersystemen (confidence 5)
-2. [[Serotonine]] — monoamine neurotransmitter; primair doelwit van SSRI's; rol in stemming, slaap, cognitie (confidence 5)
-3. [[Het Inca Rijk]] — pre-Columbiaans imperium Tawantinsuyu; mita-systeem, quipu, verovering 1532 (confidence 5)
-4. [[Intertemporele Keuze]] — hyperbolisch verdisconteren, present bias, beta-delta model (confidence 5)
-
-## Verbindingen Toegevoegd
-
-1. [[Psychofarmacologie]] ↔ [[Serotonine]] · ★9
-2. [[Psychofarmacologie]] ↔ [[Neuropsychologie]] · ★8
-3. [[Intertemporele Keuze]] ↔ [[Prospect Theory]] · ★9
-4. [[Intertemporele Keuze]] → [[Verslaving]] · ★8
-5. [[Tijdperk van Ontdekkingen]] → [[Het Inca Rijk]] · ★9
+## Research Agenda
+1. **Cognitieve Belastingstheorie** (Psychologie) — Sweller's theorie wordt vaak geciteerd in Werkgeheugen en Scaffolding, maar heeft nog geen eigen pagina; hoge relevantie voor klinisch onderwijs en revalidatie
+2. **John Dewey** (Filosofie) — grondlegger van het instrumentalisme en progressief onderwijs; logische aanvulling naast William James in het pragmatisme-cluster
+3. **De Atlantische Slavenhandel** (Geschiedenis) — Slavernij.md bestaat maar behandelt dit fenomeen niet specifiek; dedicated pagina vergroot historische dekking
+4. **Earnings per Share (EPS)** (Beleggen) — nauw verbonden met de Koers-Winstverhouding; ontbreekt als zelfstandig concept
 
 ## Insight Feed
+— "Autonomie als Kern van Zowel Motivatie als Moraal: SDT en Kantiaanse deontologie beschrijven hetzelfde ideaal — echt autonoom handelen — met empirische en normatieve taal." [Psychologie → Filosofie · ★8]
 
-— "Present bias — het onvermogen om toekomstige beloningen gelijk te waarderen aan directe — ondermijnt precies het geduld dat samengestelde interest vereist. Automatisering van sparen omzeilt de biologie." [Intertemporele Keuze → Samengestelde Interest · ★9]
-
-— "De klinische neuropsycholoog die psychofarmacologie begrijpt, herkent wanneer een slechte testprestatie medicatie-gerelateerd is in plaats van diagnostisch informatief. Serotonine en dopamine zijn de taal waarmee farmacologie ingrijpt op meetbare cognitie." [Serotonine → Psychofarmacologie → Neuropsychologie · ★8]
+— "De KWV als Barometer van Collectieve Toekomstverwachting: een extreme Shiller CAPE maakt de cognitieve staat van marktdeelnemers zichtbaar — en signaleert wanneer System 2 denken het hardst nodig is." [Beleggen → Psychologie · ★8]
 
 ## Knowledge Health
-
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 100% | ↑ |
-| Filosofie | 100% | → |
+| Psychologie | 100% | → |
+| Filosofie | 100% | ↑ |
 | Geschiedenis | 100% | ↑ |
 | Beleggen | 100% | ↑ |
 
 ## Activiteit
-
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
 | Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 5 |
+| Updates bestaande pagina's | 4 |
+| Nieuwe verbindingen | 4 |
 | Nieuwe inzichten | 2 |
-| Gaps gedicht | 4 |
-| Queue resterend | 0 |
+| Gaps gedicht | 0 |
+| Gaps nieuw gedetecteerd | 4 |

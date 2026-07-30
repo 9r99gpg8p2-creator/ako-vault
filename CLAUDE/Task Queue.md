@@ -383,3 +383,11 @@ type: operationeel
 | ✓ | 2026-07-30T consolidatie | Agent 3 | Gap: Serotonine | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Serotonine.md — confidence 5 |
 | ✓ | 2026-07-30T consolidatie | Agent 3 | Gap: Het Inca Rijk | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Inca Rijk.md — confidence 5 |
 | ✓ | 2026-07-30T consolidatie | Agent 3 | Gap: Intertemporele Keuze | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Intertemporele Keuze.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-2 | Agent 3 | Expansie: Zelf-Determinatietheorie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Zelf-Determinatietheorie.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-2 | Agent 3 | Expansie: William James | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/William James.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-2 | Agent 3 | Expansie: De Honderdjarige Oorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Honderdjarige Oorlog.md — confidence 5 |
+| ✓ | 2026-07-30T expansie-2 | Agent 3 | Expansie: Koers-Winstverhouding | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Koers-Winstverhouding.md — confidence 5 |
+| ↓ | 2026-07-30T expansie-2 | Agent 3 | Gap: Cognitieve Belastingstheorie | Geciteerd in Werkgeheugen & Scaffolding, geen eigen pagina |
+| ↓ | 2026-07-30T expansie-2 | Agent 3 | Gap: John Dewey | Complement bij William James in pragmatisme-cluster |
+| ↓ | 2026-07-30T expansie-2 | Agent 3 | Gap: De Atlantische Slavenhandel | Slavernij.md dekt transatlantische slavenhandel niet specifiek |
+| ↓ | 2026-07-30T expansie-2 | Agent 3 | Gap: Earnings per Share (EPS) | Verbonden aan Koers-Winstverhouding, ontbreekt als zelfstandig concept |

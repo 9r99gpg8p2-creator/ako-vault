@@ -63,6 +63,7 @@ Het feodalisme eindigde niet plotseling: de Zwarte Dood (1347–1353) doodde cir
 - [[Historisch Materialisme]] — feodalisme als centraal stadium in Marx' historische dialectiek
 - [[Mercantilisme]] — opkomend na verval van feodalisme; markten vervangen loyaliteitsrelaties
 - [[De Zwarte Dood]] ★9 — oorzaak: de pestkatalyse versnelde het verval van het feodale systeem via arbeidstekort
+- [[De Honderdjarige Oorlog]] ★9 — de decennialange oorlog ondermijnde de militaire rol van de adel en dwong tot gecentraliseerde belastingheffing, wat de feodale lokale machtsstructuren eroseerde
 
 **Cross-domein:**
 - [[Marxisme]] — feodalisme als paradigmatisch voorbeeld van klassenstrijd

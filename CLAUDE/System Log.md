@@ -2559,3 +2559,27 @@ type: operationeel
 | 2026-07-30 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Psychofarmacologie, +Serotonine · Geschiedenis: +Het Inca Rijk · Beleggen: +Intertemporele Keuze |
 | 2026-07-30 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 items ↓ → ✓ (Psychofarmacologie, Serotonine, Het Inca Rijk, Intertemporele Keuze) · Queue leeg |
 | 2026-07-30 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 gaps · Health: 100%
+| 2026-07-30T expansie-2 | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-30T expansie-2 | | Agent 1 | Inbox scan | ✓ | Alle Inbox-bestanden beginnen met _ (sjabloonbestanden) — geen te verwerken content — STAP 1.5 overgeslagen |
+| 2026-07-30T expansie-2 | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt. Confidence 5 voor alle onderwerpen. |
+| 2026-07-30T expansie-2 | | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Zelf-Determinatietheorie (Psych NIEUW), William James (Filos NIEUW), De Honderdjarige Oorlog (Gesch NIEUW), Koers-Winstverhouding (Beleg NIEUW) |
+| 2026-07-30T expansie-2 | | Agent 3 | Wiki aangemaakt | ✓ | Zelf-Determinatietheorie.md — 01 Psychologie - Wiki — confidence 5 (Deci & Ryan 1985, 2000, 2008) |
+| 2026-07-30T expansie-2 | | Agent 3 | Wiki aangemaakt | ✓ | William James.md — 02 Filosofie - Wiki — confidence 5 (James 1890, 1907, 1902) |
+| 2026-07-30T expansie-2 | | Agent 3 | Wiki aangemaakt | ✓ | De Honderdjarige Oorlog.md — 03 Geschiedenis - Wiki — confidence 5 (Allmand 1988, Curry 2002, Sumption 1990) |
+| 2026-07-30T expansie-2 | | Agent 3 | Wiki aangemaakt | ✓ | Koers-Winstverhouding.md — 04 Beleggen - Wiki — confidence 5 (Graham & Dodd 1934, Shiller 2000, Damodaran 2012) |
+| 2026-07-30T expansie-2 | | Agent 3 | Gap Engine | ✓ | 4 nieuwe gaps → queue: Cognitieve Belastingstheorie, John Dewey, De Atlantische Slavenhandel, Earnings per Share (EPS) |
+| 2026-07-30T expansie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Zelf-Determinatietheorie — Positieve Psychologie.md ★9 — Psychologie (intra) |
+| 2026-07-30T expansie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | William James — Pragmatisme.md ★10 — Filosofie (intra) |
+| 2026-07-30T expansie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Honderdjarige Oorlog — Feodalisme.md ★9 — Geschiedenis (intra) |
+| 2026-07-30T expansie-2 | | Agent 4 | Relatiepagina aangemaakt | ✓ | Koers-Winstverhouding — Prospect Theory.md ★8 — cross-domein Beleggen × Psychologie |
+| 2026-07-30T expansie-2 | | Agent 4 | Reverse links toegevoegd | ✓ | Positieve Psychologie ← ZDT ★9 · Pragmatisme ← William James ★10 · Feodalisme ← Honderdjarige Oorlog ★9 · Prospect Theory ← KWV ★8 |
+| 2026-07-30T expansie-2 | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Autonomie als Kern van Zowel Motivatie als Moraal.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-07-30T expansie-2 | | Agent 5 | Inzichtpagina aangemaakt | ✓ | De KWV als Barometer van Collectieve Toekomstverwachting.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-30T expansie-2 | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-30 Dagrapport.md — modus: expansie-2 — 4 concepten, 4 verbindingen, 2 inzichten |
+| 2026-07-30T expansie-2 | | Agent 6 | Quiz uitgebreid | ✓ | 2026-07-30 Quiz.md — 3 vragen toegevoegd (ZDT begrip, William James toepassing, KWV vergelijking) — totaal 11 vragen |
+| 2026-07-30T expansie-2 | | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 139 pag · Filos 83 pag · Gesch 79 pag · Beleg 78 pag · Totaal 379 pag |
+| 2026-07-30T expansie-2 | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 379 wiki-pagina's |
+| 2026-07-30T expansie-2 | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Zelf-Determinatietheorie · Filosofie: +William James · Geschiedenis: +De Honderdjarige Oorlog · Beleggen: +Koers-Winstverhouding |
+| 2026-07-30T expansie-2 | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-30T expansie-2 | | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe pagina's ✓ · 4 nieuwe gaps ↓ |
+| 2026-07-30T expansie-2 | | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 2 inzichten · Health: 100% |

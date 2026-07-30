@@ -62,6 +62,7 @@ Kritiek betreft onder meer: selectiebias in geluksstudies, culturele specificite
 - [[Acceptatie en Commitment Therapie]] — ACT deelt kernwaarden (psychologische flexibiliteit, waarden-gestuurd leven) met positieve psychologie
 - [[Neuroplasticiteit]] — hersenveranderingen door positieve interventies tonen de biologische basis van welzijn
 - [[Motivatie]] — flow en intrinsieke motivatie zijn centrale thema's in positieve psychologie
+- [[Zelf-Determinatietheorie]] ★9 — SDT's drie basisbehoeften (autonomie, competentie, verbondenheid) zijn de motivationele motor achter duurzaam welzijn in positieve psychologie
 
 **Cross-domein:**
 - [[Deugdethiek]] — Aristoteles' eudaimonia als filosofische voorloper van Seligman's flourishing-model

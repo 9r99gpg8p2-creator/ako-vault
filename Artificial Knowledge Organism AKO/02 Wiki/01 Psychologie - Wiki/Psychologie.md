@@ -15,6 +15,7 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 ## Concepten
 
 - [[Neuropsychologische Rehabilitatie]]
+- [[Zelf-Determinatietheorie]]
 - [[Werkgeheugen]]
 - [[Executieve Functies]]
 - [[Anosognosie]]

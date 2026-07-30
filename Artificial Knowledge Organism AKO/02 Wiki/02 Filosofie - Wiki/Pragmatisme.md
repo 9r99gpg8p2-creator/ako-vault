@@ -52,6 +52,7 @@ Pragmatisme ontstond in de tweede helft van de negentiende eeuw in de Verenigde 
 - [[Empirisme]] — pragmatisme deelt de nadruk op ervaring, maar richt zich op gevolgen van handelen in plaats van zuivere sensorische data
 - [[Epistemologie]] — pragmatisme herformuleert de kernvragen van kennistheorie in termen van bruikbaarheid
 - [[Logisch Positivisme]] — beide stromingen benadrukken ervaring en verifiëerbaarheid, maar het logisch positivisme is strikter en formeler
+- [[William James]] ★10 — James populariseerde het pragmatisme en gaf het zijn herkenbare nadruk op waarheid als werkend instrument voor handelen
 
 **Cross-domein:**
 - [[Behaviorisme]] — pragmatisme biedt de filosofische grondslag voor de nadruk op observeerbaar gedrag als maatstaf voor psychologische kennis
