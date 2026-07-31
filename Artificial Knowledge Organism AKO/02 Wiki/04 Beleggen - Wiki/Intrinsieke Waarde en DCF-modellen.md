@@ -58,6 +58,7 @@ Warren Buffett populariseert de aanpak van value investing — waarbij DCF-analy
 - [[Fundamentele Analyse]] — onderdeel van: DCF is een kernmethode binnen fundamentele analyse
 - [[Waarde Investeren]] — aanvulling: Value investing is gebaseerd op het identificeren van onderwaardering via intrinsieke waarde
 - [[Efficiënte Markthypothese]] — tegenstelling: EMH stelt dat alle informatie al is ingeprijsd; DCF impliceert dat miswaarderingen mogelijk zijn
+- [[Vrije Kasstroom]] ★9 — FCF is de primaire input voor DCF-berekeningen; zonder betrouwbare FCF is DCF-waardering onbetrouwbaar
 - [[Prospect Theory]] — aanvulling: Cognitieve biases beïnvloeden hoe beleggers DCF-aannames inschatten
 - [[Gedragseconomie]] — aanvulling: Gedragseconomen wijzen op systematische fouten in DCF-aannames (overoptimisme, recency bias)
 

@@ -99,3 +99,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Algeriaanse Oorlog]]
 - [[De Cubacrisis]]
 - [[De Zijderoute]]
+- [[Magna Carta]]

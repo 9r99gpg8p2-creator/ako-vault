@@ -55,6 +55,7 @@ In de klinische neuropsychologie is cognitieve reserve een cruciaal concept bij 
 - [[Werkgeheugen]] — werkgeheugenefficiëntie is gecorreleerd met de veerkracht van neurale netwerken
 - [[Neuropsychologische Rehabilitatie]] — rehabilitatieprogramma's kunnen cognitieve reserve versterken via cognitieve training
 - [[Intelligentie]] ★8 — hogere premorbide intelligentie is een van de sterkste predictoren van cognitieve reserve; hogere g beschermt tegen klinische dementiesymptomen
+- [[Neuropsychologische Screening]] ★8 — hoge cognitieve reserve kan leiden tot onderschatting van neuropathologie bij screeningsresultaten
 
 **Cross-domein:**
 - [[Sociale Ontologie]] — sociale activiteit en participatie zijn proxy-variabelen voor cognitieve reserve; collectief sociaal kapitaal beschermt neurocognitieve functies

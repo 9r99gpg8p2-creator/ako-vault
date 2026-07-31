@@ -2,49 +2,46 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-07-31
-sessie: consolidatie
+sessie: expansie
 ---
 
-# AKO — Algemeen Dashboard
+# Knowledge Health Dashboard — AKO
 
-**Laatste update:** 2026-07-31 | Modus: Consolidatie
+> Gegenereerd: 2026-07-31 | Modus: Expansie
 
-## Knowledge Health — Totaaloverzicht
+## Overzicht
 
-| Discipline | Pagina's | Coverage | Connectivity | Orphan% | Score |
-|---|---|---|---|---|---|
-| Psychologie | 144 | 100% | 100% | 0% | 100% |
-| Filosofie | 89 | 100% | 100% | 0% | 100% |
-| Geschiedenis | 86 | 100% | 100% | 0% | 100% |
-| Beleggen | 87 | 100% | 100% | 0% | 100% |
-| **Totaal** | **406** | **100%** | **100%** | **0%** | **100%** |
+| Discipline | Pagina's | Coverage | Connectivity | Score |
+|---|---|---|---|---|
+| Psychologie | 145 | 100%+ | 100% | ★★★★★ |
+| Filosofie | 90 | 100%+ | 100% | ★★★★★ |
+| Geschiedenis | 87 | 100%+ | 100% | ★★★★★ |
+| Beleggen | 88 | 100%+ | 100% | ★★★★★ |
 
-## Graph Statistieken
+**Totaal Wiki-pagina's:** 410
+**Totaal relatiepagina's (conceptual graph):** zie 03 conceptual graph/
+**Connectivity:** 100% — alle pagina's bevatten wiki-links
 
-| Metric | Waarde |
+## Activiteit deze run
+
+| Metric | Aantal |
 |---|---|
-| Totale wiki-pagina's | 406 |
-| Relatiepagina's + inzichten (03 graph) | 851 |
-| Dagrapport huidige datum | 2026-07-31 |
-| Wikipedia API status | GEBLOKKEERD — interne kennis |
-| Inbox bestanden verwerkt (heden) | 0 |
-| Nieuwe pagina's (heden) | 3 |
-| Nieuwe verbindingen (heden) | 4 |
-| Nieuwe inzichten (heden) | 2 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 3 |
+| Nieuwe relatiepagina's | 3 |
+| Nieuwe inzichtpagina's | 2 |
+| Inbox verwerkt | 0 |
 
-## Disciplines — Trendanalyse
+## Nieuwe pagina's
 
-| Discipline | Vorige run | Huidige run | Delta |
-|---|---|---|---|
-| Psychologie | 143 | 144 | +1 |
-| Filosofie | 88 | 89 | +1 |
-| Geschiedenis | 86 | 86 | +0 |
-| Beleggen | 86 | 87 | +1 |
+- [[Neuropsychologische Screening]] (Psychologie)
+- [[Vrije Kasstroom]] (Beleggen)
+- [[Magna Carta]] (Geschiedenis)
+- [[Neoplatonisme]] (Filosofie)
 
-## Queue Status
+## Knowledge Gaps (→ queue)
 
-**Queue: 0 gaps ↓ — volledig geleegd**
-
-Nieuwe pagina's aangemaakt in consolidatie-modus: [[Sectorrotatie]], [[Friedrich Schelling]], [[Bounded Rationality]]
-
-**Systeemkoppelingen:** [[AKO]]
+- Neuropsychologische Screening: uitbreiding met specifieke instrumenten (RBANS, FAB, CANTAB)
+- Vrije Kasstroom: verdieping owner earnings vs. FCFF/FCFE
+- Magna Carta: verbinding met Habeas Corpus Act (1679) en Bill of Rights (1689)
+- Neoplatonisme: uitbreiding Iamblichus, Proclus, invloed op islamitische filosofie

@@ -410,3 +410,11 @@ type: operationeel
 | ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Sectorrotatie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Sectorrotatie.md — confidence 5 |
 | ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Friedrich Schelling | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Friedrich Schelling.md — confidence 5 |
 | ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Bounded Rationality | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Bounded Rationality.md — confidence 5 |
+| ✓ | 2026-07-31T expansie | Agent 3 | Expansie: Neuropsychologische Screening | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Neuropsychologische Screening.md — confidence 5 |
+| ✓ | 2026-07-31T expansie | Agent 3 | Expansie: Vrije Kasstroom | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Vrije Kasstroom.md — confidence 5 |
+| ✓ | 2026-07-31T expansie | Agent 3 | Expansie: Magna Carta | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Magna Carta.md — confidence 5 |
+| ✓ | 2026-07-31T expansie | Agent 3 | Expansie: Neoplatonisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Neoplatonisme.md — confidence 5 |
+| ↓ | 2026-07-31T | Agent 3 | Gap: Neuropsychologische Screening uitbreiden | RBANS, FAB, CANTAB als specifieke instrumenten |
+| ↓ | 2026-07-31T | Agent 3 | Gap: Vrije Kasstroom verdiepen | Owner earnings vs. FCFF/FCFE; Buffett-methode |
+| ↓ | 2026-07-31T | Agent 3 | Gap: Habeas Corpus Act (1679) | Verbinding met Magna Carta en Bill of Rights |
+| ↓ | 2026-07-31T | Agent 3 | Gap: Neoplatonisme uitbreiden | Iamblichus, Proclus; invloed op islamitische filosofie |

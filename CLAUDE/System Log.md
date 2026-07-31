@@ -2732,3 +2732,25 @@ type: operationeel
 | 2026-07-31T consolidatie | Agent 8 | Hub bijgewerkt | Filosofie.md | +[[Friedrich Schelling]] |
 | 2026-07-31T consolidatie | Agent 8 | Hub bijgewerkt | Beleggen.md | +[[Sectorrotatie]] |
 | 2026-07-31T consolidatie | Orchestrator | Consolidatie-run voltooid | 3 gaps · Health: 100% · Queue leeg |
+| 2026-07-31T expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-31T expansie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alle bestanden beginnen met _) — STAP 1.5 overgeslagen |
+| 2026-07-31T expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt. Confidence max 5. |
+| 2026-07-31T expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Neuropsychologische Screening (Psych), Vrije Kasstroom (Beleg), Magna Carta (Gesch), Neoplatonisme (Fil) |
+| 2026-07-31T expansie | Agent 3 | Wiki aangemaakt | ✓ | Neuropsychologische Screening.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-07-31T expansie | Agent 3 | Wiki aangemaakt | ✓ | Vrije Kasstroom.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-31T expansie | Agent 3 | Wiki aangemaakt | ✓ | Magna Carta.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-31T expansie | Agent 3 | Wiki aangemaakt | ✓ | Neoplatonisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-31T expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Neuropsychologische Screening — Cognitieve Reserve.md — sterkte ★8 |
+| 2026-07-31T expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Magna Carta — Maatschappelijk Contract.md — sterkte ★8 — Geschiedenis × Filosofie |
+| 2026-07-31T expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Vrije Kasstroom — Intrinsieke Waarde en DCF-modellen.md — sterkte ★9 |
+| 2026-07-31T expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Constitutionele Grenzen als Cognitief Correctiemechanisme.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-31T expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Neoplatonisme en Bewustzijnstheorieën.md — Filosofie → Psychologie — sterkte ★7 |
+| 2026-07-31T expansie | Agent 6 | Dagrapport bijgewerkt | ✓ | 2026-07-31 Dagrapport.md — modus: expansie |
+| 2026-07-31T expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-31 Quiz.md — 3 nieuwe vragen toegevoegd (15, 16, 17) |
+| 2026-07-31T expansie | Agent 7 | Audit | ✓ | Psych 145 · Fil 90 · Gesch 87 · Beleg 88 pag's · Connectivity 100% alle disciplines |
+| 2026-07-31T expansie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven |
+| 2026-07-31T expansie | Agent 8 | Hub bijgewerkt | ✓ | Psychologie.md | +[[Neuropsychologische Screening]] |
+| 2026-07-31T expansie | Agent 8 | Hub bijgewerkt | ✓ | Filosofie.md | +[[Neoplatonisme]] |
+| 2026-07-31T expansie | Agent 8 | Hub bijgewerkt | ✓ | Geschiedenis.md | +[[Magna Carta]] |
+| 2026-07-31T expansie | Agent 8 | Hub bijgewerkt | ✓ | Beleggen.md | +[[Vrije Kasstroom]] |
+| 2026-07-31T expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 3 relaties · 2 inzichten · 4 gaps → queue · Health: 100% |
