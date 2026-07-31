@@ -57,6 +57,8 @@ De formele grondslag werd gelegd door John von Neumann en Oskar Morgenstern in h
 - [[Prospect Theory]] — Kahneman en Tversky's theorie biedt een psychologische basis voor niet-rationeel spelgedrag.
 - [[Heuristieken]] — Spelers gebruiken heuristieken in plaats van volledige berekening; Bounded Rationality.
 
+- [[De Cubacrisis]] ★7 — de confrontatie tussen VS en USSR als leerboekgeval van het "Chicken"-spel: escalatie tot catastrofe vermeden via backchannel-samenwerking
+
 **Cross-domein:**
 - [[Maatschappelijk Contract]] — Sociale contracttheorie (Hobbes, Rousseau) kan geformaliseerd worden als een coöperatief spel over de verdeling van macht en rechten.
 - [[Deontologie]] — Ethische spanning: moeten we altijd kiezen voor de dominante strategie (rationeel eigenbelang) of zijn er deontologische plichten die dat overstijgen?

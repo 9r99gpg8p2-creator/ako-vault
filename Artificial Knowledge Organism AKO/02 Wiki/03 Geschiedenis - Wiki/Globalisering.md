@@ -58,6 +58,7 @@ Historici onderscheiden meerdere globaliseringsgolven:
 **Hub:** [[Geschiedenis]]
 
 **Gerelateerd:**
+- [[De Zijderoute]] ★7 — de Zijderoute als proto-globaliseringsnetwerk dat de structurele logica van moderne globalisering prefigureerde
 - [[Neoliberalisme]] — het dominante ideologische kader van de huidige globaliseringsgolf
 - [[Imperialisme]] — de proto-globaliseringsperiode (kolonialisme) als historische voorloper
 - [[Kapitalisme]] — globalisering als de mondiale uitbreiding van het kapitalistische systeem

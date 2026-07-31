@@ -2696,3 +2696,22 @@ type: operationeel
 | 2026-07-31T consolidatie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-31T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Hedonisme, EBITDA, De Algeriaanse Oorlog) · Queue leeg |
 | 2026-07-31T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox · 3 nieuwe pag's · 5 relaties · 2 inzichten · Health: 100% · 399 pag's |
+| 2026-07-31T10:30Z | Agent 1 | Inbox scan | Geen verwerkbare bestanden — alle bestanden beginnen met `_` | 0 kandidaten |
+| 2026-07-31T10:31Z | Agent 2 | Research | 4 expansie-onderwerpen gekozen: De Cubacrisis, De Zijderoute, Conjunctuurcycli, Duits Idealisme | Wikipedia geblokkeerd — interne kennis gebruikt |
+| 2026-07-31T10:32Z | Agent 3 | Wiki aangemaakt | De Cubacrisis | Geschiedenis · confidence 5 |
+| 2026-07-31T10:32Z | Agent 3 | Wiki aangemaakt | De Zijderoute | Geschiedenis · confidence 5 |
+| 2026-07-31T10:32Z | Agent 3 | Wiki aangemaakt | Conjunctuurcycli | Beleggen · confidence 5 |
+| 2026-07-31T10:32Z | Agent 3 | Wiki aangemaakt | Duits Idealisme | Filosofie · confidence 5 |
+| 2026-07-31T10:33Z | Agent 4 | Relatie aangemaakt | Conjunctuurcycli — Prospect Theory | sterkte ★8 · cross-domein Beleggen×Psychologie |
+| 2026-07-31T10:33Z | Agent 4 | Relatie aangemaakt | De Cubacrisis — Speltheorie | sterkte ★7 · cross-domein Geschiedenis×Beleggen |
+| 2026-07-31T10:33Z | Agent 4 | Relatie aangemaakt | Duits Idealisme — Bewustzijn | sterkte ★9 · cross-domein Filosofie×Psychologie |
+| 2026-07-31T10:33Z | Agent 4 | Relatie aangemaakt | De Zijderoute — Globalisering | sterkte ★7 · intra-Geschiedenis |
+| 2026-07-31T10:34Z | Agent 5 | Inzicht aangemaakt | Verliesaversie als Versterker van Economische Cycli | ★8 · Psychologie→Beleggen |
+| 2026-07-31T10:34Z | Agent 5 | Inzicht aangemaakt | Het Bewustzijn als Constituerend Principe | ★9 · Filosofie→Psychologie |
+| 2026-07-31T10:35Z | Agent 6 | Dagrapport overschreven | 2026-07-31 Dagrapport.md | modus: expansie · 4 nieuwe pagina's |
+| 2026-07-31T10:35Z | Agent 6 | Quiz bijgewerkt | 2026-07-31 Quiz.md | 3 vragen toegevoegd (vragen 9–11) |
+| 2026-07-31T10:36Z | Agent 7 | Audit | Score 100% alle disciplines | Coverage 100% · Connectivity 100% · Orphan% 0% |
+| 2026-07-31T10:37Z | Agent 8 | Hub bijgewerkt | Geschiedenis.md | +[[De Cubacrisis]], +[[De Zijderoute]] |
+| 2026-07-31T10:37Z | Agent 8 | Hub bijgewerkt | Beleggen.md | +[[Conjunctuurcycli]] |
+| 2026-07-31T10:37Z | Agent 8 | Hub bijgewerkt | Filosofie.md | +[[Duits Idealisme]] |
+| 2026-07-31T10:38Z | Orchestrator | Expansie-run voltooid | 4 pag's · Health: 100% · 3 nieuwe gaps → queue |

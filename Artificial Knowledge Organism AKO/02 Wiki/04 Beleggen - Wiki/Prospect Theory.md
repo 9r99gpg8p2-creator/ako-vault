@@ -60,6 +60,8 @@ De wetenschappelijke impact weerspiegelt een bredere Wetenschappelijke Revolutie
 - [[Neuropsychologische Rehabilitatie]] ★6 — klinische casus: verhoogde verliesaversie na frontaal hersenletsel beïnvloedt therapietrouw en revalidatiemotivatie
 - [[Wetenschappelijke Revolutie]] ★5 — historische parallel: net als de Copernicaanse revolutie de geocentrische wereldvisie ondersteboven keerde, keerde Prospect Theory de rationele actor ondersteboven
 
+- [[Conjunctuurcycli]] ★8 — verliesaversie versterkt conjuncturele schommelingen: beleggers overeageren naar pessimisme in recessies en optimisme op pieken
+
 **Cross-domein:**
 - [[Neuropsychologische Rehabilitatie]] — psychologisch mechanisme: verliesaversie als neuropsychologisch mechanisme dat behandeluitkomsten beïnvloedt
 - [[Dopamine]] ★9 — neurobiologisch equivalent: de beloningspredictie-fout van dopamineneuronen is het cellulaire mechanisme achter de referentiepunt-gevoeligheid in Prospect Theory

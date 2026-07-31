@@ -403,3 +403,10 @@ type: operationeel
 | ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Hedonisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Hedonisme.md — confidence 5 |
 | ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: EBITDA | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/EBITDA.md — confidence 5 |
 | ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: De Algeriaanse Oorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Algeriaanse Oorlog.md — confidence 5 |
+| ✓ | 2026-07-31T expansie-2 | Agent 3 | Expansie: De Cubacrisis | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Cubacrisis.md — confidence 5 |
+| ✓ | 2026-07-31T expansie-2 | Agent 3 | Expansie: De Zijderoute | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Zijderoute.md — confidence 5 |
+| ✓ | 2026-07-31T expansie-2 | Agent 3 | Expansie: Conjunctuurcycli | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Conjunctuurcycli.md — confidence 5 |
+| ✓ | 2026-07-31T expansie-2 | Agent 3 | Expansie: Duits Idealisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Duits Idealisme.md — confidence 5 |
+| ↓ | 2026-07-31T expansie-2 | Agent 3 | Gap: Sectorrotatie | Beleggen — conjunctuurcyclus-afhankelijke portefeuillerotatiestrategie; nog geen pagina |
+| ↓ | 2026-07-31T expansie-2 | Agent 3 | Gap: Friedrich Schelling | Filosofie — ontbrekende schakel Kant→Schelling→Hegel in Duits Idealisme-cluster |
+| ↓ | 2026-07-31T expansie-2 | Agent 3 | Gap: Bounded Rationality | Psychologie/Beleggen — beslissingstheorie; link naar Speltheorie, Cubacrisis, Dual Process Theorie |

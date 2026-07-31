@@ -2,66 +2,61 @@
 type: dagrapport
 date: 2026-07-31
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 5 · Queue resterend: 0
+Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 2 · Gaps: 4 · Leestijd: 4 min
 
-## Pagina's Bijgewerkt via Inbox
+## Nieuwe Wiki-pagina's (expansie-run)
 
-*Geen Inbox-bestanden aanwezig deze run.*
-
-## Nieuwe Wiki-pagina's (gaps gedicht)
-
-1. [[Hedonisme]] — Filosofie · confidence 5 · zusterfilosofie van Epicurisme
-2. [[EBITDA]] — Beleggen · confidence 5 · kernbegrip bedrijfswaardering
-3. [[De Algeriaanse Oorlog]] — Geschiedenis · confidence 5 · Fanon-context & dekolonisatiecasus
+1. [[De Cubacrisis]] — Geschiedenis · confidence 5 · nucleaire confrontatie 1962, speltheorie, crisisbeheersing
+2. [[De Zijderoute]] — Geschiedenis · confidence 5 · handelnetwerk, cultuuroverdracht, proto-globalisering
+3. [[Conjunctuurcycli]] — Beleggen · confidence 5 · expansie-recessie-cycli, sectorrotatie, monetair beleid
+4. [[Duits Idealisme]] — Filosofie · confidence 5 · Kant, Hegel, bewustzijnsconstitutie, dialectiek
 
 ## Verbindingen Toegevoegd
 
-1. [[Hedonisme]] ↔ [[Epicurisme]] · ★9
-2. [[Hedonisme]] → [[Utilitarisme]] · ★9
-3. [[Frantz Fanon]] ↔ [[De Algeriaanse Oorlog]] · ★10
-4. [[De Algeriaanse Oorlog]] → [[Dekolonisatie]] · ★9
-5. [[EBITDA]] ↔ [[Winstmarge]] · ★8
+1. [[Conjunctuurcycli]] → [[Prospect Theory]] · ★8
+2. [[De Cubacrisis]] → [[Speltheorie]] · ★7
+3. [[Duits Idealisme]] → [[Bewustzijn]] · ★9
+4. [[De Zijderoute]] → [[Globalisering]] · ★7
 
 ## Insight Feed
 
-— "Het brein wil genot maar houdt er niet van — het dopaminerge wanting-systeem en het opiaterge liking-systeem zijn neurobiologisch gescheiden, wat de hedonistische filosofie fundamenteel compliceert." [Filosofie → Psychologie · ★9]
+— "De psychologische asymmetrie tussen verlies en winst amplificieert conjuncturele schommelingen: recessies worden dieper dan fundamentele schokken vereisen doordat verliesaversie massaal uitstelgedrag triggert." [Psychologie → Beleggen · ★8]
 
-— "Koloniaal geweld laat littekens in de geest — Fanon documenteerde tijdens de Algerijnse Oorlog wat de moderne traumapsychologie later als Complexe PTSD formaliseerde." [Geschiedenis → Psychologie · ★8]
+— "Kants these dat de geest de structuur van ervaring constitueert vindt empirische echo in moderne predictive coding-theorieën: het brein genereert actief voorspellingen in plaats van passief de werkelijkheid te registreren." [Filosofie → Psychologie · ★9]
 
 ## Knowledge Health
 
 | Discipline | Pagina's | Score | Trend |
 |---|---|---|---|
 | Psychologie | 143 | ~95% | → |
-| Filosofie | 87 | ~88% | ↑ |
-| Geschiedenis | 84 | ~87% | ↑ |
-| Beleggen | 85 | ~86% | ↑ |
-| **Totaal** | **399** | **~89%** | **→** |
+| Filosofie | 88 | ~89% | ↑ |
+| Geschiedenis | 86 | ~88% | ↑ |
+| Beleggen | 86 | ~87% | ↑ |
+| **Totaal** | **403** | **~90%** | **↑** |
 
 ## Research Agenda
 
-Prioriteit 1: **Verdieping Hedonisme-cluster** — Cyreneïsche school (Aristippus) en modern welzijnsonderzoek (Diener)
-Prioriteit 2: **EBITDA in context** — Free Cash Flow en EV/EBITDA-sectorgemiddelden als vervolgpagina
-Prioriteit 3: **Algerijnse nawerking** — De Algerijnse Burgeroorlog (1991–2002) als historisch vervolgstuk
+1. **Sectorrotatie** — praktische beleggingsstrategie direct gerelateerd aan nieuw Conjunctuurcycli-concept; nog geen pagina
+2. **Friedrich Schelling** — ontbrekende schakel in Duits Idealisme-cluster (Kant → Schelling → Hegel); nog geen pagina
+3. **Cubacrisis en Besluitvorming** — verdieping via Bounded Rationality en ExComm-beslissingsdynamiek; koppeling aan Dual Process Theorie
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 3 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 5 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 4 |
+| Nieuwe verbindingen | 4 |
 | Nieuwe inzichten | 2 |
-| Gaps gedicht | 3 |
-| Gaps gesignaleerd | 0 |
-| Totaal Wiki-pagina's | 399 |
+| Gaps gedicht | 4 |
+| Totaal Wiki-pagina's | 403 |
 
 ## Aandacht vereist
 
-- [ ] Queue volledig geleegd — geen ↓ items meer; volgende run genereert nieuwe gaps via expansie
+- [ ] Wikipedia onbereikbaar — alle pagina's zijn aangemaakt op basis van intern kennismodel (confidence 5); zodra Wikipedia beschikbaar is, bronnen verifiëren en confidence herzien.

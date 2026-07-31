@@ -97,3 +97,5 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Inquisitie]]
 - [[De Suezcrisis]]
 - [[De Algeriaanse Oorlog]]
+- [[De Cubacrisis]]
+- [[De Zijderoute]]

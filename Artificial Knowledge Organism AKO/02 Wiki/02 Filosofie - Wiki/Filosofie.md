@@ -100,3 +100,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Ranajit Guha]]
 - [[Epicurisme]]
 - [[Hedonisme]]
+- [[Duits Idealisme]]

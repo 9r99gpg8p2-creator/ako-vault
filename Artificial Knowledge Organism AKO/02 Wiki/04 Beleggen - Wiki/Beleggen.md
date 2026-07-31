@@ -99,3 +99,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Winstmarge]]
 - [[DuPont Analyse]]
 - [[EBITDA]]
+- [[Conjunctuurcycli]]
