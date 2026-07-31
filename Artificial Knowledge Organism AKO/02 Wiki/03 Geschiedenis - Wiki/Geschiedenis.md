@@ -100,3 +100,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Cubacrisis]]
 - [[De Zijderoute]]
 - [[Magna Carta]]
+- [[Habeas Corpus Act (1679)]]

@@ -8,6 +8,9 @@ confidence: 5
 sources:
   - "Lezak, M.D., Howieson, D.B., Bigler, E.D., & Tranel, D. (2012). Neuropsychological Assessment (5th ed.). Oxford University Press."
   - "Strauss, E., Sherman, E.M.S., & Spreen, O. (2006). A Compendium of Neuropsychological Tests. Oxford University Press."
+  - "Randolph, C. (1998). RBANS Manual. The Psychological Corporation."
+  - "Dubois, B., Slachevsky, A., Litvan, I., & Pillon, B. (2000). The FAB. Neurology, 55(11), 1621–1626."
+  - "Robbins, T.W., et al. (1994). CANTAB Battery. Dementia, 5(5), 266–281."
 hub: "[[Psychologie]]"
 related:
   - "[[Neuropsychologische Testbatterijen]]"
@@ -30,6 +33,9 @@ Neuropsychologische screening is een beknopte, gestandaardiseerde evaluatie van 
 - **Drempelwaarden (cut-off scores):** scores beneden een kritische grens leiden tot verwijzing voor uitgebreider onderzoek
 - **Cognitieve domeinen:** screening dekt doorgaans oriëntatie, geheugen, taal, aandacht, executieve functies en visuoconstructieve capaciteit
 - **MMSE en MoCA:** de twee meest gebruikte screeningsinstrumenten wereldwijd; de MoCA heeft hogere sensitiviteit voor milde stoornissen
+- **RBANS (Repeatable Battery for the Assessment of Neuropsychological Status):** korte batterij van Randolph (1998) die vijf cognitieve indexen meet — directe geheugenopslag, visuospatieel/constructief, taal, aandacht en uitgestelde geheugenopslag; breed inzetbaar bij herseninfarct, dementie en schizofrenie
+- **FAB (Frontal Assessment Battery):** zes-itemtest van Dubois et al. (2000) specifiek gericht op frontale en prefrontale functies — conceptualisering, mentale flexibiliteit, programmering, gevoeligheid voor interferentie, inhiberende controle en omgevingsautonomie; vult de lacune van MMSE/MoCA voor executieve stoornissen
+- **CANTAB (Cambridge Neuropsychological Test Automated Battery):** gecomputeriseerde testbatterij ontwikkeld aan de Universiteit van Cambridge; meet reactiesnelheid, aandacht, geheugen en executieve functies via touchscreen; gevoelig voor vroege neurodegeneratieve en psychiatrische stoornissen; hoge test-hertestbetrouwbaarheid door gestandaardiseerde digitale afname
 
 ## Context
 
@@ -44,6 +50,9 @@ In Nederland wordt neuropsychologische screening ingezet bij opname in ziekenhui
 - **Onderzoek:** grootschalige epidemiologische studies gebruiken screeningsinstrumenten als proxy voor cognitief functioneren
 - **Ziekenhuisopname:** delirium en acute cognitieve veranderingen worden vroeg gesignaleerd via screeningprotocollen
 - **Forensisch:** objectivering van cognitieve claims bij juridische procedures
+- **RBANS:** bij voorkeur ingezet bij patiënten met beroerte of psychose waarbij meerdere domeinen snel in kaart gebracht moeten worden
+- **FAB:** standaardinstrument in geheugenpoliklinieken voor het opsporen van frontale betrokkenheid bij dementiesyndroom; sensitief voor frontotemporale dementie
+- **CANTAB:** ingezet in farmacologisch onderzoek (medicatietrials) en longitudinale studies vanwege hoge herhaalbaarheid en normdata voor meerdere leeftijdsgroepen
 
 ## Verbindingen
 
@@ -64,3 +73,6 @@ In Nederland wordt neuropsychologische screening ingezet bij opname in ziekenhui
 - Lezak, M.D., Howieson, D.B., Bigler, E.D., & Tranel, D. (2012). *Neuropsychological Assessment* (5th ed.). Oxford University Press.
 - Folstein, M.F., Folstein, S.E., & McHugh, P.R. (1975). Mini-mental state. *Journal of Psychiatric Research, 12*(3), 189–198.
 - Nasreddine, Z.S., et al. (2005). The Montreal Cognitive Assessment, MoCA. *Journal of the American Geriatrics Society, 53*(4), 695–699.
+- Randolph, C. (1998). *RBANS Manual*. The Psychological Corporation.
+- Dubois, B., Slachevsky, A., Litvan, I., & Pillon, B. (2000). The FAB: A frontal assessment battery at bedside. *Neurology, 55*(11), 1621–1626.
+- Robbins, T.W., et al. (1994). Cambridge Neuropsychological Test Automated Battery (CANTAB). *Dementia, 5*(5), 266–281.

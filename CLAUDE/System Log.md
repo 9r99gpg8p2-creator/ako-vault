@@ -2754,3 +2754,23 @@ type: operationeel
 | 2026-07-31T expansie | Agent 8 | Hub bijgewerkt | ✓ | Geschiedenis.md | +[[Magna Carta]] |
 | 2026-07-31T expansie | Agent 8 | Hub bijgewerkt | ✓ | Beleggen.md | +[[Vrije Kasstroom]] |
 | 2026-07-31T expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 3 relaties · 2 inzichten · 4 gaps → queue · Health: 100% |
+| 2026-07-31T consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-31T consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _ bestanden) — STAP 1.5 overgeslagen |
+| 2026-07-31T consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP 403 Forbidden — interne kennis gebruikt. Confidence 5 voor queue-items |
+| 2026-07-31T consolidatie | Agent 2 | Onderwerp selectie | ✓ | 4 queue-items geselecteerd: Neuropsychologische Screening (RBANS/FAB/CANTAB), Vrije Kasstroom (owner earnings), Habeas Corpus Act, Neoplatonisme uitbreiding |
+| 2026-07-31T consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Neuropsychologische Screening.md — RBANS, FAB, CANTAB kernconcepten + toepassingen + 3 bronnen toegevoegd |
+| 2026-07-31T consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Vrije Kasstroom.md — Owner earnings (Buffett 1986), FCFF/FCFE formules, Buffett-bron toegevoegd |
+| 2026-07-31T consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Habeas Corpus Act (1679).md — 03 Geschiedenis - Wiki — confidence 5 (Halliday 2010, Duker 1978, Sharpe 1989) |
+| 2026-07-31T consolidatie | Agent 3 | Wiki bijgewerkt | ✓ | Neoplatonisme.md — Iamblichus theürgie, Proclus Elements of Theology, islamitische transmissie via Liber de Causis + Theologie van Aristoteles |
+| 2026-07-31T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Habeas Corpus Act — Magna Carta.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-31T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Neoplatonisme — De Islamitische Gouden Eeuw.md — sterkte ★9 — Filosofie × Geschiedenis |
+| 2026-07-31T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Vrije Kasstroom — Waardebeleggen.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-31T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Ritueel als Trap naar het Transcendente.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-07-31T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Vrijheid Begint met een Lichaam voor de Rechter.md — Geschiedenis → Filosofie — sterkte ★9 |
+| 2026-07-31T consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-31 Dagrapport.md — consolidatiemodus — 1 pag., 3 updates, 3 verbindingen, 2 inzichten, 0 queue resterend |
+| 2026-07-31T consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-31 Quiz.md — 3 vragen toegevoegd (vr18-20: RBANS/FAB/CANTAB, owner earnings, Habeas Corpus vs Magna Carta) |
+| 2026-07-31T consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: ~90% — Psych 100%, Fil 88% (↑), Gesch 86% (↑), Beleg 85% (↑) — 411 pagina's totaal |
+| 2026-07-31T consolidatie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md — 411 pag., 4 gaps gedicht, 1 nieuw gedetecteerde gap (Bill of Rights) |
+| 2026-07-31T consolidatie | Agent 8 | Hub bijgewerkt | ✓ | Geschiedenis.md | +[[Habeas Corpus Act (1679)]] |
+| 2026-07-31T consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 1 nieuwe gap ↓ (Bill of Rights 1689) |
+| 2026-07-31T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 1 pag. aangemaakt · 3 pagina's bijgewerkt · 3 relaties · 2 inzichten · Health: ~90% |

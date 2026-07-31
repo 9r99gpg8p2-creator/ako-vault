@@ -414,7 +414,8 @@ type: operationeel
 | ✓ | 2026-07-31T expansie | Agent 3 | Expansie: Vrije Kasstroom | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Vrije Kasstroom.md — confidence 5 |
 | ✓ | 2026-07-31T expansie | Agent 3 | Expansie: Magna Carta | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Magna Carta.md — confidence 5 |
 | ✓ | 2026-07-31T expansie | Agent 3 | Expansie: Neoplatonisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Neoplatonisme.md — confidence 5 |
-| ↓ | 2026-07-31T | Agent 3 | Gap: Neuropsychologische Screening uitbreiden | RBANS, FAB, CANTAB als specifieke instrumenten |
-| ↓ | 2026-07-31T | Agent 3 | Gap: Vrije Kasstroom verdiepen | Owner earnings vs. FCFF/FCFE; Buffett-methode |
-| ↓ | 2026-07-31T | Agent 3 | Gap: Habeas Corpus Act (1679) | Verbinding met Magna Carta en Bill of Rights |
-| ↓ | 2026-07-31T | Agent 3 | Gap: Neoplatonisme uitbreiden | Iamblichus, Proclus; invloed op islamitische filosofie |
+| ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Neuropsychologische Screening uitbreiden | RBANS, FAB, CANTAB toegevoegd als specifieke instrumenten — confidence 5 |
+| ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Vrije Kasstroom verdiepen | Owner earnings (Buffett-methode), FCFF/FCFE formules toegevoegd — confidence 5 |
+| ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Habeas Corpus Act (1679) | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Habeas Corpus Act (1679).md — confidence 5 |
+| ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Neoplatonisme uitbreiden | Iamblichus, Proclus, islamitische transmissie uitgebreid — confidence 5 |
+| ↓ | 2026-07-31T | Agent 3 | Gap: Bill of Rights (1689) | Verbinding met Habeas Corpus Act en Magna Carta; derde element Engelse constitutionele trilogie |
