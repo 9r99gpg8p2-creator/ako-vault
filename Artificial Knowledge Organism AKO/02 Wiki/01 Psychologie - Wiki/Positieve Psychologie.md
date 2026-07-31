@@ -67,6 +67,7 @@ Kritiek betreft onder meer: selectiebias in geluksstudies, culturele specificite
 **Cross-domein:**
 - [[Deugdethiek]] — Aristoteles' eudaimonia als filosofische voorloper van Seligman's flourishing-model
 - [[Stoïcisme]] — raakvlakken in het omgaan met adversiteit en het cultiveren van deugd
+- [[Epicurisme]] ★8 — Epicuristisch onderscheid tussen hogere duurzame genoegens en vluchtige is filosofische voorloper van Seligman's PERMA-model
 
 ## Bronnen
 

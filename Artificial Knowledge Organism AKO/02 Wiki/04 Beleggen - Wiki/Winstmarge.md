@@ -60,6 +60,7 @@ In de hedendaagse financiële analyse zijn softwaresector en farmaceutische sect
 **Gerelateerd:**
 - [[Fundamentele Analyse]] — winstmarge is een centrale maatstaf in fundamentele analyse, naast ROE, P/E en EV/EBITDA
 - [[Return on Equity]] — winstmarge is de eerste factor in de DuPont-ontleding van ROE; beide zijn complementaire rendementsmaatstaven
+- [[DuPont Analyse]] ★9 — winstmarge is de eerste component van de DuPont-formule die ROE in drie factoren splitst
 - [[Aandelen]] — winstmarges bepalen de winstgevendheid van de onderneming waarop een aandeel aanspraak maakt
 - [[Waardebeleggen]] — hoge en stabiele winstmarges zijn een kernkenmerk van de kwaliteitsaandelen die waardebeleggers zoeken
 - [[Earnings per Share]] — EPS groeit door hogere winst (marge-verbetering) of lager aandelenaantal; marge is de primaire aanjager van duurzame EPS-groei

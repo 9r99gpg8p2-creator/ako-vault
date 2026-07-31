@@ -64,6 +64,7 @@ In de moderne financiële analyse is ROE geïntegreerd in kwantitatieve factormo
 - [[Earnings per Share]] — ROE en EPS zijn complementaire winstgevendheidsmaatstaven; EPS meet absolute winst per aandeel, ROE meet relatieve winst op vermogensbasis
 - [[Koers-Winstverhouding]] — hoge duurzame ROE rechtvaardigt hogere P/E-ratio's; samen vormen ze een volledig waarderingsbeeld
 - [[Winstmarge]] — winstmarge is een component van ROE via de DuPont-ontleding; samen meten ze winstgevendheid op omzet- en vermogensbasis
+- [[DuPont Analyse]] ★10 — decomponeert ROE in de drie drijfveren (marge, omloopsnelheid, hefboom); fundamentele diagnostische methode
 
 **Cross-domein:**
 - [[Executieve Functies]] — de besluitvorming van bestuurders over kapitaalallocatie (investeringen vs. dividenden vs. inkoop) bepaalt de ROE op lange termijn; dit raakt aan executieve cognitie en rationele planning (Psychologie × Beleggen)

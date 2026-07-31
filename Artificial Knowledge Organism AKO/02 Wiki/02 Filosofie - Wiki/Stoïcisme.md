@@ -55,6 +55,7 @@ Het stoïcisme heeft een directe invloed gehad op de ontwikkeling van de cogniti
 - [[Cognitieve Gedragstherapie]] — de stoïcijnse these dat oordelen emoties veroorzaken is een directe voorloper van de cognitieve herstructurering in CGT
 - [[Emotieregulatie]] — stoïcijnse praktijken zijn vormen van emotieregulatie via cognitieve herwaardering
 - [[Antiek Griekenland]] ★9 — het stoïcisme is direct geworteld in de Atheense filosofische traditie; Zeno stichtte zijn school in Athene ca. 300 v.Chr.
+- [[Epicurisme]] ★9 — het concurrerende hellenistische antwoord op dezelfde vragen over het goede leven; benadrukt gemoedsrust en genot tegenover deugd en plicht
 
 ## Bronnen
 

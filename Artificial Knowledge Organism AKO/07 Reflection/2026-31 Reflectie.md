@@ -83,3 +83,14 @@ De Europese Integratie als geïnstitutionaliseerd sociaal contract (Rousseau × 
 
 **Klinische relevantie:**
 Determinisme raakt direct aan de forensische neuropsychologiepraktijk: de vraag of een patiënt met prefrontaal letsel 'anders kon handelen' is niet louter filosofisch maar bepalend voor diagnostische classificatie en strafrechtelijke implicaties — precies het soort cross-domein denken dat MSc Klinische Neuropsychologie vereist.
+
+### Aanvulling 31 juli — Expansie-run (DuPont / Suezcrisis / Epicurisme)
+
+Drie nieuwe pagina's aan de minst vertegenwoordigde disciplines toegevoegd:
+
+- **DuPont Analyse** (Beleggen): decompositie van ROE in drie componenten — nettowinstmarge, vermogensomloopsnelheid en financiële hefboom. Het model maakt diagnostisch onderscheid tussen duurzame operationele kwaliteit en schuldbased rendement.
+- **De Suezcrisis** (Geschiedenis): het internationale conflict van 1956 rond de nationalisatie van het Suezkanaal. Markeert het einde van Brits-Frans autonoom imperiaal optreden en de consolidatie van de bipolaire wereldorde.
+- **Epicurisme** (Filosofie): de hellenistische levensfilosofie van Epicurus, gericht op ataraxia (gemoedsrust) en aponia (vrijheid van pijn). Biedt via de cross-domein koppeling met ACT een verrassend actueel klinisch-psychologisch perspectief.
+
+**Meest significante inzicht van de run:**
+Ataraxia — het Epicuristische behandeldoel van 2300 jaar geleden — is functioneel identiek aan het primaire doel van neuropsychologische revalidatie: leer de patiënt leven met wat niet terug te halen is, en herstel een draaglijk zelfconcept. Dit illustreert dat filosofische tradities niet louter historisch zijn, maar geoperationaliseerde therapeutische doelen bevatten die moderne kliniek nog altijd nastuurt.

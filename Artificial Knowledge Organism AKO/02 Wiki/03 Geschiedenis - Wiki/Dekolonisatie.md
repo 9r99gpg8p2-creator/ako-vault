@@ -54,6 +54,7 @@ De Verlichting speelde een paradoxale rol: de idealen van vrijheid, gelijkheid e
 **Gerelateerd:**
 - [[Tweede Wereldoorlog]] — de oorlog schiep de condities voor dekolonisatie
 - [[Koude Oorlog]] — geopolitieke context die dekolonisatie beïnvloedde en aanjoeg
+- [[De Suezcrisis]] ★9 — de Suezcrisis (1956) versnelde dekolonisatieprocessen door aan te tonen dat Europese mogendheden geen autonoom koloniaal ingrijpen meer konden uitvoeren
 - [[Totalitarisme]] — kolonialisme als vorm van extern totalitair bestuur over onderworpen volkeren
 - [[De Verlichting]] — de paradoxale relatie tussen verlichtingsidealen en kolonialisme
 

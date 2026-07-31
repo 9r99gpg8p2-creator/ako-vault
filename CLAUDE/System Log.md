@@ -2648,3 +2648,29 @@ type: operationeel
 | 2026-07-30T consolidatie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-30 Quiz.md — 3 nieuwe vragen toegevoegd (ROE begrip, Winstmarge vergelijking, ROE toepassing) |
 | 2026-07-30T consolidatie | | Agent 7 | Knowledge Health berekend | ✓ | Psych 143 · Fil 85 · Gesch 82 · Beleg 83 — Connectivity 100%, Orphan 0% — Health: 100% |
 | 2026-07-30T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 3 relatiepagina's · 1 inzicht · Health: 100% · 393 pag's totaal |
+| 2026-07-31T expansie | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-31T expansie | | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met _ — geen verwerkbare content — STAP 1.5 overgeslagen |
+| 2026-07-31T expansie | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt. Confidence 5 voor alle onderwerpen. |
+| 2026-07-31T expansie | | Agent 2 | Onderwerp selectie | ✓ | 3 onderwerpen geselecteerd: DuPont Analyse (Beleg NIEUW), De Suezcrisis (Gesch NIEUW), Epicurisme (Fil NIEUW) |
+| 2026-07-31T expansie | | Agent 3 | Wiki aangemaakt | ✓ | DuPont Analyse.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-07-31T expansie | | Agent 3 | Wiki aangemaakt | ✓ | De Suezcrisis.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-07-31T expansie | | Agent 3 | Wiki aangemaakt | ✓ | Epicurisme.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-07-31T expansie | | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Hedonisme (Fil), EBITDA (Beleg), De Algeriaanse Oorlog (Gesch) → queue ↓ |
+| 2026-07-31T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | DuPont Analyse — Return on Equity.md — sterkte ★10 — Beleggen (intra) |
+| 2026-07-31T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | DuPont Analyse — Winstmarge.md — sterkte ★9 — Beleggen (intra) |
+| 2026-07-31T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Suezcrisis — Koude Oorlog.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-31T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Suezcrisis — Dekolonisatie.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-31T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Epicurisme — Stoïcisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-31T expansie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Epicurisme — Positieve Psychologie.md — sterkte ★8 — cross-domein Filosofie × Psychologie |
+| 2026-07-31T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | DuPont als Cognitieve Decompositie.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-07-31T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Imperiaal Verlies als Verliesaversie.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-31T expansie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Ataraxia als Klinisch Behandeldoel.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-31T expansie | | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-07-31 Dagrapport.md — expansiemodus — 3 pagina's, 6 verbindingen, 3 inzichten, 3 gaps gesignaleerd |
+| 2026-07-31T expansie | | Agent 6 | Quiz aangemaakt | ✓ | 2026-07-31 Quiz.md — 5 vragen (DuPont begrip/toepassing, Suezcrisis, Epicurisme/Stoïcisme, ataraxia klinisch) |
+| 2026-07-31T expansie | | Agent 6 | Weekreflectie bijgewerkt | ✓ | 2026-31 Reflectie.md — aanvulling 31 juli toegevoegd |
+| 2026-07-31T expansie | | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100% (143p), Fil 100% (86p), Gesch 100% (83p), Beleg 100% (84p) — 396 pag's |
+| 2026-07-31T expansie | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 396 pagina's, 826 graafpagina's, 3 gaps ↓ |
+| 2026-07-31T expansie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Epicurisme · Geschiedenis: +De Suezcrisis · Beleggen: +DuPont Analyse |
+| 2026-07-31T expansie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-31T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe pagina's ✓ · 3 nieuwe gaps ↓ (Hedonisme, EBITDA, De Algeriaanse Oorlog) |
+| 2026-07-31T expansie | | Orchestrator | Expansie-run voltooid | ✓ | 3 pag's · 6 relatiepagina's · 3 inzichten · Health: 100% · 396 pag's totaal |

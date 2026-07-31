@@ -97,3 +97,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Creditrating]]
 - [[Return on Equity]]
 - [[Winstmarge]]
+- [[DuPont Analyse]]

@@ -1,34 +1,34 @@
 ---
 type: dashboard
 tags: [dashboard, algemeen]
-updated: 2026-07-30
-sessie: expansie-3
+updated: 2026-07-31
+sessie: expansie
 ---
 
 # AKO — Algemeen Dashboard
 
-**Laatste update:** 2026-07-30 | Modus: Expansie-3
+**Laatste update:** 2026-07-31 | Modus: Expansie
 
 ## Knowledge Health — Totaaloverzicht
 
 | Discipline | Pagina's | Coverage | Connectivity | Orphan% | Score |
 |---|---|---|---|---|---|
 | Psychologie | 143 | 100% | 100% | 0% | 100% |
-| Filosofie | 85 | 100% | 100% | 0% | 100% |
-| Geschiedenis | 82 | 100% | 100% | 0% | 100% |
-| Beleggen | 81 | 100% | 100% | 0% | 100% |
-| **Totaal** | **391** | **100%** | **100%** | **0%** | **100%** |
+| Filosofie | 86 | 100% | 100% | 0% | 100% |
+| Geschiedenis | 83 | 100% | 100% | 0% | 100% |
+| Beleggen | 84 | 100% | 100% | 0% | 100% |
+| **Totaal** | **396** | **100%** | **100%** | **0%** | **100%** |
 
 ## Graph Statistieken
 
 | Metric | Waarde |
 |---|---|
-| Totale wiki-pagina's | 391 |
-| Relatiepagina's + inzichten (03 graph) | 813 |
-| Dagrapport huidige datum | 2026-07-30 |
+| Totale wiki-pagina's | 396 |
+| Relatiepagina's + inzichten (03 graph) | 826 |
+| Dagrapport huidige datum | 2026-07-31 |
 | Wikipedia API status | GEBLOKKEERD — interne kennis |
 | Inbox bestanden verwerkt (heden) | 0 |
-| Nieuwe pagina's (heden) | 4 |
+| Nieuwe pagina's (heden) | 3 |
 | Nieuwe verbindingen (heden) | 6 |
 | Nieuwe inzichten (heden) | 3 |
 
@@ -36,18 +36,19 @@ sessie: expansie-3
 
 | Discipline | Vorige run | Huidige run | Delta |
 |---|---|---|---|
-| Psychologie | 141 | 143 | +2 |
-| Filosofie | 85 | 85 | +0 |
-| Geschiedenis | 81 | 82 | +1 |
-| Beleggen | 80 | 81 | +1 |
+| Psychologie | 143 | 143 | +0 |
+| Filosofie | 85 | 86 | +1 |
+| Geschiedenis | 82 | 83 | +1 |
+| Beleggen | 83 | 84 | +1 |
 
 ## Queue Status
 
 | Status | Concept | Discipline | Reden |
 |---|---|---|---|
-| ↓ | Return on Equity | Beleggen | Gap gedetecteerd — Beleggen minste pagina's |
-| ↓ | Winstmarge | Beleggen | Gap gedetecteerd — financiële ratio's cluster |
+| ↓ | Hedonisme | Filosofie | Gap gedetecteerd — zusterfilosofie van Epicurisme, ontbreekt als pagina |
+| ↓ | EBITDA | Beleggen | Gap gedetecteerd — kernbegrip in waardering naast DuPont/ROE/Winstmarge |
+| ↓ | De Algeriaanse Oorlog | Geschiedenis | Gap gedetecteerd — Fanon-context en Dekolonisatie case-study |
 
-**Queue: 2 gaps ↓**
+**Queue: 3 gaps ↓**
 
 **Systeemkoppelingen:** [[AKO]]

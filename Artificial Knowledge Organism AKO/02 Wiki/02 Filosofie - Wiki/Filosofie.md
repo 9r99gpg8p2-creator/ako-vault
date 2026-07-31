@@ -98,3 +98,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Subaltern Studies]]
 - [[Gramsci en Hegemonie]]
 - [[Ranajit Guha]]
+- [[Epicurisme]]

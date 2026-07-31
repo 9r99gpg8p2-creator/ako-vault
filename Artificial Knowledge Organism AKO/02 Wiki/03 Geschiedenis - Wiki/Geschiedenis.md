@@ -95,3 +95,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Mao Zedong]]
 - [[Het Inca Rijk]]
 - [[De Inquisitie]]
+- [[De Suezcrisis]]
