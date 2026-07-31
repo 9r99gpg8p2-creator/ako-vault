@@ -98,3 +98,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Return on Equity]]
 - [[Winstmarge]]
 - [[DuPont Analyse]]
+- [[EBITDA]]

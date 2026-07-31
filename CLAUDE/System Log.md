@@ -2674,3 +2674,25 @@ type: operationeel
 | 2026-07-31T expansie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-07-31T expansie | | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe pagina's ✓ · 3 nieuwe gaps ↓ (Hedonisme, EBITDA, De Algeriaanse Oorlog) |
 | 2026-07-31T expansie | | Orchestrator | Expansie-run voltooid | ✓ | 3 pag's · 6 relatiepagina's · 3 inzichten · Health: 100% · 396 pag's totaal |
+| 2026-07-31T consolidatie | | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-07-31T consolidatie | | Agent 1 | Inbox scan | ✓ | Geen bestanden — alle inbox-items beginnen met _ of zijn leeg · STAP 1.5 overgeslagen |
+| 2026-07-31T consolidatie | | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt · confidence max 5 voor queue-items |
+| 2026-07-31T consolidatie | | Agent 2 | Onderwerp selectie | ✓ | 3 queue-items: Hedonisme (Fil), EBITDA (Beleg), De Algeriaanse Oorlog (Gesch) |
+| 2026-07-31T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | Hedonisme.md — 02 Filosofie - Wiki — confidence 5 (Bentham 1789, Mill 1863, Feldman 2004) |
+| 2026-07-31T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | EBITDA.md — 04 Beleggen - Wiki — confidence 5 (Damodaran 2012, Koller et al. 2020) |
+| 2026-07-31T consolidatie | | Agent 3 | Wiki aangemaakt | ✓ | De Algeriaanse Oorlog.md — 03 Geschiedenis - Wiki — confidence 5 (Horne 1977, Fanon 1961, Evans 2012) |
+| 2026-07-31T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Hedonisme — Epicurisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-31T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Hedonisme — Utilitarisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-07-31T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | Frantz Fanon — De Algeriaanse Oorlog.md — sterkte ★10 — Filosofie × Geschiedenis |
+| 2026-07-31T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | De Algeriaanse Oorlog — Dekolonisatie.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-07-31T consolidatie | | Agent 4 | Relatiepagina aangemaakt | ✓ | EBITDA — Winstmarge.md — sterkte ★8 — Beleggen (intra) |
+| 2026-07-31T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Brein Wil Genot Maar Houdt Er Niet Van.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-07-31T consolidatie | | Agent 5 | Inzichtpagina aangemaakt | ✓ | Koloniaal Geweld Laat Littekens in de Geest.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-07-31T consolidatie | | Agent 6 | Dagrapport overschreven | ✓ | 2026-07-31 Dagrapport.md — consolidatiemodus — 3 gaps gedicht · 5 verbindingen · 2 inzichten |
+| 2026-07-31T consolidatie | | Agent 6 | Quiz bijgewerkt | ✓ | 2026-07-31 Quiz.md — 3 vragen toegevoegd (vr6-8: Hedonisme, EBITDA, Algeriaanse Oorlog + C-PTSD) |
+| 2026-07-31T consolidatie | | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 100% (143p), Fil 100% (87p), Gesch 100% (84p), Beleg 100% (85p) — 399 pag's |
+| 2026-07-31T consolidatie | | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 399 pagina's, 833 graafpagina's, 0 gaps ↓ |
+| 2026-07-31T consolidatie | | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Hedonisme · Geschiedenis: +De Algeriaanse Oorlog · Beleggen: +EBITDA |
+| 2026-07-31T consolidatie | | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-07-31T consolidatie | | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Hedonisme, EBITDA, De Algeriaanse Oorlog) · Queue leeg |
+| 2026-07-31T consolidatie | | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox · 3 nieuwe pag's · 5 relaties · 2 inzichten · Health: 100% · 399 pag's |

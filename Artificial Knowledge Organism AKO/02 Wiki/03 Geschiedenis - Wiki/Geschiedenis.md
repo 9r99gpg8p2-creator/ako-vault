@@ -96,3 +96,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Het Inca Rijk]]
 - [[De Inquisitie]]
 - [[De Suezcrisis]]
+- [[De Algeriaanse Oorlog]]

@@ -400,6 +400,6 @@ type: operationeel
 | ✓ | 2026-07-31T expansie | Agent 3 | Expansie: DuPont Analyse | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/DuPont Analyse.md — confidence 5 |
 | ✓ | 2026-07-31T expansie | Agent 3 | Expansie: De Suezcrisis | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Suezcrisis.md — confidence 5 |
 | ✓ | 2026-07-31T expansie | Agent 3 | Expansie: Epicurisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Epicurisme.md — confidence 5 |
-| ↓ | 2026-07-31T expansie | Agent 3 | Gap: Hedonisme | Filosofie — zusterfilosofie van Epicurisme, ontbreekt als standalone pagina |
-| ↓ | 2026-07-31T expansie | Agent 3 | Gap: EBITDA | Beleggen — kernbegrip in bedrijfswaardering naast DuPont/ROE/Winstmarge |
-| ↓ | 2026-07-31T expansie | Agent 3 | Gap: De Algeriaanse Oorlog | Geschiedenis — Fanon-context en Dekolonisatie case-study |
+| ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Hedonisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Hedonisme.md — confidence 5 |
+| ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: EBITDA | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/EBITDA.md — confidence 5 |
+| ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: De Algeriaanse Oorlog | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Algeriaanse Oorlog.md — confidence 5 |
