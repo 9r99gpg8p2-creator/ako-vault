@@ -2715,3 +2715,20 @@ type: operationeel
 | 2026-07-31T10:37Z | Agent 8 | Hub bijgewerkt | Beleggen.md | +[[Conjunctuurcycli]] |
 | 2026-07-31T10:37Z | Agent 8 | Hub bijgewerkt | Filosofie.md | +[[Duits Idealisme]] |
 | 2026-07-31T10:38Z | Orchestrator | Expansie-run voltooid | 4 pag's · Health: 100% · 3 nieuwe gaps → queue |
+| 2026-07-31T consolidatie | Agent 1 | Inbox scan | Geen bestanden verwerkt | Alle 4 inbox-bestanden beginnen met `_` — gefilterd |
+| 2026-07-31T consolidatie | Agent 3 | Wiki aangemaakt | Sectorrotatie.md — 04 Beleggen - Wiki — confidence 5 | Gap gedicht uit Task Queue |
+| 2026-07-31T consolidatie | Agent 3 | Wiki aangemaakt | Friedrich Schelling.md — 02 Filosofie - Wiki — confidence 5 | Gap gedicht uit Task Queue |
+| 2026-07-31T consolidatie | Agent 3 | Wiki aangemaakt | Bounded Rationality.md — 01 Psychologie - Wiki — confidence 5 | Gap gedicht uit Task Queue |
+| 2026-07-31T consolidatie | Agent 4 | Relatiepagina aangemaakt | Sectorrotatie — Conjunctuurcycli.md — sterkte ★10 — Beleggen × Beleggen | |
+| 2026-07-31T consolidatie | Agent 4 | Relatiepagina aangemaakt | Friedrich Schelling — Duits Idealisme.md — sterkte ★9 — Filosofie × Filosofie | |
+| 2026-07-31T consolidatie | Agent 4 | Relatiepagina aangemaakt | Bounded Rationality — Gedragseconomie.md — sterkte ★10 — Psychologie × Beleggen | |
+| 2026-07-31T consolidatie | Agent 4 | Relatiepagina aangemaakt | Bounded Rationality — Werkgeheugen.md — sterkte ★8 — Psychologie × Psychologie | |
+| 2026-07-31T consolidatie | Agent 5 | Inzichtpagina aangemaakt | Waarom Beleggers Te Laat Roteren.md — Psychologie → Beleggen — sterkte ★8 | |
+| 2026-07-31T consolidatie | Agent 5 | Inzichtpagina aangemaakt | Schelling en het Bewustzijnsprobleem.md — Filosofie → Psychologie — sterkte ★7 | |
+| 2026-07-31T consolidatie | Agent 6 | Dagrapport bijgewerkt | 2026-07-31 Dagrapport.md — modus: consolidatie | |
+| 2026-07-31T consolidatie | Agent 6 | Quiz bijgewerkt | 2026-07-31 Quiz.md — 3 nieuwe vragen toegevoegd (12, 13, 14) | |
+| 2026-07-31T consolidatie | Agent 7 | Audit | Score 100% alle disciplines | Psych 144 · Fil 89 · Gesch 86 · Beleg 87 pag's |
+| 2026-07-31T consolidatie | Agent 8 | Hub bijgewerkt | Psychologie.md | +[[Bounded Rationality]] |
+| 2026-07-31T consolidatie | Agent 8 | Hub bijgewerkt | Filosofie.md | +[[Friedrich Schelling]] |
+| 2026-07-31T consolidatie | Agent 8 | Hub bijgewerkt | Beleggen.md | +[[Sectorrotatie]] |
+| 2026-07-31T consolidatie | Orchestrator | Consolidatie-run voltooid | 3 gaps · Health: 100% · Queue leeg |

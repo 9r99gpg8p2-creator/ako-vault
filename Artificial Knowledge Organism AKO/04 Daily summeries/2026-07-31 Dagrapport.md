@@ -2,61 +2,65 @@
 type: dagrapport
 date: 2026-07-31
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 2 · Gaps: 4 · Leestijd: 4 min
+Inbox verwerkt: 0 · Gaps gedicht: 3 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 6 · Queue resterend: 0
 
-## Nieuwe Wiki-pagina's (expansie-run)
+## Pagina's Bijgewerkt via Inbox
 
-1. [[De Cubacrisis]] — Geschiedenis · confidence 5 · nucleaire confrontatie 1962, speltheorie, crisisbeheersing
-2. [[De Zijderoute]] — Geschiedenis · confidence 5 · handelnetwerk, cultuuroverdracht, proto-globalisering
-3. [[Conjunctuurcycli]] — Beleggen · confidence 5 · expansie-recessie-cycli, sectorrotatie, monetair beleid
-4. [[Duits Idealisme]] — Filosofie · confidence 5 · Kant, Hegel, bewustzijnsconstitutie, dialectiek
+*(Geen inbox-bestanden verwerkt deze run — alle bestanden beginnen met `_` en worden overgeslagen.)*
+
+## Gaps Gedicht
+
+1. [[Sectorrotatie]] — beleggen (conjunctuurcyclus-gestuurde portefeuillerotatie)
+2. [[Friedrich Schelling]] — filosofie (ontbrekende schakel Kant → Schelling → Hegel in Duits Idealisme-cluster)
+3. [[Bounded Rationality]] — psychologie/beleggen (beslissingstheorie; Herbert Simon 1955)
 
 ## Verbindingen Toegevoegd
 
-1. [[Conjunctuurcycli]] → [[Prospect Theory]] · ★8
-2. [[De Cubacrisis]] → [[Speltheorie]] · ★7
-3. [[Duits Idealisme]] → [[Bewustzijn]] · ★9
-4. [[De Zijderoute]] → [[Globalisering]] · ★7
+1. [[Sectorrotatie]] ↔ [[Conjunctuurcycli]] · ★10
+2. [[Friedrich Schelling]] ↔ [[Duits Idealisme]] · ★9
+3. [[Bounded Rationality]] ↔ [[Gedragseconomie]] · ★10
+4. [[Bounded Rationality]] ↔ [[Werkgeheugen]] · ★8
+5. Inzicht: [[Bounded Rationality]] → [[Sectorrotatie]] → [[Conjunctuurcycli]] · ★8
+6. Inzicht: [[Friedrich Schelling]] → [[Bewustzijn]] → [[Neuropsychologie]] · ★7
 
 ## Insight Feed
 
-— "De psychologische asymmetrie tussen verlies en winst amplificieert conjuncturele schommelingen: recessies worden dieper dan fundamentele schokken vereisen doordat verliesaversie massaal uitstelgedrag triggert." [Psychologie → Beleggen · ★8]
+— "De systematische vertraging in sectorrotatie is geen informatiegebrek maar een cognitief fenomeen: bounded rationality dwingt tot satisficing, verliesaversie remt de verkoop." [Psychologie → Beleggen · ★8]
 
-— "Kants these dat de geest de structuur van ervaring constitueert vindt empirische echo in moderne predictive coding-theorieën: het brein genereert actief voorspellingen in plaats van passief de werkelijkheid te registreren." [Filosofie → Psychologie · ★9]
-
-## Knowledge Health
-
-| Discipline | Pagina's | Score | Trend |
-|---|---|---|---|
-| Psychologie | 143 | ~95% | → |
-| Filosofie | 88 | ~89% | ↑ |
-| Geschiedenis | 86 | ~88% | ↑ |
-| Beleggen | 86 | ~87% | ↑ |
-| **Totaal** | **403** | **~90%** | **↑** |
+— "Schellings vraag — hoe ontstaat bewuste geest uit onbewuste natuur? — is structureel identiek aan het 'hard problem of consciousness' in de hedendaagse neuropsychologie." [Filosofie → Psychologie · ★7]
 
 ## Research Agenda
 
-1. **Sectorrotatie** — praktische beleggingsstrategie direct gerelateerd aan nieuw Conjunctuurcycli-concept; nog geen pagina
-2. **Friedrich Schelling** — ontbrekende schakel in Duits Idealisme-cluster (Kant → Schelling → Hegel); nog geen pagina
-3. **Cubacrisis en Besluitvorming** — verdieping via Bounded Rationality en ExComm-beslissingsdynamiek; koppeling aan Dual Process Theorie
+Prioriteit 1: **Hegel** bijwerken — Schelling-verbinding expliciet verankeren in bestaande pagina (Duits Idealisme cluster compleet)
+Prioriteit 2: **Dual Process Theorie** — verband met Bounded Rationality explicieter uitwerken; Simon vs. Kahneman onderscheid
+Prioriteit 3: **Marktcycli** — sectorrotatie-link toevoegen; cross-referentie met Conjunctuurcycli verdiepen
+
+## Knowledge Health
+
+| Discipline | Score | Trend |
+|---|---|---|
+| Psychologie | ~78% | ↑ |
+| Filosofie | ~71% | ↑ |
+| Geschiedenis | ~68% | → |
+| Beleggen | ~75% | ↑ |
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
+| Nieuwe Wiki-pagina's | 3 |
+| Nieuwe relatiepagina's | 4 |
+| Nieuwe inzichtpagina's | 2 |
+| Gaps gedicht | 3 |
+| Quiz-vragen toegevoegd | 3 |
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen | 4 |
-| Nieuwe inzichten | 2 |
-| Gaps gedicht | 4 |
-| Totaal Wiki-pagina's | 403 |
 
 ## Aandacht vereist
 
-- [ ] Wikipedia onbereikbaar — alle pagina's zijn aangemaakt op basis van intern kennismodel (confidence 5); zodra Wikipedia beschikbaar is, bronnen verifiëren en confidence herzien.
+- [ ] Hegel.md: voeg Schelling-verbinding toe aan gerelateerde links
+- [ ] Duits Idealisme.md: Friedrich Schelling is nu als aparte persoonspagina aangemaakt — check of hub-link aanwezig is

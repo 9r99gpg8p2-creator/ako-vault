@@ -407,6 +407,6 @@ type: operationeel
 | ✓ | 2026-07-31T expansie-2 | Agent 3 | Expansie: De Zijderoute | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Zijderoute.md — confidence 5 |
 | ✓ | 2026-07-31T expansie-2 | Agent 3 | Expansie: Conjunctuurcycli | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Conjunctuurcycli.md — confidence 5 |
 | ✓ | 2026-07-31T expansie-2 | Agent 3 | Expansie: Duits Idealisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Duits Idealisme.md — confidence 5 |
-| ↓ | 2026-07-31T expansie-2 | Agent 3 | Gap: Sectorrotatie | Beleggen — conjunctuurcyclus-afhankelijke portefeuillerotatiestrategie; nog geen pagina |
-| ↓ | 2026-07-31T expansie-2 | Agent 3 | Gap: Friedrich Schelling | Filosofie — ontbrekende schakel Kant→Schelling→Hegel in Duits Idealisme-cluster |
-| ↓ | 2026-07-31T expansie-2 | Agent 3 | Gap: Bounded Rationality | Psychologie/Beleggen — beslissingstheorie; link naar Speltheorie, Cubacrisis, Dual Process Theorie |
+| ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Sectorrotatie | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Sectorrotatie.md — confidence 5 |
+| ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Friedrich Schelling | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Friedrich Schelling.md — confidence 5 |
+| ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Bounded Rationality | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Bounded Rationality.md — confidence 5 |

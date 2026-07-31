@@ -156,3 +156,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Cognitieve Belastingstheorie]]
 - [[Psychometrie]]
 - [[Intelligentie]]
+- [[Bounded Rationality]]
