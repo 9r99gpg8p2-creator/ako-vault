@@ -418,4 +418,7 @@ type: operationeel
 | ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Vrije Kasstroom verdiepen | Owner earnings (Buffett-methode), FCFF/FCFE formules toegevoegd — confidence 5 |
 | ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Habeas Corpus Act (1679) | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Habeas Corpus Act (1679).md — confidence 5 |
 | ✓ | 2026-07-31T consolidatie | Agent 3 | Gap: Neoplatonisme uitbreiden | Iamblichus, Proclus, islamitische transmissie uitgebreid — confidence 5 |
-| ↓ | 2026-07-31T | Agent 3 | Gap: Bill of Rights (1689) | Verbinding met Habeas Corpus Act en Magna Carta; derde element Engelse constitutionele trilogie |
+| ✓ | 2026-07-31T | Agent 3 | Gap: Bill of Rights (1689) | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Bill of Rights (1689).md — confidence 5 |
+| ↓ | 2026-08-01T | Agent 3 | Gap: De Glorious Revolution (1688) | Historische context van Bill of Rights; de Engelse constitutionele trilogie volledig verankeren |
+| ↓ | 2026-08-01T | Agent 3 | Gap: Ibn Khaldun | Islamitische geschiedfilosofie en vroege sociologie; sleutelfiguur in Islamitische Filosofie-cluster |
+| ↓ | 2026-08-01T | Agent 3 | Gap: Geneeskunde van de Geest (Psychiatriegeschiedenis) | Overgang morele behandeling → biologische psychiatrie; aansluitend bij Biopsychosociaal Model |

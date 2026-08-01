@@ -158,3 +158,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Intelligentie]]
 - [[Bounded Rationality]]
 - [[Neuropsychologische Screening]]
+- [[Biopsychosociaal Model]]

@@ -2774,3 +2774,23 @@ type: operationeel
 | 2026-07-31T consolidatie | Agent 8 | Hub bijgewerkt | ✓ | Geschiedenis.md | +[[Habeas Corpus Act (1679)]] |
 | 2026-07-31T consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ · 1 nieuwe gap ↓ (Bill of Rights 1689) |
 | 2026-07-31T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 1 pag. aangemaakt · 3 pagina's bijgewerkt · 3 relaties · 2 inzichten · Health: ~90% |
+| 2026-08-01 | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-08-01 | expansie | Agent 1 | Inbox scan | ✓ | Alle bestanden beginnen met _ — STAP 1.5 overgeslagen |
+| 2026-08-01 | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt, confidence max 5. |
+| 2026-08-01 | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen geselecteerd: Bill of Rights (1689) (Gesch — queue ↓), Biopsychosociaal Model (Psych — MSc KNP), Islamitische Filosofie (Fil — gap), Financieel Hefboomeffect (Beleg — gap) |
+| 2026-08-01 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Bill of Rights (1689).md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-08-01 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Biopsychosociaal Model.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-08-01 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Islamitische Filosofie.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-08-01 | expansie | Agent 3 | Wiki aangemaakt | ✓ | Financieel Hefboomeffect.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-08-01 | expansie | Agent 3 | Gap Engine | ✓ | 3 nieuwe gaps gesignaleerd: Glorious Revolution (1688), Ibn Khaldun, Geneeskunde van de Geest |
+| 2026-08-01 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Biopsychosociaal Model — Klinische Neuropsychologie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-08-01 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Islamitische Filosofie — De Islamitische Gouden Eeuw.md — sterkte ★10 — Filosofie × Geschiedenis |
+| 2026-08-01 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Financieel Hefboomeffect — Verliesaversie.md — sterkte ★8 — Beleggen × Psychologie |
+| 2026-08-01 | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Bill of Rights (1689) — Habeas Corpus Act (1679).md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-08-01 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Islamitische Overdrachtsband van Kennis.md — Geschiedenis → Filosofie — sterkte ★9 |
+| 2026-08-01 | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Hefboom Vergroot het Psychologische Verlies.md — Beleggen → Psychologie — sterkte ★8 |
+| 2026-08-01 | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-08-01 Dagrapport.md — 4 concepten, 4 verbindingen, 2 inzichten, 3 nieuwe gaps |
+| 2026-08-01 | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-08-01 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-08-01 | expansie | Agent 6 | Weekreflectie | ↓ | Week 31 reflectie bestaat reeds (2026-31 Reflectie.md) — geen nieuwe aanmaak vereist |
+| 2026-08-01 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Coverage 100%, Connectivity 100%, Orphan 0% — alle 4 disciplines |
+| 2026-08-01 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven — 411 wiki-pagina's · 861 graph-pagina's |

@@ -1,13 +1,13 @@
 ---
 type: dashboard
 tags: [dashboard, algemeen]
-updated: 2026-07-31
-sessie: consolidatie
+updated: 2026-08-01
+sessie: expansie
 ---
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-07-31 | Modus: Consolidatie
+> Gegenereerd: 2026-08-01 | Modus: Expansie
 
 ## Overzicht
 
@@ -19,31 +19,42 @@ sessie: consolidatie
 | Beleggen | 88 | 100%+ | 100% | ★★★★★ |
 
 **Totaal Wiki-pagina's:** 411
-**Totaal relatiepagina's (conceptual graph):** zie 03 conceptual graph/
+**Totaal graph-pagina's (conceptual graph):** 861
 **Connectivity:** 100% — alle pagina's bevatten wiki-links
+**Overall Health Score:** 100%
 
 ## Activiteit deze run
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 1 |
-| Updates bestaande pagina's | 3 |
-| Nieuwe relatiepagina's | 3 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe relatiepagina's | 4 |
 | Nieuwe inzichtpagina's | 2 |
 | Inbox verwerkt | 0 |
-| Queue gaps gedicht | 4 |
+| Queue gaps gedicht | 1 |
 
 ## Nieuwe pagina's
 
-- [[Habeas Corpus Act (1679)]] (Geschiedenis)
+- [[Bill of Rights (1689)]] (Geschiedenis) — Engelse constitutionele trilogie voltooid
+- [[Biopsychosociaal Model]] (Psychologie) — kernkader klinische neuropsychologie
+- [[Islamitische Filosofie]] (Filosofie) — falsafa, Avicenna, Averroes
+- [[Financieel Hefboomeffect]] (Beleggen) — leverage, kapitaalstructuur, risico
 
-## Bijgewerkte pagina's
+## Nieuwe verbindingen
 
-- [[Neuropsychologische Screening]] — RBANS, FAB, CANTAB uitgewerkt
-- [[Vrije Kasstroom]] — Owner earnings, FCFF/FCFE formules, Buffett-methode
-- [[Neoplatonisme]] — Iamblichus, Proclus, islamitische transmissie
+- [[Biopsychosociaal Model — Klinische Neuropsychologie]] ★9
+- [[Islamitische Filosofie — De Islamitische Gouden Eeuw]] ★10 (cross-domein)
+- [[Financieel Hefboomeffect — Verliesaversie]] ★8 (cross-domein: Beleggen × Psychologie)
+- [[Bill of Rights (1689) — Habeas Corpus Act (1679)]] ★9
+
+## Nieuwe inzichten
+
+- [[De Islamitische Overdrachtsband van Kennis]] — Geschiedenis → Filosofie ★9
+- [[Hefboom Vergroot het Psychologische Verlies]] — Beleggen → Psychologie ★8
 
 ## Knowledge Gaps (→ queue)
 
-- Bill of Rights (1689) — nieuw gedetecteerde gap; completeert Engelse constitutionele trilogie
-- CANTAB klinische normdata per diagnostische categorie
+- Glorious Revolution (1688) — aanvullend op Bill of Rights (1689)
+- Ibn Khaldun — islamitische geschiedfilosofie en vroege sociologie
+- Geneeskunde van de Geest — psychiatriegeschiedeniscluster

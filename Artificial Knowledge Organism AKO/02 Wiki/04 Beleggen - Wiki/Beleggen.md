@@ -102,3 +102,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Conjunctuurcycli]]
 - [[Sectorrotatie]]
 - [[Vrije Kasstroom]]
+- [[Financieel Hefboomeffect]]

@@ -101,3 +101,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Zijderoute]]
 - [[Magna Carta]]
 - [[Habeas Corpus Act (1679)]]
+- [[Bill of Rights (1689)]]

@@ -2,8 +2,8 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-07-31
-sessie: consolidatie
+updated: 2026-08-01
+sessie: expansie
 ---
 
 # Psychologie Dashboard

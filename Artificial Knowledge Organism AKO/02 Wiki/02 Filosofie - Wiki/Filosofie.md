@@ -103,3 +103,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Duits Idealisme]]
 - [[Friedrich Schelling]]
 - [[Neoplatonisme]]
+- [[Islamitische Filosofie]]
