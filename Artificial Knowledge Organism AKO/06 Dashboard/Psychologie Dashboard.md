@@ -16,11 +16,11 @@ sessie: expansie
 
 | Metric | Score |
 |---|---|
-| Coverage | 100% (144 pagina's / target 20 ✓) |
+| Coverage | 100% (148 pagina's / target 20 ✓) |
 | Connectivity | 100% (alle pagina's hebben [[links]]) |
 | Orphan % | 0% |
 
-Trend: ↑ (+20 nieuwe pagina's t.o.v. 2026-07-27; +1 nieuwe pagina vandaag: Bounded Rationality)
+Trend: ↑ (+4 nieuwe pagina's t.o.v. gisteren; +1 vandaag expansie: Eetstoornissen; +3 consolidatie: Geneeskunde van de Geest, + overige)
 
 ---
 

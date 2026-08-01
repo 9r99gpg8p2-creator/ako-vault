@@ -422,3 +422,11 @@ type: operationeel
 | ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: De Glorious Revolution (1688) | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Glorious Revolution (1688).md — confidence 5 |
 | ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Ibn Khaldun | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Ibn Khaldun.md — confidence 5 |
 | ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Geneeskunde van de Geest (Psychiatriegeschiedenis) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Geneeskunde van de Geest (Psychiatriegeschiedenis).md — confidence 5 |
+| ✓ | 2026-08-01T expansie | Agent 3 | Expansie: Eetstoornissen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Eetstoornissen.md — confidence 5 |
+| ✓ | 2026-08-01T expansie | Agent 3 | Expansie: Liberalisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Liberalisme.md — confidence 5 |
+| ✓ | 2026-08-01T expansie | Agent 3 | Expansie: Het Congres van Wenen | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Congres van Wenen.md — confidence 5 |
+| ✓ | 2026-08-01T expansie | Agent 3 | Expansie: Emerging Markets | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Emerging Markets.md — confidence 5 |
+| ↓ | 2026-08-01T expansie | Agent 3 | Gap: OCD — Obsessief-Compulsieve Stoornis | Hoge comorbiditeit met eetstoornissen; ontbreekt als standalone pagina |
+| ↓ | 2026-08-01T expansie | Agent 3 | Gap: Nationalisme | Directe reactie op Congres van Wenen; sleutelconcept 19e-eeuwse Europese geschiedenis; ontbreekt |
+| ↓ | 2026-08-01T expansie | Agent 3 | Gap: Frontier Markets | Sub-EM beleggingscategorie; terloops vermeld in Emerging Markets.md; verdient eigen pagina |
+| ↓ | 2026-08-01T expansie | Agent 3 | Gap: Democratie | Kernbegrip ontbreekt ondanks aanwezige cluster rondom Liberalisme, Maatschappelijk Contract, Rawls |

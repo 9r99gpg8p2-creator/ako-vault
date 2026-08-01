@@ -62,6 +62,7 @@ Metaanalyses (Hofmann et al., 2012; Cuijpers et al., 2019) bevestigen de effecti
 - [[Dual Process Theorie]] — cognitieve herstructurering richt zich op System 1-automatismen via System 2-controle
 - [[Klassieke Conditionering]] — exposure werkt via extinctie van conditionele angstreacties
 - [[Executieve Functies]] — CGT veronderstelt intact metacognitief vermogen; bij EF-stoornissen aanpassing vereist
+- [[Eetstoornissen]] ★9 — CGT is evidence-based behandeling van eerste keus voor boulimia nervosa en BED
 
 **Cross-domein:**
 - [[Prospect Theory]] — verliesaversie en negatieve framing als cognitieve vervormingen in financieel gedrag

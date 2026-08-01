@@ -103,3 +103,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Habeas Corpus Act (1679)]]
 - [[Bill of Rights (1689)]]
 - [[De Glorious Revolution (1688)]]
+- [[Het Congres van Wenen]]

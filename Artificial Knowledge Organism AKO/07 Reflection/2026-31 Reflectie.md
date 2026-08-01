@@ -94,3 +94,21 @@ Drie nieuwe pagina's aan de minst vertegenwoordigde disciplines toegevoegd:
 
 **Meest significante inzicht van de run:**
 Ataraxia — het Epicuristische behandeldoel van 2300 jaar geleden — is functioneel identiek aan het primaire doel van neuropsychologische revalidatie: leer de patiënt leven met wat niet terug te halen is, en herstel een draaglijk zelfconcept. Dit illustreert dat filosofische tradities niet louter historisch zijn, maar geoperationaliseerde therapeutische doelen bevatten die moderne kliniek nog altijd nastuurt.
+
+### Aanvulling 1 augustus — Expansie-run (eetstoornissen / liberalisme / Wenen / EM)
+
+Zeven nieuwe pagina's toegevoegd die onontgonnen gebieden in alle vier disciplines dichtten:
+
+**Consolidatie-run (ochtend):**
+- **De Glorious Revolution (1688)** (Geschiedenis): voltooide de constitutionele trilogie samen met Habeas Corpus Act en Bill of Rights — het begin van parlementaire soevereiniteit
+- **Ibn Khaldun** (Filosofie): islamitische geschiedfilosofie en proto-sociologie; zijn concept *asabiyya* prefigureert moderne groepscohesie-theorie
+- **Geneeskunde van de Geest (Psychiatriegeschiedenis)** (Psychologie): historische overgang van morele behandeling via biologische psychiatrie naar het biopsychosociale model
+
+**Expansie-run (dag):**
+- **Eetstoornissen** (Psychologie): anorexia nervosa, boulimia nervosa en eetbuistoornis; cognitieve kern, comorbiditeiten en CGT als eerstelijnsbehandeling. Klinisch essentieel voor MSc Klinische Neuropsychologie.
+- **Liberalisme** (Filosofie): van Locke's natuurrecht via Mill's schadebeginsel naar Rawls' sociaal liberalisme. Grondslag van autonomieconcept in psychiatrie en klinische ethiek.
+- **Het Congres van Wenen** (Geschiedenis): machtsevenwichtssysteem dat Europa een eeuw van grote oorlogen bespaarde; model voor latere multilaterale architectuur (VN, NAVO, EU).
+- **Emerging Markets** (Beleggen): systematische blootstelling aan opkomende economieën via MSCI EM; valuta- en politiek risico als structurele factoren.
+
+**Meest significante inzicht van 1 augustus:**
+Liberale autonomiefilosofie — het hart van de Verlichtingserfenis die Locke en Rawls deelden — wordt in de psychiatrie dagelijks uitgedaagd door patiënten voor wie autonomie verstoord is. Dit maakt liberalisme niet alleen politieke filosofie maar ook clinisch-ethische fundament: elke gedwongen opname, elke wilsonbekwaamheidsverklaring, is een moment waarop Locke's theorie haar grenzen bereikt.

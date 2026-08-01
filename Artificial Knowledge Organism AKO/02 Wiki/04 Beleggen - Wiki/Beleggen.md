@@ -103,3 +103,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Sectorrotatie]]
 - [[Vrije Kasstroom]]
 - [[Financieel Hefboomeffect]]
+- [[Emerging Markets]]

@@ -2819,3 +2819,29 @@ type: operationeel
 | 2026-08-01 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Geneeskunde van de Geest) · Filosofie: +1 (Ibn Khaldun) · Geschiedenis: +1 (De Glorious Revolution 1688) |
 | 2026-08-01 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Glorious Revolution, Ibn Khaldun, Geneeskunde van de Geest) · Queue leeg |
 | 2026-08-01 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox verwerkt · 3 wiki-pagina's · 5 relaties · 2 inzichten · Health: 100% |
+| 2026-08-01T10:12Z | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-08-01T10:12Z | expansie | Agent 1 | Inbox scan | ✓ | Geen eligible bestanden — alle Inbox-bestanden beginnen met _ (sjabloonbestanden). STAP 1.5 overgeslagen. |
+| 2026-08-01T10:12Z | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia + arXiv APIs onbereikbaar. Interne kennis gebruikt. Confidence 5 voor overige concepten. |
+| 2026-08-01T10:12Z | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Eetstoornissen (Psychologie NIEUW), Liberalisme (Filosofie NIEUW), Het Congres van Wenen (Geschiedenis NIEUW), Emerging Markets (Beleggen NIEUW) |
+| 2026-08-01T10:12Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | Eetstoornissen.md — 01 Psychologie - Wiki — confidence 5 (APA DSM-5, Fairburn 2003) |
+| 2026-08-01T10:12Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | Liberalisme.md — 02 Filosofie - Wiki — confidence 5 (Locke 1689, Mill 1859, Rawls 1971) |
+| 2026-08-01T10:12Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | Het Congres van Wenen.md — 03 Geschiedenis - Wiki — confidence 5 (Kissinger 1957, Schroeder 1994) |
+| 2026-08-01T10:12Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | Emerging Markets.md — 04 Beleggen - Wiki — confidence 5 (Mody 2004, Harvey 1995) |
+| 2026-08-01T10:12Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Eetstoornissen — Cognitieve Gedragstherapie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-08-01T10:12Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Het Congres van Wenen — Liberalisme.md — sterkte ★8 — Geschiedenis × Filosofie |
+| 2026-08-01T10:12Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Emerging Markets — Globalisering.md — sterkte ★9 — Beleggen × Geschiedenis |
+| 2026-08-01T10:12Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Liberalisme — John Rawls.md — sterkte ★10 — Filosofie (intra) |
+| 2026-08-01T10:12Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Eetstoornissen — Stress en de HPA-as.md — sterkte ★7 — Psychologie (intra) |
+| 2026-08-01T10:12Z | expansie | Agent 4 | Backlinks toegevoegd | ✓ | Cognitieve Gedragstherapie.md +Eetstoornissen ★9 · Globalisering.md +Emerging Markets ★9 · John Rawls.md +Liberalisme ★10 · Stress en de HPA-as.md +Eetstoornissen ★7 |
+| 2026-08-01T10:12Z | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Cognitieve Vervormingen bij Eetstoornissen en Beleggingsfouten Zijn Hetzelfde Mechanisme.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-08-01T10:12Z | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Concert van Europa als Prototypisch Geval van Institutionele Machtsbalans.md — Geschiedenis → Filosofie — sterkte ★9 |
+| 2026-08-01T10:12Z | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Liberale Autonomie als Onoplosbaar Dilemma in de Psychiatrie.md — Filosofie → Psychologie — sterkte ★9 |
+| 2026-08-01T10:12Z | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-08-01 Dagrapport.md — expansiemodus — 4 nieuwe pagina's, 5 verbindingen, 3 inzichten, 4 gaps gesignaleerd |
+| 2026-08-01T10:12Z | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-08-01 Quiz.md — 3 vragen toegevoegd (Eetstoornissen begrip, Emerging Markets toepassing, Wenen/Rawls vergelijking) |
+| 2026-08-01T10:12Z | expansie | Agent 6 | Reflectie bijgewerkt | ✓ | 2026-31 Reflectie.md — aanvulling 1 augustus expansie-run toegevoegd |
+| 2026-08-01T10:12Z | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 148 pag's, Fil 93 pag's, Gesch 91 pag's, Beleg 90 pag's — Connectivity 100%, Orphan 0% |
+| 2026-08-01T10:12Z | expansie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 422 totale wiki-pagina's |
+| 2026-08-01T10:12Z | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Eetstoornissen · Filosofie: +Liberalisme · Geschiedenis: +Het Congres van Wenen · Beleggen: +Emerging Markets |
+| 2026-08-01T10:12Z | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
+| 2026-08-01T10:12Z | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe gaps → ↓ (OCD, Nationalisme, Frontier Markets, Democratie) |
+| 2026-08-01T10:12Z | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 nieuwe pag's · 5 verbindingen · 3 inzichten · 4 gaps gesignaleerd · Health: 100% |

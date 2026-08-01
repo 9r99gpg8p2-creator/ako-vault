@@ -54,6 +54,7 @@ Zijn werk veroorzaakte uitgebreide debatten, met reacties van libertariërs (Rob
 - [[Politieke Filosofie]] — Rawls' kerndomein; zijn werk definieerde het veld opnieuw
 - [[Deontologie]] — Rawls' nadruk op rechten en plichten boven gevolgen; Kantiaanse invloed
 - [[Utilitarisme]] — Rawls' voornaamste tegenpositie; hij verwerpt het utilistisch principe
+- [[Liberalisme]] ★10 — Rawls is de centrale figuur van het sociaal liberalisme; zijn differentieprincipe herdefinieerde liberale rechtvaardigheidstheorie
 
 **Cross-domein:**
 - [[Ethiek van Zorg]] — alternatieve visie op rechtvaardigheid vanuit relaties in plaats van abstracte principes; feminist critiek op Rawls

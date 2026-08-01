@@ -68,6 +68,7 @@ Historici onderscheiden meerdere globaliseringsgolven:
 **Cross-domein:**
 - [[Gedragseconomie]] — psychologische reacties op economische onzekerheid door globalisering verklaren populistische stemgedrag
 - [[Maatschappelijk Contract]] — globalisering herziet de verhouding tussen staat, markt en burger
+- [[Emerging Markets]] ★9 — EM zijn het beleggingscorrelaat van globalisering; integratie van opkomende economieën in de wereldhandel creëerde de beleggingscategorie
 
 ## Bronnen
 

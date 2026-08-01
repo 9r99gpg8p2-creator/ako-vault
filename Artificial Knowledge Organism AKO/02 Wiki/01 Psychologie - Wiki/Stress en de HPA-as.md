@@ -52,6 +52,7 @@ In de klinische neuropsychologie is stress-assessment een kernonderdeel van diag
 - [[Verslaving]] — stress-geïnduceerde terugval; CRH-systeem activeert drugszoekgedrag
 - [[Neuroplasticiteit]] — cortisol onderdrukt neurogenese; herstel via stressreductie is mogelijk
 - [[Executieve Functies]] — prefrontale cortex bijzonder kwetsbaar voor chronische cortisolblootstelling
+- [[Eetstoornissen]] ★7 — chronische HPA-activatie vergroot kwetsbaarheid voor eetstoornissen; bij anorexia nervosa veroorzaakt hongertoestand cortisolhyperactivatie
 
 **Cross-domein:**
 - [[Klinische Neuropsychologie]] — HPA-as kennis is onmisbaar voor neuropsychologische diagnostiek en behandelplanning
