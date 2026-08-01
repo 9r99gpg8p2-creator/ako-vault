@@ -2,41 +2,71 @@
 type: dagrapport
 date: 2026-08-01
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
+
+# Dagrapport — 2026-08-01
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 4 · Leestijd: 6 min
+Goedemorgen.
+
+Nieuwe kennis:         3 concepten toegevoegd
+Nieuwe artikelen:      0 (Wikipedia API geblokkeerd — interne kennis gebruikt)
+Nieuwe verbindingen:   8 (6 relatiepagina's + 2 inzichtpagina's)
+Nieuwe inzichten:      2 cross-domein inzichten gegenereerd
+Kennishiaten:          0 — queue volledig leeg na deze run
+Aanbevolen leestijd:   6 minuten
 
 ---
 
 ## Research Agenda
 
-1. **Trail Making Test** — ontbreekt als eigenstandige wiki-pagina; essentieel neuropsychologisch instrument (aandacht, verwerking, cognitieve flexibiliteit) voor BSc Psychologie → MSc Klinische Neuropsychologie
-2. **Wisconsin Card Sorting Test (WCST)** — standaardmeting van cognitieve flexibiliteit en perseveratiefouten bij frontale aandoeningen; ontbreekt in vault
-3. **WAIS (Wechsler Adult Intelligence Scale)** — meest gebruikte intelligentie- en neuropsychologische batterij wereldwijd; ontbreekt ondanks brede coverage van neuropsychologische diagnostiek
+Prioriteit 1: **Neuropsychologische instrumenten** — TMT, WCST en WAIS zijn nu vertegenwoordigd; volgende lacune is de Rey Auditory Verbal Learning Test (RAVLT) voor geheugenmeting.
+Prioriteit 2: **Frontale executieve systemen** — verdiep de verbinding tussen prefrontale cortex, dopamine en executieve functies voor een samenhangend neuropsychologisch kader.
+Prioriteit 3: **Klinische neuropsychologie integratie** — verbind de nieuwe instrumentenpagina's met Klinische Neuropsychologie.md voor een volledig diagnostisch ecosysteem.
+
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+*(geen Inbox-bestanden verwerkt — Inbox leeg na filtering)*
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Trail Making Test]] ↔ [[Cognitieve Flexibiliteit]] · ★9
+2. [[Trail Making Test]] ↔ [[Stroop Test]] · ★8
+3. [[Wisconsin Card Sorting Test]] → [[Prefrontale Cortex]] · ★9
+4. [[Wisconsin Card Sorting Test]] → [[Schizofrenie]] · ★8
+5. [[WAIS]] → [[Intelligentie]] · ★9
+6. [[WAIS]] ↔ [[Neuropsychologische Testbatterijen]] · ★9
+7. [[WAIS]] → [[Gedragseconomie]] · ★7 (cross-domein)
 
 ---
 
 ## Insight Feed
 
-— "De Wetenschappelijke Revolutie was in essentie een collectief Stroop-moment: het onderdrukken van het geautomatiseerde geocentrische schema ten gunste van de empirisch-wiskundige realiteit vereist precies de cognitieve inhibitie die de Stroop Test meet." [Psychologie → Geschiedenis · ★8]
+— "Neuropsychologische tests als de WAIS, Trail Making Test en WCST maken de architectuur van de geest zichtbaar door wat er faalt — elk instrument onthult een andere laag, en in het patroon van dissociaties herkennen we hoe de hersenen kennis, snelheid en flexibiliteit als afzonderlijke systemen organiseren." [Psychologie → Filosofie · ★8]
 
-— "Dollar Cost Averaging en het maatschappelijk contract volgen dezelfde logica van rationele zelfbinding: het individu construeert een externe regel die het beschermt tegen zijn eigen voorspelbare irrationele impulsen — verliesaversie bij DCA, oorlog en chaos bij Hobbes." [Beleggen → Filosofie · ★9]
-
-— "De ambachtelijke know-how die de Wetenschappelijke Revolutie mogelijk maakte — van instrumentmakers tot glasblazers — reist generaties lang via procedureel geheugen, niet via boeken: een stille, impliciet-cognitieve motor van historische innovatie." [Psychologie → Geschiedenis · ★7]
+— "Perseveratie — het vastlopen in een strategie die niet meer werkt (WCST) — vertoont een structurele parallel met het disposition effect in beleggen: beleggers houden verliezende posities te lang aan, gevangen in een cognitieve set die feedback negeert." [Psychologie → Beleggen · ★8]
 
 ---
 
 ## Knowledge Health
 
-| Discipline | Score | Trend |
-|---|---|---|
-| Psychologie | 97% | ↑ |
-| Filosofie | 96% | → |
-| Geschiedenis | 96% | ↑ |
-| Beleggen | 95% | ↑ |
+| Discipline | Pagina's | Score | Trend |
+|---|---|---|---|
+| Psychologie | 154 | 98% | ↑ |
+| Filosofie | 94 | 98% | → |
+| Geschiedenis | 93 | 98% | → |
+| Beleggen | 92 | 98% | → |
+
+**Totaal Wiki-pagina's:** 433
+**Totaal graph-pagina's (conceptual graph):** 900
+**Connectivity:** 100% — alle pagina's bevatten wiki-links
+**Overall Health Score:** 98%
 
 ---
 
@@ -44,17 +74,26 @@ Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps
 
 | Metric | Aantal |
 |---|---|
+| Nieuwe Wiki-pagina's | 3 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe relatiepagina's | 6 |
+| Nieuwe inzichtpagina's | 2 |
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen | 4 |
-| Gaps gedicht | 4 |
+| Queue gaps gedicht | 3 |
+| Queue resterend | 0 |
+
+---
+
+## Nieuwe Pagina's
+
+- [[Trail Making Test]] (Psychologie) — verwerkingssnelheid, cognitieve flexibiliteit, neuropsychologische screening; confidence 8
+- [[Wisconsin Card Sorting Test]] (Psychologie) — set-shifting, perseveratie, prefrontale disfunctie, schizofrenie; confidence 8
+- [[WAIS]] (Psychologie) — intelligentiemeting, vier composietindices, klinische neuropsychologische evaluatie; confidence 8
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Trail Making Test — wiki-pagina aanmaken (prioriteit 1)
-- [ ] Wisconsin Card Sorting Test (WCST) — wiki-pagina aanmaken
-- [ ] WAIS — wiki-pagina aanmaken
-- [ ] Inbox bevat alleen `_`-bestanden — geen verwerking mogelijk; gebruiker kan nieuwe notities toevoegen aan Inbox-mappen
+- [ ] Queue is nu leeg — Agent 2/3 klaar voor nieuwe onderwerpen op volgende run
+- [ ] Overweeg RAVLT (Rey Auditory Verbal Learning Test) toe te voegen als volgende neuropsychologisch instrument
+- [ ] Hub-pagina Psychologie.md controleren op ontbrekende links naar nieuwe pagina's

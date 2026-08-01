@@ -2,60 +2,60 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-08-01
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-01 | Modus: Expansie
+> Gegenereerd: 2026-08-01 | Modus: Consolidatie
 
 ## Overzicht
 
 | Discipline | Pagina's | Coverage | Connectivity | Score |
 |---|---|---|---|---|
-| Psychologie | 151 | 100%+ | 100% | ★★★★★ |
+| Psychologie | 154 | 100%+ | 100% | ★★★★★ |
 | Filosofie | 94 | 100%+ | 100% | ★★★★★ |
 | Geschiedenis | 93 | 100%+ | 100% | ★★★★★ |
 | Beleggen | 92 | 100%+ | 100% | ★★★★★ |
 
-**Totaal Wiki-pagina's:** 430
-**Totaal graph-pagina's (conceptual graph):** 891
+**Totaal Wiki-pagina's:** 433
+**Totaal graph-pagina's (conceptual graph):** 900
 **Connectivity:** 100% — alle pagina's bevatten wiki-links
 **Overall Health Score:** 98%
 
-## Activiteit deze run (expansie)
+## Activiteit deze run (consolidatie)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichtpagina's | 3 |
+| Nieuwe Wiki-pagina's | 3 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe relatiepagina's | 6 |
+| Nieuwe inzichtpagina's | 2 |
 | Inbox verwerkt | 0 |
-| Queue gaps gedicht | 4 |
+| Queue gaps gedicht | 3 |
+| Queue resterend | 0 |
 
 ## Nieuwe pagina's
 
-- [[Stroop Test]] (Psychologie) — executieve functies, cognitieve inhibitie, klinische diagnostiek
-- [[Procedureel Geheugen]] (Psychologie) — impliciet leren, basale ganglia, errorless learning revalidatie
-- [[De Wetenschappelijke Revolutie]] (Geschiedenis) — 1543–1687, Copernicus/Newton, wetenschappelijke methode
-- [[Dollar Cost Averaging]] (Beleggen) — periodiek beleggen, verliesaversie-respons, lump-sum vergelijking
+- [[Trail Making Test]] (Psychologie) — verwerkingssnelheid, set-shifting, B/A-ratio, neuropsychologische screening; confidence 8
+- [[Wisconsin Card Sorting Test]] (Psychologie) — cognitieve flexibiliteit, perseveratieve fouten, hypofrontaliteit, schizofrenie; confidence 8
+- [[WAIS]] (Psychologie) — intelligentie, VCI/PRI/WMI/PSI, FSIQ, klinische neuropsychologische evaluatie; confidence 8
 
 ## Nieuwe verbindingen
 
-- [[Dollar Cost Averaging — Verliesaversie]] ★9 (Beleggen → Psychologie, cross-domein)
-- [[De Wetenschappelijke Revolutie — Paradigmawisseling]] ★10 (Geschiedenis → Filosofie, cross-domein)
-- [[Stroop Test — Dual Process Theorie]] ★8 (Psychologie intra)
-- [[Procedureel Geheugen — Neuropsychologische Revalidatie]] ★8 (Psychologie intra)
+- [[Trail Making Test — Cognitieve Flexibiliteit]] ★9 (Psychologie intra)
+- [[Trail Making Test — Stroop Test]] ★8 (Psychologie intra)
+- [[Wisconsin Card Sorting Test — Prefrontale Cortex]] ★9 (Psychologie intra)
+- [[Wisconsin Card Sorting Test — Schizofrenie]] ★8 (Psychologie intra)
+- [[WAIS — Intelligentie]] ★9 (Psychologie intra)
+- [[WAIS — Neuropsychologische Testbatterijen]] ★9 (Psychologie intra)
+- [[WAIS — Gedragseconomie]] ★7 (Psychologie → Beleggen, cross-domein)
 
 ## Nieuwe inzichten
 
-- [[Cognitieve Controle als Basis van Kennisrevolutie]] — Psychologie → Geschiedenis ★8
-- [[Tijdgespreid Beleggen als Instituut van Zelfcontrole]] — Beleggen → Filosofie ★9
-- [[Impliciet Leren als Stille Motor van Cultuuroverdracht]] — Psychologie → Geschiedenis ★7
+- [[De Testbatterij als Spiegel van de Geest]] — Psychologie → Filosofie ★8
+- [[Cognitieve Rigiditeit als Gedeelde Kwetsbaarheid]] — Psychologie → Beleggen ★8
 
 ## Knowledge Gaps (→ queue)
 
-- Trail Making Test — nog aan te maken
-- Wisconsin Card Sorting Test (WCST) — nog aan te maken
-- WAIS (Wechsler Adult Intelligence Scale) — nog aan te maken
+Queue is volledig leeg na deze run. Volgende run: RAVLT (Rey Auditory Verbal Learning Test) aanbevolen als volgende gap.

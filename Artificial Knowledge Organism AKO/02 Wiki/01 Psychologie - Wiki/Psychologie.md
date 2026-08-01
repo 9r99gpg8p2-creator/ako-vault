@@ -164,3 +164,6 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Obsessief-Compulsieve Stoornis]]
 - [[Stroop Test]]
 - [[Procedureel Geheugen]]
+- [[Trail Making Test]]
+- [[Wisconsin Card Sorting Test]]
+- [[WAIS]]

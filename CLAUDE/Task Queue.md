@@ -434,6 +434,6 @@ type: operationeel
 | ✓ | 2026-08-01T expansie | Agent 3 | Gap: Procedureel Geheugen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Procedureel Geheugen.md — confidence 5 |
 | ✓ | 2026-08-01T expansie | Agent 3 | Gap: De Wetenschappelijke Revolutie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Wetenschappelijke Revolutie.md — confidence 5 |
 | ✓ | 2026-08-01T expansie | Agent 3 | Gap: Dollar Cost Averaging | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Dollar Cost Averaging.md — confidence 5 |
-| ↓ | 2026-08-01T expansie | Agent 3 | Gap: Trail Making Test | Ontbreekt: neuropsychologisch instrument voor verwerkingssnelheid en cognitieve flexibiliteit — prioriteit 1 |
-| ↓ | 2026-08-01T expansie | Agent 3 | Gap: Wisconsin Card Sorting Test (WCST) | Ontbreekt: meting van cognitieve flexibiliteit en perseveratiefouten bij frontale disfunctie |
-| ↓ | 2026-08-01T expansie | Agent 3 | Gap: WAIS (Wechsler Adult Intelligence Scale) | Ontbreekt: meest gebruikte intelligentie- en neuropsychologische batterij — essentieel voor klinische neuropsychologie |
+| ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Trail Making Test | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Trail Making Test.md — confidence 8 (Reitan 1958, Lezak 2012) |
+| ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Wisconsin Card Sorting Test (WCST) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Wisconsin Card Sorting Test.md — confidence 8 (Berg 1948, Milner 1963, Heaton 1993) |
+| ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: WAIS (Wechsler Adult Intelligence Scale) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/WAIS.md — confidence 8 (Wechsler 1955/2008, Lezak 2012) |

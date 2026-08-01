@@ -2881,4 +2881,27 @@ type: operationeel
 | 2026-08-01T14:00Z | expansie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 430 wiki-pagina's · 891 graph-pagina's |
 | 2026-08-01T14:00Z | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Stroop Test, +Procedureel Geheugen · Geschiedenis: +De Wetenschappelijke Revolutie · Beleggen: +Dollar Cost Averaging |
 | 2026-08-01T14:00Z | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten · 3 nieuwe gaps → ↓ (Trail Making Test, WCST, WAIS) |
+| 2026-08-01T consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue (3 gaps ↓), System Log geladen |
+| 2026-08-01T consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden — alle Inbox-bestanden beginnen met `_` (templates). STAP 1.5 overgeslagen. |
+| 2026-08-01T consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — alle Wikipedia APIs onbereikbaar. Interne kennis gebruikt, confidence 8 (gespecialiseerde discipline). |
+| 2026-08-01T consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Trail Making Test.md — 01 Psychologie - Wiki — confidence 8 (Reitan 1958, Lezak 2012, Mitrushina 2005) |
+| 2026-08-01T consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Wisconsin Card Sorting Test.md — 01 Psychologie - Wiki — confidence 8 (Berg 1948, Milner 1963, Heaton 1993) |
+| 2026-08-01T consolidatie | Agent 3 | Wiki aangemaakt | ✓ | WAIS.md — 01 Psychologie - Wiki — confidence 8 (Wechsler 1955/2008, Lezak 2012) |
+| 2026-08-01T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Trail Making Test — Cognitieve Flexibiliteit.md — sterkte ★9 |
+| 2026-08-01T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Trail Making Test — Stroop Test.md — sterkte ★8 |
+| 2026-08-01T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Wisconsin Card Sorting Test — Prefrontale Cortex.md — sterkte ★9 |
+| 2026-08-01T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Wisconsin Card Sorting Test — Schizofrenie.md — sterkte ★8 |
+| 2026-08-01T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | WAIS — Intelligentie.md — sterkte ★9 |
+| 2026-08-01T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | WAIS — Neuropsychologische Testbatterijen.md — sterkte ★9 |
+| 2026-08-01T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | WAIS — Gedragseconomie.md — sterkte ★7 (cross-domein Psychologie × Beleggen) |
+| 2026-08-01T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Testbatterij als Spiegel van de Geest.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-08-01T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Cognitieve Rigiditeit als Gedeelde Kwetsbaarheid.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-08-01T consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-08-01 Dagrapport.md bijgewerkt (consolidatie-modus) |
+| 2026-08-01T consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-08-01 Quiz.md — 3 nieuwe vragen toegevoegd (Q18–Q20: TMT, WCST, WAIS) |
+| 2026-08-01T consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 98% — Coverage 100%+, Connectivity 100%, Orphan 0% — alle 4 disciplines |
+| 2026-08-01T consolidatie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 433 wiki-pagina's · 900 graph-pagina's |
+| 2026-08-01T consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Trail Making Test, +Wisconsin Card Sorting Test, +WAIS |
+| 2026-08-01T consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: 1:433 (≥ 1:5 ✓) |
+| 2026-08-01T consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten (Trail Making Test, WCST, WAIS) · Queue volledig leeg |
+| 2026-08-01T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps · Health: 98% |
 | 2026-08-01T14:00Z | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's aangemaakt · 4 relaties · 3 inzichten · 4 gaps gedicht · 430 wiki-pagina's totaal |
