@@ -2845,3 +2845,27 @@ type: operationeel
 | 2026-08-01T10:12Z | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
 | 2026-08-01T10:12Z | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 nieuwe gaps → ↓ (OCD, Nationalisme, Frontier Markets, Democratie) |
 | 2026-08-01T10:12Z | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 nieuwe pag's · 5 verbindingen · 3 inzichten · 4 gaps gesignaleerd · Health: 100% |
+| 2026-08-01T12:17Z | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-08-01T12:17Z | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden — alle Inbox-bestanden beginnen met _ (sjabloonbestanden). STAP 1.5 overgeslagen. |
+| 2026-08-01T12:17Z | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt. Confidence 5 voor alle nieuwe pagina's. |
+| 2026-08-01T12:17Z | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen queue↓: OCD, Nationalisme, Frontier Markets, Democratie |
+| 2026-08-01T12:17Z | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Obsessief-Compulsieve Stoornis.md — 01 Psychologie - Wiki — confidence 5 (APA DSM-5, Abramowitz 2009) |
+| 2026-08-01T12:17Z | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Nationalisme.md — 03 Geschiedenis - Wiki — confidence 5 (Anderson 1983, Hobsbawm 1990) |
+| 2026-08-01T12:17Z | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Frontier Markets.md — 04 Beleggen - Wiki — confidence 5 (MSCI 2023, Berger 2011) |
+| 2026-08-01T12:17Z | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Democratie.md — 02 Filosofie - Wiki — confidence 5 (Dahl 1998, Habermas 1996) |
+| 2026-08-01T12:17Z | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Obsessief-Compulsieve Stoornis — Cognitieve Gedragstherapie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-08-01T12:17Z | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Obsessief-Compulsieve Stoornis — Eetstoornissen.md — sterkte ★8 — Psychologie (intra) |
+| 2026-08-01T12:17Z | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Democratie — Maatschappelijk Contract.md — sterkte ★10 — Filosofie (intra) |
+| 2026-08-01T12:17Z | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Democratie — Liberalisme.md — sterkte ★9 — Filosofie (intra) |
+| 2026-08-01T12:17Z | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Nationalisme — Het Congres van Wenen.md — sterkte ★9 — Geschiedenis (intra) |
+| 2026-08-01T12:17Z | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Frontier Markets — Emerging Markets.md — sterkte ★10 — Beleggen (intra) |
+| 2026-08-01T12:17Z | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Compulsief Gedrag Herkent Zichzelf Niet in de Beurs.md — Psychologie → Beleggen — sterkte ★8 |
+| 2026-08-01T12:17Z | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Nationalisme en Democratie als Rivalen om de Volksstem.md — Geschiedenis → Filosofie — sterkte ★9 |
+| 2026-08-01T12:17Z | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-08-01 Dagrapport.md — consolidatiemodus — 4 pagina's, 6 verbindingen, 2 inzichten, 4 gaps gedicht |
+| 2026-08-01T12:17Z | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-08-01 Quiz.md — 3 vragen toegevoegd (vr12-14: OCD mechanisme, compulsief beleggen, Anderson/Rousseau) |
+| 2026-08-01T12:17Z | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Psych 149p, Fil 94p, Gesch 92p, Beleg 91p — Connectivity 100%, Orphan 0% |
+| 2026-08-01T12:17Z | consolidatie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 426 wiki-pagina's · 884 graph-pagina's |
+| 2026-08-01T12:17Z | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +[[Obsessief-Compulsieve Stoornis]] · Filosofie: +[[Democratie]] · Geschiedenis: +[[Nationalisme]] · Beleggen: +[[Frontier Markets]] |
+| 2026-08-01T12:17Z | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
+| 2026-08-01T12:17Z | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (OCD, Nationalisme, Frontier Markets, Democratie) · Queue leeg |
+| 2026-08-01T12:17Z | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 pag's aangemaakt · 6 relaties · 2 inzichten · 4 gaps gedicht · Health: 100% · 426 wiki-pagina's totaal |

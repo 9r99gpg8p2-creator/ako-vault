@@ -2,31 +2,52 @@
 type: dagrapport
 date: 2026-08-01
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 7 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 14 · Inzichten: 5 · Gaps: 4 gesignaleerd · Leestijd: ~28 min
+Goedemorgen.
+
+Nieuwe kennis:          4 concepten (OCD, Nationalisme, Frontier Markets, Democratie)
+Nieuwe artikelen:       0 (Wikipedia API geblokkeerd — interne kennis gebruikt)
+Nieuwe verbindingen:    8 (6 relatiepagina's + 2 inzichtpagina's)
+Nieuwe inzichten:       2
+Kennishiaten:           0 queue resterend na run
+Aanbevolen leestijd:    ~8 minuten
 
 ---
 
 ## Research Agenda
 
-1. **OCD — Obsessief-Compulsieve Stoornis** (Psychologie) — klnisch relevant voor MSc Klinische Neuropsychologie; hoge comorbiditeit met eetstoornissen en angststoornissen; nog geen standalone pagina
-2. **Nationalisme** (Geschiedenis/Filosofie) — directe reactie op het Congres van Wenen; sleutelconcept voor begrip 19e-eeuwse Europese geschiedenis; ontbreekt als pagina
-3. **Frontier Markets** (Beleggen) — vervolgonderwerp op Emerging Markets; pre-EM beleggingscategorie; slechts terloops vermeld in Emerging Markets.md
-4. **Democratie** (Filosofie) — kernbegrip dat ontbreekt ondanks aanwezigheid van Liberalisme, Maatschappelijk Contract, John Rawls
+Prioriteit 1: **Angststoornissen verdiepen** — OCD cluster groeit; GAD en specifieke fobieën ontbreken als verdieping naast de bestaande Angststoornissen-pagina.
+Prioriteit 2: **Democratische instituties** — Democratie aangemaakt; trias politica, rechtsstaat en constitutionalisme ontbreken nog als concepten.
+Prioriteit 3: **Small Cap en liquiditeitspremie** — Frontier Markets vereist kennis van small-cap equity en liquiditeitspremie; dit cluster mist nog een denkstap.
 
 ---
 
 ## Insight Feed
 
-— "De cognitieve vervormingen bij eetstoornissen en beleggingsfouten zijn structureel identiek — CGT-technieken zijn potentieel overdraagbaar naar financiële besluitvorming" [Psychologie → Beleggen · ★8]
+— "De rituelen waarmee OCD-patiënten angst neutraliseren zijn structureel identiek aan het compulsief bijhouden van koersen door retailbeleggers — in beide gevallen vergroot de handeling de afhankelijkheid van controle." [Psychologie → Beleggen · ★8]
 
-— "Het Concert van Europa toont dat duurzame internationale orde niet op rechtvaardigheid maar op machtsevenwicht berust — een les die van Metternich tot Kissinger tot EU-architecten werd getrokken" [Geschiedenis → Filosofie · ★9]
+— "Nationalisme en democratie claimen beiden te spreken namens 'het volk', maar definiëren 'het volk' radicaal anders — de botsing tussen beide definities heeft de moderne Europese politieke geschiedenis gevormd." [Geschiedenis → Filosofie · ★9]
 
-— "Liberale autonomiefilosofie creëert een onoplosbaar dilemma in de psychiatrie: de patiënt met anorexia of psychose kan niet autonoom beslissen in de liberale zin" [Filosofie → Psychologie · ★9]
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+*(geen inbox verwerkt deze run — alle bestanden beginnen met _)*
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Obsessief-Compulsieve Stoornis]] ↔ [[Cognitieve Gedragstherapie]] · ★9
+2. [[Obsessief-Compulsieve Stoornis]] ↔ [[Eetstoornissen]] · ★8
+3. [[Democratie]] ↔ [[Maatschappelijk Contract]] · ★10
+4. [[Democratie]] ↔ [[Liberalisme]] · ★9
+5. [[Nationalisme]] ↔ [[Het Congres van Wenen]] · ★9
+6. [[Frontier Markets]] ↔ [[Emerging Markets]] · ★10
 
 ---
 
@@ -34,10 +55,12 @@ Nieuwe kennis: 7 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 14 �
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 93% | ↑ |
-| Filosofie | 92% | ↑ |
-| Geschiedenis | 93% | ↑ |
-| Beleggen | 92% | ↑ |
+| Psychologie | 100% | → |
+| Filosofie | 100% | ↑ |
+| Geschiedenis | 100% | ↑ |
+| Beleggen | 100% | → |
+
+**Totaal wiki-pagina's:** 426 (prev. 422)
 
 ---
 
@@ -45,23 +68,15 @@ Nieuwe kennis: 7 concepten toegevoegd · Inbox verwerkt: 0 · Verbindingen: 14 �
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 7 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen | 14 |
-| Inzichten | 5 |
-| Gaps gedicht | 7 |
-| Gaps gesignaleerd | 4 |
+| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe verbindingen | 6 |
+| Inzichten gegenereerd | 2 |
+| Gaps gedicht | 4 |
+| Queue resterend | 0 |
 
 ---
 
-### Run 1 — Consolidatie (ochtend)
-- [[De Glorious Revolution (1688)]] (Geschiedenis) — constitutionele trilogie voltooid
-- [[Ibn Khaldun]] (Filosofie) — islamitische geschiedfilosofie en proto-sociologie
-- [[Geneeskunde van de Geest (Psychiatriegeschiedenis)]] (Psychologie) — biopsychosociaal model historisch verankerd
+## Aandacht vereist
 
-### Run 2 — Expansie (dag)
-- [[Eetstoornissen]] (Psychologie) — AN, BN, BED; comorbiditeit, CGT-behandeling, neurobiologisch profiel
-- [[Liberalisme]] (Filosofie) — klassiek (Locke/Mill) en sociaal (Rawls); autonomie als grondwaarde
-- [[Het Congres van Wenen]] (Geschiedenis) — machtsevenwicht, Concert van Europa, Metternich
-- [[Emerging Markets]] (Beleggen) — MSCI EM, BRICS, valuta- en politiek risico
+- [ ] Wikipedia API blijft geblokkeerd (FOUT E-003) — confidence blijft 5 voor nieuwe pagina's
+- [ ] Democratie-cluster heeft vervolgconcepten nodig (rechtsstaat, trias politica, constitutionalisme)

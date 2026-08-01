@@ -161,3 +161,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Biopsychosociaal Model]]
 - [[Geneeskunde van de Geest (Psychiatriegeschiedenis)]]
 - [[Eetstoornissen]]
+- [[Obsessief-Compulsieve Stoornis]]

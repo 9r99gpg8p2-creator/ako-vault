@@ -426,7 +426,7 @@ type: operationeel
 | ✓ | 2026-08-01T expansie | Agent 3 | Expansie: Liberalisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Liberalisme.md — confidence 5 |
 | ✓ | 2026-08-01T expansie | Agent 3 | Expansie: Het Congres van Wenen | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Het Congres van Wenen.md — confidence 5 |
 | ✓ | 2026-08-01T expansie | Agent 3 | Expansie: Emerging Markets | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Emerging Markets.md — confidence 5 |
-| ↓ | 2026-08-01T expansie | Agent 3 | Gap: OCD — Obsessief-Compulsieve Stoornis | Hoge comorbiditeit met eetstoornissen; ontbreekt als standalone pagina |
-| ↓ | 2026-08-01T expansie | Agent 3 | Gap: Nationalisme | Directe reactie op Congres van Wenen; sleutelconcept 19e-eeuwse Europese geschiedenis; ontbreekt |
-| ↓ | 2026-08-01T expansie | Agent 3 | Gap: Frontier Markets | Sub-EM beleggingscategorie; terloops vermeld in Emerging Markets.md; verdient eigen pagina |
-| ↓ | 2026-08-01T expansie | Agent 3 | Gap: Democratie | Kernbegrip ontbreekt ondanks aanwezige cluster rondom Liberalisme, Maatschappelijk Contract, Rawls |
+| ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: OCD — Obsessief-Compulsieve Stoornis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Obsessief-Compulsieve Stoornis.md — confidence 5 |
+| ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Nationalisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Nationalisme.md — confidence 5 |
+| ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Frontier Markets | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Frontier Markets.md — confidence 5 |
+| ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Democratie | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Democratie.md — confidence 5 |

@@ -2,62 +2,59 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-08-01
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-01 | Modus: Expansie
+> Gegenereerd: 2026-08-01 | Modus: Consolidatie
 
 ## Overzicht
 
 | Discipline | Pagina's | Coverage | Connectivity | Score |
 |---|---|---|---|---|
-| Psychologie | 148 | 100%+ | 100% | ★★★★★ |
-| Filosofie | 93 | 100%+ | 100% | ★★★★★ |
-| Geschiedenis | 91 | 100%+ | 100% | ★★★★★ |
-| Beleggen | 90 | 100%+ | 100% | ★★★★★ |
+| Psychologie | 149 | 100%+ | 100% | ★★★★★ |
+| Filosofie | 94 | 100%+ | 100% | ★★★★★ |
+| Geschiedenis | 92 | 100%+ | 100% | ★★★★★ |
+| Beleggen | 91 | 100%+ | 100% | ★★★★★ |
 
-**Totaal Wiki-pagina's:** 422
-**Totaal graph-pagina's (conceptual graph):** 876
+**Totaal Wiki-pagina's:** 426
+**Totaal graph-pagina's (conceptual graph):** 884
 **Connectivity:** 100% — alle pagina's bevatten wiki-links
 **Overall Health Score:** 100%
 
-## Activiteit deze run (expansie)
+## Activiteit deze run (consolidatie)
 
 | Metric | Aantal |
 |---|---|
 | Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe relatiepagina's | 5 |
-| Nieuwe inzichtpagina's | 3 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe relatiepagina's | 6 |
+| Nieuwe inzichtpagina's | 2 |
 | Inbox verwerkt | 0 |
 | Queue gaps gedicht | 4 |
 
 ## Nieuwe pagina's
 
-- [[Eetstoornissen]] (Psychologie) — AN, BN, BED; comorbiditeit; CGT als eerstelijnsbehandeling; neurobiologisch profiel
-- [[Liberalisme]] (Filosofie) — Locke, Mill, Rawls; autonomie als grondwaarde; spanning met psychiatrische paternalisme
-- [[Het Congres van Wenen]] (Geschiedenis) — machtsevenwicht, Concert van Europa; Metternich; 100 jaar relatieve vrede
-- [[Emerging Markets]] (Beleggen) — MSCI EM, BRICS, valuta- en politiek risico; China-concentratierisico
+- [[Obsessief-Compulsieve Stoornis]] (Psychologie) — ERP, CGT, neurobiologisch CSTC-circuit, comorbiditeit met eetstoornissen
+- [[Nationalisme]] (Geschiedenis) — Anderson's verbeelde gemeenschappen, Hobsbawm, etnisch vs. civiel nationalisme
+- [[Frontier Markets]] (Beleggen) — sub-EM classificatie, MSCI, lage correlatie, liquiditeitsrisico
+- [[Democratie]] (Filosofie) — volkssoevereiniteit, procedureel vs. substantieel, polyarchie (Dahl), deliberatieve democratie (Habermas)
 
 ## Nieuwe verbindingen
 
-- [[Eetstoornissen — Cognitieve Gedragstherapie]] ★9 (Psychologie intra)
-- [[Het Congres van Wenen — Liberalisme]] ★8 (Geschiedenis × Filosofie)
-- [[Emerging Markets — Globalisering]] ★9 (Beleggen × Geschiedenis)
-- [[Liberalisme — John Rawls]] ★10 (Filosofie intra)
-- [[Eetstoornissen — Stress en de HPA-as]] ★7 (Psychologie intra)
+- [[Obsessief-Compulsieve Stoornis — Cognitieve Gedragstherapie]] ★9 (Psychologie intra)
+- [[Obsessief-Compulsieve Stoornis — Eetstoornissen]] ★8 (Psychologie intra)
+- [[Democratie — Maatschappelijk Contract]] ★10 (Filosofie intra)
+- [[Democratie — Liberalisme]] ★9 (Filosofie intra)
+- [[Nationalisme — Het Congres van Wenen]] ★9 (Geschiedenis intra)
+- [[Frontier Markets — Emerging Markets]] ★10 (Beleggen intra)
 
 ## Nieuwe inzichten
 
-- [[Cognitieve Vervormingen bij Eetstoornissen en Beleggingsfouten Zijn Hetzelfde Mechanisme]] — Psychologie → Beleggen ★8
-- [[Het Concert van Europa als Prototypisch Geval van Institutionele Machtsbalans]] — Geschiedenis → Filosofie ★9
-- [[Liberale Autonomie als Onoplosbaar Dilemma in de Psychiatrie]] — Filosofie → Psychologie ★9
+- [[Compulsief Gedrag Herkent Zichzelf Niet in de Beurs]] — Psychologie → Beleggen ★8
+- [[Nationalisme en Democratie als Rivalen om de Volksstem]] — Geschiedenis → Filosofie ★9
 
 ## Knowledge Gaps (→ queue)
 
-- [[OCD — Obsessief-Compulsieve Stoornis]] (Psychologie) — hoge comorbiditeit met eetstoornissen ↓
-- [[Nationalisme]] (Geschiedenis/Filosofie) — directe reactie op Congres van Wenen; ontbreekt als concept ↓
-- [[Frontier Markets]] (Beleggen) — sub-EM beleggingscategorie; slechts terloops vermeld ↓
-- [[Democratie]] (Filosofie) — kernbegrip dat ontbreekt ondanks aanwezige cluster rondom Liberalisme/Rawls ↓
+Queue leeg na deze run.
