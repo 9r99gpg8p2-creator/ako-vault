@@ -2794,3 +2794,7 @@ type: operationeel
 | 2026-08-01 | expansie | Agent 6 | Weekreflectie | ↓ | Week 31 reflectie bestaat reeds (2026-31 Reflectie.md) — geen nieuwe aanmaak vereist |
 | 2026-08-01 | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Coverage 100%, Connectivity 100%, Orphan 0% — alle 4 disciplines |
 | 2026-08-01 | expansie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven — 411 wiki-pagina's · 861 graph-pagina's |
+| 2026-08-01 | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Biopsychosociaal Model) · Filosofie: +1 (Islamitische Filosofie) · Geschiedenis: +1 (Bill of Rights (1689)) · Beleggen: +1 (Financieel Hefboomeffect) |
+| 2026-08-01 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
+| 2026-08-01 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 1 gap gesloten (Bill of Rights) · 3 nieuwe gaps toegevoegd |
+| 2026-08-01 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 2 inzichten · Health: 100% · 411 wiki-pagina's totaal · commit eb6bd7d |
