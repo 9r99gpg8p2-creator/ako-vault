@@ -66,6 +66,7 @@ George Prigatano (1999) formuleerde twaalf principes van neuropsychologische rev
 **Cross-domein:**
 - [[Deugdethiek]] — ethisch kader: revalidatie roept vragen op over autonomie, menselijke waardigheid en het goede leven na hersenletsel
 - [[Prospect Theory]] — aanvulling: verliesaversie en risicohouding beïnvloeden therapietrouw en beslissingen rondom revalidatiedoelen
+- [[Procedureel Geheugen]] ★8 — procedureel leren via errorless learning is een primair therapeutisch aangrijpingspunt wanneer declaratieve geheugenroutes zijn aangetast
 
 ## Bronnen
 

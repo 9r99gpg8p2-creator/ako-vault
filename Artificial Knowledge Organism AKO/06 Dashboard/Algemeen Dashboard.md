@@ -2,59 +2,60 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-08-01
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-01 | Modus: Consolidatie
+> Gegenereerd: 2026-08-01 | Modus: Expansie
 
 ## Overzicht
 
 | Discipline | Pagina's | Coverage | Connectivity | Score |
 |---|---|---|---|---|
-| Psychologie | 149 | 100%+ | 100% | ★★★★★ |
+| Psychologie | 151 | 100%+ | 100% | ★★★★★ |
 | Filosofie | 94 | 100%+ | 100% | ★★★★★ |
-| Geschiedenis | 92 | 100%+ | 100% | ★★★★★ |
-| Beleggen | 91 | 100%+ | 100% | ★★★★★ |
+| Geschiedenis | 93 | 100%+ | 100% | ★★★★★ |
+| Beleggen | 92 | 100%+ | 100% | ★★★★★ |
 
-**Totaal Wiki-pagina's:** 426
-**Totaal graph-pagina's (conceptual graph):** 884
+**Totaal Wiki-pagina's:** 430
+**Totaal graph-pagina's (conceptual graph):** 891
 **Connectivity:** 100% — alle pagina's bevatten wiki-links
-**Overall Health Score:** 100%
+**Overall Health Score:** 98%
 
-## Activiteit deze run (consolidatie)
+## Activiteit deze run (expansie)
 
 | Metric | Aantal |
 |---|---|
 | Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe relatiepagina's | 6 |
-| Nieuwe inzichtpagina's | 2 |
+| Updates bestaande pagina's | 4 |
+| Nieuwe relatiepagina's | 4 |
+| Nieuwe inzichtpagina's | 3 |
 | Inbox verwerkt | 0 |
 | Queue gaps gedicht | 4 |
 
 ## Nieuwe pagina's
 
-- [[Obsessief-Compulsieve Stoornis]] (Psychologie) — ERP, CGT, neurobiologisch CSTC-circuit, comorbiditeit met eetstoornissen
-- [[Nationalisme]] (Geschiedenis) — Anderson's verbeelde gemeenschappen, Hobsbawm, etnisch vs. civiel nationalisme
-- [[Frontier Markets]] (Beleggen) — sub-EM classificatie, MSCI, lage correlatie, liquiditeitsrisico
-- [[Democratie]] (Filosofie) — volkssoevereiniteit, procedureel vs. substantieel, polyarchie (Dahl), deliberatieve democratie (Habermas)
+- [[Stroop Test]] (Psychologie) — executieve functies, cognitieve inhibitie, klinische diagnostiek
+- [[Procedureel Geheugen]] (Psychologie) — impliciet leren, basale ganglia, errorless learning revalidatie
+- [[De Wetenschappelijke Revolutie]] (Geschiedenis) — 1543–1687, Copernicus/Newton, wetenschappelijke methode
+- [[Dollar Cost Averaging]] (Beleggen) — periodiek beleggen, verliesaversie-respons, lump-sum vergelijking
 
 ## Nieuwe verbindingen
 
-- [[Obsessief-Compulsieve Stoornis — Cognitieve Gedragstherapie]] ★9 (Psychologie intra)
-- [[Obsessief-Compulsieve Stoornis — Eetstoornissen]] ★8 (Psychologie intra)
-- [[Democratie — Maatschappelijk Contract]] ★10 (Filosofie intra)
-- [[Democratie — Liberalisme]] ★9 (Filosofie intra)
-- [[Nationalisme — Het Congres van Wenen]] ★9 (Geschiedenis intra)
-- [[Frontier Markets — Emerging Markets]] ★10 (Beleggen intra)
+- [[Dollar Cost Averaging — Verliesaversie]] ★9 (Beleggen → Psychologie, cross-domein)
+- [[De Wetenschappelijke Revolutie — Paradigmawisseling]] ★10 (Geschiedenis → Filosofie, cross-domein)
+- [[Stroop Test — Dual Process Theorie]] ★8 (Psychologie intra)
+- [[Procedureel Geheugen — Neuropsychologische Revalidatie]] ★8 (Psychologie intra)
 
 ## Nieuwe inzichten
 
-- [[Compulsief Gedrag Herkent Zichzelf Niet in de Beurs]] — Psychologie → Beleggen ★8
-- [[Nationalisme en Democratie als Rivalen om de Volksstem]] — Geschiedenis → Filosofie ★9
+- [[Cognitieve Controle als Basis van Kennisrevolutie]] — Psychologie → Geschiedenis ★8
+- [[Tijdgespreid Beleggen als Instituut van Zelfcontrole]] — Beleggen → Filosofie ★9
+- [[Impliciet Leren als Stille Motor van Cultuuroverdracht]] — Psychologie → Geschiedenis ★7
 
 ## Knowledge Gaps (→ queue)
 
-Queue leeg na deze run.
+- Trail Making Test — nog aan te maken
+- Wisconsin Card Sorting Test (WCST) — nog aan te maken
+- WAIS (Wechsler Adult Intelligence Scale) — nog aan te maken

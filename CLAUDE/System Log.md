@@ -2869,3 +2869,16 @@ type: operationeel
 | 2026-08-01T12:17Z | consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio ≥ 1:5 ✓ |
 | 2026-08-01T12:17Z | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten ✓ (OCD, Nationalisme, Frontier Markets, Democratie) · Queue leeg |
 | 2026-08-01T12:17Z | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 4 pag's aangemaakt · 6 relaties · 2 inzichten · 4 gaps gedicht · Health: 100% · 426 wiki-pagina's totaal |
+| 2026-08-01T14:00Z | expansie | Agent 1 | Inbox scan | ✓ | 4 bestanden gescand — allen beginnen met `_` — STAP 1.5 overgeslagen |
+| 2026-08-01T14:00Z | expansie | Agent 3 | Wiki aangemaakt: Stroop Test | ✓ | 02 Wiki/01 Psychologie - Wiki/Stroop Test.md — confidence 5 |
+| 2026-08-01T14:00Z | expansie | Agent 3 | Wiki aangemaakt: Procedureel Geheugen | ✓ | 02 Wiki/01 Psychologie - Wiki/Procedureel Geheugen.md — confidence 5 |
+| 2026-08-01T14:00Z | expansie | Agent 3 | Wiki aangemaakt: De Wetenschappelijke Revolutie | ✓ | 02 Wiki/03 Geschiedenis - Wiki/De Wetenschappelijke Revolutie.md — confidence 5 |
+| 2026-08-01T14:00Z | expansie | Agent 3 | Wiki aangemaakt: Dollar Cost Averaging | ✓ | 02 Wiki/04 Beleggen - Wiki/Dollar Cost Averaging.md — confidence 5 |
+| 2026-08-01T14:00Z | expansie | Agent 4 | Relaties aangemaakt | ✓ | 4 relatiepagina's: DCA—Verliesaversie ★9 · WetRevolutie—Paradigmawisseling ★10 · Stroop—DualProcess ★8 · ProcGeheugen—NeuropsRevalidatie ★8 |
+| 2026-08-01T14:00Z | expansie | Agent 5 | Inzichten aangemaakt | ✓ | 3 inzichtpagina's: CogControleKennisrevolutie ★8 · TijdgespreideZelfcontrole ★9 · ImplicietLerenCultuuroverdracht ★7 |
+| 2026-08-01T14:00Z | expansie | Agent 6 | Dagrapport overschreven | ✓ | 2026-08-01 Dagrapport.md bijgewerkt (expansie-modus) |
+| 2026-08-01T14:00Z | expansie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-08-01 Quiz.md — 3 nieuwe vragen toegevoegd (Q15–Q17) |
+| 2026-08-01T14:00Z | expansie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 430 wiki-pagina's · 891 graph-pagina's |
+| 2026-08-01T14:00Z | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Stroop Test, +Procedureel Geheugen · Geschiedenis: +De Wetenschappelijke Revolutie · Beleggen: +Dollar Cost Averaging |
+| 2026-08-01T14:00Z | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten · 3 nieuwe gaps → ↓ (Trail Making Test, WCST, WAIS) |
+| 2026-08-01T14:00Z | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's aangemaakt · 4 relaties · 3 inzichten · 4 gaps gedicht · 430 wiki-pagina's totaal |

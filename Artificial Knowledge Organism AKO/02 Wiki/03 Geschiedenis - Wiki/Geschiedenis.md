@@ -105,3 +105,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Glorious Revolution (1688)]]
 - [[Het Congres van Wenen]]
 - [[Nationalisme]]
+- [[De Wetenschappelijke Revolutie]]

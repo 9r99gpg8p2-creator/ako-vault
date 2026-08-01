@@ -68,6 +68,7 @@ De Neys (2006) toonde aan dat mensen met hoge cognitieve capaciteiten conflicten
 - [[Technische Analyse]] ★8 — patroonherkenning in grafieken is een System 1-process; technische analyse is deels verklarbaar en deels kwetsbaar door dual process mechanismen
 - [[Heuristieken]] ★9 — heuristieken zijn het directe product van System 1-denken in financiële beslissingscontexten
 - [[Kwantitatief Beleggen]] ★8 — kwantitatief beleggen is een institutionele strategie om System 1-fouten te elimineren via algoritmen (Beleggen)
+- [[Stroop Test]] ★8 — de Stroop Test is de meest directe laboratoriumdemonstratie van System 1/System 2-conflict: automatisch lezen (System 1) verstoort bewuste kleurbenoemen (System 2)
 
 ## Bronnen
 

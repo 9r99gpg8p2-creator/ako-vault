@@ -430,3 +430,10 @@ type: operationeel
 | ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Nationalisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Nationalisme.md — confidence 5 |
 | ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Frontier Markets | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Frontier Markets.md — confidence 5 |
 | ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Democratie | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Democratie.md — confidence 5 |
+| ✓ | 2026-08-01T expansie | Agent 3 | Gap: Stroop Test | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Stroop Test.md — confidence 5 |
+| ✓ | 2026-08-01T expansie | Agent 3 | Gap: Procedureel Geheugen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Procedureel Geheugen.md — confidence 5 |
+| ✓ | 2026-08-01T expansie | Agent 3 | Gap: De Wetenschappelijke Revolutie | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Wetenschappelijke Revolutie.md — confidence 5 |
+| ✓ | 2026-08-01T expansie | Agent 3 | Gap: Dollar Cost Averaging | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Dollar Cost Averaging.md — confidence 5 |
+| ↓ | 2026-08-01T expansie | Agent 3 | Gap: Trail Making Test | Ontbreekt: neuropsychologisch instrument voor verwerkingssnelheid en cognitieve flexibiliteit — prioriteit 1 |
+| ↓ | 2026-08-01T expansie | Agent 3 | Gap: Wisconsin Card Sorting Test (WCST) | Ontbreekt: meting van cognitieve flexibiliteit en perseveratiefouten bij frontale disfunctie |
+| ↓ | 2026-08-01T expansie | Agent 3 | Gap: WAIS (Wechsler Adult Intelligence Scale) | Ontbreekt: meest gebruikte intelligentie- en neuropsychologische batterij — essentieel voor klinische neuropsychologie |

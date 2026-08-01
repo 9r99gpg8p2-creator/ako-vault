@@ -162,3 +162,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Geneeskunde van de Geest (Psychiatriegeschiedenis)]]
 - [[Eetstoornissen]]
 - [[Obsessief-Compulsieve Stoornis]]
+- [[Stroop Test]]
+- [[Procedureel Geheugen]]

@@ -105,3 +105,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Financieel Hefboomeffect]]
 - [[Emerging Markets]]
 - [[Frontier Markets]]
+- [[Dollar Cost Averaging]]
