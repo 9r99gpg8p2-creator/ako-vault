@@ -2798,3 +2798,24 @@ type: operationeel
 | 2026-08-01 | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · Geen hub-to-hub links · Cross-domein ratio: ≥ 1:5 ✓ |
 | 2026-08-01 | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 1 gap gesloten (Bill of Rights) · 3 nieuwe gaps toegevoegd |
 | 2026-08-01 | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · 4 verbindingen · 2 inzichten · Health: 100% · 411 wiki-pagina's totaal · commit eb6bd7d |
+| 2026-08-01 | consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-08-01 | consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden — alle inbox-bestanden beginnen met _ (template) — STAP 1.5 overgeslagen |
+| 2026-08-01 | consolidatie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — fallback: intern kennismodel. Confidence 5 voor alle nieuwe pagina's. |
+| 2026-08-01 | consolidatie | Agent 2 | Onderwerp selectie | ✓ | 3 onderwerpen queue↓: De Glorious Revolution (1688), Ibn Khaldun, Geneeskunde van de Geest (Psychiatriegeschiedenis) |
+| 2026-08-01 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | De Glorious Revolution (1688).md — 03 Geschiedenis - Wiki — confidence 5 (Israel 2003, Pincus 2009) |
+| 2026-08-01 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Ibn Khaldun.md — 02 Filosofie - Wiki — confidence 5 (Rosenthal vertaling 1967, Fromherz 2010) |
+| 2026-08-01 | consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Geneeskunde van de Geest (Psychiatriegeschiedenis).md — 01 Psychologie - Wiki — confidence 5 (Shorter 1997, Porter 2002) |
+| 2026-08-01 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Glorious Revolution (1688) — Bill of Rights (1689).md — sterkte ★10 — Geschiedenis (intra) |
+| 2026-08-01 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Glorious Revolution (1688) — Magna Carta.md — sterkte ★8 — Geschiedenis (intra) |
+| 2026-08-01 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Ibn Khaldun — Historisch Materialisme.md — sterkte ★8 — Filosofie × Geschiedenis (cross-domein) |
+| 2026-08-01 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Ibn Khaldun — Islamitische Filosofie.md — sterkte ★8 — Filosofie (intra) |
+| 2026-08-01 | consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Geneeskunde van de Geest (Psychiatriegeschiedenis) — Biopsychosociaal Model.md — sterkte ★9 — Psychologie (intra) |
+| 2026-08-01 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Cohesie is de Aanjager van Beschaving.md — Ibn Khaldun → Sociale Psychologie — sterkte ★8 |
+| 2026-08-01 | consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Geest Gehoorzaamt de Geschiedenis van haar Behandeling.md — Psychiatriegeschiedenis → Paradigmawisseling — sterkte ★8 |
+| 2026-08-01 | consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-08-01 Dagrapport.md — consolidatiemodus — 3 pagina's, 5 verbindingen, 2 inzichten, 3 gaps gedicht, queue leeg |
+| 2026-08-01 | consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-08-01 Quiz.md — 3 vragen toegevoegd (vr6-8: Ibn Khaldun/asabiyya, psychiatriegeschiedenis, Glorious Revolution trilogie) |
+| 2026-08-01 | consolidatie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 100% — Coverage 100%, Connectivity 100% — Psych 147p, Fil 92p, Gesch 90p, Beleg 89p |
+| 2026-08-01 | consolidatie | Agent 7 | Dashboards bijgewerkt | ✓ | Algemeen Dashboard overschreven — 418 wiki-pagina's · 868 graph-pagina's |
+| 2026-08-01 | consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +1 (Geneeskunde van de Geest) · Filosofie: +1 (Ibn Khaldun) · Geschiedenis: +1 (De Glorious Revolution 1688) |
+| 2026-08-01 | consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten ✓ (Glorious Revolution, Ibn Khaldun, Geneeskunde van de Geest) · Queue leeg |
+| 2026-08-01 | consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · 0 Inbox verwerkt · 3 wiki-pagina's · 5 relaties · 2 inzichten · Health: 100% |

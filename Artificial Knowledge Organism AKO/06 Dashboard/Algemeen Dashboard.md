@@ -2,24 +2,24 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-08-01
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-01 | Modus: Expansie
+> Gegenereerd: 2026-08-01 | Modus: Consolidatie
 
 ## Overzicht
 
 | Discipline | Pagina's | Coverage | Connectivity | Score |
 |---|---|---|---|---|
-| Psychologie | 145 | 100%+ | 100% | ★★★★★ |
-| Filosofie | 90 | 100%+ | 100% | ★★★★★ |
-| Geschiedenis | 88 | 100%+ | 100% | ★★★★★ |
-| Beleggen | 88 | 100%+ | 100% | ★★★★★ |
+| Psychologie | 147 | 100%+ | 100% | ★★★★★ |
+| Filosofie | 92 | 100%+ | 100% | ★★★★★ |
+| Geschiedenis | 90 | 100%+ | 100% | ★★★★★ |
+| Beleggen | 89 | 100%+ | 100% | ★★★★★ |
 
-**Totaal Wiki-pagina's:** 411
-**Totaal graph-pagina's (conceptual graph):** 861
+**Totaal Wiki-pagina's:** 418
+**Totaal graph-pagina's (conceptual graph):** 868
 **Connectivity:** 100% — alle pagina's bevatten wiki-links
 **Overall Health Score:** 100%
 
@@ -27,34 +27,32 @@ sessie: expansie
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe Wiki-pagina's | 3 |
 | Updates bestaande pagina's | 0 |
-| Nieuwe relatiepagina's | 4 |
+| Nieuwe relatiepagina's | 5 |
 | Nieuwe inzichtpagina's | 2 |
 | Inbox verwerkt | 0 |
-| Queue gaps gedicht | 1 |
+| Queue gaps gedicht | 3 |
 
 ## Nieuwe pagina's
 
-- [[Bill of Rights (1689)]] (Geschiedenis) — Engelse constitutionele trilogie voltooid
-- [[Biopsychosociaal Model]] (Psychologie) — kernkader klinische neuropsychologie
-- [[Islamitische Filosofie]] (Filosofie) — falsafa, Avicenna, Averroes
-- [[Financieel Hefboomeffect]] (Beleggen) — leverage, kapitaalstructuur, risico
+- [[De Glorious Revolution (1688)]] (Geschiedenis) — constitutionele trilogie volledig verankerd
+- [[Ibn Khaldun]] (Filosofie) — islamitische geschiedfilosofie en proto-sociologie
+- [[Geneeskunde van de Geest (Psychiatriegeschiedenis)]] (Psychologie) — overgang morele behandeling → biopsychosociaal model
 
 ## Nieuwe verbindingen
 
-- [[Biopsychosociaal Model — Klinische Neuropsychologie]] ★9
-- [[Islamitische Filosofie — De Islamitische Gouden Eeuw]] ★10 (cross-domein)
-- [[Financieel Hefboomeffect — Verliesaversie]] ★8 (cross-domein: Beleggen × Psychologie)
-- [[Bill of Rights (1689) — Habeas Corpus Act (1679)]] ★9
+- [[De Glorious Revolution (1688) — Bill of Rights (1689)]] ★10
+- [[De Glorious Revolution (1688) — Magna Carta]] ★8
+- [[Ibn Khaldun — Historisch Materialisme]] ★8
+- [[Ibn Khaldun — Islamitische Filosofie]] ★8
+- [[Geneeskunde van de Geest (Psychiatriegeschiedenis) — Biopsychosociaal Model]] ★9
 
 ## Nieuwe inzichten
 
-- [[De Islamitische Overdrachtsband van Kennis]] — Geschiedenis → Filosofie ★9
-- [[Hefboom Vergroot het Psychologische Verlies]] — Beleggen → Psychologie ★8
+- [[Cohesie is de Aanjager van Beschaving]] — Ibn Khaldun → Sociale Psychologie ★8
+- [[De Geest Gehoorzaamt de Geschiedenis van haar Behandeling]] — Psychiatriegeschiedenis → Paradigmawisseling ★8
 
 ## Knowledge Gaps (→ queue)
 
-- Glorious Revolution (1688) — aanvullend op Bill of Rights (1689)
-- Ibn Khaldun — islamitische geschiedfilosofie en vroege sociologie
-- Geneeskunde van de Geest — psychiatriegeschiedeniscluster
+*(Queue leeg — alle 3 openstaande gaps gedicht in deze run)*
