@@ -108,3 +108,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Dollar Cost Averaging]]
 - [[REITs]]
 - [[Mental Accounting]]
+- [[Anchoring]]

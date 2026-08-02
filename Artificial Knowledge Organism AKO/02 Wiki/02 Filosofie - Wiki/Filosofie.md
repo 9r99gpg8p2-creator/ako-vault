@@ -109,3 +109,4 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Democratie]]
 - [[Confucianisme]]
 - [[Boeddhisme]]
+- [[Taoisme]]

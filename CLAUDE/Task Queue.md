@@ -444,6 +444,9 @@ type: operationeel
 | ✓ | 2026-08-02T expansie | Agent 3 | Gap: Boeddhisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Boeddhisme.md — confidence 5 |
 | ✓ | 2026-08-02T expansie | Agent 3 | Gap: Mental Accounting | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Mental Accounting.md — confidence 5 (Thaler 1980, 1999) |
 | ✓ | 2026-08-02T expansie | Agent 3 | Gap: Forensische Neuropsychologie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Forensische Neuropsychologie.md — confidence 5 |
-| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Taoisme | Filosofie — ontbreekt als pagina; complementair aan Confucianisme en Boeddhisme |
-| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Anchoring (Ankereffect) | Beleggen + Psychologie — cross-domein bias; ontbreekt in beide wikis |
-| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Slaapstoornissen | Psychologie — klinisch relevant; sluit aan bij Slaap en Geheugenconsolidatie |
+| ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Taoisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Taoisme.md — confidence 5 |
+| ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Anchoring (Ankereffect) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Anchoring.md — confidence 5 (Kahneman & Tversky 1974) |
+| ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Slaapstoornissen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Slaapstoornissen.md — confidence 5 (DSM-5-TR, Walker 2017) |
+| ↓ | 2026-08-02T consolidatie | Agent 3 | Gap: Borderline Persoonlijkheidsstoornis | Psychologie klinisch — ontbreekt als eigenstandige pagina; relatie DBT + Emotieregulatie |
+| ↓ | 2026-08-02T consolidatie | Agent 3 | Gap: Cognitieve Herstructurering | Psychologie — CGT-techniek vermeld in meerdere pagina's maar nog geen eigen pagina |
+| ↓ | 2026-08-02T consolidatie | Agent 3 | Gap: Economische Ongelijkheid | Beleggen × Geschiedenis — cross-domein ontbrekende brug |

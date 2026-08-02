@@ -2964,3 +2964,20 @@ type: operationeel
 | 2026-08-02T expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Confucianisme, +Boeddhisme · Beleggen: +Mental Accounting · Psychologie: +Forensische Neuropsychologie |
 | 2026-08-02T expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten · 3 nieuwe gaps → queue (Taoisme, Anchoring, Slaapstoornissen) |
 | 2026-08-02T expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · Health: 98% |
+| 2026-08-02T consolidatie | Orchestrator | Context geladen | ✓ | AKO v1.6, Task Queue, System Log geladen — 3 gaps in queue (Taoisme, Anchoring, Slaapstoornissen) |
+| 2026-08-02T consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alle beginnen met _) — STAP 1.5 overgeslagen |
+| 2026-08-02T consolidatie | Agent 2 | Wikipedia API | FOUT | Externe API geblokkeerd — interne kennis gebruikt (confidence 5) |
+| 2026-08-02T consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Taoisme.md — 02 Filosofie - Wiki — confidence 5 (Laozi, Zhuangzi, Watts) |
+| 2026-08-02T consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Anchoring.md — 04 Beleggen - Wiki — confidence 5 (Kahneman & Tversky 1974, Ariely 2003) |
+| 2026-08-02T consolidatie | Agent 3 | Wiki aangemaakt | ✓ | Slaapstoornissen.md — 01 Psychologie - Wiki — confidence 5 (DSM-5-TR, Morin & Benca 2012, Walker 2017) |
+| 2026-08-02T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Taoisme — Confucianisme.md ★8 (Filosofie×Filosofie) |
+| 2026-08-02T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Anchoring — Prospect Theory.md ★9 (Beleggen×Psychologie) |
+| 2026-08-02T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Slaapstoornissen — Depressie.md ★9 (Psychologie×Psychologie) |
+| 2026-08-02T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Slaapstoornissen — Cognitieve Reserve.md ★8 (Psychologie×Psychologie) |
+| 2026-08-02T consolidatie | Agent 5 | Inzicht aangemaakt | ✓ | Wu Wei als Cognitieve Strategie.md — Filosofie→Psychologie ★8 |
+| 2026-08-02T consolidatie | Agent 5 | Inzicht aangemaakt | ✓ | Het Anker als Referentiepunt.md — Beleggen→Psychologie ★9 |
+| 2026-08-02T consolidatie | Agent 6 | Dagrapport bijgewerkt | ✓ | 2026-08-02 Dagrapport.md overschreven — consolidatie-run verwerkt |
+| 2026-08-02T consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 3 nieuwe vragen toegevoegd (Taoisme, Anchoring, Slaapstoornissen) — totaal 14 vragen |
+| 2026-08-02T consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Taoisme · Beleggen: +Anchoring · Psychologie: +Slaapstoornissen |
+| 2026-08-02T consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten · 3 nieuwe gaps → queue (Borderline PS, Cognitieve Herstructurering, Economische Ongelijkheid) |
+| 2026-08-02T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 100% |
