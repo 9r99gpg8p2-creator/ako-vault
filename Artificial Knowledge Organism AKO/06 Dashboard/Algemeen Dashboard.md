@@ -2,61 +2,59 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-08-02
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-02 | Modus: Expansie
+> Gegenereerd: 2026-08-02 | Modus: Consolidatie
 
 ## Overzicht
 
 | Discipline | Pagina's | Coverage | Connectivity | Score |
 |---|---|---|---|---|
-| Psychologie | 156 | 100%+ | 100% | ★★★★★ |
-| Filosofie | 93 | 100%+ | 100% | ★★★★★ |
-| Geschiedenis | 92 | 100%+ | 100% | ★★★★★ |
-| Beleggen | 92 | 100%+ | 100% | ★★★★★ |
+| Psychologie | 160 | 100%+ | 100% | ★★★★★ |
+| Filosofie | 94 | 100%+ | 100% | ★★★★★ |
+| Geschiedenis | 93 | 100%+ | 100% | ★★★★★ |
+| Beleggen | 93 | 100%+ | 100% | ★★★★★ |
 
-**Totaal Wiki-pagina's:** 433
-**Totaal graph-pagina's (conceptual graph):** 906
+**Totaal Wiki-pagina's:** 440
+**Totaal graph-pagina's (conceptual graph):** 914
 **Connectivity:** 100% — alle pagina's bevatten wiki-links
 **Overall Health Score:** 98%
 
-## Activiteit deze run (expansie 2026-08-02)
+## Activiteit deze run (consolidatie 2026-08-02)
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 3 |
-| Nieuwe relatiepagina's | 4 |
+| Nieuwe Wiki-pagina's | 3 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe relatiepagina's | 6 |
 | Nieuwe inzichtpagina's | 2 |
 | Inbox verwerkt | 0 |
-| Queue gaps gedicht | 0 |
-| Gaps gesignaleerd | 3 |
+| Queue gaps gedicht | 3 |
+| Gaps gesignaleerd | 0 |
 
-## Nieuwe pagina's
+## Nieuwe pagina's (consolidatie-run)
 
-- [[Broca's Afasie]] (Psychologie) — niet-vloeiende afasie, agrammatisme, linker IFG, revalidatie; confidence 5
-- [[Informatieverwerkingstheorie]] (Psychologie) — cognitief paradigma, Miller, Atkinson-Shiffrin, KTG/LTG; confidence 5
-- [[Transcraniale Magnetische Stimulatie]] (Psychologie) — rTMS, magnetische inductie, depressie-behandeling, TBS; confidence 5
-- [[REITs]] (Beleggen) — vastgoedinvesteringsvehikel, 90%-uitkeringsregel, FFO, NAV; confidence 5
+- [[RAVLT]] (Psychologie) — verbale geheugentest, leercurve, uitgesteld-vergeet-patroon; confidence 8
+- [[Cognitieve Architectuur]] (Psychologie) — overkoepelend informatieverwerkingskader, ACT-R, werkgeheugen, dual process; confidence 7
+- [[Deep Brain Stimulation]] (Psychologie) — STN/GPi-stimulatie, Parkinson, therapieresistente depressie, OCD; confidence 8
 
-## Nieuwe verbindingen
+## Nieuwe verbindingen (consolidatie-run)
 
-- [[Broca's Afasie — Wernicke's Afasie]] ★9 (Psychologie intra — dubbele dissociatie taal)
-- [[Informatieverwerkingstheorie — Werkgeheugen]] ★9 (Psychologie intra)
-- [[Transcraniale Magnetische Stimulatie — Neuroethiek]] ★8 (Psychologie × Filosofie, cross-domein)
-- [[REITs — Behavioral Finance]] ★7 (Beleggen × Psychologie, cross-domein)
+- [[RAVLT — Neuropsychologische Testbatterijen]] ★9 (Psychologie intra)
+- [[RAVLT — Episodisch Geheugen]] ★8 (Psychologie intra)
+- [[Cognitieve Architectuur — Werkgeheugen]] ★9 (Psychologie intra)
+- [[Cognitieve Architectuur — Dual Process Theorie]] ★8 (Psychologie intra)
+- [[Deep Brain Stimulation — Ziekte van Parkinson]] ★9 (Psychologie intra)
+- [[Deep Brain Stimulation — Transcraniale Magnetische Stimulatie]] ★7 (Psychologie intra + Filosofie)
 
-## Nieuwe inzichten
+## Nieuwe inzichten (consolidatie-run)
 
-- [[Informatieverwerkingsgrenzen Verklaren Beleggingsfouten]] — Psychologie → Beleggen ★9
-- [[Hersenstimulatie als Filosofisch Grensgebied]] — Psychologie → Filosofie ★8
+- [[De Architectuur van Irrationaliteit]] — Psychologie → Beleggen ★9
+- [[Hersenen Repareren om Mensen te Bevrijden]] — Psychologie → Filosofie ★8
 
 ## Knowledge Gaps (→ queue)
 
-Aanbevolen volgende targets:
-- **RAVLT** (Rey Auditory Verbal Learning Test) — verbale geheugentest
-- **Broca's gebied** als standalone anatomisch concept (nu alleen in Broca's Afasie)
-- **Islamitische Gouden Eeuw — medische traditie** (uitbreiding bestaande pagina)
+Queue volledig leeg na deze run. Geen nieuwe gaps gesignaleerd.

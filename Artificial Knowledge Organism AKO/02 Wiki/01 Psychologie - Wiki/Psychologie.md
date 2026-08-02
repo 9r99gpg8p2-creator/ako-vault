@@ -170,3 +170,6 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Broca's Afasie]]
 - [[Informatieverwerkingstheorie]]
 - [[Transcraniale Magnetische Stimulatie]]
+- [[RAVLT]]
+- [[Cognitieve Architectuur]]
+- [[Deep Brain Stimulation]]
