@@ -2992,3 +2992,13 @@ type: operationeel
 | 2026-08-02T expansie | Agent 7 | Audit voltooid | ✓ | Alle disciplines 100% — 454 pagina's · 931 graph-bestanden |
 | 2026-08-02T expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +4 · Geschiedenis: +2 · Beleggen: +1 |
 | 2026-08-02T expansie | Orchestrator | Expansie-run voltooid | ✓ | 7 pag's aangemaakt · 3 gaps gedicht · 2 nieuwe gaps → queue · Health: 100% |
+| 2026-08-02T consolidatie | Agent 1 | Inbox verwerkt | ✓ | Geen bestanden — alle beginnen met `_`; STAP 1.5 overgeslagen |
+| 2026-08-02T consolidatie | Agent 3 | Wiki aangemaakt: Mentaliseren | ✓ | 02 Wiki/01 Psychologie - Wiki/Mentaliseren.md — confidence 5 (Fonagy/Bateman) |
+| 2026-08-02T consolidatie | Agent 3 | Wiki aangemaakt: Cognitieve Triade (Beck) | ✓ | 02 Wiki/01 Psychologie - Wiki/Cognitieve Triade (Beck).md — confidence 5 (Beck 1967/1979) |
+| 2026-08-02T consolidatie | Agent 4 | Relatiepagina's aangemaakt | ✓ | 6 relaties: Mentaliseren↔Hechtingstheorie(★9), Mentaliseren↔BPS(★9), Mentaliseren↔ToM(★8), CogTriade↔Depressie(★10), CogTriade↔CGT(★9), CogTriade↔Verliesaversie(★7) |
+| 2026-08-02T consolidatie | Agent 5 | Inzichtpagina's aangemaakt | ✓ | 3 inzichten: Mentaliseren als Brugcapaciteit(★9), Hopeloosheid als Risicofactor(★8), Cognitief Negativisme(★7) |
+| 2026-08-02T consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-08-02 Dagrapport.md — consolidatie-run |
+| 2026-08-02T consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 3 nieuwe vragen toegevoegd (vr.18–20: Mentaliseren, Cognitieve Triade, cross-domein) |
+| 2026-08-02T consolidatie | Agent 7 | Audit voltooid | ✓ | Alle disciplines 100% — Psych:168 · Fil:97 · Gesch:95 · Bel:96 · graph: 940 bestanden |
+| 2026-08-02T consolidatie | Agent 8 | Hub-pagina bijgewerkt | ✓ | Psychologie.md: +Mentaliseren, +Cognitieve Triade (Beck) |
+| 2026-08-02T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 2 gaps gedicht · 6 relaties · 3 inzichten · Health: 100% |

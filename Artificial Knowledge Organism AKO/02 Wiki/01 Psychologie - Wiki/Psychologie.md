@@ -179,3 +179,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Wilhelm Wundt]]
 - [[Borderline Persoonlijkheidsstoornis]]
 - [[Cognitieve Herstructurering]]
+- [[Mentaliseren]]
+- [[Cognitieve Triade (Beck)]]

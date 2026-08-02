@@ -454,5 +454,5 @@ type: operationeel
 | ✓ | 2026-08-02T expansie | Agent 3 | Expansie: Motivatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Motivatie.md — confidence 5 |
 | ✓ | 2026-08-02T expansie | Agent 3 | Expansie: Wilhelm Wundt | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Wilhelm Wundt.md — confidence 5 |
 | ✓ | 2026-08-02T expansie | Agent 3 | Expansie: Sociale Klasse | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Sociale Klasse.md — confidence 5 |
-| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Mentaliseren | Psychologie klinisch — kernbegrip MBT voor BPS; ontbreekt als eigenstandige pagina |
-| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Cognitieve Triade (Beck) | Psychologie — fundamenteel model in CGT; vermeld in Cognitieve Herstructurering maar geen eigen pagina |
+| ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Mentaliseren | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Mentaliseren.md — confidence 5 (Fonagy & Bateman 2002/2004) |
+| ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Cognitieve Triade (Beck) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Triade (Beck).md — confidence 5 (Beck 1967/1979) |
