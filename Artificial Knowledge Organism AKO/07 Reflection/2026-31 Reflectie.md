@@ -112,3 +112,15 @@ Zeven nieuwe pagina's toegevoegd die onontgonnen gebieden in alle vier disciplin
 
 **Meest significante inzicht van 1 augustus:**
 Liberale autonomiefilosofie — het hart van de Verlichtingserfenis die Locke en Rawls deelden — wordt in de psychiatrie dagelijks uitgedaagd door patiënten voor wie autonomie verstoord is. Dit maakt liberalisme niet alleen politieke filosofie maar ook clinisch-ethische fundament: elke gedwongen opname, elke wilsonbekwaamheidsverklaring, is een moment waarop Locke's theorie haar grenzen bereikt.
+
+### Aanvulling 2 augustus — Expansie-run (Broca / Informatieverwerkingstheorie / REITs / TMS)
+
+Vier nieuwe pagina's die prioritaire lacunes in het klinisch-neuropsychologische en beleggingsdomein dichtten:
+
+- **Broca's Afasie** (Psychologie): het klassieke niet-vloeiende afasietype; agrammatisme, telegramstijl en relatief intact begrip als gevolg van een laesie in de linker inferieure frontale gyrus. Sluit aan op Wernicke's Afasie en completeert het afasie-cluster in de vault.
+- **Informatieverwerkingstheorie** (Psychologie): het cognitieve paradigma dat de menselijke geest als informatiesysteem beschrijft. Het ontbrekende theoretische fundament achter Werkgeheugen, Dual Process Theorie en Cognitieve Belastingstheorie.
+- **REITs** (Beleggen): Real Estate Investment Trusts als beursgenoteerd vastgoedinstrument; 90%-uitkeringsregel, NAV-analyse, FFO als winstmaatstaf. Beleggen had de minste pagina's — deze toevoeging versterkt de balans.
+- **Transcraniale Magnetische Stimulatie (TMS)** (Psychologie): niet-invasieve neurostimulatie via elektromagnetische inductie; diagnostisch (motorische mapping) en therapeutisch (rTMS bij depressie, OCD). Cruciaal voor klinische neuropsychologie MSc.
+
+**Meest significante inzicht van 2 augustus:**
+De beperkte verwerkingscapaciteit van het menselijk informatieverwerkingssysteem is niet alleen een cognitief-psychologisch feit maar ook een financieel-gedragsmatig risico: wanneer markten complex worden, valt de belegger terug op heuristieken die door dezelfde verwerkingsgrenzen worden veroorzaakt die Miller in 1956 beschreef. Dit verbindt twee disciplines die ogenschijnlijk weinig gemeen hebben via een gedeeld architectureel principe.

@@ -2905,3 +2905,27 @@ type: operationeel
 | 2026-08-01T consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten (Trail Making Test, WCST, WAIS) · Queue volledig leeg |
 | 2026-08-01T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps · Health: 98% |
 | 2026-08-01T14:00Z | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's aangemaakt · 4 relaties · 3 inzichten · 4 gaps gedicht · 430 wiki-pagina's totaal |
+| 2026-08-02T06:00Z | expansie | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-08-02T06:00Z | expansie | Agent 1 | Inbox scan | ✓ | Geen eligible bestanden — alle Inbox-bestanden beginnen met _ (sjabloonbestanden). STAP 1.5 overgeslagen. |
+| 2026-08-02T06:00Z | expansie | Agent 2 | Wikipedia API | FOUT E-003 | HTTP blokkade — interne kennis gebruikt. Confidence 5 voor alle nieuwe pagina's. |
+| 2026-08-02T06:00Z | expansie | Agent 2 | Onderwerp selectie | ✓ | 4 onderwerpen: Broca's Afasie (Psychologie NIEUW), Informatieverwerkingstheorie (Psychologie NIEUW), REITs (Beleggen NIEUW), Transcraniale Magnetische Stimulatie (Psychologie NIEUW) |
+| 2026-08-02T06:00Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | Broca's Afasie.md — 01 Psychologie - Wiki — confidence 5 (Broca 1861, Goodglass 1983, Damasio 1992) |
+| 2026-08-02T06:00Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | Informatieverwerkingstheorie.md — 01 Psychologie - Wiki — confidence 5 (Miller 1956, Neisser 1967, Atkinson/Shiffrin 1968) |
+| 2026-08-02T06:00Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | REITs.md — 04 Beleggen - Wiki — confidence 5 (Geltner 2014, Block 2011, NAREIT 2023) |
+| 2026-08-02T06:00Z | expansie | Agent 3 | Wiki aangemaakt | ✓ | Transcraniale Magnetische Stimulatie.md — 01 Psychologie - Wiki — confidence 5 (Barker 1985, Pascual-Leone 2002, George 1996) |
+| 2026-08-02T06:00Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Broca's Afasie — Wernicke's Afasie.md — sterkte ★9 — Psychologie (intra) |
+| 2026-08-02T06:00Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Informatieverwerkingstheorie — Werkgeheugen.md — sterkte ★9 — Psychologie (intra) |
+| 2026-08-02T06:00Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | Transcraniale Magnetische Stimulatie — Neuroethiek.md — sterkte ★8 — Psychologie × Filosofie (cross-domein) |
+| 2026-08-02T06:00Z | expansie | Agent 4 | Relatiepagina aangemaakt | ✓ | REITs — Behavioral Finance.md — sterkte ★7 — Beleggen × Psychologie (cross-domein) |
+| 2026-08-02T06:00Z | expansie | Agent 4 | Backlinks toegevoegd | ✓ | Neuroethiek.md +TMS ★8 · Werkgeheugen.md +Informatieverwerkingstheorie ★9 · Behavioral Finance.md +REITs ★7 |
+| 2026-08-02T06:00Z | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Informatieverwerkingsgrenzen Verklaren Beleggingsfouten.md — Psychologie → Beleggen — sterkte ★9 |
+| 2026-08-02T06:00Z | expansie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Hersenstimulatie als Filosofisch Grensgebied.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-08-02T06:00Z | expansie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-08-02 Dagrapport.md — 4 nieuwe pagina's, 4 verbindingen, 2 inzichten, 3 gaps gesignaleerd |
+| 2026-08-02T06:00Z | expansie | Agent 6 | Quiz aangemaakt | ✓ | 2026-08-02 Quiz.md — 5 vragen (begrip, toepassing, vergelijking) |
+| 2026-08-02T06:00Z | expansie | Agent 6 | Reflectie bijgewerkt | ✓ | 2026-31 Reflectie.md — aanvulling 2 augustus expansie-run toegevoegd |
+| 2026-08-02T06:00Z | expansie | Agent 7 | Knowledge Health berekend | ✓ | Overall: 98% — Psych 156p, Fil 93p, Gesch 92p, Beleg 92p — Connectivity 100%, Orphan 0% |
+| 2026-08-02T06:00Z | expansie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 433 wiki-pagina's · 906 graph-pagina's |
+| 2026-08-02T06:00Z | expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +Broca's Afasie, +Informatieverwerkingstheorie, +TMS · Beleggen: +REITs |
+| 2026-08-02T06:00Z | expansie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · 2 cross-domein bridges · Cross-domein ratio ✓ |
+| 2026-08-02T06:00Z | expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 nieuwe gaps → ↓ (RAVLT, Cognitieve Architectuur, DBS) |
+| 2026-08-02T06:00Z | expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 nieuwe pag's · 4 verbindingen · 2 inzichten · 3 gaps gesignaleerd · Health: 98% |

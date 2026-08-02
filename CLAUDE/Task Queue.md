@@ -437,3 +437,6 @@ type: operationeel
 | ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Trail Making Test | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Trail Making Test.md — confidence 8 (Reitan 1958, Lezak 2012) |
 | ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: Wisconsin Card Sorting Test (WCST) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Wisconsin Card Sorting Test.md — confidence 8 (Berg 1948, Milner 1963, Heaton 1993) |
 | ✓ | 2026-08-01T consolidatie | Agent 3 | Gap: WAIS (Wechsler Adult Intelligence Scale) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/WAIS.md — confidence 8 (Wechsler 1955/2008, Lezak 2012) |
+| ↓ | 2026-08-02T expansie | Agent 3 | Gap: RAVLT (Rey Auditory Verbal Learning Test) | Verbale geheugentest — ontbreekt in neuropsychologisch testbatterijen-cluster |
+| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Cognitieve Architectuur | Overkoepelend concept voor informatieverwerkingstheorie + werkgeheugen + dual process |
+| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Deep Brain Stimulation (DBS) | Complementair aan TMS; therapeutisch voor Parkinson en behandelresistente depressie |

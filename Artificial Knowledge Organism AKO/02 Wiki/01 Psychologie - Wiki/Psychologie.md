@@ -167,3 +167,6 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Trail Making Test]]
 - [[Wisconsin Card Sorting Test]]
 - [[WAIS]]
+- [[Broca's Afasie]]
+- [[Informatieverwerkingstheorie]]
+- [[Transcraniale Magnetische Stimulatie]]

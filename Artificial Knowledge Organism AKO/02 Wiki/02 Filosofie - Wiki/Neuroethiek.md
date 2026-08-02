@@ -59,6 +59,7 @@ Neuroethiek raakt aan centrale vragen uit de klassieke filosofie: Kant's deontol
 **Cross-domein:**
 - [[Neuropsychologie]] — neuroethiek als reflectief kader voor de klinische neuropsychologiepraktijk
 - [[Prefrontale Cortex]] — schade aan de prefrontale cortex beïnvloedt moreel oordelen
+- [[Transcraniale Magnetische Stimulatie]] ★8 — TMS roept vragen op over grenzen tussen therapie en cognitieve verbetering
 
 ## Bronnen
 
