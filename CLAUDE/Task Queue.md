@@ -440,3 +440,10 @@ type: operationeel
 | ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: RAVLT (Rey Auditory Verbal Learning Test) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/RAVLT.md — confidence 8 (Rey 1958, Schmidt 1996, Lezak 2012) |
 | ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Cognitieve Architectuur | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Architectuur.md — confidence 7 (Anderson 1983, Baddeley 2000, Evans 2008) |
 | ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Deep Brain Stimulation (DBS) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Deep Brain Stimulation.md — confidence 8 (Benabid 1987, Mayberg 2005, Lozano 2013) |
+| ✓ | 2026-08-02T expansie | Agent 3 | Gap: Confucianisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Confucianisme.md — confidence 5 |
+| ✓ | 2026-08-02T expansie | Agent 3 | Gap: Boeddhisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Boeddhisme.md — confidence 5 |
+| ✓ | 2026-08-02T expansie | Agent 3 | Gap: Mental Accounting | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Mental Accounting.md — confidence 5 (Thaler 1980, 1999) |
+| ✓ | 2026-08-02T expansie | Agent 3 | Gap: Forensische Neuropsychologie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Forensische Neuropsychologie.md — confidence 5 |
+| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Taoisme | Filosofie — ontbreekt als pagina; complementair aan Confucianisme en Boeddhisme |
+| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Anchoring (Ankereffect) | Beleggen + Psychologie — cross-domein bias; ontbreekt in beide wikis |
+| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Slaapstoornissen | Psychologie — klinisch relevant; sluit aan bij Slaap en Geheugenconsolidatie |

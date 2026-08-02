@@ -2950,3 +2950,17 @@ type: operationeel
 | 2026-08-02T consolidatie | Agent 8 | Graph-validatie | ✓ | Geen geïsoleerde nodes · 2 cross-domein bridges · Cross-domein ratio ✓ |
 | 2026-08-02T consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten (RAVLT, Cognitieve Architectuur, DBS) · Queue leeg |
 | 2026-08-02T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps · Health: 98% |
+| 2026-08-02T expansie | Agent 1 | Inbox scan | ✓ | Alle inbox-bestanden starten met '_' — geen bestanden te verwerken; STAP 1.5 overgeslagen |
+| 2026-08-02T expansie | Agent 3 | Wiki aangemaakt | ✓ | Confucianisme.md (Filosofie) — confidence 5 |
+| 2026-08-02T expansie | Agent 3 | Wiki aangemaakt | ✓ | Boeddhisme.md (Filosofie) — confidence 5 |
+| 2026-08-02T expansie | Agent 3 | Wiki aangemaakt | ✓ | Mental Accounting.md (Beleggen) — confidence 5 |
+| 2026-08-02T expansie | Agent 3 | Wiki aangemaakt | ✓ | Forensische Neuropsychologie.md (Psychologie) — confidence 5 |
+| 2026-08-02T expansie | Agent 4 | Relatiepagina | ✓ | Boeddhisme — Acceptatie en Commitment Therapie.md (Filosofie→Psychologie) ★9 |
+| 2026-08-02T expansie | Agent 4 | Relatiepagina | ✓ | Mental Accounting — Prospect Theory.md (Beleggen→Psychologie) ★9 |
+| 2026-08-02T expansie | Agent 4 | Relatiepagina | ✓ | Forensische Neuropsychologie — Deontologie.md (Psychologie→Filosofie) ★7 |
+| 2026-08-02T expansie | Agent 5 | Inzicht | ✓ | Oosterse Filosofie als Therapeutische Grondslag.md — Filosofie→Psychologie ★9 |
+| 2026-08-02T expansie | Agent 5 | Inzicht | ✓ | Mentale Boekhoudkunde als Irrationele Bescherming.md — Beleggen→Psychologie ★8 |
+| 2026-08-02T expansie | Agent 7 | Dashboard bijgewerkt | ✓ | Algemeen Dashboard.md overschreven — 440 wiki-pagina's · 919 graph-pagina's |
+| 2026-08-02T expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Confucianisme, +Boeddhisme · Beleggen: +Mental Accounting · Psychologie: +Forensische Neuropsychologie |
+| 2026-08-02T expansie | Orchestrator | Task Queue bijgewerkt | ✓ | 4 gaps gesloten · 3 nieuwe gaps → queue (Taoisme, Anchoring, Slaapstoornissen) |
+| 2026-08-02T expansie | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's · Health: 98% |

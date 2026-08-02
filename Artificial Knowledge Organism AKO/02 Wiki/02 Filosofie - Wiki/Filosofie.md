@@ -107,3 +107,5 @@ Focusgebied: filosofie van de geest, epistemologie, ethiek, wetenschapsfilosofie
 - [[Ibn Khaldun]]
 - [[Liberalisme]]
 - [[Democratie]]
+- [[Confucianisme]]
+- [[Boeddhisme]]

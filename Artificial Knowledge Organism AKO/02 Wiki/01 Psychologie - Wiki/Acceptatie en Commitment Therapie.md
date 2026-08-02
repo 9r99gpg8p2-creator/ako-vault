@@ -65,6 +65,7 @@ ACT werd ontwikkeld door Steven Hayes aan de University of Nevada, Reno, in de j
 - [[Stoïcisme]] — de filosofische parallel: onderscheid maken tussen wat in onze macht ligt (gedrag/waarden) en wat niet (gedachten/gevoelens), vergelijkbaar met Stoïcijns streven naar deugd ongeacht omstandigheden
 - [[Ethiek van Zorg]] — ACT's nadruk op waarden resoniceert met de zorgethische focus op relationele betrokkenheid en persoonlijke betekenis
 - [[Absurdisme]] ★7 — Camus' opstandshouding (aanvaarden en toch voluit leven) is de filosofische voorganger van ACT's radicale acceptatie en waardegericht handelen
+- [[Boeddhisme]] ★9 — boeddhistische concepten van mindfulness, aanvaarding en niet-identificatie met gedachten (Anatta) vormen de directe filosofische bron voor ACT
 
 ## Bronnen
 

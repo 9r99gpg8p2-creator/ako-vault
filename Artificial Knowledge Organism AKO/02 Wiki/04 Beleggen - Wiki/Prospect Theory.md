@@ -70,6 +70,7 @@ De wetenschappelijke impact weerspiegelt een bredere Wetenschappelijke Revolutie
 - [[Utilitarisme]] ★8 — Prospect Theory weerlegt empirisch de psychologische aanname van nutsmaximalisering waarop klassiek utilitarisme steunt
 - [[Koers-Winstverhouding]] ★8 — verliesaversie verklaart waarom beleggers lage KWV-aandelen mijden ondanks hun fundamentele aantrekkelijkheid, en hoge KWV-aandelen overhouden door optimisme bias
 - [[Fundamentele Analyse]] ★8 — psychologische biases (verliesaversie, ankereffect) verklaren systematische miswaardaties die fundamentele analisten kunnen exploiteren
+- [[Mental Accounting]] ★9 — Thaler's hedonistische framingregels voor mental accounting zijn direct afgeleid van de S-curve van Prospect Theory
 
 ## Bronnen
 
