@@ -2981,3 +2981,14 @@ type: operationeel
 | 2026-08-02T consolidatie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Filosofie: +Taoisme · Beleggen: +Anchoring · Psychologie: +Slaapstoornissen |
 | 2026-08-02T consolidatie | Orchestrator | Task Queue bijgewerkt | ✓ | 3 gaps gesloten · 3 nieuwe gaps → queue (Borderline PS, Cognitieve Herstructurering, Economische Ongelijkheid) |
 | 2026-08-02T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 3 gaps gedicht · Health: 100% |
+| 2026-08-02T expansie | Orchestrator | Expansie-run gestart | ✓ | Inbox leeg (alleen _ bestanden) — STAP 1.5 overgeslagen |
+| 2026-08-02T expansie | Agent 2 | Research voltooid | ✓ | Wikipedia geblokkeerd — interne kennis · 4 onderwerpen geselecteerd: Absolutisme, Motivatie, Wilhelm Wundt, Sociale Klasse |
+| 2026-08-02T expansie | Agent 3 | 7 wiki-pagina's aangemaakt | ✓ | Absolutisme, Motivatie, Wilhelm Wundt, Sociale Klasse, Borderline PS, Cognitieve Herstructurering, Economische Ongelijkheid |
+| 2026-08-02T expansie | Agent 3 | 2 wiki-pagina's bijgewerkt | ✓ | Behavioral Finance + Maatschappelijk Contract — bidirectionele links toegevoegd |
+| 2026-08-02T expansie | Agent 4 | 3 relatiepagina's aangemaakt | ✓ | Motivatie—BF · Absolutisme—MC · Sociale Klasse—EO (cross-domein) |
+| 2026-08-02T expansie | Agent 5 | 3 inzichten aangemaakt | ✓ | Emotionele Dysregulatie als Beleggingsrisico · Absolute Macht als Motivator · Klassenstructuur als Beleggingsvariabele |
+| 2026-08-02T expansie | Agent 6 | Dagrapport bijgewerkt | ✓ | 2026-08-02 Dagrapport.md overschreven — expansie-run |
+| 2026-08-02T expansie | Agent 6 | Quiz bijgewerkt | ✓ | 3 nieuwe vragen toegevoegd (BPS, Cognitieve Herstructurering, Piketty × Absolutisme) — totaal 17 vragen |
+| 2026-08-02T expansie | Agent 7 | Audit voltooid | ✓ | Alle disciplines 100% — 454 pagina's · 931 graph-bestanden |
+| 2026-08-02T expansie | Agent 8 | Hub-pagina's bijgewerkt | ✓ | Psychologie: +4 · Geschiedenis: +2 · Beleggen: +1 |
+| 2026-08-02T expansie | Orchestrator | Expansie-run voltooid | ✓ | 7 pag's aangemaakt · 3 gaps gedicht · 2 nieuwe gaps → queue · Health: 100% |

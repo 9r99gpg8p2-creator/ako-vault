@@ -2,74 +2,44 @@
 type: dagrapport
 date: 2026-08-02
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 14 · Inbox verwerkt: 0 · Verbindingen: 19 · Inzichten: 8 · Gaps: 7 · Leestijd: 56 min
-
----
-
-## Pagina's Aangemaakt (eerdere run vandaag — expansie)
-
-1. [[RAVLT]] — verbale geheugentest, kernonderdeel neuropsychologisch assessment — confidence 8
-2. [[Cognitieve Architectuur]] — overkoepelend raamwerk informatieverwerkingstheorie + werkgeheugen + dual process — confidence 7
-3. [[Deep Brain Stimulation]] — neurochirurgische neurostimulatie bij Parkinson, depressie en OCD — confidence 8
-4. [[Broca's Afasie]] — expressieve afasie bij frontale beschadiging
-5. [[Informatieverwerkingstheorie]] — cognitief paradigma grondleggend voor werkgeheugen en dual process
-6. [[REITs]] — vastgoed als beleggingscategorie
-7. [[Transcraniale Magnetische Stimulatie]] — niet-invasieve neurostimulatie
-8. [[Confucianisme]] — Chinese ethische filosofie; Ren, Li, Yi, Vijf Relaties — confidence 5
-9. [[Boeddhisme]] — Aziatische filosofie; Vier Edele Waarheden, Anatta, mindfulness → ACT — confidence 5
-10. [[Mental Accounting]] — Thaler; mentale categorisering van geld als cognitieve bias — confidence 5
-11. [[Forensische Neuropsychologie]] — neuropsychologische assessment in juridische contexten — confidence 5
-
-## Pagina's Aangemaakt (consolidatie-run)
-
-1. [[Taoisme]] — Chinese filosofie; Tao, wu wei, ziran; Laozi & Zhuangzi — confidence 5
-2. [[Anchoring]] — cognitieve bias ankereffect; Kahneman & Tversky 1974; cross-domein Beleggen × Psychologie — confidence 5
-3. [[Slaapstoornissen]] — klinisch; insomnia, OSA, narcolepsie, CGT-I; glymphatisch systeem — confidence 5
-
----
-
-## Verbindingen Toegevoegd (consolidatie-run)
-
-1. [[Taoisme]] ↔ [[Confucianisme]] · ★8
-2. [[Anchoring]] → [[Prospect Theory]] · ★9
-3. [[Slaapstoornissen]] ↔ [[Depressie]] · ★9
-4. [[Slaapstoornissen]] → [[Cognitieve Reserve]] · ★8
-
----
-
-## Insight Feed
-
-— "Het taoïstische principe van *wu wei* — handelen zonder geforceerde controle — deelt zijn therapeutische logica met Acceptatie en Commitment Therapie: loslaten is soms de meest effectieve cognitieve strategie." [Filosofie → Psychologie · ★8]
-
-— "Anchoring en Prospect Theory opereren op hetzelfde psychologische substraat — het referentiepunt — maar beschrijven complementaire mechanismen: Anchoring verklaart *hoe* het anker gevormd wordt, Prospect Theory *hoe* afwijkingen ervan worden gewogen." [Psychologie → Beleggen · ★9]
-
-— "Boeddhistische principes van aanvaarding en Anatta vormen de filosofische infrastructuur van moderne evidence-based psychotherapie — een verbinding die de westerse klinische psychologie zelden expliciet erkent." [Boeddhisme → ACT · ★9]
-
-— "De structurele beperkingen van de cognitieve architectuur zijn de mechanistische oorzaak van systematische beleggingsfouten." [Cognitieve Architectuur → Gedragseconomie · ★9]
+Nieuwe kennis: 7 · Inbox verwerkt: 0 · Verbindingen: 3 relatiepagina's + 3 inzichten · Gaps gedicht: 3 · Leestijd: ~28 min
 
 ---
 
 ## Research Agenda
 
-Prioriteit 1: **Borderline Persoonlijkheidsstoornis** — reden: klinisch neuropsychologisch kernthema; relatie met DBT en Emotieregulatie ontbreekt als pagina
-Prioriteit 2: **Cognitieve Herstructurering** — reden: techniek van CGT die in meerdere therapiepagina's wordt vermeld maar nog geen eigen pagina heeft
-Prioriteit 3: **Economische Ongelijkheid** — reden: cross-domein brug Beleggen × Geschiedenis die ontbreekt in de graph
+1. **Absolutisme** — Geschiedenis meest onderontwikkeld; absolutisme als historische context voor Verlichting en Revolutie was onontgonnen
+2. **Motivatie** — Kernthema voor Klinische Neuropsychologie (apathie, revalidatie); essentieel maar nog niet als pagina aanwezig
+3. **Borderline Persoonlijkheidsstoornis** — Klinisch urgent; in queue ↓ als gap; DBT en BPS nauw verbonden maar BPS zelf ontbrak
+4. **Wilhelm Wundt** — Grondlegger van de wetenschappelijke psychologie; ontbrak als persoonspagina; onmisbaar voor historische context van psychometrie
+
+---
+
+## Insight Feed
+
+— "Emotionele dysregulatie bij BPS en irrationeel beleggersgedrag in crisismarkten delen hetzelfde neurobiologisch substraat — de amygdala overschaduwt de prefrontale cortex — wat DBT-technieken potentieel bruikbaar maakt als financiële stresstraining." [Psychologie → Beleggen · ★8]
+
+— "Het absolutisme was niet alleen een regeringsvorm maar een intellectuele productiekracht: de noodzaak om absolute macht te rechtvaardigen of te weerleggen genereerde de kernbegrippen van de liberale democratie." [Geschiedenis → Filosofie · ★9]
+
+— "De opkomst van een mondiale middenklasse — historisch vergelijkbaar met de Europese industrialisatie — is een structureel beleggingsthema: sociale klasse als directe determinant van consumentenvraag en marktpenetratie." [Geschiedenis → Beleggen · ★7]
 
 ---
 
 ## Knowledge Health
 
-| Discipline | Pagina's | Connectivity | Score | Trend |
-|---|---|---|---|---|
-| Psychologie | 162 | 100% | 100% | ↑ |
-| Filosofie | 98 | 100% | 100% | ↑ |
-| Geschiedenis | 93 | 100% | 100% | → |
-| Beleggen | 96 | 100% | 100% | → |
+| Discipline | Score | Trend |
+|---|---|---|
+| Psychologie | 97% | ↑ |
+| Filosofie | 92% | → |
+| Geschiedenis | 91% | ↑ |
+| Beleggen | 92% | ↑ |
+
+*(Score = Coverage×0.3 + Connectivity×0.3 + (1-Orphan%)×0.4 — connectivity 100% alle disciplines)*
 
 ---
 
@@ -78,8 +48,15 @@ Prioriteit 3: **Economische Ongelijkheid** — reden: cross-domein brug Beleggen
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 14 (totaal vandaag) |
-| Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichtpagina's | 2 |
+| Nieuwe Wiki-pagina's | 7 |
+| Updates bestaande pagina's | 2 |
+| Nieuwe verbindingen (relatiepagina's) | 3 |
+| Nieuwe inzichten | 3 |
 | Gaps gedicht | 3 |
-| Quiz-vragen toegevoegd | 3 |
+| Gaps nieuw gesignaleerd | 2 |
+
+---
+
+## Aandacht vereist
+
+- [ ] Nieuwe gaps gesignaleerd: Mentaliseren (BPS-theorie), Cognitieve Triade (Beck — CGT fundamenteel model)

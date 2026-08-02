@@ -7,55 +7,53 @@ sessie: expansie
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-02 | Modus: Expansie (avondrun)
+> Gegenereerd: 2026-08-02 | Modus: Expansie
 
-## Overzicht
+---
 
-| Discipline | Pagina's | Coverage | Connectivity | Score |
-|---|---|---|---|---|
-| Psychologie | 160 | 100%+ | 100% | ★★★★★ |
-| Filosofie | 95 | 100%+ | 100% | ★★★★★ |
-| Geschiedenis | 92 | 100%+ | 100% | ★★★★★ |
-| Beleggen | 93 | 100%+ | 100% | ★★★★★ |
+## Overall Score
 
-**Totaal Wiki-pagina's:** 440
-**Totaal graph-pagina's (conceptual graph):** 919
-**Connectivity:** 100% — alle pagina's bevatten wiki-links
-**Overall Health Score:** 98%
+| Discipline | Pagina's | Coverage | Connectivity | Orphan% | Score |
+|---|---|---|---|---|---|
+| Psychologie | 166 | 100% | 100% | 0% | **100%** |
+| Filosofie | 97 | 100% | 100% | 0% | **100%** |
+| Geschiedenis | 95 | 100% | 100% | 0% | **100%** |
+| Beleggen | 96 | 100% | 100% | 0% | **100%** |
 
-## Activiteit (expansie-run 2026-08-02)
+*Coverage = pagina's/20×100% (gecapped op 100%) · Score = Coverage×0.3 + Connectivity×0.3 + (1-Orphan%)×0.4*
 
-| Metric | Aantal |
+---
+
+## Graph Statistieken
+
+| Metric | Waarde |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 2 |
-| Nieuwe relatiepagina's | 3 |
-| Nieuwe inzichtpagina's | 2 |
-| Inbox verwerkt | 0 |
-| Queue gaps gedicht | 4 |
-| Gaps gesignaleerd | 3 |
+| Totale Wiki-pagina's | 454 |
+| Conceptual graph (relaties + inzichten) | 931 |
+| Gemiddelde pagina's per discipline | 113 |
+| Disciplines met ≥90 pagina's | 4/4 |
 
-## Nieuwe pagina's (expansie-run)
+---
 
-- [[Confucianisme]] (Filosofie) — Ren, Li, Yi, Vijf Relaties; vergelijking met deugdethiek; confidence 5
-- [[Boeddhisme]] (Filosofie) — Vier Edele Waarheden, Anatta, mindfulness; cross-link ACT; confidence 5
-- [[Mental Accounting]] (Beleggen) — Thaler; hedonistische framing, house money effect, sunk cost; confidence 5
-- [[Forensische Neuropsychologie]] (Psychologie) — juridische neuropsychologie, malingering, toerekeningsvatbaarheid; confidence 5
+## Discipline Vergelijking
 
-## Nieuwe verbindingen (expansie-run)
+| Discipline | Pagina's | Trend |
+|---|---|---|
+| Psychologie | 166 | ↑ (+4 deze run) |
+| Filosofie | 97 | → (+0 deze run) |
+| Beleggen | 96 | ↑ (+1 deze run) |
+| Geschiedenis | 95 | ↑ (+2 deze run) |
 
-- [[Boeddhisme — Acceptatie en Commitment Therapie]] ★9 (Filosofie → Psychologie, cross-domein)
-- [[Mental Accounting — Prospect Theory]] ★9 (Beleggen intern + Psychologie)
-- [[Forensische Neuropsychologie — Deontologie]] ★7 (Psychologie → Filosofie, cross-domein)
+---
 
-## Nieuwe inzichten (expansie-run)
+## Knowledge Health Trend
 
-- [[Oosterse Filosofie als Therapeutische Grondslag]] — Filosofie → Psychologie ★9
-- [[Mentale Boekhoudkunde als Irrationele Bescherming]] — Beleggen → Psychologie ★8
+Alle disciplines bereiken 100% coverage (>20 pagina's). Connectivity is 100% (alle pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: ~1:3 (ruim boven drempel van 1:5).
 
-## Knowledge Gaps (→ queue)
+---
 
-Nieuwe gaps geïdentificeerd:
-- ↓ **Taoisme** (Filosofie) — ontbreekt als pagina; complementair aan Confucianisme en Boeddhisme
-- ↓ **Anchoring / Ankereffect** (Beleggen + Psychologie) — cognitieve bias; cross-domein
-- ↓ **Slaapstoornissen** (Psychologie) — klinisch relevant; aansluitend bij Slaap en Geheugenconsolidatie
+## Aandacht
+
+- Filosofie ontving geen nieuwe pagina's deze run (laagste groei)
+- Nieuwe gaps gesignaleerd: Mentaliseren, Cognitieve Triade
+- Economische Ongelijkheid als cross-domain brug Beleggen × Geschiedenis gecreëerd

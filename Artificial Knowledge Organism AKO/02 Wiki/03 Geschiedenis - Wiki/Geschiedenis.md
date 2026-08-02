@@ -106,3 +106,5 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Het Congres van Wenen]]
 - [[Nationalisme]]
 - [[De Wetenschappelijke Revolutie]]
+- [[Absolutisme]]
+- [[Sociale Klasse]]

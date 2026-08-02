@@ -58,6 +58,7 @@ Behavioral Finance ontstond in de jaren zeventig als reactie op de dominante eff
 - [[Heuristieken]] — mentale vuistregels die efficiënt zijn maar systematisch falen in complexe markten
 - [[Kahneman]] ★10 — intellectuele architect van de psychologische basis van behavioral finance
 - [[Initial Public Offering]] ★8 — IPO-markten zijn een klassiek behavioral finance-laboratorium: underpricing en lange-termijn underperformance illustreren overconfidence en hot-market bias
+- [[Motivatie]] ★8 — motivationele krachten (status, extrinsieke beloning) voeden irrationeel beleggingsgedrag; dopaminesysteem als gedeelde neurobiologische basis
 - [[Momentum Strategie]] ★9 — gedragsmatige verklaringen (underreaction, herding) zijn de dominante interpretatie van het momentum-effect
 
 **Cross-domein:**

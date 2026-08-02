@@ -447,6 +447,12 @@ type: operationeel
 | ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Taoisme | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Taoisme.md — confidence 5 |
 | ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Anchoring (Ankereffect) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Anchoring.md — confidence 5 (Kahneman & Tversky 1974) |
 | ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Slaapstoornissen | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Slaapstoornissen.md — confidence 5 (DSM-5-TR, Walker 2017) |
-| ↓ | 2026-08-02T consolidatie | Agent 3 | Gap: Borderline Persoonlijkheidsstoornis | Psychologie klinisch — ontbreekt als eigenstandige pagina; relatie DBT + Emotieregulatie |
-| ↓ | 2026-08-02T consolidatie | Agent 3 | Gap: Cognitieve Herstructurering | Psychologie — CGT-techniek vermeld in meerdere pagina's maar nog geen eigen pagina |
-| ↓ | 2026-08-02T consolidatie | Agent 3 | Gap: Economische Ongelijkheid | Beleggen × Geschiedenis — cross-domein ontbrekende brug |
+| ✓ | 2026-08-02T expansie | Agent 3 | Gap: Borderline Persoonlijkheidsstoornis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Borderline Persoonlijkheidsstoornis.md — confidence 5 (DSM-5-TR, Linehan 1993, Bateman & Fonagy 2004) |
+| ✓ | 2026-08-02T expansie | Agent 3 | Gap: Cognitieve Herstructurering | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Herstructurering.md — confidence 5 (Beck 1979, Burns 1980) |
+| ✓ | 2026-08-02T expansie | Agent 3 | Gap: Economische Ongelijkheid | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Economische Ongelijkheid.md — confidence 5 (Piketty 2014, Milanovic 2016) |
+| ✓ | 2026-08-02T expansie | Agent 3 | Expansie: Absolutisme | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Absolutisme.md — confidence 5 |
+| ✓ | 2026-08-02T expansie | Agent 3 | Expansie: Motivatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Motivatie.md — confidence 5 |
+| ✓ | 2026-08-02T expansie | Agent 3 | Expansie: Wilhelm Wundt | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Wilhelm Wundt.md — confidence 5 |
+| ✓ | 2026-08-02T expansie | Agent 3 | Expansie: Sociale Klasse | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Sociale Klasse.md — confidence 5 |
+| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Mentaliseren | Psychologie klinisch — kernbegrip MBT voor BPS; ontbreekt als eigenstandige pagina |
+| ↓ | 2026-08-02T expansie | Agent 3 | Gap: Cognitieve Triade (Beck) | Psychologie — fundamenteel model in CGT; vermeld in Cognitieve Herstructurering maar geen eigen pagina |

@@ -175,3 +175,7 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Cognitieve Architectuur]]
 - [[Deep Brain Stimulation]]
 - [[Forensische Neuropsychologie]]
+- [[Motivatie]]
+- [[Wilhelm Wundt]]
+- [[Borderline Persoonlijkheidsstoornis]]
+- [[Cognitieve Herstructurering]]
