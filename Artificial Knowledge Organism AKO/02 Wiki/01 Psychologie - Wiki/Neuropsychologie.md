@@ -61,6 +61,7 @@ De neuropsychologie als formele discipline ontstond in de negentiende eeuw. Paul
 - [[Neuropsychologische Diagnostiek ASS (ADOS-2)]] — concrete diagnostische toepassing voor autismespectrumstoornis
 - [[Syndroom van Korsakov]] — paradigmatisch voorbeeld van amnestisch syndroom met specifieke neuropsychologische signatuur
 - [[Cognitieve Reserve]] — neuropsychologisch concept: hoe intellectuele activiteit beschermt tegen klinisch manifest worden van neurodegeneratie
+- [[Causaliteit]] ★7 — neuropsychologische diagnose stoelt op causale redenering: hersenlaesie → cognitief defect (dissociatie-logica, dubbeldissociatie)
 
 ## Bronnen
 

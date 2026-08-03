@@ -110,3 +110,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Sociale Klasse]]
 - [[Tweede Industriële Revolutie]]
 - [[Tweede Wereldoorlog — Militaire Operaties]]
+- [[De Opkomst van de Islam]]

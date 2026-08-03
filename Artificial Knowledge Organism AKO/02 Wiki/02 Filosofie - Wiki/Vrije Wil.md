@@ -58,6 +58,7 @@ Descartes onderscheidde lichaam (mechanisch, deterministisch) en geest (vrij), w
 - [[Gedragseconomie]] — verbinding: als keuzes voorspelbaar irrationeel zijn, hoe vrij zijn ze dan werkelijk?
 - [[De Verlichting]] ★8 — historische context: de Verlichting vestigde het ideaal van de autonome rationele mens waarop het moderne vrije-wildebat is gebaseerd
 - [[Morele Verantwoordelijkheid]] ★9 — aanvulling: vrije wil is de directe filosofische voorwaarde voor morele verantwoordelijkheid
+- [[Structural Dissociation]] ★6 — dissociatieve persoonlijkheidsdelen (ANP/EP) stellen de eenheid van de wil ter discussie
 
 ## Bronnen
 

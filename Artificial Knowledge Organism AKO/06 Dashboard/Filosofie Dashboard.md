@@ -1,37 +1,54 @@
 ---
 type: dashboard
 tags: [dashboard, filosofie]
-updated: 2026-08-01
+discipline: filosofie
+updated: 2026-08-03
 sessie: expansie
 ---
 
-# Filosofie Dashboard
+# Filosofie Dashboard — AKO
 
-**Systeemkoppelingen:** [[AKO]] · [[Filosofie]]
+> Gegenereerd: 2026-08-03 | Modus: Expansie (run 3)
 
 ---
 
-## Health Score: 100%
+## Health Score
 
-| Metric | Score |
+| Metric | Waarde |
 |---|---|
-| Coverage | 100% (98 pagina's / target 20 ✓) |
-| Connectivity | 100% (alle pagina's hebben [[links]]) |
-| Orphan % | 0% |
-
-Trend: ↑ (+1 nieuwe pagina vandaag: Eudaimonia; totaal 98 pagina's)
-
----
-
-## Pagina-overzicht (98)
-
-Absurdisme · Adorno en de Autoritaire Persoonlijkheid · Albert Camus · Analytische Filosofie · Aristoteles · Bewustzijn · Compatibilisme · David Hume · Deontologie · Determinisme · Deugdethiek · Duits Idealisme · Edmund Husserl · Edward Said · Empirisme · Epicurisme · Epistemologie · Epistemologisch Relativisme · Esthetica · Ethiek · Ethiek van Zorg · Existentialisme · Falsifiabilisme · Fenomenologie · Filosofie · Filosofie van de Geest · Filosofie van de Wetenschap · Frantz Fanon · **Friedrich Schelling** · Functionalisme · Gayatri Chakravorty Spivak · George Berkeley · Gramsci en Hegemonie · Hannah Arendt · Hedonisme · Hegel · Heidegger · Hermeneutiek · Historisch Materialisme · Homi Bhabha · Immanuel Kant · Jean-Jacques Rousseau · Jean-Paul Sartre · John Dewey · John Locke · John Rawls · John Stuart Mill · Jürgen Habermas · Karl Popper · Kritische Theorie · Leibniz · Libertair Paternalisme · Logica · Logisch Positivisme · Maatschappelijk Contract · Marxisme · Merleau-Ponty · Metafysica · Michel Foucault · Morele Verantwoordelijkheid · Neurodiversiteit · Neuroethiek · Nietzsche · Nihilisme · Plato · Politieke Filosofie · Postkolonialisme · Postmodernisme · Poststructuralisme · Pragmatisme · Psychoanalyse · Ranajit Guha · Rationalisme · René Descartes · Restoratieve Justitie · Sociale Ontologie · Socrates · Søren Kierkegaard · Spinoza · Stoïcisme · Structuralisme · Subaltern Studies · Taalfilosofie · Thomas Hobbes · Thomas Kuhn · Utilitarisme · Vrije Wil · William James · Wittgenstein
+| Pagina's | 99 |
+| Coverage (pagina's/20, gecapped) | 100% |
+| Connectivity (pagina's met [[links]]) | 100% |
+| Orphan% | 0% |
+| **Score** | **100%** |
 
 ---
 
-## Gesignaleerde gaps
+## Recente toevoegingen
 
-- **Deconstructie/Derrida** (eigen pagina ontbreekt; nu enkel in Poststructuralisme)
-- **Logotherapie/Viktor Frankl** (aanvulling op Existentialisme en Klinische Neuropsychologie)
-- **Fenomenologie van het Lichaam** (verdieping Merleau-Ponty — relevant voor klinische neuropsychologie)
-- **Johann Gottlieb Fichte** (completeert de Kant → Fichte → Schelling → Hegel keten in Duits Idealisme)
+- Causaliteit (2026-08-03, confidence 5)
+- Confucianisme (2026-08-02, confidence 5)
+- Boeddhisme (2026-08-02, confidence 5)
+- Taoisme (2026-08-02, confidence 5)
+- Liberalisme (2026-08-01, confidence 5)
+- Democratie (2026-08-01, confidence 5)
+
+---
+
+## Sub-cluster overzicht
+
+| Sub-cluster | Representatie |
+|---|---|
+| Westerse klassieke filosofie | Sterk: Socrates, Plato, Aristoteles, Stoïcisme |
+| Moderne westerse filosofie | Sterk: Kant, Hume, Nietzsche, Heidegger, Sartre |
+| Wetenschapsfilosofie | Goed: Falsifiabilisme, Causaliteit, Filosofie van de Wetenschap, Thomas Kuhn, Karl Popper |
+| Politieke filosofie | Goed: Maatschappelijk Contract, Rawls, Liberalisme, Democratie |
+| Postkoloniale filosofie | Goed: Fanon, Said, Bhabha, Spivak, Gramsci |
+| Oost-Aziatische filosofie | Aanwezig: Confucianisme, Boeddhisme, Taoisme |
+
+---
+
+## Gaps
+
+- Causaliteit aangemaakt — verbonden met Neuropsychologie (cross-domein)
+- Oost-Aziatische cluster recent uitgebreid; Hindoe-filosofie (Vedanta, Karma) ontbreekt nog

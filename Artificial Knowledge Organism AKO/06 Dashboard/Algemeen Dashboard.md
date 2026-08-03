@@ -7,7 +7,7 @@ sessie: expansie
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-03 | Modus: Expansie (run 2)
+> Gegenereerd: 2026-08-03 | Modus: Expansie (run 3)
 
 ---
 
@@ -15,10 +15,10 @@ sessie: expansie
 
 | Discipline | Pagina's | Coverage | Connectivity | Orphan% | Score |
 |---|---|---|---|---|---|
-| Psychologie | 175 | 100% | 100% | 0% | **100%** |
-| Filosofie | 98 | 100% | 100% | 0% | **100%** |
-| Geschiedenis | 97 | 100% | 100% | 0% | **100%** |
-| Beleggen | 98 | 100% | 100% | 0% | **100%** |
+| Psychologie | 178 | 100% | 100% | 0% | **100%** |
+| Filosofie | 99 | 100% | 100% | 0% | **100%** |
+| Geschiedenis | 98 | 100% | 100% | 0% | **100%** |
+| Beleggen | 99 | 100% | 100% | 0% | **100%** |
 
 *Coverage = pagina's/20×100% (gecapped op 100%) · Score = Coverage×0.3 + Connectivity×0.3 + (1-Orphan%)×0.4*
 
@@ -28,9 +28,9 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 468 |
-| Conceptual graph (relaties + inzichten) | 960 |
-| Gemiddelde pagina's per discipline | 117 |
+| Totale Wiki-pagina's | 474 |
+| Conceptual graph (relaties + inzichten) | 975 |
+| Gemiddelde pagina's per discipline | 118.5 |
 | Disciplines met ≥90 pagina's | 4/4 |
 
 ---
@@ -39,22 +39,23 @@ sessie: expansie
 
 | Discipline | Pagina's | Trend |
 |---|---|---|
-| Psychologie | 175 | ↑ (+3 expansie-run) |
-| Filosofie | 98 | → (+0 expansie-run) |
-| Beleggen | 98 | ↑ (+1 expansie-run) |
-| Geschiedenis | 97 | → (+0 expansie-run) |
+| Psychologie | 178 | ↑ (+1 deze run: Structural Dissociation) |
+| Filosofie | 99 | ↑ (+1 deze run: Causaliteit) |
+| Geschiedenis | 98 | ↑ (+1 deze run: De Opkomst van de Islam) |
+| Beleggen | 99 | ↑ (+1 deze run: Obligatiemarkt) |
 
 ---
 
 ## Knowledge Health Trend
 
-Alle disciplines bereiken 100% coverage (>20 pagina's). Connectivity is 100% (alle pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: ~960:468 ≈ 2:1 (ruim boven drempel van 1:5).
+Alle disciplines bereiken 100% coverage (>20 pagina's). Connectivity is 100% (alle pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: ~975:474 ≈ 2:1 (ruim boven drempel van 1:5). Structural Dissociation sluit de queue-gap van 2026-08-03.
 
 ---
 
 ## Aandacht
 
-- Expansie-run 2: Alexithymie, Functionele Neurologische Stoornis, Phineas Gage (Psychologie) + Overconfidence Bias (Beleggen) aangemaakt
-- 5 relatiepagina's + 2 inzichten toegevoegd aan conceptual graph
-- Prioriteit volgende run: Somatische Markerhypothese (Damasio) · Dissociatieve Identiteitsstoornis · Pragmatisme-verdieping
-- Aandacht vereist: Maslow, Selectieve Aandacht, Return on Invested Capital — gerefereerd in quiz maar status onbekend
+- Expansie-run 3: Structural Dissociation, Causaliteit, De Opkomst van de Islam, Obligatiemarkt aangemaakt
+- 4 relatiepagina's + 3 inzichten toegevoegd aan conceptual graph
+- 4 bestaande pagina's bijgewerkt met backlinks
+- Queue-gap Structural Dissociation gesloten (Van der Hart et al. 2006)
+- Aandacht vereist: Duration, Convexiteit — gerefereerd in dagrapport als volgende gap

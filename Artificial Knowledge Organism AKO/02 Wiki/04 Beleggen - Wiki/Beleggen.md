@@ -112,3 +112,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Economische Ongelijkheid]]
 - [[Return on Invested Capital]]
 - [[Overconfidence Bias]]
+- [[Obligatiemarkt]]

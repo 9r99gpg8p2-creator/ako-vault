@@ -3046,3 +3046,26 @@ type: operationeel
 | 2026-08-03T12:00Z | Agent 6 | Quiz | 3 vragen toegevoegd aan 2026-08-03 Quiz.md (vragen 12-14) |
 | 2026-08-03T12:00Z | Agent 8 | Hub | Psychologie.md bijgewerkt: [[Somatische Markerhypothese]] + [[Dissociatieve Identiteitsstoornis]] toegevoegd |
 | 2026-08-03T12:00Z | Orchestrator | Consolidatie-run voltooid | 2 gaps gedicht · Health: 100% · Conceptual graph: 968 bestanden |
+| 2026-08-03T16:00Z | Orchestrator | Context laden | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-08-03T16:00Z | Agent 1 | Inbox scan | Geen bestanden na filtering (alleen _-bestanden) | 0 wiki-kandidaten |
+| 2026-08-03T16:01Z | Agent 2 | Wikipedia API | FOUT E-003 | Alle API-endpoints onbereikbaar — interne kennis gebruikt, confidence max 5 |
+| 2026-08-03T16:01Z | Agent 2 | Onderwerp selectie | 4 onderwerpen geselecteerd: Structural Dissociation (queue ↓), Causaliteit (Filosofie), De Opkomst van de Islam (Geschiedenis), Obligatiemarkt (Beleggen) |
+| 2026-08-03T16:02Z | Agent 3 | Wiki aangemaakt | Structural Dissociation.md — 01 Psychologie - Wiki — confidence 7 |
+| 2026-08-03T16:02Z | Agent 3 | Wiki aangemaakt | Causaliteit.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-08-03T16:02Z | Agent 3 | Wiki aangemaakt | De Opkomst van de Islam.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-08-03T16:02Z | Agent 3 | Wiki aangemaakt | Obligatiemarkt.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-08-03T16:03Z | Agent 4 | Relaties | 4 relatiepagina's aangemaakt: StructuralDissociatie-VrijeWil(P×F ★6), Causaliteit-Neuropsychologie(F×P ★7), OpkomstIslam-IslamitischeGoudenEeuw(G ★9), Obligatiemarkt-ProspectTheory(B×P ★7) |
+| 2026-08-03T16:03Z | Agent 4 | Backlinks | 4 bestaande pagina's bijgewerkt: VrijeWil.md, Neuropsychologie.md, De IslamitischeGoudenEeuw.md, ProspectTheory.md |
+| 2026-08-03T16:04Z | Agent 5 | Inzichten | 3 inzichtpagina's aangemaakt: BagdadAlsBrug(G→F ★8), CausaliteitAlsRuggegraat(F→P ★7), HetGespleten Zelf(P→F ★6) |
+| 2026-08-03T16:05Z | Agent 6 | Dagrapport | 2026-08-03 Dagrapport.md overschreven (expansie-run 3) |
+| 2026-08-03T16:05Z | Agent 6 | Quiz | 3 vragen toegevoegd aan 2026-08-03 Quiz.md (vragen 15-17) |
+| 2026-08-03T16:05Z | Agent 6 | Weekreflectie | 2026-32 Reflectie.md — reeds aanwezig, overgeslagen |
+| 2026-08-03T16:06Z | Agent 7 | Knowledge Health berekend | Overall: 100% — Psychologie (178 pag.), Filosofie (99 pag.), Geschiedenis (98 pag.), Beleggen (99 pag.) |
+| 2026-08-03T16:06Z | Agent 7 | Dashboards bijgewerkt | 5 dashboards overschreven: Algemeen, Psychologie, Filosofie, Geschiedenis, Beleggen |
+| 2026-08-03T16:07Z | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Structural Dissociation]] toegevoegd |
+| 2026-08-03T16:07Z | Agent 8 | Hub bijgewerkt | Filosofie.md: [[Causaliteit]] toegevoegd |
+| 2026-08-03T16:07Z | Agent 8 | Hub bijgewerkt | Geschiedenis.md: [[De Opkomst van de Islam]] toegevoegd |
+| 2026-08-03T16:07Z | Agent 8 | Hub bijgewerkt | Beleggen.md: [[Obligatiemarkt]] toegevoegd |
+| 2026-08-03T16:07Z | Agent 8 | Graph-validatie | 4 nieuwe pagina's verbonden · Hub-updates compleet · Cross-domein ratio: ~975:474 ≈ 2:1 |
+| 2026-08-03T16:08Z | Orchestrator | Task Queue bijgewerkt | Structural Dissociation ✓ gesloten · 2 nieuwe gaps toegevoegd: Duration/Convexiteit + Fase-georiënteerde Traumabehandeling |
+| 2026-08-03T16:08Z | Orchestrator | Expansie-run 3 voltooid | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% · Totaal Wiki: 474 · Conceptual graph: 975 |

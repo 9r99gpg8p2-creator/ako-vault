@@ -61,6 +61,7 @@ De wetenschappelijke impact weerspiegelt een bredere Wetenschappelijke Revolutie
 - [[Wetenschappelijke Revolutie]] ★5 — historische parallel: net als de Copernicaanse revolutie de geocentrische wereldvisie ondersteboven keerde, keerde Prospect Theory de rationele actor ondersteboven
 
 - [[Conjunctuurcycli]] ★8 — verliesaversie versterkt conjuncturele schommelingen: beleggers overeageren naar pessimisme in recessies en optimisme op pieken
+- [[Obligatiemarkt]] ★7 — verliesaversie en het referentiepunteffect verklaren irrationeel vasthoudgedrag bij koersdaling van obligaties
 
 **Cross-domein:**
 - [[Neuropsychologische Rehabilitatie]] — psychologisch mechanisme: verliesaversie als neuropsychologisch mechanisme dat behandeluitkomsten beïnvloedt

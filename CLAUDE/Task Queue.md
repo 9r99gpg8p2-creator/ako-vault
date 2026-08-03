@@ -466,4 +466,6 @@ type: operationeel
 | ✓ | 2026-08-03T expansie-2 | Agent 3 | Expansie: Overconfidence Bias | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Overconfidence Bias.md — confidence 8 (Fischhoff 1977, Moore & Healy 2008, Barber & Odean 2001) |
 | ✓ | 2026-08-03T consolidatie | Agent 3 | Gap: Somatische Markerhypothese (Damasio) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Somatische Markerhypothese.md — confidence 5 |
 | ✓ | 2026-08-03T consolidatie | Agent 3 | Gap: Dissociatieve Identiteitsstoornis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Dissociatieve Identiteitsstoornis.md — confidence 5 |
-| ↓ | 2026-08-03T consolidatie | Agent 3 | Gap: Structural Dissociation (Van der Hart et al. 2006) | Subtheorie DIS; directe koppeling Dissociatieve Identiteitsstoornis + PTSD + FNS |
+| ✓ | 2026-08-03T expansie-3 | Agent 3 | Gap: Structural Dissociation (Van der Hart et al. 2006) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Structural Dissociation.md — confidence 7 (Van der Hart et al. 2006) |
+| ↓ | 2026-08-03T expansie-3 | Agent 3 | Gap: Duration en Convexiteit | Sleutelconcepten obligatiemarkt; verdieping Obligatiemarkt.md |
+| ↓ | 2026-08-03T expansie-3 | Agent 3 | Gap: Fase-georiënteerde Traumabehandeling | Behandelprotocol direct verbonden aan Structural Dissociation en C-PTSD |

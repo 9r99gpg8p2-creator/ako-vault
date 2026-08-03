@@ -190,3 +190,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Phineas Gage]]
 - [[Somatische Markerhypothese]]
 - [[Dissociatieve Identiteitsstoornis]]
+- [[Structural Dissociation]]

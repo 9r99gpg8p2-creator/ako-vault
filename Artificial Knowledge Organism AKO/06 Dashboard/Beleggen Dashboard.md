@@ -1,35 +1,53 @@
 ---
 type: dashboard
 tags: [dashboard, beleggen]
+discipline: beleggen
 updated: 2026-08-03
 sessie: expansie
 ---
 
-# Beleggen Dashboard
+# Beleggen Dashboard — AKO
 
-**Systeemkoppelingen:** [[AKO]] · [[Beleggen]]
+> Gegenereerd: 2026-08-03 | Modus: Expansie (run 3)
 
 ---
 
-## Health Score: 100%
+## Health Score
 
-| Metric | Score |
+| Metric | Waarde |
 |---|---|
-| Coverage | 100% (97 pagina's / target 20 ✓) |
-| Connectivity | 100% (alle pagina's hebben [[links]]) |
-| Orphan % | 0% |
-
-Trend: ↑ (+1 nieuwe pagina deze run: Return on Invested Capital)
-
----
-
-## Pagina-overzicht (97)
-
-Aandelen · Actief Beleggen · Anchoring · Asset Allocatie · Behavioral Finance · Beleggen · Benjamin Graham · Beta en Volatiliteit · Black-Scholes Model · Capital Asset Pricing Model · Cognitieve Biases · Conjunctuurcycli · Creditrating · Cryptocurrency en Blockchain · Diversificatie · Dividendbeleggen · Dollar Cost Averaging · DuPont Analyse · EBITDA · ESG Beleggen · ETFs · Earnings per Share · Economische Ongelijkheid · Efficiënte Markthypothese · Emerging Markets · Expected Shortfall · Factor Investing · Fama-French Drie-Factor Model · Financiële Crisis 2008 · Financiële Verslaggeving · Frontier Markets · Futures en Derivaten · GARP · Gedragseconomie · Grondstoffen · Groei Investeren · Hedgefondsen · Herding · Heuristieken · Index Fondsen · Inflatie · Initial Public Offering · Intertemporele Keuze · Intrinsieke Waarde en DCF-modellen · Kapitaalmarkten · Keynesiaanse Economie · Koers-Winstverhouding · Kwantitatief Beleggen · Liquiditeit · Macroeconomie · Marktcycli · Mental Accounting · Micro-economie · Minsky Moment · Moderne Portefeuille Theorie · Momentum Strategie · Monetair Beleid · Monetarisme · Monte Carlo Simulatie · Obligaties · Opties · Private Equity · Prospect Theory · **Return on Invested Capital** · Return on Equity · Rentecurve · Risicobeheer · Risicoperceptie · SPAC · Samengestelde Interest · Sectorrotatie · Sharpe Ratio · Short Selling · Smart Beta · Speculatieve Bubbels · Speltheorie · Statistical Arbitrage · Technische Analyse · Tulpenmanie · VIX-index · Value at Risk · Vastgoedbeleggen · Venture Capital · Verliesaversie · Vrije Kasstroom · Waarde Investeren · Warren Buffett · Winstmarge
+| Pagina's | 99 |
+| Coverage (pagina's/20, gecapped) | 100% |
+| Connectivity (pagina's met [[links]]) | 100% |
+| Orphan% | 0% |
+| **Score** | **100%** |
 
 ---
 
-## Gesignaleerde gaps
+## Recente toevoegingen
 
-- **ROIC-sector benchmarks** (verdieping na Return on Invested Capital)
-- **Eudaimonia als beleggingsdoel** (filosofische grondslag voor long-termijn waardebeleggen)
+- Obligatiemarkt (2026-08-03, confidence 5)
+- Overconfidence Bias (2026-08-03, confidence 8)
+- Anchoring (2026-08-02, confidence 5)
+- Mental Accounting (2026-08-02, confidence 5)
+- Economische Ongelijkheid (2026-08-02, confidence 5)
+
+---
+
+## Sub-cluster overzicht
+
+| Sub-cluster | Representatie |
+|---|---|
+| Behavioral finance | Sterk: Prospect Theory, Verliesaversie, Overconfidence Bias, Anchoring, Mental Accounting, Herding |
+| Vaste inkomsten | Goed: Obligaties, Obligatiemarkt, Rentecurve, Duration → convexiteit ontbreekt nog |
+| Waardebeleggen | Sterk: Benjamin Graham, Warren Buffett, Waardebeleggen, Intrinsieke Waarde, DCF |
+| Risico & kwantitief | Goed: VaR, CVaR, Beta en Volatiliteit, Sharpe Ratio, Statisticarb |
+| Macro/economie | Goed: Macroeconomie, Monetair Beleid, Inflatie, Conjunctuurcycli |
+| Alternatieve beleggingen | Goed: Private Equity, Hedgefondsen, Vastgoedbeleggen, Grondstoffen, Crypto |
+
+---
+
+## Gaps
+
+- Duration en Convexiteit → ↓ aanbevolen als volgende gap
+- Kredietderivaten (CDS) → ontbreekt
