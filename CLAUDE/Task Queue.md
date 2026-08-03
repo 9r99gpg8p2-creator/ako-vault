@@ -460,3 +460,9 @@ type: operationeel
 | ✓ | 2026-08-03T expansie | Agent 3 | Gap: Flow (Csikszentmihalyi) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Flow (Csikszentmihalyi).md — confidence 5 |
 | ✓ | 2026-08-03T expansie | Agent 3 | Gap: Eudaimonia | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Eudaimonia.md — confidence 5 |
 | ✓ | 2026-08-03T expansie | Agent 3 | Gap: Tweede Wereldoorlog — Militaire Operaties | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Tweede Wereldoorlog — Militaire Operaties.md — confidence 5 |
+| ✓ | 2026-08-03T expansie-2 | Agent 3 | Expansie: Alexithymie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Alexithymie.md — confidence 8 (Sifneos 1972, Taylor et al. 1997) |
+| ✓ | 2026-08-03T expansie-2 | Agent 3 | Expansie: Functionele Neurologische Stoornis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Functionele Neurologische Stoornis.md — confidence 8 (Stone et al., DSM-5-TR) |
+| ✓ | 2026-08-03T expansie-2 | Agent 3 | Expansie: Phineas Gage | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Phineas Gage.md — confidence 8 (Harlow 1868, Damasio 1994, Macmillan 2000) |
+| ✓ | 2026-08-03T expansie-2 | Agent 3 | Expansie: Overconfidence Bias | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Overconfidence Bias.md — confidence 8 (Fischhoff 1977, Moore & Healy 2008, Barber & Odean 2001) |
+| ↓ | 2026-08-03T expansie-2 | Agent 3 | Gap: Somatische Markerhypothese (Damasio) | Directe koppeling Phineas Gage + Vrije Wil; cross-domein psychologie ↔ filosofie |
+| ↓ | 2026-08-03T expansie-2 | Agent 3 | Gap: Dissociatieve Identiteitsstoornis | Raakvlak FNS en PTSD; relevant MSc Klinische Neuropsychologie |

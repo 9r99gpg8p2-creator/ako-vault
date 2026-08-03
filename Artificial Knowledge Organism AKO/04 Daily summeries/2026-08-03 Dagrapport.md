@@ -2,48 +2,45 @@
 type: dagrapport
 date: 2026-08-03
 tags: [dagrapport]
-modus: consolidatie
+modus: expansie
 ---
 
 ## Daily Briefing
 
-Goedemorgen.
+Nieuwe kennis: 8 · Inbox verwerkt: 0 · Verbindingen: 11 · Inzichten: 4 · Gaps: 3 · Leestijd: ~24 min
 
-Nieuwe kennis:          4 concepten toegevoegd
-Nieuwe artikelen:       0 (Wikipedia API geblokkeerd — interne kennis gebruikt)
-Nieuwe verbindingen:    6 (4 relatiepagina's + 2 inzichten)
-Nieuwe inzichten:       2 cross-domein inzichten
-Kennishiaten:           0 nieuwe gaps gesignaleerd
-Aanbevolen leestijd:    ~12 minuten
+*(Inclusief eerdere consolidatie-run van dezelfde dag: Mindfulness MBSR, Flow Csikszentmihalyi, Eudaimonia, Tweede Wereldoorlog — Militaire Operaties + deze expansie-run: Alexithymie, Functionele Neurologische Stoornis, Phineas Gage, Overconfidence Bias)*
 
 ---
 
-Inbox verwerkt: 0 · Gaps gedicht: 4 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 6 · Queue resterend: 0
+## Pagina's Aangemaakt deze run
 
-## Pagina's Aangemaakt via Task Queue
-1. [[Mindfulness (MBSR)]] — confidence 5 · Psychologie
-2. [[Flow (Csikszentmihalyi)]] — confidence 5 · Psychologie
-3. [[Eudaimonia]] — confidence 5 · Filosofie
-4. [[Tweede Wereldoorlog — Militaire Operaties]] — confidence 5 · Geschiedenis
+1. [[Alexithymie]] — confidence 8 · Psychologie · (Sifneos 1972, Taylor et al. 1997)
+2. [[Functionele Neurologische Stoornis]] — confidence 8 · Psychologie · (Stone et al., DSM-5-TR)
+3. [[Phineas Gage]] — confidence 8 · Psychologie · (Harlow 1868, Damasio 1994, Macmillan 2000)
+4. [[Overconfidence Bias]] — confidence 8 · Beleggen · (Fischhoff 1977, Moore & Healy 2008, Barber & Odean 2001)
 
 ## Verbindingen Toegevoegd
-1. [[Eudaimonia]] ↔ [[Deugdethiek]] · ★9
-2. [[Flow (Csikszentmihalyi)]] ↔ [[Eudaimonia]] · ★8
-3. [[Flow (Csikszentmihalyi)]] ↔ [[Positieve Psychologie]] · ★8
-4. [[Mindfulness (MBSR)]] ↔ [[Neuroplasticiteit]] · ★7
+
+1. [[Alexithymie]] ↔ [[Mentaliseren]] · ★9
+2. [[Overconfidence Bias]] ↔ [[Dual Process Theorie]] · ★8
+3. [[Phineas Gage]] ↔ [[Prefrontale Cortex]] · ★10
+4. [[Overconfidence Bias]] ↔ [[Executieve Functies]] · ★7
+5. [[Functionele Neurologische Stoornis]] ↔ [[Cognitieve Gedragstherapie]] · ★8
 
 ## Insight Feed
-— "Boeddhistische meditatiepraktijken blijken bij neurowetenschappelijk onderzoek meetbare structurele hersenveranderingen te induceren — culturele wijsheidstradities bevatten onbewust werkzame neurobiologische mechanismen." [Boeddhisme → Mindfulness (MBSR) → Neuroplasticiteit · ★8]
 
-— "Aristoteles' eudaimonia (350 v.Chr.) en Csikszentmihalyi's flow (1975) beschrijven dezelfde menselijke ervaring vanuit tegengestelde richtingen — ze convergeren op activiteit in overeenstemming met excellentie." [Eudaimonia → Flow (Csikszentmihalyi) → Positieve Psychologie · ★8]
+— "Overconfidence bias — evolutionair vermoedelijk adaptief — werkt in moderne financiële markten structureel in het nadeel van de belegger: de bias die onze voorouders hielp overleven, kost ons rendement." [Psychologie → Beleggen · ★8]
+
+— "De casus van Phineas Gage bevestigt Merleau-Ponty's stelling dat het lichaam de primaire bron van oriëntatie is: denken zonder emotioneel-somatische signalen is niet slechts incompleet, het is onmogelijk." [Psychologie → Filosofie · ★9]
 
 ---
 
 ## Research Agenda
 
-Prioriteit 1: **Selectieve Aandacht** — gerefereerd in quiz, verwant aan Werkgeheugen en Executieve Functies
-Prioriteit 2: **Maslow** — meerdere malen gerefereerd; pagina aanmaken aanbevolen
-Prioriteit 3: **Return on Invested Capital (ROIC)** — gerefereerd in quiz; status pagina onbekend
+1. **Somatische Markerhypothese (Damasio)** — directe koppeling aan Phineas Gage; nog geen aparte pagina; cross-domain psychologie ↔ filosofie
+2. **Dissociatieve Identiteitsstoornis** — raakvlak met FNS en PTSD; relevant voor MSc Klinische Neuropsychologie
+3. **Pragmatisme (verdieping)** — Filosofie heeft 98 pagina's (laagste samen met Beleggen na heute); William James reeds aanwezig; pragmatistische kennistheorie uitwerken
 
 ---
 
@@ -52,11 +49,11 @@ Prioriteit 3: **Return on Invested Capital (ROIC)** — gerefereerd in quiz; sta
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 100% | → |
-| Filosofie | 100% | ↑ |
+| Filosofie | 100% | → |
 | Geschiedenis | 100% | → |
-| Beleggen | 100% | → |
+| Beleggen | 100% | ↑ |
 
-*Coverage (target 20 pagina's): Psychologie 172, Filosofie 98, Geschiedenis 97, Beleggen 97. Connectivity: 100% (alle pagina's bevatten [[links]]). Orphan rate: 0%.*
+*Coverage (target 20 pag.): Psychologie 175, Filosofie 98, Geschiedenis 97, Beleggen 98. Connectivity: 100%. Orphan rate: 0%.*
 
 ---
 
@@ -64,17 +61,18 @@ Prioriteit 3: **Return on Invested Capital (ROIC)** — gerefereerd in quiz; sta
 
 | Metric | Aantal |
 |---|---|
-| Nieuwe Wiki-pagina's | 4 |
-| Nieuwe relatiepagina's | 4 |
-| Nieuwe inzichten | 2 |
-| Gaps gedicht | 4 |
 | Inbox verwerkt | 0 |
-| Task Queue ↓ → ✓ | 4 |
+| Nieuwe Wiki-pagina's | 4 |
+| Updates bestaande pagina's | 0 |
+| Nieuwe verbindingen (relatiepag.) | 5 |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 0 |
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Quiz vraag 2 refereert aan [[Maslow]] — pagina aanmaken in volgende run indien nog niet aanwezig
-- [ ] Quiz vraag 3 refereert aan [[Return on Invested Capital]] — check of pagina bestaat
-- [ ] Quiz vraag 1 refereert aan [[Selectieve Aandacht]] — check of pagina bestaat
+- [ ] Somatische Markerhypothese (Damasio) — geen pagina aanwezig; hoge prioriteit (koppeling Phineas Gage + Vrije Wil)
+- [ ] Selectieve Aandacht — gerefereerd in quiz; check of pagina bestaat
+- [ ] Maslow — gerefereerd in quiz; check of pagina bestaat
+- [ ] Return on Invested Capital — gerefereerd in quiz; check of pagina bestaat

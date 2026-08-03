@@ -43,12 +43,23 @@ Week 32 (maandag 3 augustus 2026) opende met een **expansie-run** gericht op vie
 2. **Flow (Csikszentmihalyi)** — verband met Maslow's piekervaring en zelfactualisatie
 3. **Eudaimonia** — filosofisch kernconcept achter deugdethiek en humanistische psychologie
 
+## Aanvulling — Expansie-run 2026-08-03
+
+Week 32 breidde verder uit met vier nieuwe concepten uit de **expansie-run** later op de dag:
+
+- **Alexithymie** (Psychologie): Peter Sifneos' concept (1972) — gebrek aan woorden voor gevoelens. Transdiagnostisch kenmerk dat therapierespons beïnvloedt. Verbonden aan mentaliseren en autismespectrumstoornis.
+- **Functionele Neurologische Stoornis** (Psychologie): de moderne opvolger van "conversiestoornis"; neurologische symptomen zonder structurele ziekte. Historisch geroepen door Charcot en Freud, heden behandeld via CGT en fysiotherapie.
+- **Phineas Gage** (Psychologie): het meest geciteerde hersenletselgeval uit de geschiedenis; bevestigt de rol van de ventromediale prefrontale cortex in persoonlijkheid en sociaal gedrag. Verbonden aan Damasio's somatische markerhypothese.
+- **Overconfidence Bias** (Beleggen): systematische zelfoverschatting in oordelen; drie subtypen (Moore & Healy 2008). In financiële markten leidt dit tot overmatig handelen en rendementsverlies (Barber & Odean 2001).
+
+Nieuwe cross-domain inzichten: (1) Overconfidence als evolutionair paradox — adaptief in prehistorie, destructief op de beurs; (2) Phineas Gage en Merleau-Ponty — lichaam als onmisbare bron van kennis en beslissing.
+
 ## Statistieken
 
 | Metric | Deze week |
 |---|---|
-| Nieuwe concepten | 4 |
-| Nieuwe verbindingen | 4 |
+| Nieuwe concepten | 8 |
+| Nieuwe verbindingen | 11 |
 | Gaps gedicht | 0 |
-| Inzichten gegenereerd | 3 |
-| Knowledge Health score | ~58% |
+| Inzichten gegenereerd | 4 |
+| Knowledge Health score | 100% |

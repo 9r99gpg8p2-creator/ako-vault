@@ -3028,3 +3028,12 @@ type: operationeel
 | 2026-08-03T06:09Z | Orchestrator | Expansie-run voltooid | ✓ | 4 pag's aangemaakt · 4 relaties · 3 inzichten · Health: 100% |
 2026-08-03T08:21:08Z | Orchestrator | Consolidatie-run voltooid | 4 gaps gedicht (Mindfulness MBSR, Flow Csikszentmihalyi, Eudaimonia, WWII Operaties) · 4 relaties + 2 inzichten · Health: 100%
 2026-08-03T08:21:08Z | Agent 1 | Inbox scan | Geen bestanden te verwerken (alle starten met _)
+
+| 2026-08-03T10:17Z | Agent 1 | Inbox gescand | Geen bestanden na filtering (alleen _-bestanden) | 0 wiki-kandidaten |
+| 2026-08-03T10:17Z | Agent 3 | Expansie | Alexithymie.md aangemaakt | discipline: psychologie | confidence 8 |
+| 2026-08-03T10:17Z | Agent 3 | Expansie | Functionele Neurologische Stoornis.md aangemaakt | discipline: psychologie | confidence 8 |
+| 2026-08-03T10:17Z | Agent 3 | Expansie | Phineas Gage.md aangemaakt | discipline: psychologie | confidence 8 |
+| 2026-08-03T10:17Z | Agent 3 | Expansie | Overconfidence Bias.md aangemaakt | discipline: beleggen | confidence 8 |
+| 2026-08-03T10:17Z | Agent 4 | Relaties | 5 relatiepaginas aangemaakt: Alexithymie-Mentaliseren, Overconfidence-DualProcess, PhineasGage-PrefrontaalCortex, Overconfidence-ExecutieveFuncties, FNS-CGT |
+| 2026-08-03T10:17Z | Agent 5 | Inzichten | 2 inzichtpaginas aangemaakt: Overconfidence als Evolutionair Paradox (P→B ★8), Lichaam als Beslisser Gage en Merleau-Ponty (P→F ★9) |
+| 2026-08-03T10:17Z | Orchestrator | Expansie-run voltooid | 4 pag's · Health: 100% · Conceptual graph: 960 bestanden |

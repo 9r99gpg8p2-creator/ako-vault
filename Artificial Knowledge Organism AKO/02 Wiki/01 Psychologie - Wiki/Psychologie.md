@@ -185,3 +185,6 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Maslow]]
 - [[Mindfulness (MBSR)]]
 - [[Flow (Csikszentmihalyi)]]
+- [[Alexithymie]]
+- [[Functionele Neurologische Stoornis]]
+- [[Phineas Gage]]

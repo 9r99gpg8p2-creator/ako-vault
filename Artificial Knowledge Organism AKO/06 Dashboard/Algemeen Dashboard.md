@@ -7,7 +7,7 @@ sessie: expansie
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-03 | Modus: Expansie
+> Gegenereerd: 2026-08-03 | Modus: Expansie (run 2)
 
 ---
 
@@ -15,10 +15,10 @@ sessie: expansie
 
 | Discipline | Pagina's | Coverage | Connectivity | Orphan% | Score |
 |---|---|---|---|---|---|
-| Psychologie | 172 | 100% | 100% | 0% | **100%** |
+| Psychologie | 175 | 100% | 100% | 0% | **100%** |
 | Filosofie | 98 | 100% | 100% | 0% | **100%** |
 | Geschiedenis | 97 | 100% | 100% | 0% | **100%** |
-| Beleggen | 97 | 100% | 100% | 0% | **100%** |
+| Beleggen | 98 | 100% | 100% | 0% | **100%** |
 
 *Coverage = pagina's/20×100% (gecapped op 100%) · Score = Coverage×0.3 + Connectivity×0.3 + (1-Orphan%)×0.4*
 
@@ -28,9 +28,9 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 464 |
-| Conceptual graph (relaties + inzichten) | 959 |
-| Gemiddelde pagina's per discipline | 116 |
+| Totale Wiki-pagina's | 468 |
+| Conceptual graph (relaties + inzichten) | 960 |
+| Gemiddelde pagina's per discipline | 117 |
 | Disciplines met ≥90 pagina's | 4/4 |
 
 ---
@@ -39,22 +39,22 @@ sessie: expansie
 
 | Discipline | Pagina's | Trend |
 |---|---|---|
-| Psychologie | 172 | ↑ (+2 deze run) |
-| Filosofie | 98 | ↑ (+1 deze run) |
-| Beleggen | 97 | → (+0 deze run) |
-| Geschiedenis | 97 | ↑ (+1 deze run) |
+| Psychologie | 175 | ↑ (+3 expansie-run) |
+| Filosofie | 98 | → (+0 expansie-run) |
+| Beleggen | 98 | ↑ (+1 expansie-run) |
+| Geschiedenis | 97 | → (+0 expansie-run) |
 
 ---
 
 ## Knowledge Health Trend
 
-Alle disciplines bereiken 100% coverage (>20 pagina's). Connectivity is 100% (alle pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: ~1:3 (ruim boven drempel van 1:5).
+Alle disciplines bereiken 100% coverage (>20 pagina's). Connectivity is 100% (alle pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: ~960:468 ≈ 2:1 (ruim boven drempel van 1:5).
 
 ---
 
 ## Aandacht
 
-- Mindfulness (MBSR), Flow (Csikszentmihalyi), Eudaimonia, Tweede Wereldoorlog — Militaire Operaties aangemaakt
-- 4 relatiepagina's + 2 inzichten toegevoegd aan conceptual graph
-- Aandacht vereist: Maslow, Selectieve Aandacht, Return on Invested Capital — worden gerefereerd maar status pagina onbekend
-- ROIC als fundamentele kwaliteitsmaatstaf toegevoegd aan Beleggen
+- Expansie-run 2: Alexithymie, Functionele Neurologische Stoornis, Phineas Gage (Psychologie) + Overconfidence Bias (Beleggen) aangemaakt
+- 5 relatiepagina's + 2 inzichten toegevoegd aan conceptual graph
+- Prioriteit volgende run: Somatische Markerhypothese (Damasio) · Dissociatieve Identiteitsstoornis · Pragmatisme-verdieping
+- Aandacht vereist: Maslow, Selectieve Aandacht, Return on Invested Capital — gerefereerd in quiz maar status onbekend
