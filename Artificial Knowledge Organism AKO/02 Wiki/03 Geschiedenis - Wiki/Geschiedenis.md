@@ -108,3 +108,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[De Wetenschappelijke Revolutie]]
 - [[Absolutisme]]
 - [[Sociale Klasse]]
+- [[Tweede Industriële Revolutie]]

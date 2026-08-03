@@ -456,3 +456,7 @@ type: operationeel
 | ✓ | 2026-08-02T expansie | Agent 3 | Expansie: Sociale Klasse | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/Sociale Klasse.md — confidence 5 |
 | ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Mentaliseren | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Mentaliseren.md — confidence 5 (Fonagy & Bateman 2002/2004) |
 | ✓ | 2026-08-02T consolidatie | Agent 3 | Gap: Cognitieve Triade (Beck) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Cognitieve Triade (Beck).md — confidence 5 (Beck 1967/1979) |
+| ↓ | 2026-08-03T expansie | Agent 3 | Gap: Mindfulness (MBSR) | Ontbreekt — direct klinisch relevant; evidence-base voor neuropsychologische toepassingen |
+| ↓ | 2026-08-03T expansie | Agent 3 | Gap: Flow (Csikszentmihalyi) | Ontbreekt — verwant aan Maslow's piekervaring; positieve psychologie cluster |
+| ↓ | 2026-08-03T expansie | Agent 3 | Gap: Eudaimonia | Ontbreekt als zelfstandige pagina — filosofisch fundament van Deugdethiek en Maslow |
+| ↓ | 2026-08-03T expansie | Agent 3 | Gap: Tweede Wereldoorlog — operaties | Tweede Wereldoorlog pagina aanwezig maar specifieke militaire beslismomenten ontbreken |

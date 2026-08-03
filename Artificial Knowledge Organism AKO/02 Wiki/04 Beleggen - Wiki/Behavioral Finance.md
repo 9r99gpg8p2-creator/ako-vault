@@ -65,6 +65,7 @@ Behavioral Finance ontstond in de jaren zeventig als reactie op de dominante eff
 - [[Dual Process Theorie]] — System 1 (snel, intuïtief) verklaart impulsieve beleggingsbeslissingen; System 2 (traag, analytisch) is vereist voor rationele analyse
 - [[Emotieregulatie]] — beleggers met betere emotieregulatie vertonen minder disposition effect en overtrading
 - [[REITs]] ★7 — REIT-beleggers vertonen systematische biases (dividend-focus, NAV-blinde cycli) die door behavioral finance worden verklaard
+- [[Selectieve Aandacht]] ★7 — salience-bias: beleggers richten aandacht op opvallende koersbewegingen en mediahype ten koste van fundamentele analyse
 
 ## Bronnen
 

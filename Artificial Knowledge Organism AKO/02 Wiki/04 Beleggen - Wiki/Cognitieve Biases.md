@@ -61,6 +61,7 @@ Traditionele economische modellen gingen uit van de rationele actor (homo econom
 - [[Vrije Wil]] — verbinding: als keuzes voorspelbaar irrationeel zijn door biases, roept dit vragen op over de aard van beslissingsvrijheid
 - [[Samengestelde Interest]] ★7 — cognitieve biases (hyperbolic discounting, exponential growth bias) verklaren waarom beleggers de kracht van langetermijngroei systematisch onderschatten
 - [[Financiële Verslaggeving]] ★8 — biases (anchoring, framing, confirmation bias) kleuren de interpretatie van jaarrekeningen systematisch
+- [[Return on Invested Capital]] ★7 — recency bias en anchoring leiden ertoe dat beleggers historische ROIC extrapolareren zonder de duurzaamheid van competitieve voordelen kritisch te toetsen
 
 ## Bronnen
 

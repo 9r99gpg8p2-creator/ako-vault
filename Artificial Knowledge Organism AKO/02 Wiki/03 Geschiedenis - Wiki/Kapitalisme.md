@@ -66,6 +66,7 @@ Het kapitalisme heeft in de twintigste eeuw concurrerende systemen (communisme, 
 **Cross-domein:**
 - [[Verliesaversie]] — beleggers in kapitalistische markten handelen niet rationeel maar verliesaversief
 - [[Postkoloniale Psychologie]] — psychologische gevolgen van koloniaal kapitalisme voor gekoloniseerde bevolkingen
+- [[Tweede Industriële Revolutie]] ★9 — de Tweede Industriële Revolutie was de materiële basis voor het hoogkapitalisme en de concentratie van industrieel kapitaal
 
 ## Bronnen
 

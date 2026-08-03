@@ -110,3 +110,4 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Mental Accounting]]
 - [[Anchoring]]
 - [[Economische Ongelijkheid]]
+- [[Return on Invested Capital]]
