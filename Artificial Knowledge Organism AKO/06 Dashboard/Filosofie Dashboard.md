@@ -15,15 +15,15 @@ sessie: expansie
 
 | Metric | Score |
 |---|---|
-| Coverage | 100% (89 pagina's / target 20 ✓) |
+| Coverage | 100% (98 pagina's / target 20 ✓) |
 | Connectivity | 100% (alle pagina's hebben [[links]]) |
 | Orphan % | 0% |
 
-Trend: ↑ (+20 nieuwe pagina's t.o.v. 2026-07-27; +1 nieuwe pagina vandaag: Friedrich Schelling)
+Trend: ↑ (+1 nieuwe pagina vandaag: Eudaimonia; totaal 98 pagina's)
 
 ---
 
-## Pagina-overzicht (89)
+## Pagina-overzicht (98)
 
 Absurdisme · Adorno en de Autoritaire Persoonlijkheid · Albert Camus · Analytische Filosofie · Aristoteles · Bewustzijn · Compatibilisme · David Hume · Deontologie · Determinisme · Deugdethiek · Duits Idealisme · Edmund Husserl · Edward Said · Empirisme · Epicurisme · Epistemologie · Epistemologisch Relativisme · Esthetica · Ethiek · Ethiek van Zorg · Existentialisme · Falsifiabilisme · Fenomenologie · Filosofie · Filosofie van de Geest · Filosofie van de Wetenschap · Frantz Fanon · **Friedrich Schelling** · Functionalisme · Gayatri Chakravorty Spivak · George Berkeley · Gramsci en Hegemonie · Hannah Arendt · Hedonisme · Hegel · Heidegger · Hermeneutiek · Historisch Materialisme · Homi Bhabha · Immanuel Kant · Jean-Jacques Rousseau · Jean-Paul Sartre · John Dewey · John Locke · John Rawls · John Stuart Mill · Jürgen Habermas · Karl Popper · Kritische Theorie · Leibniz · Libertair Paternalisme · Logica · Logisch Positivisme · Maatschappelijk Contract · Marxisme · Merleau-Ponty · Metafysica · Michel Foucault · Morele Verantwoordelijkheid · Neurodiversiteit · Neuroethiek · Nietzsche · Nihilisme · Plato · Politieke Filosofie · Postkolonialisme · Postmodernisme · Poststructuralisme · Pragmatisme · Psychoanalyse · Ranajit Guha · Rationalisme · René Descartes · Restoratieve Justitie · Sociale Ontologie · Socrates · Søren Kierkegaard · Spinoza · Stoïcisme · Structuralisme · Subaltern Studies · Taalfilosofie · Thomas Hobbes · Thomas Kuhn · Utilitarisme · Vrije Wil · William James · Wittgenstein
 

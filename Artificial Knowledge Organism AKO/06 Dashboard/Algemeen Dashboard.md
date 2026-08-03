@@ -15,9 +15,9 @@ sessie: expansie
 
 | Discipline | Pagina's | Coverage | Connectivity | Orphan% | Score |
 |---|---|---|---|---|---|
-| Psychologie | 170 | 100% | 100% | 0% | **100%** |
-| Filosofie | 97 | 100% | 100% | 0% | **100%** |
-| Geschiedenis | 96 | 100% | 100% | 0% | **100%** |
+| Psychologie | 172 | 100% | 100% | 0% | **100%** |
+| Filosofie | 98 | 100% | 100% | 0% | **100%** |
+| Geschiedenis | 97 | 100% | 100% | 0% | **100%** |
 | Beleggen | 97 | 100% | 100% | 0% | **100%** |
 
 *Coverage = pagina's/20×100% (gecapped op 100%) · Score = Coverage×0.3 + Connectivity×0.3 + (1-Orphan%)×0.4*
@@ -28,9 +28,9 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 460 |
-| Conceptual graph (relaties + inzichten) | 947 |
-| Gemiddelde pagina's per discipline | 115 |
+| Totale Wiki-pagina's | 464 |
+| Conceptual graph (relaties + inzichten) | 959 |
+| Gemiddelde pagina's per discipline | 116 |
 | Disciplines met ≥90 pagina's | 4/4 |
 
 ---
@@ -39,10 +39,10 @@ sessie: expansie
 
 | Discipline | Pagina's | Trend |
 |---|---|---|
-| Psychologie | 170 | ↑ (+2 deze run) |
-| Filosofie | 97 | → (+0 deze run) |
-| Beleggen | 97 | ↑ (+1 deze run) |
-| Geschiedenis | 96 | ↑ (+1 deze run) |
+| Psychologie | 172 | ↑ (+2 deze run) |
+| Filosofie | 98 | ↑ (+1 deze run) |
+| Beleggen | 97 | → (+0 deze run) |
+| Geschiedenis | 97 | ↑ (+1 deze run) |
 
 ---
 
@@ -54,7 +54,7 @@ Alle disciplines bereiken 100% coverage (>20 pagina's). Connectivity is 100% (al
 
 ## Aandacht
 
-- Filosofie ontving geen nieuwe pagina's deze run — verdient aandacht volgende run
-- Nieuwe gaps gesignaleerd: Mindfulness, Flow (Csikszentmihalyi), Eudaimonia, Tweede Wereldoorlog-operaties
-- Selectieve Aandacht als klinisch-neuropsychologisch kernthema toegevoegd aan Psychologie
+- Mindfulness (MBSR), Flow (Csikszentmihalyi), Eudaimonia, Tweede Wereldoorlog — Militaire Operaties aangemaakt
+- 4 relatiepagina's + 2 inzichten toegevoegd aan conceptual graph
+- Aandacht vereist: Maslow, Selectieve Aandacht, Return on Invested Capital — worden gerefereerd maar status pagina onbekend
 - ROIC als fundamentele kwaliteitsmaatstaf toegevoegd aan Beleggen

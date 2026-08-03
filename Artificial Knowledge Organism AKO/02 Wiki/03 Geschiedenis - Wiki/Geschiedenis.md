@@ -109,3 +109,4 @@ Focusgebied: wetenschapsgeschiedenis, ideengeschiedenis, politieke keerpunten.
 - [[Absolutisme]]
 - [[Sociale Klasse]]
 - [[Tweede Industriële Revolutie]]
+- [[Tweede Wereldoorlog — Militaire Operaties]]
