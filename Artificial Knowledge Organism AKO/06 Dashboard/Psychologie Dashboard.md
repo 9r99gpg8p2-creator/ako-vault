@@ -3,12 +3,12 @@ tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
 updated: 2026-08-03
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Psychologie Dashboard — AKO
 
-> Gegenereerd: 2026-08-03 | Modus: Expansie (run 3)
+> Gegenereerd: 2026-08-03 | Modus: Consolidatie
 
 ---
 
@@ -16,7 +16,7 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 178 |
+| Pagina's | 179 |
 | Coverage (pagina's/20, gecapped) | 100% |
 | Connectivity (pagina's met [[links]]) | 100% |
 | Orphan% | 0% |
@@ -26,6 +26,7 @@ sessie: expansie
 
 ## Recente toevoegingen
 
+- Fase-georiënteerde Traumabehandeling (2026-08-03, confidence 5)
 - Structural Dissociation (2026-08-03, confidence 7)
 - Functionele Neurologische Stoornis (2026-08-03, confidence 8)
 - Alexithymie (2026-08-03, confidence 8)
@@ -39,7 +40,7 @@ sessie: expansie
 
 | Sub-cluster | Representatie |
 |---|---|
-| Klinische neuropsychologie | Sterk: Structural Dissociation, PTSD, C-PTSD, DIS, FNS, Alexithymie |
+| Klinische neuropsychologie | Sterk: Structural Dissociation, PTSD, C-PTSD, DIS, FNS, Alexithymie, Fase-georiënteerde Traumabehandeling |
 | Neuro-anatomie | Sterk: Frontaalkwab, Temporaalkwab, Occipitaalkwab, Pariëtaalkwab, Amygdala, Insula |
 | Cognitieve psychologie | Sterk: Werkgeheugen, Executieve Functies, Dual Process Theorie |
 | Diagnostische instrumenten | Goed: WAIS, RAVLT, Trail Making Test, WCST, ADOS-2, Stroop Test |
@@ -50,5 +51,5 @@ sessie: expansie
 
 ## Gaps
 
-- Duration en convexiteit → Beleggen, niet Psychologie
-- Fase-georiënteerde traumabehandeling → ↓ queue aanbevolen
+- Geen ↓-items in queue — psychologie-cluster volledig bijgewerkt
+- Aandacht: EMDR-pagina kan worden uitgebreid met dissociatie-specifieke protocollen (Gonzalez & Mosquera PAP)

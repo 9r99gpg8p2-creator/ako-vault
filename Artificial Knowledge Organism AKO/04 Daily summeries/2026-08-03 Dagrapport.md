@@ -2,42 +2,53 @@
 type: dagrapport
 date: 2026-08-03
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 3 · Gaps: 1 gedicht · Leestijd: 10 min
+Inbox verwerkt: 0 · Gaps gedicht: 2 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 5 · Queue resterend: 0
 
-## Research Agenda
+## Pagina's Bijgewerkt via Inbox
 
-1. **Structural Dissociation — behandelprotocollen** — de basistheorie van Van der Hart et al. (2006) is aangemaakt; fase-georiënteerde therapie en EMDR bij dissociatieve stoornissen verdienen eigen pagina's
-2. **Vergelijkende beschavingsgeschiedenis** — De Opkomst van de Islam biedt kader; aanvulling met Tang-dynastie China en Karolingisch Europa in dezelfde 7e–8e-eeuwse periode
-3. **Obligatieduration en convexiteit** — Obligatiemarkt aangemaakt; duration en convexiteit als meetinstrumenten van renterisico verdienen uitwerking
+*Geen inbox-bestanden verwerkt deze run.*
+
+## Verbindingen Toegevoegd
+
+1. [[Duration en Convexiteit]] ↔ [[Obligatiemarkt]] · ★9
+2. [[Duration en Convexiteit]] ↔ [[Risicobeheer]] · ★8
+3. [[Fase-georiënteerde Traumabehandeling]] ↔ [[Structural Dissociation]] · ★10
+4. [[Fase-georiënteerde Traumabehandeling]] ↔ [[Complexe PTSD]] · ★9
+5. [[Fase-georiënteerde Traumabehandeling]] ↔ [[EMDR]] · ★8
 
 ## Insight Feed
 
-— "Zonder de vertaalbeweging in Bagdad was Aristoteles verloren gegaan voor Europa — islamitische geleerden waren de custodians van de westerse rede." [Geschiedenis → Filosofie · ★8]
+— "Hoewel convexiteit wiskundig een voordeel is, maakt verliesaversie beleggers blind voor dit voordeel — het cognitieve frame focust op het verliesscenario." [Beleggen → Psychologie · ★8]
 
-— "De neuropsycholoog is een causaliteitsdetective: elke diagnose is een causale bewering over hersenlaesie en cognitief defect, gefundeerd op filosofische dissociatie-logica." [Filosofie → Psychologie · ★7]
-
-— "Bij tertiaire structurele dissociatie (DIS) existeren meerdere 'ik'-ervaringen met eigen wil — de filosofische notie van een enkelvoudige vrije wil wordt hier empirisch aangevochten." [Psychologie → Filosofie · ★6]
+— "De eis van veiligheid vóór integratie in traumabehandeling weerspiegelt een ethisch principe van zorg: kwetsbaarheid gaat altijd voor doelgerichtheid." [Psychologie → Filosofie · ★9]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
 | Psychologie | 100% | ↑ (+1 pagina) |
-| Filosofie | 100% | ↑ (+1 pagina) |
-| Geschiedenis | 100% | ↑ (+1 pagina) |
+| Filosofie | 100% | → |
+| Geschiedenis | 100% | → |
 | Beleggen | 100% | ↑ (+1 pagina) |
+
+## Research Agenda
+
+1. **Duration en Convexiteit — verdiepen** — ALM (Asset-Liability Management) bij pensioenfondsen als toepassingsdomein; cross-link met Risicobeheer en VaR
+2. **Fase-georiënteerde behandeling — EMDR-protocollen** — specifieke DIS-protocollen (Gonzalez & Mosquera PAP) verdienen aandacht in EMDR-pagina
+3. **Episodisch geheugen bij dissociatie** — interferentie van dissociatieve processen met geheugenconsolidatie is een klinisch-neuropsychologisch onderzoeksgebied
 
 ## Activiteit
 
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 4 |
-| Nieuwe verbindingen | 4 |
-| Gaps gedicht | 1 |
+| Nieuwe Wiki-pagina's | 2 |
+| Nieuwe verbindingen | 5 |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 2 |
+| Queue resterend | 0 |

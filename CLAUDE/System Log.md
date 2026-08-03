@@ -3069,3 +3069,22 @@ type: operationeel
 | 2026-08-03T16:07Z | Agent 8 | Graph-validatie | 4 nieuwe pagina's verbonden · Hub-updates compleet · Cross-domein ratio: ~975:474 ≈ 2:1 |
 | 2026-08-03T16:08Z | Orchestrator | Task Queue bijgewerkt | Structural Dissociation ✓ gesloten · 2 nieuwe gaps toegevoegd: Duration/Convexiteit + Fase-georiënteerde Traumabehandeling |
 | 2026-08-03T16:08Z | Orchestrator | Expansie-run 3 voltooid | 4 pag's · 4 verbindingen · 3 inzichten · Health: 100% · Totaal Wiki: 474 · Conceptual graph: 975 |
+| 2026-08-03T consolidatie-2 | Orchestrator | Context laden | AKO v1.6, Graph Architecture, Wiki Template, Naming Convention, Task Queue, System Log geladen |
+| 2026-08-03T consolidatie-2 | Agent 1 | Inbox scan | Geen bestanden na filtering (alle starten met _) | 0 wiki-kandidaten |
+| 2026-08-03T consolidatie-2 | Agent 2 | Wikipedia API | Geblokkeerd (geen output) — interne kennis, confidence max 5 |
+| 2026-08-03T consolidatie-2 | Agent 3 | Wiki aangemaakt | Duration en Convexiteit.md — 04 Beleggen - Wiki — confidence 5 |
+| 2026-08-03T consolidatie-2 | Agent 3 | Wiki aangemaakt | Fase-georiënteerde Traumabehandeling.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-08-03T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | Duration en Convexiteit — Obligatiemarkt.md ★9 (Beleggen) |
+| 2026-08-03T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | Duration en Convexiteit — Risicobeheer.md ★8 (Beleggen) |
+| 2026-08-03T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | Fase-georiënteerde Traumabehandeling — Structural Dissociation.md ★10 (Psychologie) |
+| 2026-08-03T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | Fase-georiënteerde Traumabehandeling — Complexe PTSD.md ★9 (Psychologie) |
+| 2026-08-03T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | Fase-georiënteerde Traumabehandeling — EMDR.md ★8 (Psychologie) |
+| 2026-08-03T consolidatie-2 | Agent 5 | Inzicht aangemaakt | Convexiteitsblindheid als Beleggersparadox.md — Beleggen→Psychologie ★8 |
+| 2026-08-03T consolidatie-2 | Agent 5 | Inzicht aangemaakt | Veiligheid als Voorwaarde voor Integratie.md — Psychologie→Filosofie ★9 |
+| 2026-08-03T consolidatie-2 | Agent 6 | Dagrapport overschreven | 2026-08-03 Dagrapport.md — consolidatie-modus |
+| 2026-08-03T consolidatie-2 | Agent 6 | Quiz bijgewerkt | 3 nieuwe vragen toegevoegd aan 2026-08-03 Quiz.md (vragen 18-20) |
+| 2026-08-03T consolidatie-2 | Agent 7 | Audit voltooid | Psych:179 · Fil:99 · Gesch:98 · Bel:100 · graph: 982 bestanden · Alle disciplines 100% |
+| 2026-08-03T consolidatie-2 | Agent 8 | Hub bijgewerkt | Beleggen.md: [[Duration en Convexiteit]] toegevoegd |
+| 2026-08-03T consolidatie-2 | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Fase-georiënteerde Traumabehandeling]] toegevoegd |
+| 2026-08-03T consolidatie-2 | Orchestrator | Task Queue bijgewerkt | 2 gaps gesloten (Duration en Convexiteit ✓, Fase-georiënteerde Traumabehandeling ✓) · Queue volledig leeg |
+| 2026-08-03T consolidatie-2 | Orchestrator | Consolidatie-run voltooid | 2 gaps gedicht · 5 relaties · 2 inzichten · Health: 100% · Totaal Wiki: 476 · Conceptual graph: 982 |

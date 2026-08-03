@@ -191,3 +191,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Somatische Markerhypothese]]
 - [[Dissociatieve Identiteitsstoornis]]
 - [[Structural Dissociation]]
+- [[Fase-georiënteerde Traumabehandeling]]
