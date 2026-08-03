@@ -3,7 +3,7 @@ tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
 updated: 2026-08-03
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Psychologie Dashboard
@@ -16,11 +16,11 @@ sessie: expansie
 
 | Metric | Score |
 |---|---|
-| Coverage | 100% (172 pagina's / target 20 ✓) |
+| Coverage | 100% (177 pagina's / target 20 ✓) |
 | Connectivity | 100% (alle pagina's hebben [[links]]) |
 | Orphan % | 0% |
 
-Trend: ↑ (+2 nieuwe pagina's t.o.v. gisteren: Mindfulness (MBSR), Flow (Csikszentmihalyi))
+Trend: ↑ (+2 nieuwe pagina's: Somatische Markerhypothese, Dissociatieve Identiteitsstoornis)
 
 ---
 

@@ -464,5 +464,6 @@ type: operationeel
 | ✓ | 2026-08-03T expansie-2 | Agent 3 | Expansie: Functionele Neurologische Stoornis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Functionele Neurologische Stoornis.md — confidence 8 (Stone et al., DSM-5-TR) |
 | ✓ | 2026-08-03T expansie-2 | Agent 3 | Expansie: Phineas Gage | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Phineas Gage.md — confidence 8 (Harlow 1868, Damasio 1994, Macmillan 2000) |
 | ✓ | 2026-08-03T expansie-2 | Agent 3 | Expansie: Overconfidence Bias | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Overconfidence Bias.md — confidence 8 (Fischhoff 1977, Moore & Healy 2008, Barber & Odean 2001) |
-| ↓ | 2026-08-03T expansie-2 | Agent 3 | Gap: Somatische Markerhypothese (Damasio) | Directe koppeling Phineas Gage + Vrije Wil; cross-domein psychologie ↔ filosofie |
-| ↓ | 2026-08-03T expansie-2 | Agent 3 | Gap: Dissociatieve Identiteitsstoornis | Raakvlak FNS en PTSD; relevant MSc Klinische Neuropsychologie |
+| ✓ | 2026-08-03T consolidatie | Agent 3 | Gap: Somatische Markerhypothese (Damasio) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Somatische Markerhypothese.md — confidence 5 |
+| ✓ | 2026-08-03T consolidatie | Agent 3 | Gap: Dissociatieve Identiteitsstoornis | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Dissociatieve Identiteitsstoornis.md — confidence 5 |
+| ↓ | 2026-08-03T consolidatie | Agent 3 | Gap: Structural Dissociation (Van der Hart et al. 2006) | Subtheorie DIS; directe koppeling Dissociatieve Identiteitsstoornis + PTSD + FNS |

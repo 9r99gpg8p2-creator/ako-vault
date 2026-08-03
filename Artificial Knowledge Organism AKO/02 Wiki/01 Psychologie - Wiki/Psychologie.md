@@ -188,3 +188,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Alexithymie]]
 - [[Functionele Neurologische Stoornis]]
 - [[Phineas Gage]]
+- [[Somatische Markerhypothese]]
+- [[Dissociatieve Identiteitsstoornis]]

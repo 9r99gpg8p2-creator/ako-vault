@@ -2,45 +2,52 @@
 type: dagrapport
 date: 2026-08-03
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 ## Daily Briefing
 
-Nieuwe kennis: 8 · Inbox verwerkt: 0 · Verbindingen: 11 · Inzichten: 4 · Gaps: 3 · Leestijd: ~24 min
+Goedemorgen.
 
-*(Inclusief eerdere consolidatie-run van dezelfde dag: Mindfulness MBSR, Flow Csikszentmihalyi, Eudaimonia, Tweede Wereldoorlog — Militaire Operaties + deze expansie-run: Alexithymie, Functionele Neurologische Stoornis, Phineas Gage, Overconfidence Bias)*
-
----
-
-## Pagina's Aangemaakt deze run
-
-1. [[Alexithymie]] — confidence 8 · Psychologie · (Sifneos 1972, Taylor et al. 1997)
-2. [[Functionele Neurologische Stoornis]] — confidence 8 · Psychologie · (Stone et al., DSM-5-TR)
-3. [[Phineas Gage]] — confidence 8 · Psychologie · (Harlow 1868, Damasio 1994, Macmillan 2000)
-4. [[Overconfidence Bias]] — confidence 8 · Beleggen · (Fischhoff 1977, Moore & Healy 2008, Barber & Odean 2001)
-
-## Verbindingen Toegevoegd
-
-1. [[Alexithymie]] ↔ [[Mentaliseren]] · ★9
-2. [[Overconfidence Bias]] ↔ [[Dual Process Theorie]] · ★8
-3. [[Phineas Gage]] ↔ [[Prefrontale Cortex]] · ★10
-4. [[Overconfidence Bias]] ↔ [[Executieve Functies]] · ★7
-5. [[Functionele Neurologische Stoornis]] ↔ [[Cognitieve Gedragstherapie]] · ★8
-
-## Insight Feed
-
-— "Overconfidence bias — evolutionair vermoedelijk adaptief — werkt in moderne financiële markten structureel in het nadeel van de belegger: de bias die onze voorouders hielp overleven, kost ons rendement." [Psychologie → Beleggen · ★8]
-
-— "De casus van Phineas Gage bevestigt Merleau-Ponty's stelling dat het lichaam de primaire bron van oriëntatie is: denken zonder emotioneel-somatische signalen is niet slechts incompleet, het is onmogelijk." [Psychologie → Filosofie · ★9]
+Nieuwe kennis:          2 concepten (Somatische Markerhypothese, Dissociatieve Identiteitsstoornis)
+Nieuwe artikelen:       0 (Wikipedia geblokkeerd — interne kennis gebruikt)
+Nieuwe verbindingen:    6 relatiepagina's + 2 inzichten
+Nieuwe inzichten:       2 cross-domein inzichten
+Kennishiaten:           0 nieuwe gaps (2 gedicht)
+Aanbevolen leestijd:    ~8 minuten
 
 ---
 
 ## Research Agenda
 
-1. **Somatische Markerhypothese (Damasio)** — directe koppeling aan Phineas Gage; nog geen aparte pagina; cross-domain psychologie ↔ filosofie
-2. **Dissociatieve Identiteitsstoornis** — raakvlak met FNS en PTSD; relevant voor MSc Klinische Neuropsychologie
-3. **Pragmatisme (verdieping)** — Filosofie heeft 98 pagina's (laagste samen met Beleggen na heute); William James reeds aanwezig; pragmatistische kennistheorie uitwerken
+Prioriteit 1: Somatische Markerhypothese — diepere koppeling met neuroeconomie (verliesaversie + amygdala)
+Prioriteit 2: Dissociatieve Identiteitsstoornis — fasegerichte behandeling uitwerken (EMDR-protocol bij DIS)
+Prioriteit 3: Structural Dissociation model (Van der Hart et al. 2006) — aparte wiki-pagina als subtheorie
+
+---
+
+## Pagina's Bijgewerkt via Inbox
+
+*(Geen inbox verwerkt deze run)*
+
+---
+
+## Verbindingen Toegevoegd
+
+1. [[Somatische Markerhypothese]] ↔ [[Phineas Gage]] · ★9
+2. [[Somatische Markerhypothese]] → [[Vrije Wil]] · ★8
+3. [[Somatische Markerhypothese]] → [[Prefrontale Cortex]] · ★9
+4. [[Dissociatieve Identiteitsstoornis]] ↔ [[Complexe PTSD]] · ★9
+5. [[Dissociatieve Identiteitsstoornis]] ↔ [[Functionele Neurologische Stoornis]] · ★8
+6. [[Dissociatieve Identiteitsstoornis]] → [[Bewustzijn]] · ★7
+
+---
+
+## Insight Feed
+
+— "Damasio's somatische markers onthullen dat beleggers' buikgevoel geen irrationeel ruis is, maar gecomprimeerde emotionele beslisgeschiedenis — en juist daarin schuilt zowel het risico van paniekverkoop als de adaptieve kracht van ervaren marktintuïtie." [Psychologie → Beleggen · ★8]
+
+— "Dissociatieve Identiteitsstoornis maakt de filosofische abstractie over persoonlijke identiteit klinisch urgent: als meerdere alters afwisselend het handelende subject zijn, is het zelf een narratieve constructie — wat Hume's bundel-theorie en de vraag naar vrije wil empirische grond geeft." [Psychologie → Filosofie · ★7]
 
 ---
 
@@ -48,12 +55,10 @@ Nieuwe kennis: 8 · Inbox verwerkt: 0 · Verbindingen: 11 · Inzichten: 4 · Gap
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 100% | → |
-| Filosofie | 100% | → |
-| Geschiedenis | 100% | → |
-| Beleggen | 100% | ↑ |
-
-*Coverage (target 20 pag.): Psychologie 175, Filosofie 98, Geschiedenis 97, Beleggen 98. Connectivity: 100%. Orphan rate: 0%.*
+| Psychologie | 89% | ↑ |
+| Filosofie | 49% | → |
+| Geschiedenis | 49% | → |
+| Beleggen | 49% | → |
 
 ---
 
@@ -61,18 +66,16 @@ Nieuwe kennis: 8 · Inbox verwerkt: 0 · Verbindingen: 11 · Inzichten: 4 · Gap
 
 | Metric | Aantal |
 |---|---|
-| Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
-| Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen (relatiepag.) | 5 |
+| Nieuwe Wiki-pagina's | 2 |
+| Nieuwe relatiepagina's | 6 |
 | Nieuwe inzichten | 2 |
-| Gaps gedicht | 0 |
+| Quizvragen toegevoegd | 3 |
+| Gaps gedicht | 2 |
+| Inbox verwerkt | 0 |
 
 ---
 
 ## Aandacht vereist
 
-- [ ] Somatische Markerhypothese (Damasio) — geen pagina aanwezig; hoge prioriteit (koppeling Phineas Gage + Vrije Wil)
-- [ ] Selectieve Aandacht — gerefereerd in quiz; check of pagina bestaat
-- [ ] Maslow — gerefereerd in quiz; check of pagina bestaat
-- [ ] Return on Invested Capital — gerefereerd in quiz; check of pagina bestaat
+- [ ] Wikipedia API geblokkeerd: confidence van nieuwe pagina's beperkt tot 5 (intern kennismodel gebruikt)
+- [ ] Structural Dissociation model (Van der Hart et al.) verdient eigen wiki-pagina — in queue voor volgende run

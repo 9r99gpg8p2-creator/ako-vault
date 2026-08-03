@@ -3037,3 +3037,12 @@ type: operationeel
 | 2026-08-03T10:17Z | Agent 4 | Relaties | 5 relatiepaginas aangemaakt: Alexithymie-Mentaliseren, Overconfidence-DualProcess, PhineasGage-PrefrontaalCortex, Overconfidence-ExecutieveFuncties, FNS-CGT |
 | 2026-08-03T10:17Z | Agent 5 | Inzichten | 2 inzichtpaginas aangemaakt: Overconfidence als Evolutionair Paradox (P→B ★8), Lichaam als Beslisser Gage en Merleau-Ponty (P→F ★9) |
 | 2026-08-03T10:17Z | Orchestrator | Expansie-run voltooid | 4 pag's · Health: 100% · Conceptual graph: 960 bestanden |
+| 2026-08-03T12:00Z | Agent 1 | Inbox scan | Geen bestanden na filtering (alleen _-bestanden) | 0 wiki-kandidaten |
+| 2026-08-03T12:00Z | Agent 3 | Consolidatie | Somatische Markerhypothese.md aangemaakt | discipline: psychologie | confidence 5 |
+| 2026-08-03T12:00Z | Agent 3 | Consolidatie | Dissociatieve Identiteitsstoornis.md aangemaakt | discipline: psychologie | confidence 5 |
+| 2026-08-03T12:00Z | Agent 4 | Relaties | 6 relatiepaginas aangemaakt: SomatischeMarkerhypothese-PhineasGage(★9), SomatischeMarkerhypothese-VrijeWil(★8), SomatischeMarkerhypothese-PrefrontaalCortex(★9), DIS-CompPTSD(★9), DIS-FNS(★8), DIS-Bewustzijn(★7) |
+| 2026-08-03T12:00Z | Agent 5 | Inzichten | 2 inzichtpaginas aangemaakt: LichaamlijkeIntuïtieAlsOnzichtbareBeleggersstrategie(P→B ★8), MeervoudigZelfAlsBewijsVoorGesitueerdeIdentiteit(P→F ★7) |
+| 2026-08-03T12:00Z | Agent 6 | Dagrapport | 2026-08-03 Dagrapport.md overschreven (consolidatie-modus) |
+| 2026-08-03T12:00Z | Agent 6 | Quiz | 3 vragen toegevoegd aan 2026-08-03 Quiz.md (vragen 12-14) |
+| 2026-08-03T12:00Z | Agent 8 | Hub | Psychologie.md bijgewerkt: [[Somatische Markerhypothese]] + [[Dissociatieve Identiteitsstoornis]] toegevoegd |
+| 2026-08-03T12:00Z | Orchestrator | Consolidatie-run voltooid | 2 gaps gedicht · Health: 100% · Conceptual graph: 968 bestanden |
