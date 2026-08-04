@@ -469,3 +469,14 @@ type: operationeel
 | ✓ | 2026-08-03T expansie-3 | Agent 3 | Gap: Structural Dissociation (Van der Hart et al. 2006) | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Structural Dissociation.md — confidence 7 (Van der Hart et al. 2006) |
 | ✓ | 2026-08-03T expansie-3 | Agent 3 | Gap: Duration en Convexiteit | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Duration en Convexiteit.md — confidence 5 |
 | ✓ | 2026-08-03T expansie-3 | Agent 3 | Gap: Fase-georiënteerde Traumabehandeling | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Fase-georiënteerde Traumabehandeling.md — confidence 5 |
+| ✓ | 2026-08-04T expansie | Agent 3 | Expansie: Portfolio Rebalancing | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Portfolio Rebalancing.md — confidence 5 |
+| ✓ | 2026-08-04T expansie | Agent 3 | Expansie: Risk Parity | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Risk Parity.md — confidence 5 |
+| ✓ | 2026-08-04T expansie | Agent 3 | Expansie: Zelfregulatietheorie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Zelfregulatietheorie.md — confidence 5 |
+| ✓ | 2026-08-04T expansie | Agent 3 | Expansie: Normatieve Ethiek | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Normatieve Ethiek.md — confidence 5 |
+| ↓ | 2026-08-04T | Agent 3 | Gap: Kinderneuropsychologie | Ontbreekt — direct relevant voor MSc Klinische Neuropsychologie |
+| ↓ | 2026-08-04T | Agent 3 | Gap: ALM (Asset-Liability Management) | Ontbreekt — praktijktoepassing Duration en Convexiteit bij pensioenfondsen |
+| ↓ | 2026-08-04T | Agent 3 | Gap: Aandeleninkoop (Buybacks) | Ontbreekt — fundamenteel bedrijfsfinancieringsconcept |
+| ✓ | 2026-08-04T expansie | Agent 8 | Hub bijgewerkt | Beleggen.md: [[Portfolio Rebalancing]] + [[Risk Parity]] toegevoegd |
+| ✓ | 2026-08-04T expansie | Agent 8 | Hub bijgewerkt | Filosofie.md: [[Normatieve Ethiek]] toegevoegd |
+| ✓ | 2026-08-04T expansie | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Zelfregulatietheorie]] toegevoegd |
+| ✓ | 2026-08-04T expansie | Orchestrator | Expansie-run voltooid | 4 pag's · Health: 100% |

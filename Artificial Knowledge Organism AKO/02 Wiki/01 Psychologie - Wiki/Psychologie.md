@@ -192,3 +192,4 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Dissociatieve Identiteitsstoornis]]
 - [[Structural Dissociation]]
 - [[Fase-georiënteerde Traumabehandeling]]
+- [[Zelfregulatietheorie]]

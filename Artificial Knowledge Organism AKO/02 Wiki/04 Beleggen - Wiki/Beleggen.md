@@ -114,3 +114,5 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Overconfidence Bias]]
 - [[Obligatiemarkt]]
 - [[Duration en Convexiteit]]
+- [[Portfolio Rebalancing]]
+- [[Risk Parity]]

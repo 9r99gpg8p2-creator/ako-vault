@@ -55,6 +55,7 @@ Neuroethiek raakt aan centrale vragen uit de klassieke filosofie: Kant's deontol
 - [[Vrije Wil]] — neurowetenschappelijk bewijs voor determinisme daagt vrije-wil-concepties uit
 - [[Bewustzijn]] — vraagstukken over bewustzijn en moreel agentschap
 - [[Morele Verantwoordelijkheid]] — in hoeverre is iemand moreel verantwoordelijk als het brein de oorzaak is?
+- [[Normatieve Ethiek]] ★8 — levert de normatieve kaders (deontologie, consequentialisme, deugdethiek) voor neuroethische dilemma's
 
 **Cross-domein:**
 - [[Neuropsychologie]] — neuroethiek als reflectief kader voor de klinische neuropsychologiepraktijk
