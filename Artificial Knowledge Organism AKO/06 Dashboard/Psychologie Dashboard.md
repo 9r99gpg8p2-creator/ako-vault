@@ -16,7 +16,7 @@ sessie: consolidatie
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 183 |
+| Pagina's | 185 |
 | Coverage (pagina's/20, gecapped) | 100% |
 | Connectivity (pagina's met [[links]]) | 100% |
 | Orphan% | 0% |
@@ -26,9 +26,8 @@ sessie: consolidatie
 
 ## Recente toevoegingen
 
-- Rouwverwerking (2026-08-04, confidence 5) — Rouwverwerking↔Hechtingstheorie (★9) verdicht
-- Gedragsactivatie (2026-08-04, confidence 5) — Gedragsactivatie↔Zelf-Determinatietheorie (★8) verdicht
-- Kinderneuropsychologie (2026-08-04, confidence 5) — Kinderneuropsychologie↔Neuroplasticiteit (★9) verdicht
+- Psychologische Veerkracht (2026-08-04, confidence 5) — resilience als beschermende factor tegen PTSD; neuroplasticiteit als biologische basis
+- Trauma-Informed Care (2026-08-04, confidence 5) — TIC-kader voor behandeling van PTSD en Complexe PTSD; SAMHSA vier R's en zes principes
 
 ---
 

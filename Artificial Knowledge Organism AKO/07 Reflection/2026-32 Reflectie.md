@@ -54,12 +54,26 @@ Week 32 breidde verder uit met vier nieuwe concepten uit de **expansie-run** lat
 
 Nieuwe cross-domain inzichten: (1) Overconfidence als evolutionair paradox — adaptief in prehistorie, destructief op de beurs; (2) Phineas Gage en Merleau-Ponty — lichaam als onmisbare bron van kennis en beslissing.
 
+## Aanvulling — Expansie-run 2026-08-04 (run 3)
+
+De derde expansie-run van week 32 focuste op **klinisch relevante psychologie** en **20e-eeuwse conflictgeschiedenis**:
+
+- **Psychologische Veerkracht** (Psychologie): resilience als dynamisch adaptief vermogen na adversiteit. Masten (2001) beschreef het als "ordinary magic" — normale adaptatieprocessen die herstel mogelijk maken. Neurobiologisch verankerd in BDNF, HPA-as regulatie en neuroplasticiteit. Direct relevant voor klinische neuropsychologische revalidatie.
+- **Trauma-Informed Care** (Psychologie): het SAMHSA-kader (2014) dat erkenning van traumawijdverspreiding integreert in alle zorgpraktijken. De vier R's (Realiseren, Herkennen, Reageren, Resisteren aan hertraumatisering) vormen het fundament. Cruciaal verschil met traditionele zorg: "Wat is er met jou gebeurd?" vervangt "Wat is er mis met jou?"
+- **De Ruimterace** (Geschiedenis): de VS-Sovjet-competitie 1957–1969. Sputnik (1957) als katalysator voor westerse onderwijs- en wetenschapshervormingen. Apollo 11 (1969) als symbolisch eindpunt. Historisch interessant: de wortels in de V-2-technologie en Operation Paperclip.
+- **De Joegoslavische Oorlogen** (Geschiedenis): 1991–2001 als één van de meest traumatische conflicten in naoorlogs Europa. Genocide in Srebrenica (1995); ICTY als pionier in internationale strafrechtspleging. De Joegoslavische context vormde een beslissend empirisch laboratorium voor PTSD-onderzoek bij oorlogsslachtoffers.
+
+**Cross-domein inzichten:**
+- Stoïcisme ↔ Psychologische Veerkracht: twee disciplines, één idee — trainbare innerlijke reserves beschermen tegen externe schade (★8)
+- Ruimterace → Prospect Theory: nationale loss-aversie mobiliseerde meer dan winst-anticipatie (★7)
+- Joegoslavische Oorlogen → Trauma-Informed Care: massatrauma dwong heroverweging van culturele bias in diagnostische categorieën (★8)
+
 ## Statistieken
 
 | Metric | Deze week |
 |---|---|
-| Nieuwe concepten | 8 |
-| Nieuwe verbindingen | 11 |
-| Gaps gedicht | 0 |
-| Inzichten gegenereerd | 4 |
+| Nieuwe concepten | 12 |
+| Nieuwe verbindingen | 16 |
+| Gaps gedicht | 4 |
+| Inzichten gegenereerd | 7 |
 | Knowledge Health score | 100% |

@@ -16,7 +16,7 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 99 |
+| Pagina's | 101 |
 | Coverage (pagina's/20, gecapped) | 100% |
 | Connectivity (pagina's met [[links]]) | 100% |
 | Orphan% | 0% |
@@ -26,11 +26,11 @@ sessie: expansie
 
 ## Recente toevoegingen
 
-- De Joodse Diaspora (2026-08-04, confidence 5) ← nieuw concept
+- De Ruimterace (2026-08-04, confidence 5) — Koude Oorlog-technologiecompetitie; cross-link met Prospect Theory
+- De Joegoslavische Oorlogen (2026-08-04, confidence 5) — Balkanconflict 1991–2001; genocide, ICTY, cross-link met PTSD
+- De Joodse Diaspora (2026-08-04, confidence 5)
 - De Opkomst van de Islam (2026-08-03, confidence 5)
 - Tweede Wereldoorlog — Militaire Operaties (2026-08-03, confidence 5)
-- Absolutisme (2026-08-02, confidence 5)
-- Sociale Klasse (2026-08-02, confidence 5)
 
 ---
 

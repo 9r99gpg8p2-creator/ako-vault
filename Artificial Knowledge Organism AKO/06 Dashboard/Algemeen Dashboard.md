@@ -15,9 +15,9 @@ sessie: consolidatie
 
 | Discipline | Pagina's | Coverage | Connectivity | Orphan% | Score |
 |---|---|---|---|---|---|
-| Psychologie | 183 | 100% | 100% | 0% | **100%** |
+| Psychologie | 185 | 100% | 100% | 0% | **100%** |
 | Filosofie | 101 | 100% | 100% | 0% | **100%** |
-| Geschiedenis | 99 | 100% | 100% | 0% | **100%** |
+| Geschiedenis | 101 | 100% | 100% | 0% | **100%** |
 | Beleggen | 104 | 100% | 100% | 0% | **100%** |
 
 *Coverage = pagina's/20×100% (gecapped op 100%) · Score = Coverage×0.3 + Connectivity×0.3 + (1-Orphan%)×0.4*
@@ -29,7 +29,7 @@ sessie: consolidatie
 | Metric | Waarde |
 |---|---|
 | Totale Wiki-pagina's | 491 |
-| Conceptual graph (relaties + inzichten) | 1005 |
+| Conceptual graph (relaties + inzichten) | 1013 |
 | Gemiddelde pagina's per discipline | 123 |
 | Disciplines met ≥90 pagina's | 4/4 |
 
@@ -39,9 +39,9 @@ sessie: consolidatie
 
 | Discipline | Pagina's | Trend |
 |---|---|---|
-| Psychologie | 183 | → (consolidatie: geen nieuwe pagina's, 3 relaties versterkt) |
-| Filosofie | 101 | → (consolidatie: Dialectiek↔DBT relatie verdicht) |
-| Geschiedenis | 99 | → (consolidatie: Diaspora↔Etnische Identiteit verdicht) |
+| Psychologie | 185 | ↑ (expansie: +2 nieuwe pagina's: Psychologische Veerkracht, Trauma-Informed Care) |
+| Filosofie | 101 | → (ongewijzigd) |
+| Geschiedenis | 101 | ↑ (expansie: +2 nieuwe pagina's: De Ruimterace, De Joegoslavische Oorlogen) |
 | Beleggen | 104 | → (ongewijzigd) |
 
 ---

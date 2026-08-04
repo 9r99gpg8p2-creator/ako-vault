@@ -196,3 +196,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Kinderneuropsychologie]]
 - [[Rouwverwerking]]
 - [[Gedragsactivatie]]
+- [[Psychologische Veerkracht]]
+- [[Trauma-Informed Care]]

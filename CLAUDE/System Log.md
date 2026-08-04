@@ -3152,3 +3152,24 @@ type: operationeel
 | 2026-08-04T consolidatie | Agent 7 | Audit voltooid | ✓ | Psych:183 · Fil:101 · Gesch:99 · Bel:104 · graph:1005 · Alle disciplines 100% |
 | 2026-08-04T consolidatie | Agent 8 | Hub check | ✓ | Geen nieuwe pagina's in consolidatie-run; hubs volledig up-to-date |
 | 2026-08-04T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 0 gaps · 5 relaties · 2 inzichten · Health: 100% |
+| 2026-08-04T expansie-3 | Orchestrator | Context laden | ✓ | AKO v1.6, Task Queue (alle ✓), Inbox (leeg), Wiki Template, Naming Convention geladen |
+| 2026-08-04T expansie-3 | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _ bestanden) — STAP 1.5 overgeslagen |
+| 2026-08-04T expansie-3 | Agent 2 | Research | ✓ | Wikipedia API onbereikbaar — interne kennis gebruikt (confidence max 5) · 4 onderwerpen geselecteerd |
+| 2026-08-04T expansie-3 | Agent 3 | Wiki-pagina aangemaakt | ✓ | Psychologische Veerkracht.md — Psychologie — confidence 5 |
+| 2026-08-04T expansie-3 | Agent 3 | Wiki-pagina aangemaakt | ✓ | Trauma-Informed Care.md — Psychologie — confidence 5 |
+| 2026-08-04T expansie-3 | Agent 3 | Wiki-pagina aangemaakt | ✓ | De Ruimterace.md — Geschiedenis — confidence 5 |
+| 2026-08-04T expansie-3 | Agent 3 | Wiki-pagina aangemaakt | ✓ | De Joegoslavische Oorlogen.md — Geschiedenis — confidence 5 |
+| 2026-08-04T expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Psychologische Veerkracht — PTSD.md — sterkte ★9 — Psychologie |
+| 2026-08-04T expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Trauma-Informed Care — Complexe PTSD.md — sterkte ★9 — Psychologie |
+| 2026-08-04T expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | De Ruimterace — Koude Oorlog.md — sterkte ★9 — Geschiedenis |
+| 2026-08-04T expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | De Joegoslavische Oorlogen — PTSD.md — sterkte ★8 — Geschiedenis × Psychologie |
+| 2026-08-04T expansie-3 | Agent 4 | Relatiepagina aangemaakt | ✓ | Psychologische Veerkracht — Neuroplasticiteit.md — sterkte ★8 — Psychologie |
+| 2026-08-04T expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Veerkracht als Neurologisch en Filosofisch Principe.md — Filosofie → Psychologie — sterkte ★8 |
+| 2026-08-04T expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Technologische Competitie als Geschiedenis van Angst.md — Geschiedenis → Psychologie — sterkte ★7 |
+| 2026-08-04T expansie-3 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Trauma als Politiek en Klinisch Probleem.md — Geschiedenis → Psychologie — sterkte ★8 |
+| 2026-08-04T expansie-3 | Agent 6 | Dagrapport overschreven | ✓ | 2026-08-04 Dagrapport.md — 4 concepten · 5 verbindingen · 3 inzichten |
+| 2026-08-04T expansie-3 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-08-04 Quiz.md — 3 nieuwe vragen toegevoegd (vr. 15-17) |
+| 2026-08-04T expansie-3 | Agent 7 | Audit voltooid | ✓ | Psych:185 · Fil:101 · Gesch:101 · Bel:104 · graph:1013 · Alle disciplines 100% |
+| 2026-08-04T expansie-3 | Agent 8 | Hub bijgewerkt | ✓ | Psychologie.md: [[Psychologische Veerkracht]] + [[Trauma-Informed Care]] toegevoegd |
+| 2026-08-04T expansie-3 | Agent 8 | Hub bijgewerkt | ✓ | Geschiedenis.md: [[De Ruimterace]] + [[De Joegoslavische Oorlogen]] toegevoegd |
+| 2026-08-04T expansie-3 | Orchestrator | Expansie-run 3 voltooid | ✓ | 4 pag's · 5 relaties · 3 inzichten · Health: 100% |

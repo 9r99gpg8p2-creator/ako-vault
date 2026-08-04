@@ -488,3 +488,10 @@ type: operationeel
 | ✓ | 2026-08-04T expansie-2 | Agent 8 | Hub bijgewerkt | Filosofie.md: [[Dialectiek]] toegevoegd |
 | ✓ | 2026-08-04T expansie-2 | Agent 8 | Hub bijgewerkt | Geschiedenis.md: [[De Joodse Diaspora]] toegevoegd |
 | ✓ | 2026-08-04T expansie-2 | Orchestrator | Expansie-run 2 voltooid | 4 pag's · Health: 100% |
+| ✓ | 2026-08-04T expansie-3 | Agent 3 | Expansie: Psychologische Veerkracht | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Psychologische Veerkracht.md — confidence 5 |
+| ✓ | 2026-08-04T expansie-3 | Agent 3 | Expansie: Trauma-Informed Care | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Trauma-Informed Care.md — confidence 5 |
+| ✓ | 2026-08-04T expansie-3 | Agent 3 | Expansie: De Ruimterace | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Ruimterace.md — confidence 5 |
+| ✓ | 2026-08-04T expansie-3 | Agent 3 | Expansie: De Joegoslavische Oorlogen | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Joegoslavische Oorlogen.md — confidence 5 |
+| ✓ | 2026-08-04T expansie-3 | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Psychologische Veerkracht]] + [[Trauma-Informed Care]] toegevoegd |
+| ✓ | 2026-08-04T expansie-3 | Agent 8 | Hub bijgewerkt | Geschiedenis.md: [[De Ruimterace]] + [[De Joegoslavische Oorlogen]] toegevoegd |
+| ✓ | 2026-08-04T expansie-3 | Orchestrator | Expansie-run 3 voltooid | 4 pag's · Health: 100% |
