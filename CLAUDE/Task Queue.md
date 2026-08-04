@@ -473,9 +473,9 @@ type: operationeel
 | ✓ | 2026-08-04T expansie | Agent 3 | Expansie: Risk Parity | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Risk Parity.md — confidence 5 |
 | ✓ | 2026-08-04T expansie | Agent 3 | Expansie: Zelfregulatietheorie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Zelfregulatietheorie.md — confidence 5 |
 | ✓ | 2026-08-04T expansie | Agent 3 | Expansie: Normatieve Ethiek | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Normatieve Ethiek.md — confidence 5 |
-| ↓ | 2026-08-04T | Agent 3 | Gap: Kinderneuropsychologie | Ontbreekt — direct relevant voor MSc Klinische Neuropsychologie |
-| ↓ | 2026-08-04T | Agent 3 | Gap: ALM (Asset-Liability Management) | Ontbreekt — praktijktoepassing Duration en Convexiteit bij pensioenfondsen |
-| ↓ | 2026-08-04T | Agent 3 | Gap: Aandeleninkoop (Buybacks) | Ontbreekt — fundamenteel bedrijfsfinancieringsconcept |
+| ✓ | 2026-08-04T consolidatie | Agent 3 | Gap: Kinderneuropsychologie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Kinderneuropsychologie.md — confidence 5 |
+| ✓ | 2026-08-04T consolidatie | Agent 3 | Gap: ALM (Asset-Liability Management) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/ALM (Asset-Liability Management).md — confidence 5 |
+| ✓ | 2026-08-04T consolidatie | Agent 3 | Gap: Aandeleninkoop (Buybacks) | Aangemaakt: 02 Wiki/04 Beleggen - Wiki/Aandeleninkoop (Buybacks).md — confidence 5 |
 | ✓ | 2026-08-04T expansie | Agent 8 | Hub bijgewerkt | Beleggen.md: [[Portfolio Rebalancing]] + [[Risk Parity]] toegevoegd |
 | ✓ | 2026-08-04T expansie | Agent 8 | Hub bijgewerkt | Filosofie.md: [[Normatieve Ethiek]] toegevoegd |
 | ✓ | 2026-08-04T expansie | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Zelfregulatietheorie]] toegevoegd |

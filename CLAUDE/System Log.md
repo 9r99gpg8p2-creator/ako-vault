@@ -3104,3 +3104,17 @@ type: operationeel
 | 2026-08-04T expansie | Agent 6 | Quiz aangemaakt | 2026-08-04 Quiz.md (5 vragen) |
 | 2026-08-04T expansie | Agent 7 | Audit voltooid | Psych:180 · Fil:100 · Gesch:98 · Bel:102 · graph: 987 bestanden · Alle disciplines 100% |
 | 2026-08-04T expansie | Agent 7 | Mijlpaal | Filosofie bereikt 100 wiki-pagina's |
+| 2026-08-04T consolidatie | Agent 3 | Wiki aangemaakt | Kinderneuropsychologie.md — discipline: psychologie — confidence 5 |
+| 2026-08-04T consolidatie | Agent 3 | Wiki aangemaakt | ALM (Asset-Liability Management).md — discipline: beleggen — confidence 5 |
+| 2026-08-04T consolidatie | Agent 3 | Wiki aangemaakt | Aandeleninkoop (Buybacks).md — discipline: beleggen — confidence 5 |
+| 2026-08-04T consolidatie | Agent 4 | Relatie aangemaakt | Kinderneuropsychologie — Neuropsychologie ★9 |
+| 2026-08-04T consolidatie | Agent 4 | Relatie aangemaakt | ALM (Asset-Liability Management) — Duration en Convexiteit ★9 |
+| 2026-08-04T consolidatie | Agent 4 | Relatie aangemaakt | Aandeleninkoop (Buybacks) — Dividendbeleggen ★8 |
+| 2026-08-04T consolidatie | Agent 5 | Inzicht aangemaakt | Zone of Proximal Development als Revalidatiekader ★8 (Psych→Psych) |
+| 2026-08-04T consolidatie | Agent 5 | Inzicht aangemaakt | Verliesaversie in ALM-beslissingen ★8 (Psych→Beleggen) |
+| 2026-08-04T consolidatie | Agent 6 | Dagrapport overschreven | 2026-08-04 Dagrapport.md (consolidatie-modus) |
+| 2026-08-04T consolidatie | Agent 6 | Quiz uitgebreid | 2026-08-04 Quiz.md (+3 vragen → totaal 8 vragen) |
+| 2026-08-04T consolidatie | Agent 7 | Audit voltooid | Psych:181 · Fil:100 · Gesch:98 · Bel:104 · graph:992 · Alle disciplines 100% |
+| 2026-08-04T consolidatie | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Kinderneuropsychologie]] toegevoegd |
+| 2026-08-04T consolidatie | Agent 8 | Hub bijgewerkt | Beleggen.md: [[ALM (Asset-Liability Management)]] + [[Aandeleninkoop (Buybacks)]] toegevoegd |
+| 2026-08-04T consolidatie | Orchestrator | Consolidatie-run voltooid | 3 gaps · Health: 100% |

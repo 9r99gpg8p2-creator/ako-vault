@@ -2,12 +2,12 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-08-04
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-04 | Modus: Expansie
+> Gegenereerd: 2026-08-04 | Modus: Consolidatie
 
 ---
 
@@ -15,10 +15,10 @@ sessie: expansie
 
 | Discipline | Pagina's | Coverage | Connectivity | Orphan% | Score |
 |---|---|---|---|---|---|
-| Psychologie | 180 | 100% | 100% | 0% | **100%** |
+| Psychologie | 181 | 100% | 100% | 0% | **100%** |
 | Filosofie | 100 | 100% | 100% | 0% | **100%** |
 | Geschiedenis | 98 | 100% | 100% | 0% | **100%** |
-| Beleggen | 102 | 100% | 100% | 0% | **100%** |
+| Beleggen | 104 | 100% | 100% | 0% | **100%** |
 
 *Coverage = pagina's/20×100% (gecapped op 100%) · Score = Coverage×0.3 + Connectivity×0.3 + (1-Orphan%)×0.4*
 
@@ -28,9 +28,9 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 480 |
-| Conceptual graph (relaties + inzichten) | 987 |
-| Gemiddelde pagina's per discipline | 120 |
+| Totale Wiki-pagina's | 483 |
+| Conceptual graph (relaties + inzichten) | 992 |
+| Gemiddelde pagina's per discipline | 121 |
 | Disciplines met ≥90 pagina's | 4/4 |
 
 ---
@@ -39,23 +39,23 @@ sessie: expansie
 
 | Discipline | Pagina's | Trend |
 |---|---|---|
-| Psychologie | 180 | ↑ (+1: Zelfregulatietheorie) |
-| Filosofie | 100 | ↑ (+1: Normatieve Ethiek) |
+| Psychologie | 181 | ↑ (+1: Kinderneuropsychologie) |
+| Filosofie | 100 | → (ongewijzigd) |
 | Geschiedenis | 98 | → (ongewijzigd) |
-| Beleggen | 102 | ↑ (+2: Portfolio Rebalancing, Risk Parity) |
+| Beleggen | 104 | ↑ (+2: ALM, Aandeleninkoop) |
 
 ---
 
 ## Knowledge Health Trend
 
-Alle disciplines bereiken 100% coverage (>20 pagina's). Connectivity is 100% (alle pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: 987:480 ≈ 2:1 (ruim boven drempel van 1:5). Expansie-run voegt 4 nieuwe wiki-pagina's toe aan ondervertegenwoordigde gebieden (Beleggen + Filosofie prioriteit).
+Alle disciplines bereiken 100% coverage (ver boven 20 pagina's). Connectivity is 100% (alle pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: 992:483 ≈ 2:1 (ruim boven drempel van 1:5). Consolidatie-run voegt 3 nieuwe wiki-pagina's toe (Psychologie + Beleggen), 3 relatiepagina's en 2 cross-domein inzichten.
 
 ---
 
 ## Aandacht
 
-- Expansie-run 2026-08-04: 4 nieuwe pagina's aangemaakt (Portfolio Rebalancing, Risk Parity, Zelfregulatietheorie, Normatieve Ethiek)
+- Consolidatie-run 2026-08-04: 3 nieuwe pagina's (Kinderneuropsychologie, ALM, Aandeleninkoop)
 - 3 relatiepagina's + 2 inzichten toegevoegd aan conceptual graph
-- Filosofie bereikt 100 wiki-pagina's (mijlpaal)
-- Cross-domein bruggen: Psychologie↔Beleggen (Zelfregulatietheorie), Filosofie↔Psychologie (Normatieve Ethiek)
-- Aanbevolen volgende run: Kinderneuropsychologie, ALM (Asset-Liability Management)
+- Beleggen bereikt 104 wiki-pagina's
+- Cross-domein bruggen: Psychologie↔Beleggen (Verliesaversie in ALM), Psychologie intern (ZPD als revalidatiekader)
+- Wikipedia API geblokkeerd via proxy — confidence nieuwe pagina's beperkt tot 5

@@ -2,13 +2,13 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-08-03
+updated: 2026-08-04
 sessie: consolidatie
 ---
 
 # Psychologie Dashboard — AKO
 
-> Gegenereerd: 2026-08-03 | Modus: Consolidatie
+> Gegenereerd: 2026-08-04 | Modus: Consolidatie
 
 ---
 
@@ -16,7 +16,7 @@ sessie: consolidatie
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 179 |
+| Pagina's | 181 |
 | Coverage (pagina's/20, gecapped) | 100% |
 | Connectivity (pagina's met [[links]]) | 100% |
 | Orphan% | 0% |
@@ -26,13 +26,12 @@ sessie: consolidatie
 
 ## Recente toevoegingen
 
+- Kinderneuropsychologie (2026-08-04, confidence 5)
+- Zelfregulatietheorie (2026-08-04, confidence 5)
 - Fase-georiënteerde Traumabehandeling (2026-08-03, confidence 5)
 - Structural Dissociation (2026-08-03, confidence 7)
 - Functionele Neurologische Stoornis (2026-08-03, confidence 8)
 - Alexithymie (2026-08-03, confidence 8)
-- Phineas Gage (2026-08-03, confidence 8)
-- Somatische Markerhypothese (2026-08-03, confidence 5)
-- Dissociatieve Identiteitsstoornis (2026-08-03, confidence 5)
 
 ---
 
@@ -40,7 +39,7 @@ sessie: consolidatie
 
 | Sub-cluster | Representatie |
 |---|---|
-| Klinische neuropsychologie | Sterk: Structural Dissociation, PTSD, C-PTSD, DIS, FNS, Alexithymie, Fase-georiënteerde Traumabehandeling |
+| Klinische neuropsychologie | Sterk: Kinderneuropsychologie, Structural Dissociation, PTSD, C-PTSD, DIS, FNS, Alexithymie |
 | Neuro-anatomie | Sterk: Frontaalkwab, Temporaalkwab, Occipitaalkwab, Pariëtaalkwab, Amygdala, Insula |
 | Cognitieve psychologie | Sterk: Werkgeheugen, Executieve Functies, Dual Process Theorie |
 | Diagnostische instrumenten | Goed: WAIS, RAVLT, Trail Making Test, WCST, ADOS-2, Stroop Test |
@@ -52,4 +51,4 @@ sessie: consolidatie
 ## Gaps
 
 - Geen ↓-items in queue — psychologie-cluster volledig bijgewerkt
-- Aandacht: EMDR-pagina kan worden uitgebreid met dissociatie-specifieke protocollen (Gonzalez & Mosquera PAP)
+- Aandacht: NEPSY-II ontbreekt als zelfstandige pagina (diagnostisch instrument voor kinderen)

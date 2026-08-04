@@ -116,3 +116,5 @@ Focusgebied: gedragseconomie, marktmechanismen, risicobeheer, portefeuilletheori
 - [[Duration en Convexiteit]]
 - [[Portfolio Rebalancing]]
 - [[Risk Parity]]
+- [[ALM (Asset-Liability Management)]]
+- [[Aandeleninkoop (Buybacks)]]
