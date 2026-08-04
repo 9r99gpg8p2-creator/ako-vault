@@ -3,12 +3,12 @@ tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
 updated: 2026-08-04
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Psychologie Dashboard — AKO
 
-> Gegenereerd: 2026-08-04 | Modus: Expansie
+> Gegenereerd: 2026-08-04 | Modus: Consolidatie
 
 ---
 
@@ -26,12 +26,9 @@ sessie: expansie
 
 ## Recente toevoegingen
 
-- Rouwverwerking (2026-08-04, confidence 5) ← nieuw concept
-- Gedragsactivatie (2026-08-04, confidence 5) ← nieuw concept
-- Kinderneuropsychologie (2026-08-04, confidence 5)
-- Zelfregulatietheorie (2026-08-04, confidence 5)
-- Fase-georiënteerde Traumabehandeling (2026-08-03, confidence 5)
-- Structural Dissociation (2026-08-03, confidence 7)
+- Rouwverwerking (2026-08-04, confidence 5) — Rouwverwerking↔Hechtingstheorie (★9) verdicht
+- Gedragsactivatie (2026-08-04, confidence 5) — Gedragsactivatie↔Zelf-Determinatietheorie (★8) verdicht
+- Kinderneuropsychologie (2026-08-04, confidence 5) — Kinderneuropsychologie↔Neuroplasticiteit (★9) verdicht
 
 ---
 
@@ -45,11 +42,12 @@ sessie: expansie
 | Diagnostische instrumenten | Goed: WAIS, RAVLT, Trail Making Test, WCST, ADOS-2, Stroop Test |
 | Psychopathologie | Goed: PTSD, C-PTSD, DIS, BPS, Schizofrenie, Depressie, Bipolaire Stoornis |
 | Ontwikkelingspsychologie | Sterk: Piaget, Vygotsky, Hechtingstheorie, Scaffolding |
-| Therapieën | Goed: CGT, DBT, ACT, EMDR, Schematherapie, Gedragsactivatie, Rouwverwerking |
+| Therapieën | Sterk: CGT, DBT, ACT, EMDR, Schematherapie, Gedragsactivatie, Rouwverwerking |
 
 ---
 
 ## Gaps
 
 - NEPSY-II ontbreekt als zelfstandige pagina (diagnostisch instrument voor kinderen)
-- Neuropsychiatrische stoornissen bij volwassenen nog onderbelicht buiten kinderdomein
+- Neuropsychiatrische stoornissen bij volwassenen verder uitdiepen buiten kinderdomein
+- Cognitieve revalidatie bij CVA (aphasie en motorische revalidatie) als apart concept

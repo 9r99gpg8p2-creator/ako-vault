@@ -2,12 +2,12 @@
 type: dashboard
 tags: [dashboard, algemeen]
 updated: 2026-08-04
-sessie: expansie
+sessie: consolidatie
 ---
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-04 | Modus: Expansie
+> Gegenereerd: 2026-08-04 | Modus: Consolidatie
 
 ---
 
@@ -28,9 +28,9 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Totale Wiki-pagina's | 487 |
-| Conceptual graph (relaties + inzichten) | 998 |
-| Gemiddelde pagina's per discipline | 122 |
+| Totale Wiki-pagina's | 491 |
+| Conceptual graph (relaties + inzichten) | 1005 |
+| Gemiddelde pagina's per discipline | 123 |
 | Disciplines met ≥90 pagina's | 4/4 |
 
 ---
@@ -39,22 +39,22 @@ sessie: expansie
 
 | Discipline | Pagina's | Trend |
 |---|---|---|
-| Psychologie | 183 | ↑ (+2: Rouwverwerking, Gedragsactivatie) |
-| Filosofie | 101 | ↑ (+1: Dialectiek) |
-| Geschiedenis | 99 | ↑ (+1: De Joodse Diaspora) |
+| Psychologie | 183 | → (consolidatie: geen nieuwe pagina's, 3 relaties versterkt) |
+| Filosofie | 101 | → (consolidatie: Dialectiek↔DBT relatie verdicht) |
+| Geschiedenis | 99 | → (consolidatie: Diaspora↔Etnische Identiteit verdicht) |
 | Beleggen | 104 | → (ongewijzigd) |
 
 ---
 
 ## Knowledge Health Trend
 
-Alle disciplines bereiken 100% coverage (ver boven 20 pagina's). Connectivity is 100% (alle pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: 998:487 ≈ 2:1 (ruim boven drempel van 1:5). Expansie-run voegt 4 nieuwe wiki-pagina's toe (Psychologie +2, Filosofie +1, Geschiedenis +1), 4 relatiepagina's en 2 cross-domein inzichten.
+Alle disciplines bereiken 100% coverage (ver boven 20 pagina's). Connectivity is 100% (alle pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: 1005:491 ≈ 2:1 (ruim boven drempel van 1:5). Consolidatie-run voegt 0 nieuwe wiki-pagina's toe maar verdicht de graph met 5 relatiepagina's en 2 cross-domein inzichten.
 
 ---
 
 ## Aandacht
 
-- Expansie-run 2026-08-04: 4 nieuwe pagina's (Rouwverwerking, Gedragsactivatie, Dialectiek, De Joodse Diaspora)
-- 4 relatiepagina's + 2 inzichten toegevoegd aan conceptual graph
-- Cross-domein bruggen: Psychologie↔Filosofie (Rouw als Dialectisch Proces), Geschiedenis↔Psychologie (Diaspora als Identiteitslaboratorium)
-- Wikipedia API geblokkeerd via proxy — confidence nieuwe pagina's beperkt tot 5
+- Consolidatie-run 2026-08-04: 0 nieuwe pagina's, 5 nieuwe relatiepagina's + 2 inzichten
+- Verdichte verbindingen: Rouwverwerking↔Hechtingstheorie (★9), Dialectiek→DBT (★9), Kinderneuropsychologie↔Neuroplasticiteit (★9)
+- Cross-domein bruggen: Filosofie↔Psychologie (Dialectiek→DBT), Geschiedenis↔Filosofie (Diaspora→Sociale Ontologie), Geschiedenis↔Psychologie (Diaspora→Etnische Identiteit)
+- Wikipedia API geblokkeerd via proxy — interne kennis gebruikt als onderzoeksbron

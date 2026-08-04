@@ -2,34 +2,40 @@
 type: dagrapport
 date: 2026-08-04
 tags: [dagrapport]
-modus: expansie
+modus: consolidatie
 ---
 
 # Dagrapport — 4 augustus 2026
 
 ## Daily Briefing
 
-Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 2 · Gaps: 4 · Leestijd: ~8 min
+Inbox verwerkt: 0 · Gaps gedicht: 0 · Pagina's bijgewerkt: 0 · Verbindingen verdicht: 5 · Queue resterend: 0
 
-## Research Agenda
+## Pagina's Bijgewerkt via Inbox
 
-1. **Neuropsychiatrische stoornissen bij volwassenen** — Psychologie heeft 183 pagina's maar volwassen neuropsychiatrische diagnostiek buiten het kinderdomein is onderbelicht; relevant voor MSc Klinische Neuropsychologie.
-2. **Hegel — Filosofie van de Geschiedenis** — Dialectiek is nu aangemaakt; de toepassing ervan op geschiedenis (Geschichtsphilosophie) is een logische verdieping en verbindt Filosofie met Geschiedenis.
-3. **Kolonialisme en postkoloniaal trauma** — verbindt De Joodse Diaspora, Dekolonisatie en Postkoloniale Psychologie; cross-domein keten die een onderbenutte brug vormt.
+*(geen — inbox leeg)*
+
+## Verbindingen Toegevoegd
+
+1. [[Rouwverwerking]] ↔ [[Hechtingstheorie]] · ★9
+2. [[Gedragsactivatie]] ↔ [[Zelf-Determinatietheorie]] · ★8
+3. [[Dialectiek]] → [[Dialectische Gedragstherapie]] · ★9
+4. [[De Joodse Diaspora]] → [[Etnische Identiteit]] · ★8
+5. [[Kinderneuropsychologie]] ↔ [[Neuroplasticiteit]] · ★9
 
 ## Insight Feed
 
-— "Het Duaal Procesmodel van rouwverwerking weerspiegelt de dialectische logica van these en antithese: verliesoriëntatie en hersteloriëntatie oscilleren tot een nieuwe synthese ontstaat — precies de structuur die Hegel als de motor van begripsvoortgang beschreef." [Psychologie → Filosofie · ★8]
+— "De Joodse Diaspora bewijst dat een sociale entiteit gedurende 2500 jaar bestond zonder territoriale basis — louter via collectieve intentionaliteit en gedeelde narratieven — een levend historisch bewijs van Searle's sociale ontologie." [Geschiedenis → Filosofie · ★8]
 
-— "De Joodse Diaspora toont dat culturele identiteit over millennia stand kan houden zonder territoriale basis — louter via gedeelde narratieven en rituelen — wat de psychologische theorie van etnische identiteitsvorming (Phinney) empirisch onderbouwt vanuit 2500 jaar geschiedenis." [Geschiedenis → Psychologie · ★7]
+— "Kinderneuropsychologisch onderzoek naar vroeg frontaalkwabletsel legt een empirische toetssteen voor de ontwikkelingsfilosofie: Piaget's stadia zijn niet louter rijpingsgebonden maar neuraal-architectureel afhankelijk — wat het nativisme-empirisme debat een derde variabele geeft." [Psychologie → Filosofie · ★8]
 
 ## Knowledge Health
 
 | Discipline | Score | Trend |
 |---|---|---|
-| Psychologie | 78% | ↑ |
-| Filosofie | 65% | ↑ |
-| Geschiedenis | 60% | ↑ |
+| Psychologie | 78% | → |
+| Filosofie | 65% | → |
+| Geschiedenis | 60% | → |
 | Beleggen | 68% | → |
 
 ## Activiteit
@@ -37,7 +43,14 @@ Nieuwe kennis: 4 · Inbox verwerkt: 0 · Verbindingen: 4 · Inzichten: 2 · Gaps
 | Metric | Aantal |
 |---|---|
 | Inbox verwerkt | 0 |
-| Nieuwe Wiki-pagina's | 4 |
+| Nieuwe Wiki-pagina's | 0 |
 | Updates bestaande pagina's | 0 |
-| Nieuwe verbindingen | 4 |
-| Gaps gedicht | 4 |
+| Nieuwe verbindingen | 5 |
+| Nieuwe inzichten | 2 |
+| Gaps gedicht | 0 |
+
+## Research Agenda
+
+1. **Hegel — Filosofie van de Geschiedenis** — Dialectiek is aangemaakt; de toepassing ervan op de historische rede (Geschichtsphilosophie) verbindt Filosofie met Geschiedenis.
+2. **Volwassenen-neuropsychiatrische diagnostiek** — Psychologie heeft 182 conceptpagina's maar de brug naar klinische diagnostische systemen (ICD-11, DSM-5-TR diagnostisch redeneren) is onderbenutte.
+3. **Kolonialisme en postkoloniaal trauma** — De Joodse Diaspora + Etnische Identiteit + Postkoloniale Psychologie vormen een onvoltooide driehoek; de cross-domain keten verdient een inzichtpagina.

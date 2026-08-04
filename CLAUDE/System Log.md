@@ -3137,3 +3137,18 @@ type: operationeel
 | 2026-08-04T expansie-2 | Agent 8 | Hub bijgewerkt | Filosofie.md: [[Dialectiek]] toegevoegd |
 | 2026-08-04T expansie-2 | Agent 8 | Hub bijgewerkt | Geschiedenis.md: [[De Joodse Diaspora]] toegevoegd |
 | 2026-08-04T expansie-2 | Orchestrator | Expansie-run 2 voltooid | 4 pag's · Health: 100% |
+| 2026-08-04T consolidatie | Orchestrator | Context laden | ✓ | AKO v1.6, Task Queue (alle ✓), Inbox (leeg), Graph Architecture, Wiki Template geladen |
+| 2026-08-04T consolidatie | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _ bestanden) — STAP 1.5 overgeslagen |
+| 2026-08-04T consolidatie | Agent 2 | Research | ✓ | FALLBACK: geen queue-items (alle ✓) · geen lage-connectivity pagina's · interne kennis gebruikt |
+| 2026-08-04T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Rouwverwerking — Hechtingstheorie.md — sterkte ★9 — Psychologie |
+| 2026-08-04T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Gedragsactivatie — Zelf-Determinatietheorie.md — sterkte ★8 — Psychologie |
+| 2026-08-04T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Dialectiek — Dialectische Gedragstherapie.md — sterkte ★9 — Filosofie × Psychologie |
+| 2026-08-04T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | De Joodse Diaspora — Etnische Identiteit.md — sterkte ★8 — Geschiedenis × Psychologie |
+| 2026-08-04T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Kinderneuropsychologie — Neuroplasticiteit.md — sterkte ★9 — Psychologie |
+| 2026-08-04T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Diaspora als Bewijs van Sociale Ontologie.md — Geschiedenis → Filosofie — sterkte ★8 |
+| 2026-08-04T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Hersenletsel als Toetssteen van Ontwikkelingsfilosofie.md — Psychologie → Filosofie — sterkte ★8 |
+| 2026-08-04T consolidatie | Agent 6 | Dagrapport overschreven | ✓ | 2026-08-04 Dagrapport.md — 0 concepten · 5 verbindingen · 2 inzichten |
+| 2026-08-04T consolidatie | Agent 6 | Quiz bijgewerkt | ✓ | 2026-08-04 Quiz.md — 3 nieuwe vragen toegevoegd (vr. 12-14) |
+| 2026-08-04T consolidatie | Agent 7 | Audit voltooid | ✓ | Psych:183 · Fil:101 · Gesch:99 · Bel:104 · graph:1005 · Alle disciplines 100% |
+| 2026-08-04T consolidatie | Agent 8 | Hub check | ✓ | Geen nieuwe pagina's in consolidatie-run; hubs volledig up-to-date |
+| 2026-08-04T consolidatie | Orchestrator | Consolidatie-run voltooid | ✓ | 0 gaps · 5 relaties · 2 inzichten · Health: 100% |
