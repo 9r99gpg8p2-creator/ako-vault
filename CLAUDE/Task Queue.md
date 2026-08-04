@@ -495,3 +495,6 @@ type: operationeel
 | ✓ | 2026-08-04T expansie-3 | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Psychologische Veerkracht]] + [[Trauma-Informed Care]] toegevoegd |
 | ✓ | 2026-08-04T expansie-3 | Agent 8 | Hub bijgewerkt | Geschiedenis.md: [[De Ruimterace]] + [[De Joegoslavische Oorlogen]] toegevoegd |
 | ✓ | 2026-08-04T expansie-3 | Orchestrator | Expansie-run 3 voltooid | 4 pag's · Health: 100% |
+| ✓ | 2026-08-04T consolidatie-2 | Agent 4 | Verbindingen verdicht | 10 relatiepagina's aangemaakt: TIC↔Revalidatie, TIC↔Mentaliseren, Ruimterace↔Nationalisme, Ruimterace↔Globalisering, JOG↔Nationalisme, JOG↔C-PTSD, Risk Parity↔Asset Allocatie, Risk Parity↔Diversificatie, Zelfregulatietheorie↔SDT, Zelfregulatietheorie↔Frontaalkwab |
+| ✓ | 2026-08-04T consolidatie-2 | Agent 5 | Inzichten aangemaakt | Trauma in de Testkamer.md (★9) · De Natie die Wonden Maakt.md (★9) |
+| ✓ | 2026-08-04T consolidatie-2 | Orchestrator | Consolidatie-run 2 voltooid | 0 gaps · 10 relaties · 2 inzichten · Health: 100% |

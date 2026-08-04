@@ -7,7 +7,7 @@ sessie: consolidatie
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-04 | Modus: Consolidatie
+> Gegenereerd: 2026-08-04 | Modus: Consolidatie (run 4)
 
 ---
 
@@ -29,9 +29,11 @@ sessie: consolidatie
 | Metric | Waarde |
 |---|---|
 | Totale Wiki-pagina's | 491 |
-| Conceptual graph (relaties + inzichten) | 1013 |
+| Conceptual graph (relaties + inzichten) | 1025 |
 | Gemiddelde pagina's per discipline | 123 |
 | Disciplines met ≥90 pagina's | 4/4 |
+| Nieuwe relatiepagina's (deze run) | 10 |
+| Nieuwe inzichten (deze run) | 2 |
 
 ---
 
@@ -39,22 +41,22 @@ sessie: consolidatie
 
 | Discipline | Pagina's | Trend |
 |---|---|---|
-| Psychologie | 185 | ↑ (expansie: +2 nieuwe pagina's: Psychologische Veerkracht, Trauma-Informed Care) |
-| Filosofie | 101 | → (ongewijzigd) |
-| Geschiedenis | 101 | ↑ (expansie: +2 nieuwe pagina's: De Ruimterace, De Joegoslavische Oorlogen) |
-| Beleggen | 104 | → (ongewijzigd) |
+| Psychologie | 185 | → (geen nieuwe pagina's; 3 relaties verdicht: TIC↔Revalidatie, TIC↔Mentaliseren, Zelfregulatietheorie↔Frontaalkwab) |
+| Filosofie | 101 | → (ongewijzigd; 0 nieuwe pagina's) |
+| Geschiedenis | 101 | → (geen nieuwe pagina's; 4 relaties verdicht: Ruimterace↔Nationalisme, Ruimterace↔Globalisering, JOG↔Nationalisme, JOG↔C-PTSD) |
+| Beleggen | 104 | → (geen nieuwe pagina's; 2 relaties verdicht: Risk Parity↔Asset Allocatie, Risk Parity↔Diversificatie) |
 
 ---
 
 ## Knowledge Health Trend
 
-Alle disciplines bereiken 100% coverage (ver boven 20 pagina's). Connectivity is 100% (alle pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: 1005:491 ≈ 2:1 (ruim boven drempel van 1:5). Consolidatie-run voegt 0 nieuwe wiki-pagina's toe maar verdicht de graph met 5 relatiepagina's en 2 cross-domein inzichten.
+Alle disciplines bereiken 100% coverage (ruim boven de drempel van 20 pagina's). Connectivity is 100% (alle 491 wiki-pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: 1025:491 ≈ 2.1:1 (ruim boven drempel van 1:5). Consolidatie-run 4 verdicht 10 bestaande conceptkoppelingen en genereert 2 nieuwe cross-domein inzichten zonder nieuwe pagina's aan te maken.
 
 ---
 
 ## Aandacht
 
-- Consolidatie-run 2026-08-04: 0 nieuwe pagina's, 5 nieuwe relatiepagina's + 2 inzichten
-- Verdichte verbindingen: Rouwverwerking↔Hechtingstheorie (★9), Dialectiek→DBT (★9), Kinderneuropsychologie↔Neuroplasticiteit (★9)
-- Cross-domein bruggen: Filosofie↔Psychologie (Dialectiek→DBT), Geschiedenis↔Filosofie (Diaspora→Sociale Ontologie), Geschiedenis↔Psychologie (Diaspora→Etnische Identiteit)
+- Consolidatie-run 2026-08-04 (run 4): 0 nieuwe pagina's, 10 nieuwe relatiepagina's + 2 inzichten
+- Verdichte verbindingen: Trauma-Informed Care↔Neuropsychologische Revalidatie (★8), Zelfregulatietheorie↔Frontaalkwab (★9), De Joegoslavische Oorlogen↔Nationalisme (★9)
+- Cross-domein bruggen: Geschiedenis↔Psychologie (JOG→C-PTSD), Geschiedenis↔Filosofie (Ruimterace→Nationalisme), Psychologie↔Psychologie (Zelfregulatietheorie→Zelf-Determinatietheorie)
 - Wikipedia API geblokkeerd via proxy — interne kennis gebruikt als onderzoeksbron

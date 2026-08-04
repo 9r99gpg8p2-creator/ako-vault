@@ -3173,3 +3173,23 @@ type: operationeel
 | 2026-08-04T expansie-3 | Agent 8 | Hub bijgewerkt | ✓ | Psychologie.md: [[Psychologische Veerkracht]] + [[Trauma-Informed Care]] toegevoegd |
 | 2026-08-04T expansie-3 | Agent 8 | Hub bijgewerkt | ✓ | Geschiedenis.md: [[De Ruimterace]] + [[De Joegoslavische Oorlogen]] toegevoegd |
 | 2026-08-04T expansie-3 | Orchestrator | Expansie-run 3 voltooid | ✓ | 4 pag's · 5 relaties · 3 inzichten · Health: 100% |
+| 2026-08-04T consolidatie-2 | Orchestrator | Context laden | ✓ | AKO v1.6, Graph Architecture, Task Queue (alle ✓), Inbox (leeg), Wiki Template, Naming Convention geladen |
+| 2026-08-04T consolidatie-2 | Agent 1 | Inbox scan | ✓ | Geen verwerkbare bestanden (alleen _ bestanden) — STAP 1.5 overgeslagen |
+| 2026-08-04T consolidatie-2 | Agent 2 | Research fallback | ✓ | Task Queue volledig (alle ✓), inbox leeg — fallback: scan op lage connectivity — 5 pagina's geïdentificeerd met slechts 1 relatiepagina |
+| 2026-08-04T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Trauma-Informed Care — Neuropsychologische Revalidatie.md — sterkte ★8 — Psychologie |
+| 2026-08-04T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Trauma-Informed Care — Mentaliseren.md — sterkte ★8 — Psychologie |
+| 2026-08-04T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | De Ruimterace — Nationalisme.md — sterkte ★8 — Geschiedenis × Filosofie |
+| 2026-08-04T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | De Ruimterace — Globalisering.md — sterkte ★7 — Geschiedenis |
+| 2026-08-04T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | De Joegoslavische Oorlogen — Nationalisme.md — sterkte ★9 — Geschiedenis × Filosofie |
+| 2026-08-04T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | De Joegoslavische Oorlogen — Complexe PTSD.md — sterkte ★8 — Geschiedenis × Psychologie |
+| 2026-08-04T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Risk Parity — Asset Allocatie.md — sterkte ★9 — Beleggen |
+| 2026-08-04T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Risk Parity — Diversificatie.md — sterkte ★8 — Beleggen |
+| 2026-08-04T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Zelfregulatietheorie — Zelf-Determinatietheorie.md — sterkte ★8 — Psychologie |
+| 2026-08-04T consolidatie-2 | Agent 4 | Relatiepagina aangemaakt | ✓ | Zelfregulatietheorie — Frontaalkwab.md — sterkte ★9 — Psychologie |
+| 2026-08-04T consolidatie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | Trauma in de Testkamer.md — Psychologie → Klinische Neuropsychologie — sterkte ★9 |
+| 2026-08-04T consolidatie-2 | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Natie die Wonden Maakt.md — Geschiedenis → Psychologie — sterkte ★9 |
+| 2026-08-04T consolidatie-2 | Agent 6 | Dagrapport overschreven | ✓ | 2026-08-04 Dagrapport.md — consolidatiemodus — 0 nieuwe pag's · 10 verbindingen · 2 inzichten |
+| 2026-08-04T consolidatie-2 | Agent 6 | Quiz bijgewerkt | ✓ | 2026-08-04 Quiz.md — 3 nieuwe vragen toegevoegd (vr. 18-20) |
+| 2026-08-04T consolidatie-2 | Agent 7 | Audit voltooid | ✓ | Psych:185 · Fil:101 · Gesch:101 · Bel:104 · graph:1025 · Alle disciplines 100% |
+| 2026-08-04T consolidatie-2 | Agent 8 | Hub check | ✓ | Geen nieuwe pagina's in consolidatie-run; alle hubs volledig up-to-date |
+| 2026-08-04T consolidatie-2 | Orchestrator | Consolidatie-run 2 voltooid | ✓ | 0 nieuwe pag's · 10 relaties verdicht · 2 inzichten · Health: 100% |
