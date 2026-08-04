@@ -16,7 +16,7 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 102 |
+| Pagina's | 104 |
 | Coverage (pagina's/20, gecapped) | 100% |
 | Connectivity (pagina's met [[links]]) | 100% |
 | Orphan% | 0% |
@@ -26,11 +26,12 @@ sessie: expansie
 
 ## Recente toevoegingen
 
-- Portfolio Rebalancing (2026-08-04, confidence 5) ← nieuw concept
-- Risk Parity (2026-08-04, confidence 5) ← nieuw concept
+- ALM (Asset-Liability Management) (2026-08-04, confidence 5)
+- Aandeleninkoop (Buybacks) (2026-08-04, confidence 5)
+- Portfolio Rebalancing (2026-08-04, confidence 5)
+- Risk Parity (2026-08-04, confidence 5)
 - Duration en Convexiteit (2026-08-03, confidence 5)
 - Overconfidence Bias (2026-08-03, confidence 8)
-- Anchoring (2026-08-02, confidence 5)
 
 ---
 
@@ -50,5 +51,3 @@ sessie: expansie
 ## Gaps
 
 - Kredietderivaten (CDS) → ontbreekt — aanbevolen als volgende gap
-- ALM (Asset-Liability Management) → ontbreekt — praktijktoepassing van Duration bij pensioenfondsen
-- Aandeleninkoop (Buybacks) → ontbreekt — fundamenteel bedrijfsfinancieringsconcept

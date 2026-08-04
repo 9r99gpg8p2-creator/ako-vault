@@ -3,12 +3,12 @@ tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
 updated: 2026-08-04
-sessie: consolidatie
+sessie: expansie
 ---
 
 # Psychologie Dashboard — AKO
 
-> Gegenereerd: 2026-08-04 | Modus: Consolidatie
+> Gegenereerd: 2026-08-04 | Modus: Expansie
 
 ---
 
@@ -16,7 +16,7 @@ sessie: consolidatie
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 181 |
+| Pagina's | 183 |
 | Coverage (pagina's/20, gecapped) | 100% |
 | Connectivity (pagina's met [[links]]) | 100% |
 | Orphan% | 0% |
@@ -26,12 +26,12 @@ sessie: consolidatie
 
 ## Recente toevoegingen
 
+- Rouwverwerking (2026-08-04, confidence 5) ← nieuw concept
+- Gedragsactivatie (2026-08-04, confidence 5) ← nieuw concept
 - Kinderneuropsychologie (2026-08-04, confidence 5)
 - Zelfregulatietheorie (2026-08-04, confidence 5)
 - Fase-georiënteerde Traumabehandeling (2026-08-03, confidence 5)
 - Structural Dissociation (2026-08-03, confidence 7)
-- Functionele Neurologische Stoornis (2026-08-03, confidence 8)
-- Alexithymie (2026-08-03, confidence 8)
 
 ---
 
@@ -45,10 +45,11 @@ sessie: consolidatie
 | Diagnostische instrumenten | Goed: WAIS, RAVLT, Trail Making Test, WCST, ADOS-2, Stroop Test |
 | Psychopathologie | Goed: PTSD, C-PTSD, DIS, BPS, Schizofrenie, Depressie, Bipolaire Stoornis |
 | Ontwikkelingspsychologie | Sterk: Piaget, Vygotsky, Hechtingstheorie, Scaffolding |
+| Therapieën | Goed: CGT, DBT, ACT, EMDR, Schematherapie, Gedragsactivatie, Rouwverwerking |
 
 ---
 
 ## Gaps
 
-- Geen ↓-items in queue — psychologie-cluster volledig bijgewerkt
-- Aandacht: NEPSY-II ontbreekt als zelfstandige pagina (diagnostisch instrument voor kinderen)
+- NEPSY-II ontbreekt als zelfstandige pagina (diagnostisch instrument voor kinderen)
+- Neuropsychiatrische stoornissen bij volwassenen nog onderbelicht buiten kinderdomein

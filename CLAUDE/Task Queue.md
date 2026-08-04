@@ -480,3 +480,11 @@ type: operationeel
 | ✓ | 2026-08-04T expansie | Agent 8 | Hub bijgewerkt | Filosofie.md: [[Normatieve Ethiek]] toegevoegd |
 | ✓ | 2026-08-04T expansie | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Zelfregulatietheorie]] toegevoegd |
 | ✓ | 2026-08-04T expansie | Orchestrator | Expansie-run voltooid | 4 pag's · Health: 100% |
+| ✓ | 2026-08-04T expansie-2 | Agent 3 | Expansie: Rouwverwerking | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Rouwverwerking.md — confidence 5 |
+| ✓ | 2026-08-04T expansie-2 | Agent 3 | Expansie: Gedragsactivatie | Aangemaakt: 02 Wiki/01 Psychologie - Wiki/Gedragsactivatie.md — confidence 5 |
+| ✓ | 2026-08-04T expansie-2 | Agent 3 | Expansie: Dialectiek | Aangemaakt: 02 Wiki/02 Filosofie - Wiki/Dialectiek.md — confidence 5 |
+| ✓ | 2026-08-04T expansie-2 | Agent 3 | Expansie: De Joodse Diaspora | Aangemaakt: 02 Wiki/03 Geschiedenis - Wiki/De Joodse Diaspora.md — confidence 5 |
+| ✓ | 2026-08-04T expansie-2 | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Rouwverwerking]] + [[Gedragsactivatie]] toegevoegd |
+| ✓ | 2026-08-04T expansie-2 | Agent 8 | Hub bijgewerkt | Filosofie.md: [[Dialectiek]] toegevoegd |
+| ✓ | 2026-08-04T expansie-2 | Agent 8 | Hub bijgewerkt | Geschiedenis.md: [[De Joodse Diaspora]] toegevoegd |
+| ✓ | 2026-08-04T expansie-2 | Orchestrator | Expansie-run 2 voltooid | 4 pag's · Health: 100% |

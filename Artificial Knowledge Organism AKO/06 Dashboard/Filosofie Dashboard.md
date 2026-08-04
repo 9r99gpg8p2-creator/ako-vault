@@ -16,23 +16,21 @@ sessie: expansie
 
 | Metric | Waarde |
 |---|---|
-| Pagina's | 100 |
+| Pagina's | 101 |
 | Coverage (pagina's/20, gecapped) | 100% |
 | Connectivity (pagina's met [[links]]) | 100% |
 | Orphan% | 0% |
 | **Score** | **100%** |
 
-**Mijlpaal bereikt: 100 Filosofie-pagina's**
-
 ---
 
 ## Recente toevoegingen
 
-- Normatieve Ethiek (2026-08-04, confidence 5) ← nieuw concept
+- Dialectiek (2026-08-04, confidence 5) ← nieuw concept
+- Normatieve Ethiek (2026-08-04, confidence 5)
 - Causaliteit (2026-08-03, confidence 5)
 - Confucianisme (2026-08-02, confidence 5)
 - Boeddhisme (2026-08-02, confidence 5)
-- Taoisme (2026-08-02, confidence 5)
 
 ---
 
@@ -47,10 +45,11 @@ sessie: expansie
 | Politieke filosofie | Goed: Maatschappelijk Contract, Rawls, Liberalisme, Democratie |
 | Postkoloniale filosofie | Goed: Fanon, Said, Bhabha, Spivak, Gramsci |
 | Oost-Aziatische filosofie | Aanwezig: Confucianisme, Boeddhisme, Taoisme |
+| Dialectiek & Idealisme | Aanwezig: Dialectiek, Hegel, Duits Idealisme, Historisch Materialisme |
 
 ---
 
 ## Gaps
 
 - Hindoe-filosofie (Vedanta, Karma) ontbreekt nog — volgende uitbreiding Oost-Aziatisch cluster
-- Taalfilosofie: Wittgenstein aanwezig, maar Frege en Russell ontbreken nog
+- Frege en Russell ontbreken nog in taalfilosofie-cluster

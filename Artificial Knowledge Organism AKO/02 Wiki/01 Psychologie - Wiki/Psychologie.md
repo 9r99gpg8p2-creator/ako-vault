@@ -194,3 +194,5 @@ Focusgebied: klinische neuropsychologie, cognitie, stoornissen (DSM-5), neurowet
 - [[Fase-georiënteerde Traumabehandeling]]
 - [[Zelfregulatietheorie]]
 - [[Kinderneuropsychologie]]
+- [[Rouwverwerking]]
+- [[Gedragsactivatie]]

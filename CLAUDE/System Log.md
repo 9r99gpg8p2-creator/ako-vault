@@ -3118,3 +3118,22 @@ type: operationeel
 | 2026-08-04T consolidatie | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Kinderneuropsychologie]] toegevoegd |
 | 2026-08-04T consolidatie | Agent 8 | Hub bijgewerkt | Beleggen.md: [[ALM (Asset-Liability Management)]] + [[Aandeleninkoop (Buybacks)]] toegevoegd |
 | 2026-08-04T consolidatie | Orchestrator | Consolidatie-run voltooid | 3 gaps · Health: 100% |
+| 2026-08-04T expansie-2 | Agent 1 | Inbox scan | Geen bestanden — alle beginnen met _ (overgeslagen) |
+| 2026-08-04T expansie-2 | Agent 2 | Onderwerpen geselecteerd | 4 expansie-onderwerpen: Rouwverwerking, Gedragsactivatie, Dialectiek, De Joodse Diaspora |
+| 2026-08-04T expansie-2 | Agent 3 | Wiki aangemaakt | Rouwverwerking.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-08-04T expansie-2 | Agent 3 | Wiki aangemaakt | Gedragsactivatie.md — 01 Psychologie - Wiki — confidence 5 |
+| 2026-08-04T expansie-2 | Agent 3 | Wiki aangemaakt | Dialectiek.md — 02 Filosofie - Wiki — confidence 5 |
+| 2026-08-04T expansie-2 | Agent 3 | Wiki aangemaakt | De Joodse Diaspora.md — 03 Geschiedenis - Wiki — confidence 5 |
+| 2026-08-04T expansie-2 | Agent 4 | Relatie aangemaakt | Rouwverwerking — PTSD ★8 (Psych intern) |
+| 2026-08-04T expansie-2 | Agent 4 | Relatie aangemaakt | Dialectiek — Paradigmawisseling ★7 (Fil×Gesch) |
+| 2026-08-04T expansie-2 | Agent 4 | Relatie aangemaakt | De Joodse Diaspora — Nationalisme ★8 (Gesch intern) |
+| 2026-08-04T expansie-2 | Agent 4 | Relatie aangemaakt | Gedragsactivatie — Depressie ★9 (Psych intern) |
+| 2026-08-04T expansie-2 | Agent 5 | Inzicht aangemaakt | Rouw als Dialectisch Proces ★8 (Psych→Fil) |
+| 2026-08-04T expansie-2 | Agent 5 | Inzicht aangemaakt | Diaspora als Identiteitslaboratorium ★7 (Gesch→Psych) |
+| 2026-08-04T expansie-2 | Agent 6 | Dagrapport overschreven | 2026-08-04 Dagrapport.md (expansie-modus) |
+| 2026-08-04T expansie-2 | Agent 6 | Quiz uitgebreid | 2026-08-04 Quiz.md (+3 vragen → totaal 11 vragen) |
+| 2026-08-04T expansie-2 | Agent 7 | Audit voltooid | Psych:183 · Fil:101 · Gesch:99 · Bel:104 · graph:998 · Alle disciplines 100% |
+| 2026-08-04T expansie-2 | Agent 8 | Hub bijgewerkt | Psychologie.md: [[Rouwverwerking]] + [[Gedragsactivatie]] toegevoegd |
+| 2026-08-04T expansie-2 | Agent 8 | Hub bijgewerkt | Filosofie.md: [[Dialectiek]] toegevoegd |
+| 2026-08-04T expansie-2 | Agent 8 | Hub bijgewerkt | Geschiedenis.md: [[De Joodse Diaspora]] toegevoegd |
+| 2026-08-04T expansie-2 | Orchestrator | Expansie-run 2 voltooid | 4 pag's · Health: 100% |
