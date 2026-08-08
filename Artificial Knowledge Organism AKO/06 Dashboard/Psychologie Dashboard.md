@@ -2,13 +2,13 @@
 tags: [dashboard, psychologie]
 type: dashboard
 discipline: psychologie
-updated: 2026-08-04
+updated: 2026-08-08
 sessie: consolidatie
 ---
 
 # Psychologie Dashboard — AKO
 
-> Gegenereerd: 2026-08-04 | Modus: Consolidatie
+> Gegenereerd: 2026-08-08 | Modus: Consolidatie
 
 ---
 

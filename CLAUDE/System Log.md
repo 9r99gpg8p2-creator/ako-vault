@@ -3193,3 +3193,25 @@ type: operationeel
 | 2026-08-04T consolidatie-2 | Agent 7 | Audit voltooid | ✓ | Psych:185 · Fil:101 · Gesch:101 · Bel:104 · graph:1025 · Alle disciplines 100% |
 | 2026-08-04T consolidatie-2 | Agent 8 | Hub check | ✓ | Geen nieuwe pagina's in consolidatie-run; alle hubs volledig up-to-date |
 | 2026-08-04T consolidatie-2 | Orchestrator | Consolidatie-run 2 voltooid | ✓ | 0 nieuwe pag's · 10 relaties verdicht · 2 inzichten · Health: 100% |
+| 2026-08-08T consolidatie | Orchestrator | Git pull + context laden | ✓ | Repo up-to-date; AKO v1.6, Task Queue, System Log geladen |
+| 2026-08-08T consolidatie | Agent 1 | Inbox scan | ✓ | Inbox leeg na filtering (alleen _-bestanden); STAP 1.5 overgeslagen |
+| 2026-08-08T consolidatie | Agent 2 | Research FALLBACK | ✓ | Geen ↓ queue-items; scan lage connectivity; 11 ontbrekende sterke verbanden geïdentificeerd |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Gedragsactivatie — Cognitieve Gedragstherapie.md — ★9 |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Rouwverwerking — Depressie.md — ★8 |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Alexithymie — Somatische Markerhypothese.md — ★9 |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Mindfulness (MBSR) — Cognitieve Gedragstherapie.md — ★9 |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Flow (Csikszentmihalyi) — Motivatie.md — ★9 |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Normatieve Ethiek — Deontologie.md — ★9 |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Normatieve Ethiek — Utilitarisme.md — ★9 |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Overconfidence Bias — Behavioral Finance.md — ★9 |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Sociale Klasse — Historisch Materialisme.md — ★9 |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Cognitieve Herstructurering — Cognitieve Gedragstherapie.md — ★9 |
+| 2026-08-08T consolidatie | Agent 4 | Relatiepagina aangemaakt | ✓ | Motivatie — Zelfregulatietheorie.md — ★9 |
+| 2026-08-08T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Het Lichaam dat Niet Kan Spreken.md — Somatische Markerhypothese→Alexithymie→Mentaliseren — ★9 |
+| 2026-08-08T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | Actief Handelen als Antidepressivum.md — Gedragsactivatie→CGT←Stoïcisme — ★8 |
+| 2026-08-08T consolidatie | Agent 5 | Inzichtpagina aangemaakt | ✓ | De Zekere Belegger als Cognitieve Illusie.md — Dual Process→Overconfidence→Behavioral Finance — ★9 |
+| 2026-08-08T consolidatie | Agent 6 | Dagrapport aangemaakt | ✓ | 2026-08-08 Dagrapport.md — consolidatiemodus — 0 nieuwe pag's · 11 verbindingen · 3 inzichten |
+| 2026-08-08T consolidatie | Agent 6 | Quiz aangemaakt | ✓ | 2026-08-08 Quiz.md — 3 vragen (alexithymie, gedragsactivatie, overconfidence) |
+| 2026-08-08T consolidatie | Agent 7 | Audit voltooid | ✓ | Psych:185 · Fil:101 · Gesch:101 · Bel:104 · graph:1039 · Alle disciplines 100% |
+| 2026-08-08T consolidatie | Agent 8 | Hub check | ✓ | Alle hubs volledig up-to-date; geen nieuwe conceptpagina's; geen ontbrekende links |
+| 2026-08-08T consolidatie | Orchestrator | Consolidatie-run 5 voltooid | ✓ | 0 nieuwe pag's · 11 relaties verdicht · 3 inzichten · Health: 100% |

@@ -1,13 +1,13 @@
 ---
 type: dashboard
 tags: [dashboard, algemeen]
-updated: 2026-08-04
+updated: 2026-08-08
 sessie: consolidatie
 ---
 
 # Knowledge Health Dashboard — AKO
 
-> Gegenereerd: 2026-08-04 | Modus: Consolidatie (run 4)
+> Gegenereerd: 2026-08-08 | Modus: Consolidatie (run 5)
 
 ---
 
@@ -29,11 +29,11 @@ sessie: consolidatie
 | Metric | Waarde |
 |---|---|
 | Totale Wiki-pagina's | 491 |
-| Conceptual graph (relaties + inzichten) | 1025 |
+| Conceptual graph (relaties + inzichten) | 1039 |
 | Gemiddelde pagina's per discipline | 123 |
 | Disciplines met ≥90 pagina's | 4/4 |
-| Nieuwe relatiepagina's (deze run) | 10 |
-| Nieuwe inzichten (deze run) | 2 |
+| Nieuwe relatiepagina's (deze run) | 11 |
+| Nieuwe inzichten (deze run) | 3 |
 
 ---
 
@@ -41,22 +41,22 @@ sessie: consolidatie
 
 | Discipline | Pagina's | Trend |
 |---|---|---|
-| Psychologie | 185 | → (geen nieuwe pagina's; 3 relaties verdicht: TIC↔Revalidatie, TIC↔Mentaliseren, Zelfregulatietheorie↔Frontaalkwab) |
-| Filosofie | 101 | → (ongewijzigd; 0 nieuwe pagina's) |
-| Geschiedenis | 101 | → (geen nieuwe pagina's; 4 relaties verdicht: Ruimterace↔Nationalisme, Ruimterace↔Globalisering, JOG↔Nationalisme, JOG↔C-PTSD) |
-| Beleggen | 104 | → (geen nieuwe pagina's; 2 relaties verdicht: Risk Parity↔Asset Allocatie, Risk Parity↔Diversificatie) |
+| Psychologie | 185 | → (geen nieuwe pagina's; 8 relaties verdicht: Gedragsactivatie↔CGT, Rouwverwerking↔Depressie, Alexithymie↔Somatische Markerhypothese, Mindfulness↔CGT, Flow↔Motivatie, Cognitieve Herstructurering↔CGT, Motivatie↔Zelfregulatietheorie) |
+| Filosofie | 101 | → (geen nieuwe pagina's; 2 relaties verdicht: Normatieve Ethiek↔Deontologie, Normatieve Ethiek↔Utilitarisme) |
+| Geschiedenis | 101 | → (ongewijzigd; geen nieuwe verbindingen) |
+| Beleggen | 104 | → (geen nieuwe pagina's; 1 relatie verdicht: Overconfidence Bias↔Behavioral Finance; cross-domein: Sociale Klasse↔Historisch Materialisme) |
 
 ---
 
 ## Knowledge Health Trend
 
-Alle disciplines bereiken 100% coverage (ruim boven de drempel van 20 pagina's). Connectivity is 100% (alle 491 wiki-pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: 1025:491 ≈ 2.1:1 (ruim boven drempel van 1:5). Consolidatie-run 4 verdicht 10 bestaande conceptkoppelingen en genereert 2 nieuwe cross-domein inzichten zonder nieuwe pagina's aan te maken.
+Alle disciplines bereiken 100% coverage (ruim boven de drempel van 20 pagina's). Connectivity is 100% (alle 491 wiki-pagina's bevatten [[links]]). Geen geïsoleerde nodes gedetecteerd. Cross-domein ratio: 1039:491 ≈ 2.1:1 (ruim boven drempel van 1:5). Consolidatie-run 5 verdicht 11 bestaande conceptkoppelingen en genereert 3 nieuwe cross-domein inzichten zonder nieuwe pagina's aan te maken.
 
 ---
 
 ## Aandacht
 
-- Consolidatie-run 2026-08-04 (run 4): 0 nieuwe pagina's, 10 nieuwe relatiepagina's + 2 inzichten
-- Verdichte verbindingen: Trauma-Informed Care↔Neuropsychologische Revalidatie (★8), Zelfregulatietheorie↔Frontaalkwab (★9), De Joegoslavische Oorlogen↔Nationalisme (★9)
-- Cross-domein bruggen: Geschiedenis↔Psychologie (JOG→C-PTSD), Geschiedenis↔Filosofie (Ruimterace→Nationalisme), Psychologie↔Psychologie (Zelfregulatietheorie→Zelf-Determinatietheorie)
+- Consolidatie-run 2026-08-08 (run 5): 0 nieuwe pagina's, 11 nieuwe relatiepagina's + 3 inzichten
+- Verdichte verbindingen: Gedragsactivatie↔CGT (★9), Alexithymie↔Somatische Markerhypothese (★9), Mindfulness↔CGT (★9), Normatieve Ethiek↔Deontologie (★9), Overconfidence Bias↔Behavioral Finance (★9)
+- Cross-domein bruggen: Psychologie↔Filosofie (Gedragsactivatie→CGT←Stoïcisme), Psychologie↔Beleggen (Overconfidence→Behavioral Finance), Geschiedenis↔Filosofie (Sociale Klasse→Historisch Materialisme)
 - Wikipedia API geblokkeerd via proxy — interne kennis gebruikt als onderzoeksbron
